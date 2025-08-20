@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-19**|**Train Once, Deploy Anywhere: Realize Data-Efficient Dynamic Object Manipulation**|Hengshuang Zhao Team|[2508.14042](http://arxiv.org/abs/2508.14042)|null|
+|**2025-08-19**|**Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation**|Jianye Hao Team|[2508.13998](http://arxiv.org/abs/2508.13998)|null|
+|**2025-08-19**|**Toward Deployable Multi-Robot Collaboration via a Symbolically-Guided Decision Transformer**|Paul Asunda Team|[2508.13877](http://arxiv.org/abs/2508.13877)|null|
+|**2025-08-18**|**Decoding Communications with Partial Information**|Peter McBurney Team|[2508.13326](http://arxiv.org/abs/2508.13326)|null|
 |**2025-08-18**|**Precise Action-to-Video Generation Through Visual Action Prompts**|Ruizhen Hu Team|[2508.13104](http://arxiv.org/abs/2508.13104)|**[link](https://zju3dv.github.io/VAP/)**|
 |**2025-08-18**|**Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**|Zhi Hou Team|[2508.13103](http://arxiv.org/abs/2508.13103)|null|
 |**2025-08-18**|**Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey**|Liqiang Nie Team|[2508.13073](http://arxiv.org/abs/2508.13073)|**[link](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)**|
@@ -712,6 +716,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-19**|**Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation**|Jianye Hao Team|[2508.13998](http://arxiv.org/abs/2508.13998)|null|
+|**2025-08-19**|**Mitigating Cross-Image Information Leakage in LVLMs for Multi-Image Tasks**|Junsuk Choe Team|[2508.13744](http://arxiv.org/abs/2508.13744)|**[link](https://github.com/yejipark-m/FOCUS)**|
+|**2025-08-19**|**Enhancing Targeted Adversarial Attacks on Large Vision-Language Models through Intermediate Projector Guidance**|Bin Xiao Team|[2508.13739](http://arxiv.org/abs/2508.13739)|null|
+|**2025-08-19**|**Hierarchical Vision-Language Retrieval of Educational Metaverse Content in Agriculture**|Giuseppe Serra Team|[2508.13713](http://arxiv.org/abs/2508.13713)|null|
+|**2025-08-19**|**ViExam: Are Vision Language Models Better than Humans on Vietnamese Multimodal Exam Questions?**|Daeyoung Kim Team|[2508.13680](http://arxiv.org/abs/2508.13680)|null|
+|**2025-08-19**|**Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation**|Lin Ma Team|[2508.13587](http://arxiv.org/abs/2508.13587)|null|
+|**2025-08-19**|**DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup**|Guiguang Ding Team|[2508.13560](http://arxiv.org/abs/2508.13560)|**[link](https://github.com/xiaozhen228/DictAS)**|
+|**2025-08-19**|**Evaluating Open-Source Vision Language Models for Facial Emotion Recognition against Traditional Deep Learning Models**|Sridevi Bonthu Team|[2508.13524](http://arxiv.org/abs/2508.13524)|null|
+|**2025-08-19**|**STER-VLM: Spatio-Temporal With Enhanced Reference Vision-Language Models**|Tien-Huy Nguyen Team|[2508.13470](http://arxiv.org/abs/2508.13470)|null|
+|**2025-08-19**|**CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models**|Sergey Levine Team|[2508.13446](http://arxiv.org/abs/2508.13446)|null|
+|**2025-08-19**|**Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference**|Jidong J. Yang Team|[2508.13439](http://arxiv.org/abs/2508.13439)|null|
+|**2025-08-19**|**Mitigating Easy Option Bias in Multiple-Choice Question Answering**|Basura Fernando Team|[2508.13428](http://arxiv.org/abs/2508.13428)|null|
+|**2025-08-18**|**Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving**|Linfeng Zhang Team|[2508.13305](http://arxiv.org/abs/2508.13305)|null|
+|**2025-08-18**|**CardAIc-Agents: A Multimodal Framework with Hierarchical Adaptation for Cardiac Care Support**|Jinming Duan Team|[2508.13256](http://arxiv.org/abs/2508.13256)|null|
 |**2025-08-18**|**Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey**|Liqiang Nie Team|[2508.13073](http://arxiv.org/abs/2508.13073)|**[link](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)**|
 |**2025-08-18**|**IntelliCap: Intelligent Guidance for Consistent View Sampling**|Shohei Mori Team|[2508.13043](http://arxiv.org/abs/2508.13043)|**[link](https://mediated-reality.github.io/projects/yasunaga_ismar25/)**|
 |**2025-08-18**|**Breaking Reward Collapse: Adaptive Reinforcement for Open-ended Medical Reasoning with Enhanced Semantic Discrimination**|Lihua Zhang Team|[2508.12957](http://arxiv.org/abs/2508.12957)|null|
@@ -1894,6 +1912,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-19**|**CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models**|Sergey Levine Team|[2508.13446](http://arxiv.org/abs/2508.13446)|null|
 |**2025-08-18**|**Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**|Zhi Hou Team|[2508.13103](http://arxiv.org/abs/2508.13103)|null|
 |**2025-08-18**|**Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey**|Liqiang Nie Team|[2508.13073](http://arxiv.org/abs/2508.13073)|**[link](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)**|
 |**2025-08-17**|**Improving Pre-Trained Vision-Language-Action Policies with Model-Based Search**|Glen Berseth Team|[2508.12211](http://arxiv.org/abs/2508.12211)|null|
