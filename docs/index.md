@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy**|Cewu Lu Team|[2508.14441](http://arxiv.org/abs/2508.14441)|null|
+|**2025-08-20**|**Offline Imitation Learning upon Arbitrary Demonstrations by Pre-Training Dynamics Representations**|Na Li Team|[2508.14383](http://arxiv.org/abs/2508.14383)|null|
+|**2025-08-20**|**Action-Constrained Imitation Learning**|Ping-Chun Hsieh Team|[2508.14379](http://arxiv.org/abs/2508.14379)|null|
+|**2025-08-20**|**Learning Point Cloud Representations with Pose Continuity for Depth-Based Category-Level 6D Object Pose Estimation**|Ioannis Stamos Team|[2508.14358](http://arxiv.org/abs/2508.14358)|null|
 |**2025-08-19**|**Train Once, Deploy Anywhere: Realize Data-Efficient Dynamic Object Manipulation**|Hengshuang Zhao Team|[2508.14042](http://arxiv.org/abs/2508.14042)|null|
 |**2025-08-19**|**Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation**|Jianye Hao Team|[2508.13998](http://arxiv.org/abs/2508.13998)|null|
 |**2025-08-19**|**Toward Deployable Multi-Robot Collaboration via a Symbolically-Guided Decision Transformer**|Paul Asunda Team|[2508.13877](http://arxiv.org/abs/2508.13877)|null|
@@ -707,6 +711,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**WISE-FUSE: Efficient Whole Slide Image Encoding via Coarse-to-Fine Patch Selection with VLM and LLM Knowledge Fusion**|Won-Ki Jeong Team|[2508.14537](http://arxiv.org/abs/2508.14537)|null|
+|**2025-08-19**|**Multi-Rationale Explainable Object Recognition via Contrastive Conditional Inference**|Simon Gottschalk Team|[2508.14280](http://arxiv.org/abs/2508.14280)|null|
+|**2025-08-19**|**CLIPSym: Delving into Symmetry Detection with CLIP**|Raymond A. Yeh Team|[2508.14197](http://arxiv.org/abs/2508.14197)|null|
+|**2025-08-19**|**LENS: Learning to Segment Anything with Unified Reinforced Reasoning**|Xinggang Wang Team|[2508.14153](http://arxiv.org/abs/2508.14153)|**[link](https://github.com/hustvl/LENS)**|
 |**2025-08-19**|**Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation**|Jianye Hao Team|[2508.13998](http://arxiv.org/abs/2508.13998)|null|
 |**2025-08-19**|**Mitigating Cross-Image Information Leakage in LVLMs for Multi-Image Tasks**|Junsuk Choe Team|[2508.13744](http://arxiv.org/abs/2508.13744)|**[link](https://github.com/yejipark-m/FOCUS)**|
 |**2025-08-19**|**Enhancing Targeted Adversarial Attacks on Large Vision-Language Models through Intermediate Projector Guidance**|Bin Xiao Team|[2508.13739](http://arxiv.org/abs/2508.13739)|null|
@@ -2082,6 +2090,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**LookOut: Real-World Humanoid Egocentric Navigation**|Leonidas J. Guibas Team|[2508.14466](http://arxiv.org/abs/2508.14466)|null|
 |**2025-08-18**|**Scaling Whole-body Multi-contact Manipulation with Contact Optimization**|Sethu Vijayakumar Team|[2508.12980](http://arxiv.org/abs/2508.12980)|null|
 |**2025-08-18**|**Foundation Model for Skeleton-Based Human Action Understanding**|Liang Wang Team|[2508.12586](http://arxiv.org/abs/2508.12586)|**[link](https://github.com/wengwanjiang/FoundSkelModel)**|
 |**2025-08-17**|**Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids**|Shuran Song Team|[2508.12252](http://arxiv.org/abs/2508.12252)|null|
@@ -2235,6 +2244,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy**|Cewu Lu Team|[2508.14441](http://arxiv.org/abs/2508.14441)|null|
 |**2025-08-17**|**Geodesic Tracing-Based Kinematic Integration of Rolling and Sliding Contact on Manifold Meshes for Dexterous In-Hand Manipulation**|Nancy S. Pollard Team|[2508.12439](http://arxiv.org/abs/2508.12439)|null|
 |**2025-08-15**|**Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors**|Hua Zou Team|[2508.08896](http://arxiv.org/abs/2508.08896)|null|
 |**2025-08-12**|**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**|Hengdi Zhang Team|[2508.08706](http://arxiv.org/abs/2508.08706)|null|
