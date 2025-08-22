@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.21
+## Updated on 2025.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -721,7 +721,7 @@ layout: default
 |**2025-08-19**|**Hierarchical Vision-Language Retrieval of Educational Metaverse Content in Agriculture**|Giuseppe Serra Team|[2508.13713](http://arxiv.org/abs/2508.13713)|null|
 |**2025-08-19**|**ViExam: Are Vision Language Models Better than Humans on Vietnamese Multimodal Exam Questions?**|Daeyoung Kim Team|[2508.13680](http://arxiv.org/abs/2508.13680)|null|
 |**2025-08-19**|**Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation**|Lin Ma Team|[2508.13587](http://arxiv.org/abs/2508.13587)|null|
-|**2025-08-19**|**DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup**|Guiguang Ding Team|[2508.13560](http://arxiv.org/abs/2508.13560)|**[link](https://github.com/xiaozhen228/DictAS)**|
+|**2025-08-21**|**DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup**|Guiguang Ding Team|[2508.13560](http://arxiv.org/abs/2508.13560)|**[link](https://github.com/xiaozhen228/DictAS)**|
 |**2025-08-19**|**Evaluating Open-Source Vision Language Models for Facial Emotion Recognition against Traditional Deep Learning Models**|Sridevi Bonthu Team|[2508.13524](http://arxiv.org/abs/2508.13524)|null|
 |**2025-08-19**|**STER-VLM: Spatio-Temporal With Enhanced Reference Vision-Language Models**|Tien-Huy Nguyen Team|[2508.13470](http://arxiv.org/abs/2508.13470)|null|
 |**2025-08-19**|**CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models**|Sergey Levine Team|[2508.13446](http://arxiv.org/abs/2508.13446)|null|

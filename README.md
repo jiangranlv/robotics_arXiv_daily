@@ -1,4 +1,4 @@
-## Updated on 2025.08.21
+## Updated on 2025.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -714,7 +714,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250822>back to top</a>)</p>
 
 ## VLM
 
@@ -730,7 +730,7 @@
 |**2025-08-19**|**Hierarchical Vision-Language Retrieval of Educational Metaverse Content in Agriculture**|Giuseppe Serra Team|[2508.13713](http://arxiv.org/abs/2508.13713)|null|
 |**2025-08-19**|**ViExam: Are Vision Language Models Better than Humans on Vietnamese Multimodal Exam Questions?**|Daeyoung Kim Team|[2508.13680](http://arxiv.org/abs/2508.13680)|null|
 |**2025-08-19**|**Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation**|Lin Ma Team|[2508.13587](http://arxiv.org/abs/2508.13587)|null|
-|**2025-08-19**|**DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup**|Guiguang Ding Team|[2508.13560](http://arxiv.org/abs/2508.13560)|**[link](https://github.com/xiaozhen228/DictAS)**|
+|**2025-08-21**|**DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup**|Guiguang Ding Team|[2508.13560](http://arxiv.org/abs/2508.13560)|**[link](https://github.com/xiaozhen228/DictAS)**|
 |**2025-08-19**|**Evaluating Open-Source Vision Language Models for Facial Emotion Recognition against Traditional Deep Learning Models**|Sridevi Bonthu Team|[2508.13524](http://arxiv.org/abs/2508.13524)|null|
 |**2025-08-19**|**STER-VLM: Spatio-Temporal With Enhanced Reference Vision-Language Models**|Tien-Huy Nguyen Team|[2508.13470](http://arxiv.org/abs/2508.13470)|null|
 |**2025-08-19**|**CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models**|Sergey Levine Team|[2508.13446](http://arxiv.org/abs/2508.13446)|null|
@@ -1914,7 +1914,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250822>back to top</a>)</p>
 
 ## VLA
 
@@ -2097,7 +2097,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250822>back to top</a>)</p>
 
 ## Humanoid
 
@@ -2253,7 +2253,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250822>back to top</a>)</p>
 
 ## Dexterous
 
@@ -2365,5 +2365,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250822>back to top</a>)</p>
 
