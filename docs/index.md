@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**Search-Based Credit Assignment for Offline Preference-Based Reinforcement Learning**|Houqiang Li Team|[2508.15327](http://arxiv.org/abs/2508.15327)|null|
+|**2025-08-20**|**A Vision-Based Shared-Control Teleoperation Scheme for Controlling the Robotic Arm of a Four-Legged Robot**|Marcelo Becker Team|[2508.14994](http://arxiv.org/abs/2508.14994)|null|
+|**2025-08-19**|**Learning to Drive Ethically: Embedding Moral Reasoning into Autonomous Driving**|Ostap Okhrin Team|[2508.14926](http://arxiv.org/abs/2508.14926)|null|
 |**2025-08-20**|**FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy**|Cewu Lu Team|[2508.14441](http://arxiv.org/abs/2508.14441)|null|
 |**2025-08-20**|**Offline Imitation Learning upon Arbitrary Demonstrations by Pre-Training Dynamics Representations**|Na Li Team|[2508.14383](http://arxiv.org/abs/2508.14383)|null|
 |**2025-08-20**|**Action-Constrained Imitation Learning**|Ping-Chun Hsieh Team|[2508.14379](http://arxiv.org/abs/2508.14379)|null|
@@ -711,6 +714,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**LLM-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions**|Yulong Bian Team|[2508.15688](http://arxiv.org/abs/2508.15688)|null|
+|**2025-08-21**|**Mind and Motion Aligned: A Joint Evaluation IsaacSim Benchmark for Task Planning and Low-Level Policies in Mobile Manipulation**|Alexey K. Kovalev Team|[2508.15663](http://arxiv.org/abs/2508.15663)|null|
+|**2025-08-21**|**DesignCLIP: Multimodal Learning with CLIP for Design Patent Understanding**|Sourav Medya Team|[2508.15297](http://arxiv.org/abs/2508.15297)|null|
+|**2025-08-21**|**Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images**|Jin Tae Kwak Team|[2508.15256](http://arxiv.org/abs/2508.15256)|null|
+|**2025-08-21**|**Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis**|Jin Tae Kwak Team|[2508.15236](http://arxiv.org/abs/2508.15236)|null|
+|**2025-08-21**|**See it. Say it. Sorted: Agentic System for Compositional Diagram Generation**|Ed Li Team|[2508.15222](http://arxiv.org/abs/2508.15222)|null|
+|**2025-08-21**|**ContextualLVLM-Agent: A Holistic Framework for Multi-Turn Visually-Grounded Dialogue and Complex Instruction Following**|Taeyang Yoon Team|[2508.15164](http://arxiv.org/abs/2508.15164)|null|
+|**2025-08-20**|**MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs**|Yunsi Fei Team|[2508.15036](http://arxiv.org/abs/2508.15036)|null|
 |**2025-08-20**|**WISE-FUSE: Efficient Whole Slide Image Encoding via Coarse-to-Fine Patch Selection with VLM and LLM Knowledge Fusion**|Won-Ki Jeong Team|[2508.14537](http://arxiv.org/abs/2508.14537)|null|
 |**2025-08-19**|**Multi-Rationale Explainable Object Recognition via Contrastive Conditional Inference**|Simon Gottschalk Team|[2508.14280](http://arxiv.org/abs/2508.14280)|null|
 |**2025-08-19**|**CLIPSym: Delving into Symmetry Detection with CLIP**|Raymond A. Yeh Team|[2508.14197](http://arxiv.org/abs/2508.14197)|null|
@@ -1909,6 +1920,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**Survey of Vision-Language-Action Models for Embodied Manipulation**|Dongbin Zhao Team|[2508.15201](http://arxiv.org/abs/2508.15201)|null|
 |**2025-08-19**|**CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models**|Sergey Levine Team|[2508.13446](http://arxiv.org/abs/2508.13446)|null|
 |**2025-08-18**|**Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**|Zhi Hou Team|[2508.13103](http://arxiv.org/abs/2508.13103)|null|
 |**2025-08-18**|**Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey**|Liqiang Nie Team|[2508.13073](http://arxiv.org/abs/2508.13073)|**[link](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)**|
@@ -2244,6 +2256,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**Exploiting Policy Idling for Dexterous Manipulation**|Dushyant Rao Team|[2508.15669](http://arxiv.org/abs/2508.15669)|null|
+|**2025-08-20**|**GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping**|Marco Hutter Team|[2508.15002](http://arxiv.org/abs/2508.15002)|null|
 |**2025-08-20**|**FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy**|Cewu Lu Team|[2508.14441](http://arxiv.org/abs/2508.14441)|null|
 |**2025-08-17**|**Geodesic Tracing-Based Kinematic Integration of Rolling and Sliding Contact on Manifold Meshes for Dexterous In-Hand Manipulation**|Nancy S. Pollard Team|[2508.12439](http://arxiv.org/abs/2508.12439)|null|
 |**2025-08-15**|**Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors**|Hua Zou Team|[2508.08896](http://arxiv.org/abs/2508.08896)|null|
