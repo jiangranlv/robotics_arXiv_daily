@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**UnPose: Uncertainty-Guided Diffusion Priors for Zero-Shot Pose Estimation**|Binbin Xu Team|[2508.15972](http://arxiv.org/abs/2508.15972)|**[link](https://frankzhaodong.github.io/UnPose)**|
+|**2025-08-21**|**Spatial Policy: Guiding Visuomotor Robotic Manipulation with Spatial-Aware Modeling and Reasoning**|Wenwu Zhu Team|[2508.15874](http://arxiv.org/abs/2508.15874)|null|
 |**2025-08-21**|**Search-Based Credit Assignment for Offline Preference-Based Reinforcement Learning**|Houqiang Li Team|[2508.15327](http://arxiv.org/abs/2508.15327)|null|
 |**2025-08-20**|**A Vision-Based Shared-Control Teleoperation Scheme for Controlling the Robotic Arm of a Four-Legged Robot**|Marcelo Becker Team|[2508.14994](http://arxiv.org/abs/2508.14994)|null|
 |**2025-08-19**|**Learning to Drive Ethically: Embedding Moral Reasoning into Autonomous Driving**|Ostap Okhrin Team|[2508.14926](http://arxiv.org/abs/2508.14926)|null|
@@ -714,6 +716,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-22**|**Modular Embedding Recomposition for Incremental Learning**|Simone Calderara Team|[2508.16463](http://arxiv.org/abs/2508.16463)|null|
+|**2025-08-22**|**Structuring GUI Elements through Vision Language Models: Towards Action Space Generation**|Jingdong Chen Team|[2508.16271](http://arxiv.org/abs/2508.16271)|null|
+|**2025-08-22**|**RAGSR: Regional Attention Guided Diffusion for Image Super-Resolution**|Gui-Song Xia Team|[2508.16158](http://arxiv.org/abs/2508.16158)|null|
+|**2025-08-22**|**Beyond Human-prompting: Adaptive Prompt Tuning with Semantic Alignment for Anomaly Detection**|Chao-Chun Chen Team|[2508.16157](http://arxiv.org/abs/2508.16157)|null|
+|**2025-08-22**|**Prompting with Sign Parameters for Low-resource Sign Language Instruction Generation**|Hasan Mahmud Team|[2508.16076](http://arxiv.org/abs/2508.16076)|null|
+|**2025-08-22**|**Less Redundancy: Boosting Practicality of Vision Language Model in Walking Assistants**|Jinchao Zhang Team|[2508.16070](http://arxiv.org/abs/2508.16070)|null|
+|**2025-08-21**|**Glo-VLMs: Leveraging Vision-Language Models for Fine-Grained Diseased Glomerulus Classification**|Ruining Deng Team|[2508.15960](http://arxiv.org/abs/2508.15960)|null|
+|**2025-08-21**|**Semantic-Aware Ship Detection with Vision-Language Integration**|Xiaomeng Huang Team|[2508.15930](http://arxiv.org/abs/2508.15930)|null|
+|**2025-08-21**|**VT-LVLM-AR: A Video-Temporal Large Vision-Language Model Adapter for Fine-Grained Action Recognition in Long-Term Videos**|Zihan Xu Team|[2508.15903](http://arxiv.org/abs/2508.15903)|null|
 |**2025-08-21**|**LLM-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions**|Yulong Bian Team|[2508.15688](http://arxiv.org/abs/2508.15688)|null|
 |**2025-08-21**|**Mind and Motion Aligned: A Joint Evaluation IsaacSim Benchmark for Task Planning and Low-Level Policies in Mobile Manipulation**|Alexey K. Kovalev Team|[2508.15663](http://arxiv.org/abs/2508.15663)|null|
 |**2025-08-21**|**DesignCLIP: Multimodal Learning with CLIP for Design Patent Understanding**|Sourav Medya Team|[2508.15297](http://arxiv.org/abs/2508.15297)|null|
@@ -1920,6 +1931,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-22**|**Do What? Teaching Vision-Language-Action Models to Reject the Impossible**|David M. Chan Team|[2508.16292](http://arxiv.org/abs/2508.16292)|null|
 |**2025-08-21**|**Survey of Vision-Language-Action Models for Embodied Manipulation**|Dongbin Zhao Team|[2508.15201](http://arxiv.org/abs/2508.15201)|null|
 |**2025-08-19**|**CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models**|Sergey Levine Team|[2508.13446](http://arxiv.org/abs/2508.13446)|null|
 |**2025-08-18**|**Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**|Zhi Hou Team|[2508.13103](http://arxiv.org/abs/2508.13103)|null|
