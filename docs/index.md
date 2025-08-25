@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.24
+## Updated on 2025.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -1931,7 +1931,7 @@ layout: default
 |**2025-08-14**|**ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver**|Haoang Li Team|[2508.10333](http://arxiv.org/abs/2508.10333)|null|
 |**2025-08-13**|**GeoVLA: Empowering 3D Representations in Vision-Language-Action Models**|Jiale Cao Team|[2508.09071](http://arxiv.org/abs/2508.09071)|**[link](https://linsun449.github.io/GeoVLA/)**|
 |**2025-08-12**|**Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding**|Aleksandr I. Panov Team|[2508.09032](http://arxiv.org/abs/2508.09032)|null|
-|**2025-08-12**|**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**|Hengdi Zhang Team|[2508.08706](http://arxiv.org/abs/2508.08706)|null|
+|**2025-08-22**|**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**|Hengdi Zhang Team|[2508.08706](http://arxiv.org/abs/2508.08706)|**[link](https://readerek.github.io/Objtac.github.io)**|
 |**2025-08-14**|**Reinforcement Learning in Vision: A Survey**|Mike Zheng Shou Team|[2508.08189](http://arxiv.org/abs/2508.08189)|null|
 |**2025-08-12**|**MolmoAct: Action Reasoning Models that can Reason in Space**|Ranjay Krishna Team|[2508.07917](http://arxiv.org/abs/2508.07917)|**[link](https://allenai.org/blog/molmoact)**|
 |**2025-08-13**|**AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation**|Lei Han Team|[2508.07770](http://arxiv.org/abs/2508.07770)|null|
@@ -2261,7 +2261,7 @@ layout: default
 |**2025-08-20**|**FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy**|Cewu Lu Team|[2508.14441](http://arxiv.org/abs/2508.14441)|null|
 |**2025-08-17**|**Geodesic Tracing-Based Kinematic Integration of Rolling and Sliding Contact on Manifold Meshes for Dexterous In-Hand Manipulation**|Nancy S. Pollard Team|[2508.12439](http://arxiv.org/abs/2508.12439)|null|
 |**2025-08-15**|**Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors**|Hua Zou Team|[2508.08896](http://arxiv.org/abs/2508.08896)|null|
-|**2025-08-12**|**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**|Hengdi Zhang Team|[2508.08706](http://arxiv.org/abs/2508.08706)|null|
+|**2025-08-22**|**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**|Hengdi Zhang Team|[2508.08706](http://arxiv.org/abs/2508.08706)|**[link](https://readerek.github.io/Objtac.github.io)**|
 |**2025-08-11**|**PCHands: PCA-based Hand Pose Synergy Representation on Manipulators with N-DoF**|Lorenzo Natale Team|[2508.07945](http://arxiv.org/abs/2508.07945)|null|
 |**2025-08-09**|**DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit**|Monroe Kennedy III Team|[2508.07118](http://arxiv.org/abs/2508.07118)|null|
 |**2025-08-05**|**UniFucGrasp: Human-Hand-Inspired Unified Functional Grasp Annotation Strategy and Dataset for Diverse Dexterous Hands**|Yaonan Wang Team|[2508.03339](http://arxiv.org/abs/2508.03339)|**[link](https://haochen611.github.io/UFG)**|
