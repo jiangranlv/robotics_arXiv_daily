@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.25
+## Updated on 2025.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -1947,7 +1947,7 @@ layout: default
 |**2025-08-14**|**Reinforcement Learning in Vision: A Survey**|Mike Zheng Shou Team|[2508.08189](http://arxiv.org/abs/2508.08189)|null|
 |**2025-08-12**|**MolmoAct: Action Reasoning Models that can Reason in Space**|Ranjay Krishna Team|[2508.07917](http://arxiv.org/abs/2508.07917)|**[link](https://allenai.org/blog/molmoact)**|
 |**2025-08-13**|**AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation**|Lei Han Team|[2508.07770](http://arxiv.org/abs/2508.07770)|null|
-|**2025-08-11**|**GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions**|Hong Zhang Team|[2508.07650](http://arxiv.org/abs/2508.07650)|null|
+|**2025-08-23**|**GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions**|Hong Zhang Team|[2508.07650](http://arxiv.org/abs/2508.07650)|null|
 |**2025-08-15**|**IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model**|Li Sun Team|[2508.06571](http://arxiv.org/abs/2508.06571)|null|
 |**2025-08-06**|**Static and Plugged: Make Embodied Evaluation Simple**|Guangtao Zhai Team|[2508.06553](http://arxiv.org/abs/2508.06553)|null|
 |**2025-08-06**|**A tutorial note on collecting simulated data for vision-language-action models**|Jingfeng Zhang Team|[2508.06547](http://arxiv.org/abs/2508.06547)|null|
