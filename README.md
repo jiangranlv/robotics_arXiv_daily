@@ -16,6 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-25**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
+|**2025-08-25**|**No Need to Look! Locating and Grasping Objects by a Robot Arm Covered with Sensitive Skin**|Matej Hoffmann Team|[2508.17986](http://arxiv.org/abs/2508.17986)|null|
+|**2025-08-25**|**SEBVS: Synthetic Event-based Visual Servoing for Robot Navigation and Manipulation**|Bharatesh Chakravarthi Team|[2508.17643](http://arxiv.org/abs/2508.17643)|null|
+|**2025-08-25**|**GWM: Towards Scalable Gaussian World Models for Robotic Manipulation**|Siyuan Huang Team|[2508.17600](http://arxiv.org/abs/2508.17600)|**[link](https://gaussian-world-model.github.io/)**|
+|**2025-08-24**|**LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations**|Hao Su Team|[2508.17547](http://arxiv.org/abs/2508.17547)|null|
+|**2025-08-24**|**Variational Shape Inference for Grasp Diffusion on SE(3)**|Aniket Bera Team|[2508.17482](http://arxiv.org/abs/2508.17482)|null|
+|**2025-08-24**|**ReviBranch: Deep Reinforcement Learning for Branch-and-Bound with Revived Trajectories**|Jiaping Xiao Team|[2508.17452](http://arxiv.org/abs/2508.17452)|null|
+|**2025-08-24**|**Robotic Manipulation via Imitation Learning: Taxonomy, Evolution, Benchmark, and Challenges**|Liming Chen Team|[2508.17449](http://arxiv.org/abs/2508.17449)|null|
+|**2025-08-24**|**OVITA: Open-Vocabulary Interpretable Trajectory Adaptations**|Ravi Prakash Team|[2508.17260](http://arxiv.org/abs/2508.17260)|**[link](https://github.com/anurag1000101/OVITA)**|
+|**2025-08-24**|**4D Visual Pre-training for Robot Learning**|Huazhe Xu Team|[2508.17230](http://arxiv.org/abs/2508.17230)|null|
 |**2025-08-21**|**UnPose: Uncertainty-Guided Diffusion Priors for Zero-Shot Pose Estimation**|Binbin Xu Team|[2508.15972](http://arxiv.org/abs/2508.15972)|**[link](https://frankzhaodong.github.io/UnPose)**|
 |**2025-08-21**|**Spatial Policy: Guiding Visuomotor Robotic Manipulation with Spatial-Aware Modeling and Reasoning**|Wenwu Zhu Team|[2508.15874](http://arxiv.org/abs/2508.15874)|null|
 |**2025-08-21**|**Search-Based Credit Assignment for Offline Preference-Based Reinforcement Learning**|Houqiang Li Team|[2508.15327](http://arxiv.org/abs/2508.15327)|null|
@@ -725,6 +735,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-25**|**SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation**|Ziwei Wang Team|[2508.18268](http://arxiv.org/abs/2508.18268)|**[link](https://denghaoyuan123.github.io/SafeBimanip/)**|
+|**2025-08-25**|**MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs**|Qi Qian Team|[2508.18264](http://arxiv.org/abs/2508.18264)|**[link](https://project.ironieser.cc/mmtok)**|
+|**2025-08-25**|**SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language Models**|Ashton Anderson Team|[2508.18179](http://arxiv.org/abs/2508.18179)|null|
+|**2025-08-25**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Liyong Ren Team|[2508.18177](http://arxiv.org/abs/2508.18177)|null|
+|**2025-08-25**|**ArgusCogito: Chain-of-Thought for Cross-Modal Synergy and Omnidirectional Reasoning in Camouflaged Object Segmentation**|Ye Li Team|[2508.18050](http://arxiv.org/abs/2508.18050)|null|
+|**2025-08-25**|**PerPilot: Personalizing VLM-based Mobile Agents via Memory and Exploration**|Zhen Wang Team|[2508.18040](http://arxiv.org/abs/2508.18040)|null|
+|**2025-08-25**|**Alternating Training-based Label Smoothing Enhances Prompt Generalization**|Yu Zhang Team|[2508.17846](http://arxiv.org/abs/2508.17846)|null|
+|**2025-08-25**|**PoRe: Position-Reweighted Visual Token Pruning for Vision Language Models**|Dan Zeng Team|[2508.17807](http://arxiv.org/abs/2508.17807)|null|
+|**2025-08-25**|**F2RVLM: Boosting Fine-grained Fragment Retrieval for Multi-Modal Long-form Dialogue with Vision Language Model**|Jinchao Zhang Team|[2508.17714](http://arxiv.org/abs/2508.17714)|null|
+|**2025-08-25**|**Language-Guided Temporal Token Pruning for Efficient VideoLLM Processing**|Yogesh Kumar Team|[2508.17686](http://arxiv.org/abs/2508.17686)|null|
+|**2025-08-25**|**Hierarchical Vision-Language Learning for Medical Out-of-Distribution Detection**|Ruixuan Wang Team|[2508.17667](http://arxiv.org/abs/2508.17667)|null|
+|**2025-08-25**|**Dynamic Embedding of Hierarchical Visual Features for Efficient Vision-Language Fine-Tuning**|Chunping Qiu Team|[2508.17638](http://arxiv.org/abs/2508.17638)|null|
+|**2025-08-25**|**TinyGiantVLM: A Lightweight Vision-Language Architecture for Spatial Reasoning under Resource Constraints**|Xuan-Huong Nguyen Team|[2508.17595](http://arxiv.org/abs/2508.17595)|null|
+|**2025-08-25**|**MetaGen: A DSL, Database, and Benchmark for VLM-Assisted Metamaterial Generation**|Wojciech Matusik Team|[2508.17568](http://arxiv.org/abs/2508.17568)|null|
+|**2025-08-24**|**MoE-Inference-Bench: Performance Evaluation of Mixture of Expert Large Language and Vision Models**|Venkatram Vishwanath Team|[2508.17467](http://arxiv.org/abs/2508.17467)|null|
+|**2025-08-24**|**Multi-Level LVLM Guidance for Untrimmed Video Action Recognition**|Yunjie Guo Team|[2508.17442](http://arxiv.org/abs/2508.17442)|null|
+|**2025-08-24**|**Constrained Prompt Enhancement for Improving Zero-Shot Generalization of Vision-Language Models**|Qinghua Hu Team|[2508.17417](http://arxiv.org/abs/2508.17417)|null|
+|**2025-08-24**|**Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for Medical Diagnosis**|Tom Hope Team|[2508.17394](http://arxiv.org/abs/2508.17394)|null|
+|**2025-08-24**|**Mind the (Language) Gap: Towards Probing Numerical and Cross-Lingual Limits of LVLMs**|Gaurav Harit Team|[2508.17334](http://arxiv.org/abs/2508.17334)|null|
+|**2025-08-24**|**Explain Before You Answer: A Survey on Compositional Visual Reasoning**|Hamid Rezatofighi Team|[2508.17298](http://arxiv.org/abs/2508.17298)|null|
 |**2025-08-22**|**Modular Embedding Recomposition for Incremental Learning**|Simone Calderara Team|[2508.16463](http://arxiv.org/abs/2508.16463)|null|
 |**2025-08-22**|**Structuring GUI Elements through Vision Language Models: Towards Action Space Generation**|Jingdong Chen Team|[2508.16271](http://arxiv.org/abs/2508.16271)|null|
 |**2025-08-22**|**RAGSR: Regional Attention Guided Diffusion for Image Super-Resolution**|Gui-Song Xia Team|[2508.16158](http://arxiv.org/abs/2508.16158)|null|
@@ -1942,6 +1972,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-25**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
+|**2025-08-24**|**4D Visual Pre-training for Robot Learning**|Huazhe Xu Team|[2508.17230](http://arxiv.org/abs/2508.17230)|null|
+|**2025-08-23**|**NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows**|Vladislav Kurenkov Team|[2508.16845](http://arxiv.org/abs/2508.16845)|null|
 |**2025-08-22**|**Do What? Teaching Vision-Language-Action Models to Reject the Impossible**|David M. Chan Team|[2508.16292](http://arxiv.org/abs/2508.16292)|null|
 |**2025-08-21**|**Survey of Vision-Language-Action Models for Embodied Manipulation**|Dongbin Zhao Team|[2508.15201](http://arxiv.org/abs/2508.15201)|null|
 |**2025-08-19**|**CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models**|Sergey Levine Team|[2508.13446](http://arxiv.org/abs/2508.13446)|null|
@@ -2127,6 +2160,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-21**|**PriorFormer: A Transformer for Real-time Monocular 3D Human Pose Estimation with Versatile Geometric Priors**|Vincent Bonnet Team|[2508.18238](http://arxiv.org/abs/2508.18238)|null|
+|**2025-08-24**|**SoK: Cybersecurity Assessment of Humanoid Ecosystem**|Yuval Elovici Team|[2508.17481](http://arxiv.org/abs/2508.17481)|null|
 |**2025-08-20**|**LookOut: Real-World Humanoid Egocentric Navigation**|Leonidas J. Guibas Team|[2508.14466](http://arxiv.org/abs/2508.14466)|null|
 |**2025-08-18**|**Scaling Whole-body Multi-contact Manipulation with Contact Optimization**|Sethu Vijayakumar Team|[2508.12980](http://arxiv.org/abs/2508.12980)|null|
 |**2025-08-18**|**Foundation Model for Skeleton-Based Human Action Understanding**|Liang Wang Team|[2508.12586](http://arxiv.org/abs/2508.12586)|**[link](https://github.com/wengwanjiang/FoundSkelModel)**|
@@ -2283,6 +2318,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-24**|**LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations**|Hao Su Team|[2508.17547](http://arxiv.org/abs/2508.17547)|null|
 |**2025-08-21**|**Exploiting Policy Idling for Dexterous Manipulation**|Dushyant Rao Team|[2508.15669](http://arxiv.org/abs/2508.15669)|null|
 |**2025-08-20**|**GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping**|Marco Hutter Team|[2508.15002](http://arxiv.org/abs/2508.15002)|null|
 |**2025-08-20**|**FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy**|Cewu Lu Team|[2508.14441](http://arxiv.org/abs/2508.14441)|null|
