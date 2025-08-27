@@ -1,4 +1,4 @@
-## Updated on 2025.08.26
+## Updated on 2025.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-25**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
+|**2025-08-26**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
 |**2025-08-25**|**No Need to Look! Locating and Grasping Objects by a Robot Arm Covered with Sensitive Skin**|Matej Hoffmann Team|[2508.17986](http://arxiv.org/abs/2508.17986)|null|
 |**2025-08-25**|**SEBVS: Synthetic Event-based Visual Servoing for Robot Navigation and Manipulation**|Bharatesh Chakravarthi Team|[2508.17643](http://arxiv.org/abs/2508.17643)|null|
 |**2025-08-25**|**GWM: Towards Scalable Gaussian World Models for Robotic Manipulation**|Siyuan Huang Team|[2508.17600](http://arxiv.org/abs/2508.17600)|**[link](https://gaussian-world-model.github.io/)**|
@@ -729,7 +729,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
 
 ## VLM
 
@@ -753,7 +753,7 @@
 |**2025-08-24**|**Multi-Level LVLM Guidance for Untrimmed Video Action Recognition**|Yunjie Guo Team|[2508.17442](http://arxiv.org/abs/2508.17442)|null|
 |**2025-08-24**|**Constrained Prompt Enhancement for Improving Zero-Shot Generalization of Vision-Language Models**|Qinghua Hu Team|[2508.17417](http://arxiv.org/abs/2508.17417)|null|
 |**2025-08-24**|**Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for Medical Diagnosis**|Tom Hope Team|[2508.17394](http://arxiv.org/abs/2508.17394)|null|
-|**2025-08-24**|**Mind the (Language) Gap: Towards Probing Numerical and Cross-Lingual Limits of LVLMs**|Gaurav Harit Team|[2508.17334](http://arxiv.org/abs/2508.17334)|null|
+|**2025-08-26**|**Mind the (Language) Gap: Towards Probing Numerical and Cross-Lingual Limits of LVLMs**|Gaurav Harit Team|[2508.17334](http://arxiv.org/abs/2508.17334)|null|
 |**2025-08-24**|**Explain Before You Answer: A Survey on Compositional Visual Reasoning**|Hamid Rezatofighi Team|[2508.17298](http://arxiv.org/abs/2508.17298)|null|
 |**2025-08-22**|**Modular Embedding Recomposition for Incremental Learning**|Simone Calderara Team|[2508.16463](http://arxiv.org/abs/2508.16463)|null|
 |**2025-08-22**|**Structuring GUI Elements through Vision Language Models: Towards Action Space Generation**|Jingdong Chen Team|[2508.16271](http://arxiv.org/abs/2508.16271)|null|
@@ -1966,13 +1966,13 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-25**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
+|**2025-08-26**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
 |**2025-08-24**|**4D Visual Pre-training for Robot Learning**|Huazhe Xu Team|[2508.17230](http://arxiv.org/abs/2508.17230)|null|
 |**2025-08-23**|**NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows**|Vladislav Kurenkov Team|[2508.16845](http://arxiv.org/abs/2508.16845)|null|
 |**2025-08-22**|**Do What? Teaching Vision-Language-Action Models to Reject the Impossible**|David M. Chan Team|[2508.16292](http://arxiv.org/abs/2508.16292)|null|
@@ -2154,7 +2154,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
 
 ## Humanoid
 
@@ -2165,7 +2165,7 @@
 |**2025-08-20**|**LookOut: Real-World Humanoid Egocentric Navigation**|Leonidas J. Guibas Team|[2508.14466](http://arxiv.org/abs/2508.14466)|null|
 |**2025-08-18**|**Scaling Whole-body Multi-contact Manipulation with Contact Optimization**|Sethu Vijayakumar Team|[2508.12980](http://arxiv.org/abs/2508.12980)|null|
 |**2025-08-18**|**Foundation Model for Skeleton-Based Human Action Understanding**|Liang Wang Team|[2508.12586](http://arxiv.org/abs/2508.12586)|**[link](https://github.com/wengwanjiang/FoundSkelModel)**|
-|**2025-08-17**|**Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids**|Shuran Song Team|[2508.12252](http://arxiv.org/abs/2508.12252)|null|
+|**2025-08-26**|**Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids**|Shuran Song Team|[2508.12252](http://arxiv.org/abs/2508.12252)|null|
 |**2025-08-17**|**Humanoid Motion Scripting with Postural Synergies**|Oussama Khatib Team|[2508.12184](http://arxiv.org/abs/2508.12184)|null|
 |**2025-08-16**|**Contact-Rich and Deformable Foot Modeling for Locomotion Control of the Human Musculoskeletal System**|Yanan Sui Team|[2508.11885](http://arxiv.org/abs/2508.11885)|null|
 |**2025-08-16**|**From Screen to Stage: Kid Cosmo, A Life-Like, Torque-Controlled Humanoid for Entertainment Robotics**|Dennis W. Hong Team|[2508.11884](http://arxiv.org/abs/2508.11884)|null|
@@ -2312,7 +2312,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
 
 ## Dexterous
 
@@ -2427,5 +2427,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
 

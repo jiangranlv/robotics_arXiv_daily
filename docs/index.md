@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.08.26
+## Updated on 2025.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-25**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
+|**2025-08-26**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
 |**2025-08-25**|**No Need to Look! Locating and Grasping Objects by a Robot Arm Covered with Sensitive Skin**|Matej Hoffmann Team|[2508.17986](http://arxiv.org/abs/2508.17986)|null|
 |**2025-08-25**|**SEBVS: Synthetic Event-based Visual Servoing for Robot Navigation and Manipulation**|Bharatesh Chakravarthi Team|[2508.17643](http://arxiv.org/abs/2508.17643)|null|
 |**2025-08-25**|**GWM: Towards Scalable Gaussian World Models for Robotic Manipulation**|Siyuan Huang Team|[2508.17600](http://arxiv.org/abs/2508.17600)|**[link](https://gaussian-world-model.github.io/)**|
@@ -744,7 +744,7 @@ layout: default
 |**2025-08-24**|**Multi-Level LVLM Guidance for Untrimmed Video Action Recognition**|Yunjie Guo Team|[2508.17442](http://arxiv.org/abs/2508.17442)|null|
 |**2025-08-24**|**Constrained Prompt Enhancement for Improving Zero-Shot Generalization of Vision-Language Models**|Qinghua Hu Team|[2508.17417](http://arxiv.org/abs/2508.17417)|null|
 |**2025-08-24**|**Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for Medical Diagnosis**|Tom Hope Team|[2508.17394](http://arxiv.org/abs/2508.17394)|null|
-|**2025-08-24**|**Mind the (Language) Gap: Towards Probing Numerical and Cross-Lingual Limits of LVLMs**|Gaurav Harit Team|[2508.17334](http://arxiv.org/abs/2508.17334)|null|
+|**2025-08-26**|**Mind the (Language) Gap: Towards Probing Numerical and Cross-Lingual Limits of LVLMs**|Gaurav Harit Team|[2508.17334](http://arxiv.org/abs/2508.17334)|null|
 |**2025-08-24**|**Explain Before You Answer: A Survey on Compositional Visual Reasoning**|Hamid Rezatofighi Team|[2508.17298](http://arxiv.org/abs/2508.17298)|null|
 |**2025-08-22**|**Modular Embedding Recomposition for Incremental Learning**|Simone Calderara Team|[2508.16463](http://arxiv.org/abs/2508.16463)|null|
 |**2025-08-22**|**Structuring GUI Elements through Vision Language Models: Towards Action Space Generation**|Jingdong Chen Team|[2508.16271](http://arxiv.org/abs/2508.16271)|null|
@@ -1961,7 +1961,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-25**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
+|**2025-08-26**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
 |**2025-08-24**|**4D Visual Pre-training for Robot Learning**|Huazhe Xu Team|[2508.17230](http://arxiv.org/abs/2508.17230)|null|
 |**2025-08-23**|**NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows**|Vladislav Kurenkov Team|[2508.16845](http://arxiv.org/abs/2508.16845)|null|
 |**2025-08-22**|**Do What? Teaching Vision-Language-Action Models to Reject the Impossible**|David M. Chan Team|[2508.16292](http://arxiv.org/abs/2508.16292)|null|
@@ -2152,7 +2152,7 @@ layout: default
 |**2025-08-20**|**LookOut: Real-World Humanoid Egocentric Navigation**|Leonidas J. Guibas Team|[2508.14466](http://arxiv.org/abs/2508.14466)|null|
 |**2025-08-18**|**Scaling Whole-body Multi-contact Manipulation with Contact Optimization**|Sethu Vijayakumar Team|[2508.12980](http://arxiv.org/abs/2508.12980)|null|
 |**2025-08-18**|**Foundation Model for Skeleton-Based Human Action Understanding**|Liang Wang Team|[2508.12586](http://arxiv.org/abs/2508.12586)|**[link](https://github.com/wengwanjiang/FoundSkelModel)**|
-|**2025-08-17**|**Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids**|Shuran Song Team|[2508.12252](http://arxiv.org/abs/2508.12252)|null|
+|**2025-08-26**|**Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids**|Shuran Song Team|[2508.12252](http://arxiv.org/abs/2508.12252)|null|
 |**2025-08-17**|**Humanoid Motion Scripting with Postural Synergies**|Oussama Khatib Team|[2508.12184](http://arxiv.org/abs/2508.12184)|null|
 |**2025-08-16**|**Contact-Rich and Deformable Foot Modeling for Locomotion Control of the Human Musculoskeletal System**|Yanan Sui Team|[2508.11885](http://arxiv.org/abs/2508.11885)|null|
 |**2025-08-16**|**From Screen to Stage: Kid Cosmo, A Life-Like, Torque-Controlled Humanoid for Entertainment Robotics**|Dennis W. Hong Team|[2508.11884](http://arxiv.org/abs/2508.11884)|null|
