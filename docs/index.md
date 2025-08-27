@@ -9,6 +9,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation**|Gao Huang Team|[2508.19236](http://arxiv.org/abs/2508.19236)|**[link](https://shihao1895.github.io/MemoryVLA)**|
+|**2025-08-26**|**LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding**|Felix Heide Team|[2508.19204](http://arxiv.org/abs/2508.19204)|**[link](https://light.princeton.edu/LSD-3D)**|
+|**2025-08-26**|**AutoRing: Imitation Learning--based Autonomous Intraocular Foreign Body Removal Manipulation with Eye Surgical Robot**|Jian Wu Team|[2508.19191](http://arxiv.org/abs/2508.19191)|null|
+|**2025-08-26**|**From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised Quality-Diversity**|Antoine Cully Team|[2508.19172](http://arxiv.org/abs/2508.19172)|null|
+|**2025-08-26**|**Playstyle and Artificial Intelligence: An Initial Blueprint Through the Lens of Video Games**|Chiu-Chou Lin Team|[2508.19152](http://arxiv.org/abs/2508.19152)|null|
+|**2025-08-26**|**AS2FM: Enabling Statistical Model Checking of ROS 2 Systems for Robust Autonomy**|Matteo Morelli Team|[2508.18820](http://arxiv.org/abs/2508.18820)|null|
+|**2025-08-26**|**HyperTASR: Hypernetwork-Driven Task-Aware Scene Representations for Robust Manipulation**|Yanchao Yang Team|[2508.18802](http://arxiv.org/abs/2508.18802)|null|
+|**2025-08-26**|**Deep Sensorimotor Control by Imitating Predictive Models of Human Motion**|Antonio Loquercio Team|[2508.18691](http://arxiv.org/abs/2508.18691)|**[link](https://hgaurav2k.github.io/trackr/)**|
+|**2025-08-26**|**Integration of Robot and Scene Kinematics for Sequential Mobile Manipulation Planning**|Song-Chun Zhu Team|[2508.18627](http://arxiv.org/abs/2508.18627)|null|
+|**2025-08-25**|**PneuGelSight: Soft Robotic Vision-Based Proprioception and Tactile Sensing**|Wenzhen Yuan Team|[2508.18443](http://arxiv.org/abs/2508.18443)|null|
+|**2025-08-25**|**Maintenance automation: methods for robotics manipulation planning and execution**|Alexander Verl Team|[2508.18399](http://arxiv.org/abs/2508.18399)|null|
 |**2025-08-26**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
 |**2025-08-25**|**No Need to Look! Locating and Grasping Objects by a Robot Arm Covered with Sensitive Skin**|Matej Hoffmann Team|[2508.17986](http://arxiv.org/abs/2508.17986)|null|
 |**2025-08-25**|**SEBVS: Synthetic Event-based Visual Servoing for Robot Navigation and Manipulation**|Bharatesh Chakravarthi Team|[2508.17643](http://arxiv.org/abs/2508.17643)|null|
@@ -726,6 +737,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**Do LVLMs Know What They Know? A Systematic Study of Knowledge Boundary Perception in LVLMs**|Keping Bi Team|[2508.19111](http://arxiv.org/abs/2508.19111)|null|
+|**2025-08-26**|**ProPy: Building Interactive Prompt Pyramids upon CLIP for Partially Relevant Video Retrieval**|Xiaoguang Zhao Team|[2508.19024](http://arxiv.org/abs/2508.19024)|null|
+|**2025-08-26**|**Ask Me Again Differently: GRAS for Measuring Bias in Vision Language Models on Gender, Race, Age, and Skin Tone**|Amit Sheth Team|[2508.18989](http://arxiv.org/abs/2508.18989)|null|
+|**2025-08-26**|**Enhancing Document VQA Models via Retrieval-Augmented Generation**|Ernest Valveny Team|[2508.18984](http://arxiv.org/abs/2508.18984)|null|
+|**2025-08-26**|**Toward Robust Medical Fairness: Debiased Dual-Modal Alignment via Text-Guided Attribute-Disentangled Prompt Learning for Vision-Language Models**|Yong Xia Team|[2508.18886](http://arxiv.org/abs/2508.18886)|null|
+|**2025-08-26**|**Hidden Tail: Adversarial Image Causing Stealthy Resource Consumption in Vision-Language Models**|Guowen Xu Team|[2508.18805](http://arxiv.org/abs/2508.18805)|null|
+|**2025-08-26**|**Rethinking Human-Object Interaction Evaluation for both Vision-Language Models and HOI-Specific Methods**|Robby T. Tan Team|[2508.18753](http://arxiv.org/abs/2508.18753)|null|
+|**2025-08-26**|**Knowing or Guessing? Robust Medical Visual Question Answering via Joint Consistency and Contrastive Learning**|Zuozhu Liu Team|[2508.18687](http://arxiv.org/abs/2508.18687)|null|
+|**2025-08-26**|**PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality**|Chaowei Xiao Team|[2508.18649](http://arxiv.org/abs/2508.18649)|null|
+|**2025-08-25**|**CLARIFY: A Specialist-Generalist Framework for Accurate and Lightweight Dermatological Visual Question Answering**|Mohammad Ariful Haque Team|[2508.18430](http://arxiv.org/abs/2508.18430)|null|
+|**2025-08-25**|**Language-Specific Layer Matters: Efficient Multilingual Enhancement for Large Vision-Language Models**|Jingbo Zhu Team|[2508.18381](http://arxiv.org/abs/2508.18381)|null|
 |**2025-08-25**|**SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation**|Ziwei Wang Team|[2508.18268](http://arxiv.org/abs/2508.18268)|**[link](https://denghaoyuan123.github.io/SafeBimanip/)**|
 |**2025-08-25**|**MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs**|Qi Qian Team|[2508.18264](http://arxiv.org/abs/2508.18264)|**[link](https://project.ironieser.cc/mmtok)**|
 |**2025-08-25**|**SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language Models**|Ashton Anderson Team|[2508.18179](http://arxiv.org/abs/2508.18179)|null|
@@ -1961,6 +1983,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation**|Gao Huang Team|[2508.19236](http://arxiv.org/abs/2508.19236)|**[link](https://shihao1895.github.io/MemoryVLA)**|
 |**2025-08-26**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
 |**2025-08-24**|**4D Visual Pre-training for Robot Learning**|Huazhe Xu Team|[2508.17230](http://arxiv.org/abs/2508.17230)|null|
 |**2025-08-23**|**NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows**|Vladislav Kurenkov Team|[2508.16845](http://arxiv.org/abs/2508.16845)|null|
@@ -2147,6 +2170,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**HuBE: Cross-Embodiment Human-like Behavior Execution for Humanoid Robots**|Guodong Guo Team|[2508.19002](http://arxiv.org/abs/2508.19002)|null|
 |**2025-08-21**|**PriorFormer: A Transformer for Real-time Monocular 3D Human Pose Estimation with Versatile Geometric Priors**|Vincent Bonnet Team|[2508.18238](http://arxiv.org/abs/2508.18238)|null|
 |**2025-08-24**|**SoK: Cybersecurity Assessment of Humanoid Ecosystem**|Yuval Elovici Team|[2508.17481](http://arxiv.org/abs/2508.17481)|null|
 |**2025-08-20**|**LookOut: Real-World Humanoid Egocentric Navigation**|Leonidas J. Guibas Team|[2508.14466](http://arxiv.org/abs/2508.14466)|null|
