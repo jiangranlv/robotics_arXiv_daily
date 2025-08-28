@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-27**|**HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation**|Huazhe Xu Team|[2508.20085](http://arxiv.org/abs/2508.20085)|null|
+|**2025-08-27**|**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**|Donglin Wang Team|[2508.19958](http://arxiv.org/abs/2508.19958)|**[link](https://long-vla.github.io)**|
+|**2025-08-27**|**Ego-centric Predictive Model Conditioned on Hand Trajectories**|Mike Zheng Shou Team|[2508.19852](http://arxiv.org/abs/2508.19852)|null|
+|**2025-08-27**|**APT*: Asymptotically Optimal Motion Planning via Adaptively Prolated Elliptical R-Nearest Neighbors**|Alois Knoll Team|[2508.19790](http://arxiv.org/abs/2508.19790)|null|
+|**2025-08-27**|**Impedance Primitive-augmented Hierarchical Reinforcement Learning for Sequential Tasks**|Jens Kober Team|[2508.19607](http://arxiv.org/abs/2508.19607)|null|
+|**2025-08-26**|**Gentle Object Retraction in Dense Clutter Using Multimodal Force Sensing and Imitation Learning**|Mark Cutkosky Team|[2508.19476](http://arxiv.org/abs/2508.19476)|null|
+|**2025-08-26**|**LaVA-Man: Learning Visual Action Representations for Robot Manipulation**|Changjae Oh Team|[2508.19391](http://arxiv.org/abs/2508.19391)|null|
+|**2025-08-26**|**Inference of Human-derived Specifications of Object Placement via Demonstration**|Julie A Shah Team|[2508.19367](http://arxiv.org/abs/2508.19367)|null|
 |**2025-08-26**|**MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation**|Gao Huang Team|[2508.19236](http://arxiv.org/abs/2508.19236)|**[link](https://shihao1895.github.io/MemoryVLA)**|
 |**2025-08-26**|**LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding**|Felix Heide Team|[2508.19204](http://arxiv.org/abs/2508.19204)|**[link](https://light.princeton.edu/LSD-3D)**|
 |**2025-08-27**|**AutoRing: Imitation Learning--based Autonomous Intraocular Foreign Body Removal Manipulation with Eye Surgical Robot**|Jian Wu Team|[2508.19191](http://arxiv.org/abs/2508.19191)|null|
@@ -746,6 +754,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-27**|**Segmentation Assisted Incremental Test Time Adaptation in an Open World**|Soma Biswas Team|[2508.20029](http://arxiv.org/abs/2508.20029)|null|
+|**2025-08-27**|**SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control**|Ping Luo Team|[2508.20018](http://arxiv.org/abs/2508.20018)|null|
+|**2025-08-27**|**GLSim: Detecting Object Hallucinations in LVLMs via Global-Local Similarity**|Yixuan Li Team|[2508.19972](http://arxiv.org/abs/2508.19972)|null|
+|**2025-08-27**|**Assessing the Geolocation Capabilities, Limitations and Societal Risks of Generative Vision-Language Models**|Shoaib Ehsan Team|[2508.19967](http://arxiv.org/abs/2508.19967)|null|
+|**2025-08-27**|**KRETA: A Benchmark for Korean Reading and Reasoning in Text-Rich VQA Attuned to Diverse Visual Contexts**|Hyunjun Eun Team|[2508.19944](http://arxiv.org/abs/2508.19944)|null|
+|**2025-08-27**|**NLKI: A lightweight Natural Language Knowledge Integration Framework for Improving Small VLMs in Commonsense VQA Tasks**|Somak Aditya Team|[2508.19724](http://arxiv.org/abs/2508.19724)|null|
+|**2025-08-27**|**InquireMobile: Teaching VLM-based Mobile Agent to Request Human Assistance via Reinforcement Fine-Tuning**|Bo Zheng Team|[2508.19679](http://arxiv.org/abs/2508.19679)|null|
+|**2025-08-27**|**Self-Rewarding Vision-Language Model via Reasoning Decomposition**|Dong Yu Team|[2508.19652](http://arxiv.org/abs/2508.19652)|null|
+|**2025-08-27**|**FakeSV-VLM: Taming VLM for Detecting Fake Short-Video News via Progressive Mixture-Of-Experts Adapter**|Zhun Zhong Team|[2508.19639](http://arxiv.org/abs/2508.19639)|null|
+|**2025-08-26**|**LaVA-Man: Learning Visual Action Representations for Robot Manipulation**|Changjae Oh Team|[2508.19391](http://arxiv.org/abs/2508.19391)|null|
+|**2025-08-26**|**Fine-Tuning Vision-Language Models for Neutrino Event Analysis in High-Energy Physics Experiments**|Pierre Baldi Team|[2508.19376](http://arxiv.org/abs/2508.19376)|null|
+|**2025-08-26**|**AT-CXR: Uncertainty-Aware Agentic Triage for Chest X-rays**|Yiyu Shi Team|[2508.19322](http://arxiv.org/abs/2508.19322)|null|
 |**2025-08-26**|**Do LVLMs Know What They Know? A Systematic Study of Knowledge Boundary Perception in LVLMs**|Keping Bi Team|[2508.19111](http://arxiv.org/abs/2508.19111)|null|
 |**2025-08-26**|**ProPy: Building Interactive Prompt Pyramids upon CLIP for Partially Relevant Video Retrieval**|Xiaoguang Zhao Team|[2508.19024](http://arxiv.org/abs/2508.19024)|null|
 |**2025-08-26**|**Ask Me Again Differently: GRAS for Measuring Bias in Vision Language Models on Gender, Race, Age, and Skin Tone**|Amit Sheth Team|[2508.18989](http://arxiv.org/abs/2508.18989)|null|
@@ -1994,6 +2014,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-27**|**Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies**|Ping Luo Team|[2508.20072](http://arxiv.org/abs/2508.20072)|null|
+|**2025-08-27**|**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**|Donglin Wang Team|[2508.19958](http://arxiv.org/abs/2508.19958)|**[link](https://long-vla.github.io)**|
+|**2025-08-27**|**Ego-centric Predictive Model Conditioned on Hand Trajectories**|Mike Zheng Shou Team|[2508.19852](http://arxiv.org/abs/2508.19852)|null|
+|**2025-08-15**|**TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models**|Huiling Duan Team|[2508.19257](http://arxiv.org/abs/2508.19257)|null|
 |**2025-08-26**|**MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation**|Gao Huang Team|[2508.19236](http://arxiv.org/abs/2508.19236)|**[link](https://shihao1895.github.io/MemoryVLA)**|
 |**2025-08-26**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
 |**2025-08-24**|**4D Visual Pre-training for Robot Learning**|Huazhe Xu Team|[2508.17230](http://arxiv.org/abs/2508.17230)|null|
@@ -2342,6 +2366,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-27**|**HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation**|Huazhe Xu Team|[2508.20085](http://arxiv.org/abs/2508.20085)|null|
 |**2025-08-24**|**LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations**|Hao Su Team|[2508.17547](http://arxiv.org/abs/2508.17547)|null|
 |**2025-08-21**|**Exploiting Policy Idling for Dexterous Manipulation**|Dushyant Rao Team|[2508.15669](http://arxiv.org/abs/2508.15669)|null|
 |**2025-08-20**|**GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping**|Marco Hutter Team|[2508.15002](http://arxiv.org/abs/2508.15002)|null|
