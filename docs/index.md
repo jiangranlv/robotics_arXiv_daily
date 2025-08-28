@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.27
+## Updated on 2025.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -11,8 +11,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-08-26**|**MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation**|Gao Huang Team|[2508.19236](http://arxiv.org/abs/2508.19236)|**[link](https://shihao1895.github.io/MemoryVLA)**|
 |**2025-08-26**|**LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding**|Felix Heide Team|[2508.19204](http://arxiv.org/abs/2508.19204)|**[link](https://light.princeton.edu/LSD-3D)**|
-|**2025-08-26**|**AutoRing: Imitation Learning--based Autonomous Intraocular Foreign Body Removal Manipulation with Eye Surgical Robot**|Jian Wu Team|[2508.19191](http://arxiv.org/abs/2508.19191)|null|
-|**2025-08-26**|**From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised Quality-Diversity**|Antoine Cully Team|[2508.19172](http://arxiv.org/abs/2508.19172)|null|
+|**2025-08-27**|**AutoRing: Imitation Learning--based Autonomous Intraocular Foreign Body Removal Manipulation with Eye Surgical Robot**|Jian Wu Team|[2508.19191](http://arxiv.org/abs/2508.19191)|null|
+|**2025-08-27**|**From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised Quality-Diversity**|Antoine Cully Team|[2508.19172](http://arxiv.org/abs/2508.19172)|null|
 |**2025-08-26**|**Playstyle and Artificial Intelligence: An Initial Blueprint Through the Lens of Video Games**|Chiu-Chou Lin Team|[2508.19152](http://arxiv.org/abs/2508.19152)|null|
 |**2025-08-26**|**AS2FM: Enabling Statistical Model Checking of ROS 2 Systems for Robust Autonomy**|Matteo Morelli Team|[2508.18820](http://arxiv.org/abs/2508.18820)|null|
 |**2025-08-26**|**HyperTASR: Hypernetwork-Driven Task-Aware Scene Representations for Robust Manipulation**|Yanchao Yang Team|[2508.18802](http://arxiv.org/abs/2508.18802)|null|
