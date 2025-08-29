@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-28**|**Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation**|Davide Scaramuzza Team|[2508.21065](http://arxiv.org/abs/2508.21065)|null|
+|**2025-08-28**|**Rapid Mismatch Estimation via Neural Network Informed Variational Inference**|Nadia Figueroa Team|[2508.21007](http://arxiv.org/abs/2508.21007)|**[link](https://mateusz-jaszczuk.github.io/rme/)**|
+|**2025-08-28**|**UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception**|Wenbo Ding Team|[2508.20982](http://arxiv.org/abs/2508.20982)|null|
+|**2025-08-28**|**Deep Fuzzy Optimization for Batch-Size and Nearest Neighbors in Optimal Robot Motion Planning**|Alois Knoll Team|[2508.20884](http://arxiv.org/abs/2508.20884)|null|
+|**2025-08-28**|**Learning Primitive Embodied World Models: Towards Scalable Robotic Learning**|Qinying Gu Team|[2508.20840](http://arxiv.org/abs/2508.20840)|null|
+|**2025-08-28**|**Non-expert to Expert Motion Translation Using Generative Adversarial Networks**|Seiichiro Katsura Team|[2508.20740](http://arxiv.org/abs/2508.20740)|null|
+|**2025-08-28**|**SimShear: Sim-to-Real Shear-based Tactile Servoing**|Nathan F. Lepora Team|[2508.20561](http://arxiv.org/abs/2508.20561)|null|
 |**2025-08-28**|**HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation**|Huazhe Xu Team|[2508.20085](http://arxiv.org/abs/2508.20085)|null|
 |**2025-08-28**|**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**|Donglin Wang Team|[2508.19958](http://arxiv.org/abs/2508.19958)|**[link](https://long-vla.github.io)**|
 |**2025-08-28**|**Ego-centric Predictive Model Conditioned on Hand Trajectories**|Mike Zheng Shou Team|[2508.19852](http://arxiv.org/abs/2508.19852)|null|
@@ -745,6 +752,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-28**|**OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning**|Xinglong Wu Team|[2508.21066](http://arxiv.org/abs/2508.21066)|**[link](https://one-reward.github.io)**|
+|**2025-08-28**|**CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification**|Liqiang Nie Team|[2508.21046](http://arxiv.org/abs/2508.21046)|**[link](https://jiutian-vl.github.io/CogVLA-page)**|
+|**2025-08-28**|**Learning Primitive Embodied World Models: Towards Scalable Robotic Learning**|Qinying Gu Team|[2508.20840](http://arxiv.org/abs/2508.20840)|null|
+|**2025-08-28**|**Estimating 2D Keypoints of Surgical Tools Using Vision-Language Models with Low-Rank Adaptation**|Binod Bhattarai Team|[2508.20830](http://arxiv.org/abs/2508.20830)|null|
+|**2025-08-28**|**Evaluating Compositional Generalisation in VLMs and Diffusion Models**|Martha Lewis Team|[2508.20783](http://arxiv.org/abs/2508.20783)|null|
+|**2025-08-28**|**Occlusion Robustness of CLIP for Military Vehicle Classification**|Hugo J. Kuijf Team|[2508.20760](http://arxiv.org/abs/2508.20760)|null|
+|**2025-08-28**|**"Humor, Art, or Misinformation?": A Multimodal Dataset for Intent-Aware Synthetic Image Detection**|Panagiotis C. Petrantonakis Team|[2508.20670](http://arxiv.org/abs/2508.20670)|null|
+|**2025-08-28**|**Towards Mechanistic Defenses Against Typographic Attacks in CLIP**|Wojciech Samek Team|[2508.20570](http://arxiv.org/abs/2508.20570)|null|
+|**2025-08-28**|**MedGR $^2$ : Breaking the Data Barrier for Medical Reasoning via Generative Reward Learning**|Shangyang Li Team|[2508.20549](http://arxiv.org/abs/2508.20549)|null|
+|**2025-08-28**|**MedFoundationHub: A Lightweight and Secure Toolkit for Deploying Medical Vision Language Foundation Models**|Yuankai Huo Team|[2508.20345](http://arxiv.org/abs/2508.20345)|null|
+|**2025-08-28**|**GUARD: Guideline Upholding Test through Adaptive Role-play and Jailbreak Diagnostics for LLMs**|Haohan Wang Team|[2508.20325](http://arxiv.org/abs/2508.20325)|null|
+|**2025-08-27**|**A Novel Framework for Automated Explain Vision Model Using Vision-Language Models**|Truong Son Hy Team|[2508.20227](http://arxiv.org/abs/2508.20227)|null|
 |**2025-08-27**|**Segmentation Assisted Incremental Test Time Adaptation in an Open World**|Soma Biswas Team|[2508.20029](http://arxiv.org/abs/2508.20029)|null|
 |**2025-08-27**|**SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control**|Ping Luo Team|[2508.20018](http://arxiv.org/abs/2508.20018)|null|
 |**2025-08-27**|**GLSim: Detecting Object Hallucinations in LVLMs via Global-Local Similarity**|Yixuan Li Team|[2508.19972](http://arxiv.org/abs/2508.19972)|null|
@@ -2003,6 +2022,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-28**|**CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification**|Liqiang Nie Team|[2508.21046](http://arxiv.org/abs/2508.21046)|**[link](https://jiutian-vl.github.io/CogVLA-page)**|
 |**2025-08-27**|**Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies**|Ping Luo Team|[2508.20072](http://arxiv.org/abs/2508.20072)|null|
 |**2025-08-28**|**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**|Donglin Wang Team|[2508.19958](http://arxiv.org/abs/2508.19958)|**[link](https://long-vla.github.io)**|
 |**2025-08-28**|**Ego-centric Predictive Model Conditioned on Hand Trajectories**|Mike Zheng Shou Team|[2508.19852](http://arxiv.org/abs/2508.19852)|null|
@@ -2194,6 +2214,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-28**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|S. Shankar Sastry Team|[2508.21043](http://arxiv.org/abs/2508.21043)|null|
 |**2025-08-26**|**HuBE: Cross-Embodiment Human-like Behavior Execution for Humanoid Robots**|Guodong Guo Team|[2508.19002](http://arxiv.org/abs/2508.19002)|null|
 |**2025-08-21**|**PriorFormer: A Transformer for Real-time Monocular 3D Human Pose Estimation with Versatile Geometric Priors**|Vincent Bonnet Team|[2508.18238](http://arxiv.org/abs/2508.18238)|null|
 |**2025-08-24**|**SoK: Cybersecurity Assessment of Humanoid Ecosystem**|Yuval Elovici Team|[2508.17481](http://arxiv.org/abs/2508.17481)|null|
