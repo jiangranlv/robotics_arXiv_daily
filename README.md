@@ -1,4 +1,4 @@
-## Updated on 2025.08.31
+## Updated on 2025.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 |**2025-08-28**|**Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation**|Davide Scaramuzza Team|[2508.21065](http://arxiv.org/abs/2508.21065)|null|
 |**2025-08-28**|**Rapid Mismatch Estimation via Neural Network Informed Variational Inference**|Nadia Figueroa Team|[2508.21007](http://arxiv.org/abs/2508.21007)|**[link](https://mateusz-jaszczuk.github.io/rme/)**|
-|**2025-08-28**|**UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception**|Wenbo Ding Team|[2508.20982](http://arxiv.org/abs/2508.20982)|null|
+|**2025-08-29**|**UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception**|Wenbo Ding Team|[2508.20982](http://arxiv.org/abs/2508.20982)|null|
 |**2025-08-28**|**Deep Fuzzy Optimization for Batch-Size and Nearest Neighbors in Optimal Robot Motion Planning**|Alois Knoll Team|[2508.20884](http://arxiv.org/abs/2508.20884)|null|
 |**2025-08-28**|**Learning Primitive Embodied World Models: Towards Scalable Robotic Learning**|Qinying Gu Team|[2508.20840](http://arxiv.org/abs/2508.20840)|null|
 |**2025-08-28**|**Non-expert to Expert Motion Translation Using Generative Adversarial Networks**|Seiichiro Katsura Team|[2508.20740](http://arxiv.org/abs/2508.20740)|null|
@@ -755,7 +755,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## VLM
 
@@ -2027,7 +2027,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## VLA
 
@@ -2221,7 +2221,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Humanoid
 
@@ -2381,7 +2381,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Dexterous
 
@@ -2497,5 +2497,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 

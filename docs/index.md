@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.31
+## Updated on 2025.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-08-28**|**Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation**|Davide Scaramuzza Team|[2508.21065](http://arxiv.org/abs/2508.21065)|null|
 |**2025-08-28**|**Rapid Mismatch Estimation via Neural Network Informed Variational Inference**|Nadia Figueroa Team|[2508.21007](http://arxiv.org/abs/2508.21007)|**[link](https://mateusz-jaszczuk.github.io/rme/)**|
-|**2025-08-28**|**UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception**|Wenbo Ding Team|[2508.20982](http://arxiv.org/abs/2508.20982)|null|
+|**2025-08-29**|**UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception**|Wenbo Ding Team|[2508.20982](http://arxiv.org/abs/2508.20982)|null|
 |**2025-08-28**|**Deep Fuzzy Optimization for Batch-Size and Nearest Neighbors in Optimal Robot Motion Planning**|Alois Knoll Team|[2508.20884](http://arxiv.org/abs/2508.20884)|null|
 |**2025-08-28**|**Learning Primitive Embodied World Models: Towards Scalable Robotic Learning**|Qinying Gu Team|[2508.20840](http://arxiv.org/abs/2508.20840)|null|
 |**2025-08-28**|**Non-expert to Expert Motion Translation Using Generative Adversarial Networks**|Seiichiro Katsura Team|[2508.20740](http://arxiv.org/abs/2508.20740)|null|
