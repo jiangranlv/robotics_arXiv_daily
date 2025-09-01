@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-29**|**Can a mobile robot learn from a pedestrian model to prevent the sidewalk salsa?**|David Abbink Team|[2508.21690](http://arxiv.org/abs/2508.21690)|null|
+|**2025-08-29**|**Robust Convex Model Predictive Control with collision avoidance guarantees for robot manipulators**|Thomas B. Schön Team|[2508.21677](http://arxiv.org/abs/2508.21677)|null|
+|**2025-08-29**|**Learning Agile Gate Traversal via Analytical Optimal Policy Gradient**|Lin Zhao Team|[2508.21592](http://arxiv.org/abs/2508.21592)|null|
+|**2025-08-29**|**Estimated Informed Anytime Search for Sampling-Based Planning via Adaptive Sampler**|Alois Knoll Team|[2508.21549](http://arxiv.org/abs/2508.21549)|null|
+|**2025-08-29**|**Few-Shot Neuro-Symbolic Imitation Learning for Long-Horizon Planning and Acting**|Matthias Scheutz Team|[2508.21501](http://arxiv.org/abs/2508.21501)|null|
+|**2025-08-29**|**RoboInspector: Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation**|Yuanchao Shu Team|[2508.21378](http://arxiv.org/abs/2508.21378)|null|
+|**2025-08-29**|**Dynamics-Compliant Trajectory Diffusion for Super-Nominal Payload Manipulation**|Alessandro Roncone Team|[2508.21375](http://arxiv.org/abs/2508.21375)|null|
+|**2025-08-29**|**Learning to Assemble the Soma Cube with Legal-Action Masked DQN and Safe ZYZ Regrasp on a Doosan M0609**|Sawoong Kim Team|[2508.21272](http://arxiv.org/abs/2508.21272)|null|
 |**2025-08-28**|**Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation**|Davide Scaramuzza Team|[2508.21065](http://arxiv.org/abs/2508.21065)|null|
 |**2025-08-28**|**Rapid Mismatch Estimation via Neural Network Informed Variational Inference**|Nadia Figueroa Team|[2508.21007](http://arxiv.org/abs/2508.21007)|**[link](https://mateusz-jaszczuk.github.io/rme/)**|
 |**2025-08-29**|**UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception**|Wenbo Ding Team|[2508.20982](http://arxiv.org/abs/2508.20982)|null|
@@ -761,6 +769,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-29**|**VoCap: Video Object Captioning and Segmentation from Any Prompt**|Cordelia Schmid Team|[2508.21809](http://arxiv.org/abs/2508.21809)|null|
+|**2025-08-29**|**CAD2DMD-SET: Synthetic Generation Tool of Digital Measurement Device CAD Model Datasets for fine-tuning Large Vision-Language Models**|Rodrigo Ventura Team|[2508.21732](http://arxiv.org/abs/2508.21732)|null|
+|**2025-08-29**|**How Well Do Vision--Language Models Understand Cities? A Comparative Study on Spatial Reasoning from Street-View Images**|Yoonjin Yoon Team|[2508.21565](http://arxiv.org/abs/2508.21565)|null|
+|**2025-08-29**|**HCCM: Hierarchical Cross-Granularity Contrastive and Matching Learning for Natural Language-Guided Drones**|Shaozi Li Team|[2508.21539](http://arxiv.org/abs/2508.21539)|null|
 |**2025-08-28**|**OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning**|Xinglong Wu Team|[2508.21066](http://arxiv.org/abs/2508.21066)|**[link](https://one-reward.github.io)**|
 |**2025-08-28**|**CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification**|Liqiang Nie Team|[2508.21046](http://arxiv.org/abs/2508.21046)|**[link](https://jiutian-vl.github.io/CogVLA-page)**|
 |**2025-08-28**|**Learning Primitive Embodied World Models: Towards Scalable Robotic Learning**|Qinying Gu Team|[2508.20840](http://arxiv.org/abs/2508.20840)|null|
@@ -2033,6 +2045,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-28**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Dong Wang Team|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
 |**2025-08-28**|**CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification**|Liqiang Nie Team|[2508.21046](http://arxiv.org/abs/2508.21046)|**[link](https://jiutian-vl.github.io/CogVLA-page)**|
 |**2025-08-27**|**Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies**|Ping Luo Team|[2508.20072](http://arxiv.org/abs/2508.20072)|null|
 |**2025-08-28**|**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**|Donglin Wang Team|[2508.19958](http://arxiv.org/abs/2508.19958)|**[link](https://long-vla.github.io)**|
@@ -2387,6 +2400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-28**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Dong Wang Team|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
 |**2025-08-28**|**HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation**|Huazhe Xu Team|[2508.20085](http://arxiv.org/abs/2508.20085)|null|
 |**2025-08-24**|**LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations**|Hao Su Team|[2508.17547](http://arxiv.org/abs/2508.17547)|null|
 |**2025-08-21**|**Exploiting Policy Idling for Dexterous Manipulation**|Dushyant Rao Team|[2508.15669](http://arxiv.org/abs/2508.15669)|null|
