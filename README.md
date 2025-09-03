@@ -778,7 +778,7 @@
 |**2025-08-28**|**Learning Primitive Embodied World Models: Towards Scalable Robotic Learning**|Qinying Gu Team|[2508.20840](http://arxiv.org/abs/2508.20840)|null|
 |**2025-08-28**|**Estimating 2D Keypoints of Surgical Tools Using Vision-Language Models with Low-Rank Adaptation**|Binod Bhattarai Team|[2508.20830](http://arxiv.org/abs/2508.20830)|null|
 |**2025-08-28**|**Evaluating Compositional Generalisation in VLMs and Diffusion Models**|Martha Lewis Team|[2508.20783](http://arxiv.org/abs/2508.20783)|null|
-|**2025-08-28**|**Occlusion Robustness of CLIP for Military Vehicle Classification**|Hugo J. Kuijf Team|[2508.20760](http://arxiv.org/abs/2508.20760)|null|
+|**2025-09-02**|**Occlusion Robustness of CLIP for Military Vehicle Classification**|Hugo J. Kuijf Team|[2508.20760](http://arxiv.org/abs/2508.20760)|null|
 |**2025-08-28**|**"Humor, Art, or Misinformation?": A Multimodal Dataset for Intent-Aware Synthetic Image Detection**|Panagiotis C. Petrantonakis Team|[2508.20670](http://arxiv.org/abs/2508.20670)|null|
 |**2025-08-28**|**Towards Mechanistic Defenses Against Typographic Attacks in CLIP**|Wojciech Samek Team|[2508.20570](http://arxiv.org/abs/2508.20570)|null|
 |**2025-08-28**|**MedGR $^2$ : Breaking the Data Barrier for Medical Reasoning via Generative Reward Learning**|Shangyang Li Team|[2508.20549](http://arxiv.org/abs/2508.20549)|null|
@@ -2045,7 +2045,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-28**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Dong Wang Team|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
+|**2025-09-01**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Dong Wang Team|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
 |**2025-08-28**|**CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification**|Liqiang Nie Team|[2508.21046](http://arxiv.org/abs/2508.21046)|**[link](https://jiutian-vl.github.io/CogVLA-page)**|
 |**2025-08-27**|**Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies**|Ping Luo Team|[2508.20072](http://arxiv.org/abs/2508.20072)|null|
 |**2025-08-28**|**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**|Donglin Wang Team|[2508.19958](http://arxiv.org/abs/2508.19958)|**[link](https://long-vla.github.io)**|
@@ -2059,7 +2059,7 @@
 |**2025-08-21**|**Survey of Vision-Language-Action Models for Embodied Manipulation**|Dongbin Zhao Team|[2508.15201](http://arxiv.org/abs/2508.15201)|null|
 |**2025-08-19**|**CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models**|Sergey Levine Team|[2508.13446](http://arxiv.org/abs/2508.13446)|null|
 |**2025-08-18**|**Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**|Zhi Hou Team|[2508.13103](http://arxiv.org/abs/2508.13103)|null|
-|**2025-08-18**|**Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey**|Liqiang Nie Team|[2508.13073](http://arxiv.org/abs/2508.13073)|**[link](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)**|
+|**2025-09-01**|**Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey**|Liqiang Nie Team|[2508.13073](http://arxiv.org/abs/2508.13073)|**[link](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)**|
 |**2025-08-17**|**Improving Pre-Trained Vision-Language-Action Policies with Model-Based Search**|Glen Berseth Team|[2508.12211](http://arxiv.org/abs/2508.12211)|null|
 |**2025-08-16**|**Toward General Physical Intelligence for Resilient Agile Manufacturing Automation**|Sunny Katyara Team|[2508.11960](http://arxiv.org/abs/2508.11960)|null|
 |**2025-08-14**|**CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model**|Hao Dong Team|[2508.10416](http://arxiv.org/abs/2508.10416)|null|
@@ -2243,7 +2243,7 @@
 |**2025-08-28**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|S. Shankar Sastry Team|[2508.21043](http://arxiv.org/abs/2508.21043)|null|
 |**2025-08-26**|**HuBE: Cross-Embodiment Human-like Behavior Execution for Humanoid Robots**|Guodong Guo Team|[2508.19002](http://arxiv.org/abs/2508.19002)|null|
 |**2025-08-21**|**PriorFormer: A Transformer for Real-time Monocular 3D Human Pose Estimation with Versatile Geometric Priors**|Vincent Bonnet Team|[2508.18238](http://arxiv.org/abs/2508.18238)|null|
-|**2025-08-24**|**SoK: Cybersecurity Assessment of Humanoid Ecosystem**|Yuval Elovici Team|[2508.17481](http://arxiv.org/abs/2508.17481)|null|
+|**2025-09-01**|**SoK: Cybersecurity Assessment of Humanoid Ecosystem**|Yuval Elovici Team|[2508.17481](http://arxiv.org/abs/2508.17481)|null|
 |**2025-08-20**|**LookOut: Real-World Humanoid Egocentric Navigation**|Leonidas J. Guibas Team|[2508.14466](http://arxiv.org/abs/2508.14466)|null|
 |**2025-08-18**|**Scaling Whole-body Multi-contact Manipulation with Contact Optimization**|Sethu Vijayakumar Team|[2508.12980](http://arxiv.org/abs/2508.12980)|null|
 |**2025-08-18**|**Foundation Model for Skeleton-Based Human Action Understanding**|Liang Wang Team|[2508.12586](http://arxiv.org/abs/2508.12586)|**[link](https://github.com/wengwanjiang/FoundSkelModel)**|
@@ -2400,7 +2400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-28**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Dong Wang Team|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
+|**2025-09-01**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Dong Wang Team|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
 |**2025-08-31**|**HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation**|Huazhe Xu Team|[2508.20085](http://arxiv.org/abs/2508.20085)|null|
 |**2025-08-24**|**LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations**|Hao Su Team|[2508.17547](http://arxiv.org/abs/2508.17547)|null|
 |**2025-08-21**|**Exploiting Policy Idling for Dexterous Manipulation**|Dushyant Rao Team|[2508.15669](http://arxiv.org/abs/2508.15669)|null|
