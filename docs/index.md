@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.07
+## Updated on 2025.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -13,7 +13,7 @@ layout: default
 |**2025-09-04**|**Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models**|Donglin Wang Team|[2509.04063](http://arxiv.org/abs/2509.04063)|null|
 |**2025-09-04**|**FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction**|Jingtai Liu Team|[2509.04018](http://arxiv.org/abs/2509.04018)|null|
 |**2025-09-04**|**Weakly-Supervised Learning of Dense Functional Correspondences**|Jiajun Wu Team|[2509.03893](http://arxiv.org/abs/2509.03893)|**[link](https://dense-functional-correspondence.github.io/)**|
-|**2025-09-04**|**Learning Multi-Stage Pick-and-Place with a Legged Mobile Manipulator**|Wei Xu Team|[2509.03859](http://arxiv.org/abs/2509.03859)|**[link](https://horizonrobotics.github.io/gail/SLIM)**|
+|**2025-09-05**|**Learning Multi-Stage Pick-and-Place with a Legged Mobile Manipulator**|Wei Xu Team|[2509.03859](http://arxiv.org/abs/2509.03859)|null|
 |**2025-09-03**|**The Role of Embodiment in Intuitive Whole-Body Teleoperation for Mobile Manipulation**|Georgia Chalvatzaki Team|[2509.03222](http://arxiv.org/abs/2509.03222)|null|
 |**2025-09-03**|**Autonomous Learning From Success and Failure: Goal-Conditioned Supervised Learning with Negative Feedback**|Daniel A. Braun Team|[2509.03206](http://arxiv.org/abs/2509.03206)|null|
 |**2025-09-03**|**Forbal: Force Balanced 2-5 Degree of Freedom Robot Manipulator Built from a Five Bar Linkage**|Matteo Bottin Team|[2509.03119](http://arxiv.org/abs/2509.03119)|null|
@@ -22,7 +22,7 @@ layout: default
 |**2025-09-04**|**Plan Verification for LLM-Based Embodied Task Completion Agents**|Gokhan Tur Team|[2509.02761](http://arxiv.org/abs/2509.02761)|null|
 |**2025-09-02**|**Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots**|Bingyi Kang Team|[2509.02530](http://arxiv.org/abs/2509.02530)|**[link](https://manipulation-as-in-simulation.github.io/)**|
 |**2025-09-02**|**U-ARM : Ultra low-cost general teleoperation interface for robot manipulation**|Bo Zhao Team|[2509.02437](http://arxiv.org/abs/2509.02437)|null|
-|**2025-09-02**|**Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance**|Xuelong Li Team|[2509.02055](http://arxiv.org/abs/2509.02055)|null|
+|**2025-09-05**|**Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance**|Xuelong Li Team|[2509.02055](http://arxiv.org/abs/2509.02055)|null|
 |**2025-09-01**|**ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training**|Dieter Fox Team|[2509.01819](http://arxiv.org/abs/2509.01819)|null|
 |**2025-09-01**|**Non-conflicting Energy Minimization in Reinforcement Learning based Robot Control**|Stefan Lee Team|[2509.01765](http://arxiv.org/abs/2509.01765)|null|
 |**2025-09-01**|**Fail2Progress: Learning from Real-World Robot Failures with Stein Variational Inference**|Tucker Hermans Team|[2509.01746](http://arxiv.org/abs/2509.01746)|null|
@@ -799,7 +799,7 @@ layout: default
 |**2025-09-04**|**MedVista3D: Vision-Language Modeling for Reducing Diagnostic Errors in 3D CT Disease Detection, Understanding and Reporting**|Xiaofeng Yang Team|[2509.03800](http://arxiv.org/abs/2509.03800)|null|
 |**2025-09-03**|**Singular Value Few-shot Adaptation of Vision-Language Models**|Yiming Xiao Team|[2509.03740](http://arxiv.org/abs/2509.03740)|null|
 |**2025-09-03**|**E-ARMOR: Edge case Assessment and Review of Multilingual Optical Character Recognition**|Anupam Purwar Team|[2509.03615](http://arxiv.org/abs/2509.03615)|null|
-|**2025-09-03**|**Unveiling the Response of Large Vision-Language Models to Visually Absent Tokens**|Eunho Yang Team|[2509.03025](http://arxiv.org/abs/2509.03025)|null|
+|**2025-09-05**|**Unveiling the Response of Large Vision-Language Models to Visually Absent Tokens**|Eunho Yang Team|[2509.03025](http://arxiv.org/abs/2509.03025)|null|
 |**2025-09-03**|**KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models**|Hong Chen Team|[2509.02966](http://arxiv.org/abs/2509.02966)|null|
 |**2025-09-02**|**A-SEA3L-QA: A Fully Automated Self-Evolving, Adversarial Workflow for Arabic Long-Context Question-Answer Generation**|Pedro J. Moreno Team|[2509.02864](http://arxiv.org/abs/2509.02864)|null|
 |**2025-09-02**|**Challenges in Understanding Modality Conflict in Vision-Language Models**|David Jensen Team|[2509.02805](http://arxiv.org/abs/2509.02805)|null|
@@ -2096,7 +2096,7 @@ layout: default
 |**2025-09-04**|**Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models**|Donglin Wang Team|[2509.04063](http://arxiv.org/abs/2509.04063)|null|
 |**2025-09-04**|**FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction**|Jingtai Liu Team|[2509.04018](http://arxiv.org/abs/2509.04018)|null|
 |**2025-09-03**|**ANNIE: Be Careful of Your Robots**|Yiming Gan Team|[2509.03383](http://arxiv.org/abs/2509.03383)|null|
-|**2025-09-02**|**Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance**|Xuelong Li Team|[2509.02055](http://arxiv.org/abs/2509.02055)|null|
+|**2025-09-05**|**Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance**|Xuelong Li Team|[2509.02055](http://arxiv.org/abs/2509.02055)|null|
 |**2025-09-02**|**AutoDrive-R $^2$ : Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving**|Shuo Li Team|[2509.01944](http://arxiv.org/abs/2509.01944)|null|
 |**2025-08-31**|**OmniReason: A Temporal-Guided Vision-Language-Action Framework for Autonomous Driving**|Jun Ma Team|[2509.00789](http://arxiv.org/abs/2509.00789)|null|
 |**2025-08-30**|**Galaxea Open-World Dataset and G0 Dual-System VLA Model**|Hang Zhao Team|[2509.00576](http://arxiv.org/abs/2509.00576)|**[link](https://opengalaxea.github.io/G0/)**|
