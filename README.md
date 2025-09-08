@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-05**|**Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework**|Ji-Rong Wen Team|[2509.05007](http://arxiv.org/abs/2509.05007)|null|
+|**2025-09-05**|**Imitation Learning Based on Disentangled Representation Learning of Behavioral Characteristics**|Toshiaki Tsuji Team|[2509.04737](http://arxiv.org/abs/2509.04737)|null|
+|**2025-09-04**|**Surformer v2: A Multimodal Classifier for Surface Understanding from Touch and Vision**|Noorbakhsh Amiri Golilarz Team|[2509.04658](http://arxiv.org/abs/2509.04658)|null|
+|**2025-09-04**|**Planning from Point Clouds over Continuous Actions for Multi-object Rearrangement**|David Held Team|[2509.04645](http://arxiv.org/abs/2509.04645)|**[link](https://planning-from-point-clouds.github.io/))**|
+|**2025-09-04**|**Action Chunking with Transformers for Image-Based Spacecraft Guidance and Control**|Richard Linares Team|[2509.04628](http://arxiv.org/abs/2509.04628)|null|
+|**2025-09-04**|**In-Context Policy Adaptation via Cross-Domain Skill Diffusion**|Honguk Woo Team|[2509.04535](http://arxiv.org/abs/2509.04535)|null|
 |**2025-09-04**|**EMMA: Scaling Mobile Manipulation via Egocentric Human Data**|Danfei Xu Team|[2509.04443](http://arxiv.org/abs/2509.04443)|null|
 |**2025-09-04**|**Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models**|Donglin Wang Team|[2509.04063](http://arxiv.org/abs/2509.04063)|null|
 |**2025-09-04**|**FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction**|Jingtai Liu Team|[2509.04018](http://arxiv.org/abs/2509.04018)|null|
@@ -794,8 +800,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-05**|**VLSM-Ensemble: Ensembling CLIP-based Vision-Language Models for Enhanced Medical Image Segmentation**|Noel E. O'Connor Team|[2509.05154](http://arxiv.org/abs/2509.05154)|null|
+|**2025-09-05**|**GenAI-based test case generation and execution in SDV platform**|Alois Knoll Team|[2509.05112](http://arxiv.org/abs/2509.05112)|null|
+|**2025-09-05**|**MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading**|Fei Wu Team|[2509.05080](http://arxiv.org/abs/2509.05080)|null|
+|**2025-09-05**|**Dual-Domain Perspective on Degradation-Aware Fusion: A VLM-Guided Robust Infrared and Visible Image Fusion Framework**|Guangmang Cui Team|[2509.05000](http://arxiv.org/abs/2509.05000)|null|
+|**2025-09-05**|**SynGen-Vision: Synthetic Data Generation for training industrial vision models**|Nitish Bhardwaj Team|[2509.04894](http://arxiv.org/abs/2509.04894)|null|
+|**2025-09-05**|**TemporalFlowViz: Parameter-Aware Visual Analytics for Interpreting Scramjet Combustion Evolution**|Guihua Shan Team|[2509.04834](http://arxiv.org/abs/2509.04834)|null|
+|**2025-09-05**|**FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph**|John E. Taylor Team|[2509.04772](http://arxiv.org/abs/2509.04772)|null|
+|**2025-09-05**|**Dynamic Group Detection using VLM-augmented Temporal Groupness Graph**|Norimichi Ukita Team|[2509.04758](http://arxiv.org/abs/2509.04758)|null|
+|**2025-09-04**|**Guideline-Consistent Segmentation via Multi-Agent Refinement**|James Davis Team|[2509.04687](http://arxiv.org/abs/2509.04687)|null|
 |**2025-09-04**|**TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection**|Mong Li Lee Team|[2509.04448](http://arxiv.org/abs/2509.04448)|**[link](https://yanzehong.github.io/trust-vl/)**|
-|**2025-09-04**|**GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization**|Yixuan Li Team|[2509.04334](http://arxiv.org/abs/2509.04334)|null|
+|**2025-09-05**|**GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization**|Yixuan Li Team|[2509.04334](http://arxiv.org/abs/2509.04334)|null|
 |**2025-09-04**|**Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding**|Juntao Li Team|[2509.04243](http://arxiv.org/abs/2509.04243)|null|
 |**2025-09-04**|**An Automated, Scalable Machine Learning Model Inversion Assessment Pipeline**|Nathaniel D. Bastian Team|[2509.04214](http://arxiv.org/abs/2509.04214)|null|
 |**2025-09-04**|**Real Time FPGA Based Transformers & VLMs for Vision Tasks: SOTA Designs and Optimizations**|Ashiyana Abdul Majeed Team|[2509.04162](http://arxiv.org/abs/2509.04162)|null|
@@ -2104,6 +2119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-05**|**FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies**|Rudolf Lioutikov Team|[2509.04996](http://arxiv.org/abs/2509.04996)|null|
 |**2025-09-04**|**Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models**|Donglin Wang Team|[2509.04063](http://arxiv.org/abs/2509.04063)|null|
 |**2025-09-04**|**FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction**|Jingtai Liu Team|[2509.04018](http://arxiv.org/abs/2509.04018)|null|
 |**2025-09-03**|**ANNIE: Be Careful of Your Robots**|Yiming Gan Team|[2509.03383](http://arxiv.org/abs/2509.03383)|null|
@@ -2307,6 +2323,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-05**|**Hierarchical Reduced-Order Model Predictive Control for Robust Locomotion on Humanoid Robots**|Aaron D. Ames Team|[2509.04722](http://arxiv.org/abs/2509.04722)|null|
 |**2025-09-03**|**The Role of Embodiment in Intuitive Whole-Body Teleoperation for Mobile Manipulation**|Georgia Chalvatzaki Team|[2509.03222](http://arxiv.org/abs/2509.03222)|null|
 |**2025-09-01**|**ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training**|Dieter Fox Team|[2509.01819](http://arxiv.org/abs/2509.01819)|null|
 |**2025-09-04**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|S. Shankar Sastry Team|[2508.21043](http://arxiv.org/abs/2508.21043)|null|
