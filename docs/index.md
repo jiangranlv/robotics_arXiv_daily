@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.08
+## Updated on 2025.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -2125,7 +2125,7 @@ layout: default
 |**2025-08-15**|**TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models**|Huiling Duan Team|[2508.19257](http://arxiv.org/abs/2508.19257)|null|
 |**2025-08-26**|**MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation**|Gao Huang Team|[2508.19236](http://arxiv.org/abs/2508.19236)|**[link](https://shihao1895.github.io/MemoryVLA)**|
 |**2025-08-26**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Haoang Li Team|[2508.18269](http://arxiv.org/abs/2508.18269)|null|
-|**2025-08-24**|**4D Visual Pre-training for Robot Learning**|Huazhe Xu Team|[2508.17230](http://arxiv.org/abs/2508.17230)|null|
+|**2025-09-06**|**4D Visual Pre-training for Robot Learning**|Huazhe Xu Team|[2508.17230](http://arxiv.org/abs/2508.17230)|null|
 |**2025-08-23**|**NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows**|Vladislav Kurenkov Team|[2508.16845](http://arxiv.org/abs/2508.16845)|null|
 |**2025-08-22**|**Do What? Teaching Vision-Language-Action Models to Reject the Impossible**|David M. Chan Team|[2508.16292](http://arxiv.org/abs/2508.16292)|null|
 |**2025-08-21**|**Survey of Vision-Language-Action Models for Embodied Manipulation**|Dongbin Zhao Team|[2508.15201](http://arxiv.org/abs/2508.15201)|null|
