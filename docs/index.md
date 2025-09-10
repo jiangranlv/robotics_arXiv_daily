@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.09
+## Updated on 2025.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -2137,7 +2137,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-08**|**F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions**|Jiangmiao Pang Team|[2509.06951](http://arxiv.org/abs/2509.06951)|null|
 |**2025-09-08**|**LLaDA-VLA: Vision Language Diffusion Action Models**|Xiaoyan Sun Team|[2509.06932](http://arxiv.org/abs/2509.06932)|null|
-|**2025-09-08**|**CRISP - Compliant ROS2 Controllers for Learning-Based Manipulation Policies and Teleoperation**|Angela P. Schöllig Team|[2509.06819](http://arxiv.org/abs/2509.06819)|null|
+|**2025-09-08**|**CRISP -- Compliant ROS2 Controllers for Learning-Based Manipulation Policies and Teleoperation**|Angela P. Schöllig Team|[2509.06819](http://arxiv.org/abs/2509.06819)|null|
 |**2025-09-06**|**SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning**|Guohao Dai Team|[2509.05614](http://arxiv.org/abs/2509.05614)|null|
 |**2025-09-06**|**OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision**|Hang Zhao Team|[2509.05578](http://arxiv.org/abs/2509.05578)|null|
 |**2025-09-05**|**OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation**|Yu Xiang Team|[2509.05513](http://arxiv.org/abs/2509.05513)|null|
