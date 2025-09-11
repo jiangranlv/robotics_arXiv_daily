@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**Joint Model-based Model-free Diffusion for Planning with Constraints**|Shreyas Kousik Team|[2509.08775](http://arxiv.org/abs/2509.08775)|null|
+|**2025-09-10**|**SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation**|Peter Stone Team|[2509.08757](http://arxiv.org/abs/2509.08757)|**[link](https://larg.github.io/socialnav-sub)**|
+|**2025-09-10**|**PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching**|Liang Ding Team|[2509.08435](http://arxiv.org/abs/2509.08435)|null|
+|**2025-09-10**|**Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration**|Huimin Lu Team|[2509.08354](http://arxiv.org/abs/2509.08354)|null|
+|**2025-09-10**|**Input-gated Bilateral Teleoperation: An Easy-to-implement Force Feedback Teleoperation Method for Low-cost Hardware**|Tetsuya Ogata Team|[2509.08226](http://arxiv.org/abs/2509.08226)|null|
 |**2025-09-09**|**TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models**|Hao Zhao Team|[2509.07962](http://arxiv.org/abs/2509.07962)|**[link](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/})**|
 |**2025-09-09**|**Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation**|Yingbai Hu Team|[2509.07957](http://arxiv.org/abs/2509.07957)|null|
 |**2025-09-09**|**RaC: Robot Learning for Long-Horizon Tasks by Scaling Recovery and Correction**|Aviral Kumar Team|[2509.07953](http://arxiv.org/abs/2509.07953)|null|
@@ -17,7 +22,7 @@ layout: default
 |**2025-09-08**|**Design of Input-Output Observers for a Population of Systems with Bounded Frequency-Domain Variation using $DK$ -iteration**|James Richard Forbes Team|[2509.07201](http://arxiv.org/abs/2509.07201)|null|
 |**2025-09-08**|**First Plan Then Evaluate: Use a Vectorized Motion Planner for Grasping**|Tucker Hermans Team|[2509.07162](http://arxiv.org/abs/2509.07162)|null|
 |**2025-09-08**|**Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for Dynamic Environments**|Deepak Pathak Team|[2509.06953](http://arxiv.org/abs/2509.06953)|null|
-|**2025-09-08**|**LLaDA-VLA: Vision Language Diffusion Action Models**|Xiaoyan Sun Team|[2509.06932](http://arxiv.org/abs/2509.06932)|null|
+|**2025-09-10**|**LLaDA-VLA: Vision Language Diffusion Action Models**|Xiaoyan Sun Team|[2509.06932](http://arxiv.org/abs/2509.06932)|null|
 |**2025-09-08**|**Cortex-Synth: Differentiable Topology-Aware 3D Skeleton Synthesis with Hierarchical Graph Attention**|Mohamed Zayaan S Team|[2509.06705](http://arxiv.org/abs/2509.06705)|null|
 |**2025-09-08**|**Group Effect Enhanced Generative Adversarial Imitation Learning for Individual Travel Behavior Modeling under Incentives**|Zhenliang Ma Team|[2509.06656](http://arxiv.org/abs/2509.06656)|null|
 |**2025-09-08**|**Musculoskeletal simulation of limb movement biomechanics in Drosophila melanogaster**|Pavan Ramdya Team|[2509.06426](http://arxiv.org/abs/2509.06426)|null|
@@ -808,12 +813,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**RewardDance: Reward Scaling in Visual Generation**|Weilin Huang Team|[2509.08826](http://arxiv.org/abs/2509.08826)|null|
+|**2025-09-10**|**RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation**|Hao Zhao Team|[2509.08820](http://arxiv.org/abs/2509.08820)|**[link](https://zzongzheng0918.github.io/RoboChemist.github.io/)**|
+|**2025-09-10**|**SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation**|Peter Stone Team|[2509.08757](http://arxiv.org/abs/2509.08757)|**[link](https://larg.github.io/socialnav-sub)**|
+|**2025-09-10**|**TCPO: Thought-Centric Preference Optimization for Effective Embodied Decision-making**|Xiu Li Team|[2509.08500](http://arxiv.org/abs/2509.08500)|null|
+|**2025-09-10**|**A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models**|Zhou Ni Team|[2509.08490](http://arxiv.org/abs/2509.08490)|null|
+|**2025-09-10**|**Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics**|Pierre Baldi Team|[2509.08461](http://arxiv.org/abs/2509.08461)|null|
+|**2025-09-10**|**Retrieval-Augmented VLMs for Multimodal Melanoma Diagnosis**|Charmgil Hong Team|[2509.08338](http://arxiv.org/abs/2509.08338)|null|
+|**2025-09-10**|**Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models**|Monali Deshmukh Team|[2509.08270](http://arxiv.org/abs/2509.08270)|null|
+|**2025-09-10**|**Examining Vision Language Models through Multi-dimensional Experiments with Vision and Text Features**|Donald E. Brown Team|[2509.08266](http://arxiv.org/abs/2509.08266)|null|
+|**2025-09-10**|**Vector embedding of multi-modal texts: a tool for discovery?**|Sachith Withana Team|[2509.08216](http://arxiv.org/abs/2509.08216)|null|
+|**2025-09-09**|**Privacy Preserving Semantic Communications Using Vision Language Models: A Segmentation and Generation Approach**|Qianqian Zhang Team|[2509.08142](http://arxiv.org/abs/2509.08142)|null|
 |**2025-09-09**|**Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images**|Marc Haraoui Team|[2509.07966](http://arxiv.org/abs/2509.07966)|null|
 |**2025-09-09**|**Data-Efficient Fine-Tuning of Vision-Language Models for Diagnosis of Alzheimer's Disease**|Xiaochen Yang Team|[2509.07613](http://arxiv.org/abs/2509.07613)|null|
 |**2025-09-09**|**Fine-Tuning Vision-Language Models for Visual Navigation Assistance**|Xi Wang Team|[2509.07488](http://arxiv.org/abs/2509.07488)|null|
 |**2025-09-09**|**DepthVision: Robust Vision-Language Understanding through GAN-Based LiDAR-to-RGB Synthesis**|Alois C. Knoll Team|[2509.07463](http://arxiv.org/abs/2509.07463)|null|
 |**2025-09-09**|**SpecifyUI: Supporting Iterative UI Design Intent Expression through Structured Specifications and Generative AI**|Liuqing Chen Team|[2509.07334](http://arxiv.org/abs/2509.07334)|null|
-|**2025-09-08**|**LLaDA-VLA: Vision Language Diffusion Action Models**|Xiaoyan Sun Team|[2509.06932](http://arxiv.org/abs/2509.06932)|null|
+|**2025-09-10**|**LLaDA-VLA: Vision Language Diffusion Action Models**|Xiaoyan Sun Team|[2509.06932](http://arxiv.org/abs/2509.06932)|null|
 |**2025-09-08**|**D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning**|Nagendra Kumar Team|[2509.06771](http://arxiv.org/abs/2509.06771)|null|
 |**2025-09-08**|**Embodied Hazard Mitigation using Vision-Language Models for Autonomous Mobile Robots**|Aliasghar Arab Team|[2509.06768](http://arxiv.org/abs/2509.06768)|null|
 |**2025-09-08**|**Aligning Large Vision-Language Models by Deep Reinforcement Learning and Direct Preference Optimization**|Janis Dalins Team|[2509.06759](http://arxiv.org/abs/2509.06759)|null|
@@ -2147,10 +2163,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation**|Hao Zhao Team|[2509.08820](http://arxiv.org/abs/2509.08820)|**[link](https://zzongzheng0918.github.io/RoboChemist.github.io/)**|
 |**2025-09-09**|**TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models**|Hao Zhao Team|[2509.07962](http://arxiv.org/abs/2509.07962)|**[link](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/})**|
 |**2025-09-09**|**Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation**|Yingbai Hu Team|[2509.07957](http://arxiv.org/abs/2509.07957)|null|
 |**2025-09-09**|**F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions**|Jiangmiao Pang Team|[2509.06951](http://arxiv.org/abs/2509.06951)|**[link](https://aopolin-lv.github.io/F1-VLA/)**|
-|**2025-09-08**|**LLaDA-VLA: Vision Language Diffusion Action Models**|Xiaoyan Sun Team|[2509.06932](http://arxiv.org/abs/2509.06932)|null|
+|**2025-09-10**|**LLaDA-VLA: Vision Language Diffusion Action Models**|Xiaoyan Sun Team|[2509.06932](http://arxiv.org/abs/2509.06932)|null|
 |**2025-09-08**|**CRISP -- Compliant ROS2 Controllers for Learning-Based Manipulation Policies and Teleoperation**|Angela P. Schöllig Team|[2509.06819](http://arxiv.org/abs/2509.06819)|null|
 |**2025-09-06**|**SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning**|Guohao Dai Team|[2509.05614](http://arxiv.org/abs/2509.05614)|null|
 |**2025-09-06**|**OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision**|Hang Zhao Team|[2509.05578](http://arxiv.org/abs/2509.05578)|null|
@@ -2357,6 +2374,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**Attribute-based Object Grounding and Robot Grasp Detection with Spatial Reasoning**|Changhyun Choi Team|[2509.08126](http://arxiv.org/abs/2509.08126)|null|
 |**2025-09-09**|**Interactive Shaping of Granular Media Using Reinforcement Learning**|Maren Bennewitz Team|[2509.06469](http://arxiv.org/abs/2509.06469)|null|
 |**2025-09-06**|**Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically Constrained Humanoids**|Dennis W. Hong Team|[2509.05581](http://arxiv.org/abs/2509.05581)|null|
 |**2025-09-05**|**Hierarchical Reduced-Order Model Predictive Control for Robust Locomotion on Humanoid Robots**|Aaron D. Ames Team|[2509.04722](http://arxiv.org/abs/2509.04722)|null|
@@ -2520,6 +2538,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration**|Huimin Lu Team|[2509.08354](http://arxiv.org/abs/2509.08354)|null|
 |**2025-09-09**|**Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions**|Nathan F. Lepora Team|[2509.07445](http://arxiv.org/abs/2509.07445)|null|
 |**2025-09-05**|**OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation**|Yu Xiang Team|[2509.05513](http://arxiv.org/abs/2509.05513)|null|
 |**2025-09-08**|**DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation**|Pulkit Agrawal Team|[2509.04441](http://arxiv.org/abs/2509.04441)|**[link](https://dex-op.github.io)**|
