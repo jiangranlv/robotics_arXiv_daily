@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
+|**2025-09-11**|**Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration**|Wei Yang Team|[2509.09671](http://arxiv.org/abs/2509.09671)|null|
+|**2025-09-11**|**A Neuromorphic Incipient Slip Detection System using Papillae Morphology**|Benjamin Ward-Cherrier Team|[2509.09546](http://arxiv.org/abs/2509.09546)|null|
+|**2025-09-11**|**KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning**|M. Ani Hsieh Team|[2509.09074](http://arxiv.org/abs/2509.09074)|null|
 |**2025-09-11**|**Joint Model-based Model-free Diffusion for Planning with Constraints**|Shreyas Kousik Team|[2509.08775](http://arxiv.org/abs/2509.08775)|null|
 |**2025-09-10**|**SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation**|Peter Stone Team|[2509.08757](http://arxiv.org/abs/2509.08757)|**[link](https://larg.github.io/socialnav-sub)**|
 |**2025-09-10**|**PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching**|Liang Ding Team|[2509.08435](http://arxiv.org/abs/2509.08435)|null|
@@ -813,6 +817,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark**|Hongsheng Li Team|[2509.09680](http://arxiv.org/abs/2509.09680)|**[link](https://flux-reason-6m.github.io/)**|
+|**2025-09-11**|**Compositional Concept Generalization with Variational Quantum Circuits**|Mehrnoosh sadrzadeh Team|[2509.09541](http://arxiv.org/abs/2509.09541)|null|
+|**2025-09-11**|**Decoupling Clinical and Class-Agnostic Features for Reliable Few-Shot Adaptation under Shift**|Dwarikanath Mahapatra Team|[2509.09397](http://arxiv.org/abs/2509.09397)|null|
+|**2025-09-11**|**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**|Donglin Wang Team|[2509.09372](http://arxiv.org/abs/2509.09372)|null|
+|**2025-09-11**|**Curriculum-Based Multi-Tier Semantic Exploration via Deep Reinforcement Learning**|Abderrezzak Debilou Team|[2509.09356](http://arxiv.org/abs/2509.09356)|null|
+|**2025-09-11**|**Image Recognition with Vision and Language Embeddings of VLMs**|Jiri Matas Team|[2509.09311](http://arxiv.org/abs/2509.09311)|null|
+|**2025-09-11**|**Visual Programmability: A Guide for Code-as-Thought in Chart Understanding**|Ya Zhang Team|[2509.09286](http://arxiv.org/abs/2509.09286)|null|
+|**2025-09-11**|**Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset for Panoramic X-ray Analysis**|Kuo Feng Hung Team|[2509.09254](http://arxiv.org/abs/2509.09254)|null|
+|**2025-09-11**|**Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios**|Yao Zhu Team|[2509.09172](http://arxiv.org/abs/2509.09172)|null|
+|**2025-09-11**|**Zero-shot Hierarchical Plant Segmentation via Foundation Segmentation Models and Text-to-image Attention**|Fumio Okura Team|[2509.09116](http://arxiv.org/abs/2509.09116)|null|
+|**2025-09-10**|**COCO-Urdu: A Large-Scale Urdu Image-Caption Dataset with Multimodal Quality Estimation**|Umair Hassan Team|[2509.09014](http://arxiv.org/abs/2509.09014)|**[link](https://huggingface.co/datasets/umairhassan02/urdu-translated-coco-captions-subset.)**|
+|**2025-09-10**|**Can Vision-Language Models Solve Visual Math Equations?**|Mrinmaya Sachan Team|[2509.09013](http://arxiv.org/abs/2509.09013)|null|
+|**2025-09-10**|**Generalized User-Oriented Image Semantic Coding Empowered by Large Vision-Language Model**|Vincent W. S. Wong Team|[2509.08913](http://arxiv.org/abs/2509.08913)|null|
+|**2025-09-10**|**Recurrence Meets Transformers for Universal Multimodal Retrieval**|Rita Cucchiara Team|[2509.08897](http://arxiv.org/abs/2509.08897)|null|
 |**2025-09-10**|**RewardDance: Reward Scaling in Visual Generation**|Weilin Huang Team|[2509.08826](http://arxiv.org/abs/2509.08826)|null|
 |**2025-09-10**|**RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation**|Hao Zhao Team|[2509.08820](http://arxiv.org/abs/2509.08820)|**[link](https://zzongzheng0918.github.io/RoboChemist.github.io/)**|
 |**2025-09-10**|**SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation**|Peter Stone Team|[2509.08757](http://arxiv.org/abs/2509.08757)|**[link](https://larg.github.io/socialnav-sub)**|
@@ -2163,6 +2181,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
+|**2025-09-11**|**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**|Donglin Wang Team|[2509.09372](http://arxiv.org/abs/2509.09372)|null|
+|**2025-09-11**|**SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models**|Huanrui Yang Team|[2509.09090](http://arxiv.org/abs/2509.09090)|null|
 |**2025-09-10**|**RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation**|Hao Zhao Team|[2509.08820](http://arxiv.org/abs/2509.08820)|**[link](https://zzongzheng0918.github.io/RoboChemist.github.io/)**|
 |**2025-09-09**|**TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models**|Hao Zhao Team|[2509.07962](http://arxiv.org/abs/2509.07962)|**[link](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/})**|
 |**2025-09-09**|**Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation**|Yingbai Hu Team|[2509.07957](http://arxiv.org/abs/2509.07957)|null|
@@ -2374,6 +2395,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**AGILOped: Agile Open-Source Humanoid Robot for Research**|Sven Behnke Team|[2509.09364](http://arxiv.org/abs/2509.09364)|null|
 |**2025-09-09**|**Attribute-based Object Grounding and Robot Grasp Detection with Spatial Reasoning**|Changhyun Choi Team|[2509.08126](http://arxiv.org/abs/2509.08126)|null|
 |**2025-09-09**|**Interactive Shaping of Granular Media Using Reinforcement Learning**|Maren Bennewitz Team|[2509.06469](http://arxiv.org/abs/2509.06469)|null|
 |**2025-09-06**|**Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically Constrained Humanoids**|Dennis W. Hong Team|[2509.05581](http://arxiv.org/abs/2509.05581)|null|
@@ -2538,6 +2560,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration**|Wei Yang Team|[2509.09671](http://arxiv.org/abs/2509.09671)|null|
 |**2025-09-10**|**Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration**|Huimin Lu Team|[2509.08354](http://arxiv.org/abs/2509.08354)|null|
 |**2025-09-09**|**Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions**|Nathan F. Lepora Team|[2509.07445](http://arxiv.org/abs/2509.07445)|null|
 |**2025-09-05**|**OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation**|Yu Xiang Team|[2509.05513](http://arxiv.org/abs/2509.05513)|null|
