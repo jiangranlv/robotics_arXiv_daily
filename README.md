@@ -1,4 +1,4 @@
-## Updated on 2025.09.11
+## Updated on 2025.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-09-10**|**Joint Model-based Model-free Diffusion for Planning with Constraints**|Shreyas Kousik Team|[2509.08775](http://arxiv.org/abs/2509.08775)|null|
+|**2025-09-11**|**Joint Model-based Model-free Diffusion for Planning with Constraints**|Shreyas Kousik Team|[2509.08775](http://arxiv.org/abs/2509.08775)|null|
 |**2025-09-10**|**SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation**|Peter Stone Team|[2509.08757](http://arxiv.org/abs/2509.08757)|**[link](https://larg.github.io/socialnav-sub)**|
 |**2025-09-10**|**PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching**|Liang Ding Team|[2509.08435](http://arxiv.org/abs/2509.08435)|null|
 |**2025-09-10**|**Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration**|Huimin Lu Team|[2509.08354](http://arxiv.org/abs/2509.08354)|null|
@@ -816,7 +816,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250912>back to top</a>)</p>
 
 ## VLM
 
@@ -827,7 +827,7 @@
 |**2025-09-10**|**SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation**|Peter Stone Team|[2509.08757](http://arxiv.org/abs/2509.08757)|**[link](https://larg.github.io/socialnav-sub)**|
 |**2025-09-10**|**TCPO: Thought-Centric Preference Optimization for Effective Embodied Decision-making**|Xiu Li Team|[2509.08500](http://arxiv.org/abs/2509.08500)|null|
 |**2025-09-10**|**A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models**|Zhou Ni Team|[2509.08490](http://arxiv.org/abs/2509.08490)|null|
-|**2025-09-10**|**Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics**|Pierre Baldi Team|[2509.08461](http://arxiv.org/abs/2509.08461)|null|
+|**2025-09-11**|**Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics**|Pierre Baldi Team|[2509.08461](http://arxiv.org/abs/2509.08461)|null|
 |**2025-09-10**|**Retrieval-Augmented VLMs for Multimodal Melanoma Diagnosis**|Charmgil Hong Team|[2509.08338](http://arxiv.org/abs/2509.08338)|null|
 |**2025-09-10**|**Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models**|Monali Deshmukh Team|[2509.08270](http://arxiv.org/abs/2509.08270)|null|
 |**2025-09-10**|**Examining Vision Language Models through Multi-dimensional Experiments with Vision and Text Features**|Donald E. Brown Team|[2509.08266](http://arxiv.org/abs/2509.08266)|null|
@@ -2168,7 +2168,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250912>back to top</a>)</p>
 
 ## VLA
 
@@ -2381,7 +2381,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250912>back to top</a>)</p>
 
 ## Humanoid
 
@@ -2547,7 +2547,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250912>back to top</a>)</p>
 
 ## Dexterous
 
@@ -2572,7 +2572,7 @@
 |**2025-08-03**|**DexReMoE:In-hand Reorientation of General Object via Mixtures of Experts**|Yunlong Dong Team|[2508.01695](http://arxiv.org/abs/2508.01695)|null|
 |**2025-08-01**|**Video Generators are Robot Policies**|Carl Vondrick Team|[2508.00795](http://arxiv.org/abs/2508.00795)|null|
 |**2025-07-31**|**XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation**|Ning Yang Team|[2508.00097](http://arxiv.org/abs/2508.00097)|**[link](https://github.com/XR-Robotics)**|
-|**2025-07-31**|**villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models**|Jiang Bian Team|[2507.23682](http://arxiv.org/abs/2507.23682)|**[link](https://aka.ms/villa-x)**|
+|**2025-09-11**|**villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models**|Jiang Bian Team|[2507.23682](http://arxiv.org/abs/2507.23682)|**[link](https://aka.ms/villa-x)**|
 |**2025-07-19**|**A 21-DOF Humanoid Dexterous Hand with Hybrid SMA-Motor Actuation: CYJ Hand-0**|Erbao Dong Team|[2507.14538](http://arxiv.org/abs/2507.14538)|null|
 |**2025-07-18**|**Improving Low-Cost Teleoperation: Augmenting GELLO with Force**|Kai Arulkumaran Team|[2507.13602](http://arxiv.org/abs/2507.13602)|null|
 |**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Jiming Chen Team|[2507.11840](http://arxiv.org/abs/2507.11840)|null|
@@ -2668,5 +2668,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250912>back to top</a>)</p>
 
