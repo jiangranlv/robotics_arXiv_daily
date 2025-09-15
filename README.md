@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**Self-Augmented Robot Trajectory: Efficient Imitation Learning via Safe Self-augmentation with Demonstrator-annotated Precision**|Yukiyasu Domae Team|[2509.09893](http://arxiv.org/abs/2509.09893)|null|
+|**2025-09-11**|**Off Policy Lyapunov Stability in Reinforcement Learning**|Daniela Constantinescu Team|[2509.09863](http://arxiv.org/abs/2509.09863)|null|
+|**2025-09-11**|**MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos**|Yuke Zhu Team|[2509.09769](http://arxiv.org/abs/2509.09769)|null|
 |**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
 |**2025-09-11**|**Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration**|Wei Yang Team|[2509.09671](http://arxiv.org/abs/2509.09671)|null|
 |**2025-09-11**|**A Neuromorphic Incipient Slip Detection System using Papillae Morphology**|Benjamin Ward-Cherrier Team|[2509.09546](http://arxiv.org/abs/2509.09546)|null|
@@ -826,6 +829,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-12**|**TASC: Task-Aware Shared Control for Teleoperated Manipulation**|Renaud Detry Team|[2509.10416](http://arxiv.org/abs/2509.10416)|null|
+|**2025-09-12**|**Towards Understanding Visual Grounding in Visual Language Models**|Eda B. Özyiğit Team|[2509.10345](http://arxiv.org/abs/2509.10345)|null|
+|**2025-09-12**|**Detecting Text Manipulation in Images using Vision Language Models**|Sébastien Marcel Team|[2509.10278](http://arxiv.org/abs/2509.10278)|**[link](https://www.idiap.ch/paper/textvlmdet/)**|
+|**2025-09-12**|**MagicMirror: A Large-Scale Dataset and Benchmark for Fine-Grained Artifacts Assessment in Text-to-Image Generation**|Xiaoming Wei Team|[2509.10260](http://arxiv.org/abs/2509.10260)|null|
+|**2025-09-12**|**Towards Reliable and Interpretable Document Question Answering via VLMs**|Simone Marinai Team|[2509.10129](http://arxiv.org/abs/2509.10129)|null|
+|**2025-09-12**|**VARCO-VISION-2.0 Technical Report**|Youngjune Kim Team|[2509.10105](http://arxiv.org/abs/2509.10105)|null|
+|**2025-09-12**|**Multimodal Mathematical Reasoning Embedded in Aerial Vehicle Imagery: Benchmarking, Analysis, and Exploration**|Wayne Zhang Team|[2509.10059](http://arxiv.org/abs/2509.10059)|null|
+|**2025-09-12**|**LaV-CoT: Language-Aware Visual CoT with Multi-Aspect Reward Optimization for Real-World Multilingual VQA**|Jianshu Li Team|[2509.10026](http://arxiv.org/abs/2509.10026)|null|
+|**2025-09-11**|**How well can LLMs provide planning feedback in grounded environments?**|Victor Zhong Team|[2509.09790](http://arxiv.org/abs/2509.09790)|null|
 |**2025-09-11**|**FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark**|Hongsheng Li Team|[2509.09680](http://arxiv.org/abs/2509.09680)|**[link](https://flux-reason-6m.github.io/)**|
 |**2025-09-11**|**Compositional Concept Generalization with Variational Quantum Circuits**|Mehrnoosh sadrzadeh Team|[2509.09541](http://arxiv.org/abs/2509.09541)|null|
 |**2025-09-11**|**Decoupling Clinical and Class-Agnostic Features for Reliable Few-Shot Adaptation under Shift**|Dwarikanath Mahapatra Team|[2509.09397](http://arxiv.org/abs/2509.09397)|null|
@@ -2408,6 +2420,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-12**|**Data-fused Model Predictive Control with Guarantees: Application to Flying Humanoid Robots**|Daniele Pucci Team|[2509.10353](http://arxiv.org/abs/2509.10353)|null|
+|**2025-09-11**|**MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos**|Yuke Zhu Team|[2509.09769](http://arxiv.org/abs/2509.09769)|null|
 |**2025-09-11**|**AGILOped: Agile Open-Source Humanoid Robot for Research**|Sven Behnke Team|[2509.09364](http://arxiv.org/abs/2509.09364)|null|
 |**2025-09-09**|**Attribute-based Object Grounding and Robot Grasp Detection with Spatial Reasoning**|Changhyun Choi Team|[2509.08126](http://arxiv.org/abs/2509.08126)|null|
 |**2025-09-09**|**Interactive Shaping of Granular Media Using Reinforcement Learning**|Maren Bennewitz Team|[2509.06469](http://arxiv.org/abs/2509.06469)|null|
