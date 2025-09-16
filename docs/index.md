@@ -9,6 +9,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**Deceptive Risk Minimization: Out-of-Distribution Generalization by Deceiving Distribution Shift Detectors**|Anirudha Majumdar Team|[2509.12081](http://arxiv.org/abs/2509.12081)|null|
+|**2025-09-15**|**Imitation Learning as Return Distribution Matching**|Alberto Maria Metelli Team|[2509.12026](http://arxiv.org/abs/2509.12026)|null|
+|**2025-09-15**|**Gesture-Based Robot Control Integrating Mm-wave Radar and Behavior Trees**|Stephan Sigg Team|[2509.12008](http://arxiv.org/abs/2509.12008)|null|
+|**2025-09-15**|**Learning to Generate 4D LiDAR Sequences**|Wei Tsang Ooi Team|[2509.11959](http://arxiv.org/abs/2509.11959)|**[link](https://lidarcrafter.github.io/)**|
+|**2025-09-15**|**Learning Representations in Video Game Agents with Supervised Contrastive Imitation Learning**|Tim Bradley Team|[2509.11880](http://arxiv.org/abs/2509.11880)|null|
+|**2025-09-15**|**Tenma: Robust Cross-Embodiment Robot Manipulation with Diffusion Transformer**|Luhui Hu Team|[2509.11865](http://arxiv.org/abs/2509.11865)|null|
+|**2025-09-15**|**TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning**|Donglin Wang Team|[2509.11839](http://arxiv.org/abs/2509.11839)|null|
+|**2025-09-15**|**Inference-stage Adaptation-projection Strategy Adapts Diffusion Policy to Cross-manipulators Scenarios**|Alois Knoll Team|[2509.11621](http://arxiv.org/abs/2509.11621)|null|
+|**2025-09-15**|**RAPTOR: A Foundation Policy for Quadrotor Control**|Giuseppe Loianno Team|[2509.11481](http://arxiv.org/abs/2509.11481)|null|
+|**2025-09-14**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
+|**2025-09-14**|**ActivePose: Active 6D Object Pose Estimation and Tracking for Robotic Manipulation**|Yizhao Wang Team|[2509.11364](http://arxiv.org/abs/2509.11364)|null|
+|**2025-09-14**|**MEMBOT: Memory-Based Robot in Intermittent POMDP**|Eyan Noronha Team|[2509.11225](http://arxiv.org/abs/2509.11225)|null|
+|**2025-09-14**|**SAMP: Spatial Anchor-based Motion Policy for Collision-Aware Robotic Manipulators**|Jun Ma Team|[2509.11185](http://arxiv.org/abs/2509.11185)|null|
+|**2025-09-14**|**ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations**|Jun Ma Team|[2509.11125](http://arxiv.org/abs/2509.11125)|null|
+|**2025-09-14**|**FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers**|Zhigong Song Team|[2509.11109](http://arxiv.org/abs/2509.11109)|null|
+|**2025-09-14**|**End-to-End Visual Autonomous Parking via Control-Aided Attention**|Chen Feng Team|[2509.11090](http://arxiv.org/abs/2509.11090)|null|
+|**2025-09-14**|**FragmentGPT: A Unified GPT Model for Fragment Growing, Linking, and Merging in Molecular Design**|Rick Stevens Team|[2509.11044](http://arxiv.org/abs/2509.11044)|null|
+|**2025-09-13**|**ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation**|Danfei Xu Team|[2509.10952](http://arxiv.org/abs/2509.10952)|null|
 |**2025-09-11**|**Self-Augmented Robot Trajectory: Efficient Imitation Learning via Safe Self-augmentation with Demonstrator-annotated Precision**|Yukiyasu Domae Team|[2509.09893](http://arxiv.org/abs/2509.09893)|null|
 |**2025-09-11**|**Off Policy Lyapunov Stability in Reinforcement Learning**|Daniela Constantinescu Team|[2509.09863](http://arxiv.org/abs/2509.09863)|null|
 |**2025-09-11**|**MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos**|Yuke Zhu Team|[2509.09769](http://arxiv.org/abs/2509.09769)|null|
@@ -820,6 +838,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**Open-ended Hierarchical Streaming Video Understanding with Vision Language Models**|Seon Joo Kim Team|[2509.12145](http://arxiv.org/abs/2509.12145)|null|
+|**2025-09-15**|**Look Again, Think Slowly: Enhancing Visual Reflection in Vision-Language Models**|Jiajun Zhang Team|[2509.12132](http://arxiv.org/abs/2509.12132)|null|
+|**2025-09-15**|**Embodied Navigation Foundation Model**|He Wang Team|[2509.12129](http://arxiv.org/abs/2509.12129)|**[link](https://pku-epic.github.io/NavFoM-Web/)**|
+|**2025-09-15**|**Lost in Embeddings: Information Loss in Vision-Language Models**|Anders Søgaard Team|[2509.11986](http://arxiv.org/abs/2509.11986)|null|
+|**2025-09-15**|**Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding**|Yijun Chen Team|[2509.11961](http://arxiv.org/abs/2509.11961)|null|
+|**2025-09-15**|**Bridging Vision Language Models and Symbolic Grounding for Video Question Answering**|Daisy Zhe Wang Team|[2509.11862](http://arxiv.org/abs/2509.11862)|null|
+|**2025-09-15**|**Synthetic Captions for Open-Vocabulary Zero-Shot Segmentation**|Michael Louis Iuzzolino Team|[2509.11840](http://arxiv.org/abs/2509.11840)|null|
+|**2025-09-15**|**SpecVLM: Fast Speculative Decoding in Vision-Language Models**|Emad Barsoum Team|[2509.11815](http://arxiv.org/abs/2509.11815)|null|
+|**2025-09-15**|**Igniting VLMs toward the Embodied Space**|Zach Xu Team|[2509.11766](http://arxiv.org/abs/2509.11766)|null|
+|**2025-09-15**|**EMeRALDS: Electronic Medical Record Driven Automated Lung Nodule Detection and Classification in Thoracic CT Images**|Syed Muhammad Anwar Team|[2509.11714](http://arxiv.org/abs/2509.11714)|null|
+|**2025-09-15**|**How Auxiliary Reasoning Unleashes GUI Grounding in VLMs**|Manni Duan Team|[2509.11548](http://arxiv.org/abs/2509.11548)|null|
+|**2025-09-15**|**LVLMs are Bad at Overhearing Human Referential Communication**|Susan E. Brennan Team|[2509.11514](http://arxiv.org/abs/2509.11514)|null|
+|**2025-09-14**|**CEMTM: Contextual Embedding-based Multimodal Topic Modeling**|Giuseppe Carenini Team|[2509.11465](http://arxiv.org/abs/2509.11465)|null|
+|**2025-09-14**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
+|**2025-09-14**|**ActivePose: Active 6D Object Pose Estimation and Tracking for Robotic Manipulation**|Yizhao Wang Team|[2509.11364](http://arxiv.org/abs/2509.11364)|null|
+|**2025-09-14**|**Mitigating Hallucinations in Large Vision-Language Models by Self-Injecting Hallucinations**|Weiming Hu Team|[2509.11287](http://arxiv.org/abs/2509.11287)|null|
+|**2025-09-14**|**The System Description of CPS Team for Track on Driving with Language of CVPR 2024 Autonomous Grand Challenge**|Dehui Du Team|[2509.11071](http://arxiv.org/abs/2509.11071)|null|
+|**2025-09-14**|**ViScratch: Using Large Language Models and Gameplay Videos for Automated Feedback in Scratch**|Jialu Zhang Team|[2509.11065](http://arxiv.org/abs/2509.11065)|null|
+|**2025-09-13**|**Language-based Color ISP Tuning**|Jiro Takatori Team|[2509.10765](http://arxiv.org/abs/2509.10765)|null|
 |**2025-09-12**|**TASC: Task-Aware Shared Control for Teleoperated Manipulation**|Renaud Detry Team|[2509.10416](http://arxiv.org/abs/2509.10416)|null|
 |**2025-09-12**|**Towards Understanding Visual Grounding in Visual Language Models**|Eda B. Özyiğit Team|[2509.10345](http://arxiv.org/abs/2509.10345)|null|
 |**2025-09-12**|**Detecting Text Manipulation in Images using Vision Language Models**|Sébastien Marcel Team|[2509.10278](http://arxiv.org/abs/2509.10278)|**[link](https://www.idiap.ch/paper/textvlmdet/)**|
@@ -2193,6 +2230,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs**|Yanzhi Wang Team|[2509.11480](http://arxiv.org/abs/2509.11480)|null|
+|**2025-09-14**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
 |**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
 |**2025-09-11**|**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**|Donglin Wang Team|[2509.09372](http://arxiv.org/abs/2509.09372)|null|
 |**2025-09-11**|**SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models**|Huanrui Yang Team|[2509.09090](http://arxiv.org/abs/2509.09090)|null|
@@ -2407,6 +2446,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-14**|**Quantum deep reinforcement learning for humanoid robot navigation task**|Ahmed Biyabani Team|[2509.11388](http://arxiv.org/abs/2509.11388)|null|
+|**2025-09-14**|**FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers**|Zhigong Song Team|[2509.11109](http://arxiv.org/abs/2509.11109)|null|
 |**2025-09-12**|**Data-fused Model Predictive Control with Guarantees: Application to Flying Humanoid Robots**|Daniele Pucci Team|[2509.10353](http://arxiv.org/abs/2509.10353)|null|
 |**2025-09-11**|**MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos**|Yuke Zhu Team|[2509.09769](http://arxiv.org/abs/2509.09769)|null|
 |**2025-09-11**|**AGILOped: Agile Open-Source Humanoid Robot for Research**|Sven Behnke Team|[2509.09364](http://arxiv.org/abs/2509.09364)|null|
