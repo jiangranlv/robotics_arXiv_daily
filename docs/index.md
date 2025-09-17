@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.16
+## Updated on 2025.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -23,7 +23,7 @@ layout: default
 |**2025-09-14**|**MEMBOT: Memory-Based Robot in Intermittent POMDP**|Eyan Noronha Team|[2509.11225](http://arxiv.org/abs/2509.11225)|null|
 |**2025-09-14**|**SAMP: Spatial Anchor-based Motion Policy for Collision-Aware Robotic Manipulators**|Jun Ma Team|[2509.11185](http://arxiv.org/abs/2509.11185)|null|
 |**2025-09-14**|**ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations**|Jun Ma Team|[2509.11125](http://arxiv.org/abs/2509.11125)|null|
-|**2025-09-14**|**FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers**|Zhigong Song Team|[2509.11109](http://arxiv.org/abs/2509.11109)|null|
+|**2025-09-16**|**FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers**|Zhigong Song Team|[2509.11109](http://arxiv.org/abs/2509.11109)|null|
 |**2025-09-14**|**End-to-End Visual Autonomous Parking via Control-Aided Attention**|Chen Feng Team|[2509.11090](http://arxiv.org/abs/2509.11090)|null|
 |**2025-09-14**|**FragmentGPT: A Unified GPT Model for Fragment Growing, Linking, and Merging in Molecular Design**|Rick Stevens Team|[2509.11044](http://arxiv.org/abs/2509.11044)|null|
 |**2025-09-13**|**ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation**|Danfei Xu Team|[2509.10952](http://arxiv.org/abs/2509.10952)|null|
@@ -2447,8 +2447,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-14**|**Quantum deep reinforcement learning for humanoid robot navigation task**|Ahmed Biyabani Team|[2509.11388](http://arxiv.org/abs/2509.11388)|null|
-|**2025-09-14**|**FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers**|Zhigong Song Team|[2509.11109](http://arxiv.org/abs/2509.11109)|null|
-|**2025-09-12**|**Data-fused Model Predictive Control with Guarantees: Application to Flying Humanoid Robots**|Daniele Pucci Team|[2509.10353](http://arxiv.org/abs/2509.10353)|null|
+|**2025-09-16**|**FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers**|Zhigong Song Team|[2509.11109](http://arxiv.org/abs/2509.11109)|null|
+|**2025-09-16**|**Data-fused Model Predictive Control with Guarantees: Application to Flying Humanoid Robots**|Daniele Pucci Team|[2509.10353](http://arxiv.org/abs/2509.10353)|null|
 |**2025-09-11**|**MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos**|Yuke Zhu Team|[2509.09769](http://arxiv.org/abs/2509.09769)|null|
 |**2025-09-11**|**AGILOped: Agile Open-Source Humanoid Robot for Research**|Sven Behnke Team|[2509.09364](http://arxiv.org/abs/2509.09364)|null|
 |**2025-09-09**|**Attribute-based Object Grounding and Robot Grasp Detection with Spatial Reasoning**|Changhyun Choi Team|[2509.08126](http://arxiv.org/abs/2509.08126)|null|
