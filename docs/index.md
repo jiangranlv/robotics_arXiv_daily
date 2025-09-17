@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
+|**2025-09-16**|**A Design Co-Pilot for Task-Tailored Manipulators**|Matthias Althoff Team|[2509.13077](http://arxiv.org/abs/2509.13077)|null|
+|**2025-09-16**|**Deep Learning for Model-Free Prediction of Thermal States of Robot Joint Motors**|Eric Guiffo Kaigom Team|[2509.12739](http://arxiv.org/abs/2509.12739)|null|
+|**2025-09-16**|**Safety filtering of robotic manipulation under environment uncertainty: a computational approach**|Martin Servin Team|[2509.12674](http://arxiv.org/abs/2509.12674)|null|
+|**2025-09-16**|**ActiveVLN: Towards Active Exploration via Multi-Turn RL in Vision-and-Language Navigation**|Feng Zheng Team|[2509.12618](http://arxiv.org/abs/2509.12618)|null|
+|**2025-09-16**|**Robust Online Residual Refinement via Koopman-Guided Dynamics Modeling**|Donglin Wang Team|[2509.12562](http://arxiv.org/abs/2509.12562)|null|
+|**2025-09-16**|**Pre-trained Visual Representations Generalize Where it Matters in Model-Based Reinforcement Learning**|Sebastian W. Pattinson Team|[2509.12531](http://arxiv.org/abs/2509.12531)|null|
+|**2025-09-15**|**Geometric Red-Teaming for Robotic Manipulation**|Zackory Erickson Team|[2509.12379](http://arxiv.org/abs/2509.12379)|null|
 |**2025-09-15**|**Deceptive Risk Minimization: Out-of-Distribution Generalization by Deceiving Distribution Shift Detectors**|Anirudha Majumdar Team|[2509.12081](http://arxiv.org/abs/2509.12081)|null|
 |**2025-09-15**|**Imitation Learning as Return Distribution Matching**|Alberto Maria Metelli Team|[2509.12026](http://arxiv.org/abs/2509.12026)|null|
 |**2025-09-15**|**Gesture-Based Robot Control Integrating Mm-wave Radar and Behavior Trees**|Stephan Sigg Team|[2509.12008](http://arxiv.org/abs/2509.12008)|null|
@@ -838,6 +846,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**3D Aware Region Prompted Vision Language Model**|Sifei Liu Team|[2509.13317](http://arxiv.org/abs/2509.13317)|**[link](https://www.anjiecheng.me/sr3d)**|
+|**2025-09-16**|**Image Realness Assessment and Localization with Multimodal Features**|Somdyuti Paul Team|[2509.13289](http://arxiv.org/abs/2509.13289)|null|
+|**2025-09-16**|**ChartGaze: Enhancing Chart Understanding in LVLMs with Eye-Tracking Guided Attention Refinement**|Giuseppe Carenini Team|[2509.13282](http://arxiv.org/abs/2509.13282)|null|
+|**2025-09-16**|**RadGame: An AI-Powered Platform for Radiology Education**|Pranav Rajpurkar Team|[2509.13270](http://arxiv.org/abs/2509.13270)|null|
+|**2025-09-16**|**HERO: Rethinking Visual Token Early Dropping in High-Resolution Large Vision-Language Models**|Xiangyang Xue Team|[2509.13067](http://arxiv.org/abs/2509.13067)|null|
+|**2025-09-16**|**Perception Before Reasoning: Two-Stage Reinforcement Learning for Visual Reasoning in Vision-Language Models**|Jingdong Wang Team|[2509.13031](http://arxiv.org/abs/2509.13031)|null|
+|**2025-09-16**|**Cross-Layer Vision Smoothing: Enhancing Visual Understanding via Sustained Focus on Key Objects in Large Vision-Language Models**|Chong Feng Team|[2509.12897](http://arxiv.org/abs/2509.12897)|null|
+|**2025-09-16**|**Benchmarking and Improving LVLMs on Event Extraction from Multimedia Documents**|Haiyang Zhang Team|[2509.12876](http://arxiv.org/abs/2509.12876)|null|
+|**2025-09-16**|**Defense-to-Attack: Bypassing Weak Defenses Enables Stronger Jailbreaks in Vision-Language Models**|Xingjun Ma Team|[2509.12724](http://arxiv.org/abs/2509.12724)|null|
+|**2025-09-16**|**AsyMoE: Leveraging Modal Asymmetry for Enhanced Expert Specialization in Large Vision-Language Models**|Jin Huang Team|[2509.12715](http://arxiv.org/abs/2509.12715)|null|
+|**2025-09-15**|**Evaluating Robustness of Vision-Language Models Under Noisy Conditions**|Alireza Team|[2509.12492](http://arxiv.org/abs/2509.12492)|null|
+|**2025-09-15**|**An integrated process for design and control of lunar robotics using AI and simulation**|Martin Servin Team|[2509.12367](http://arxiv.org/abs/2509.12367)|null|
 |**2025-09-15**|**Open-ended Hierarchical Streaming Video Understanding with Vision Language Models**|Seon Joo Kim Team|[2509.12145](http://arxiv.org/abs/2509.12145)|null|
 |**2025-09-15**|**Look Again, Think Slowly: Enhancing Visual Reflection in Vision-Language Models**|Jiajun Zhang Team|[2509.12132](http://arxiv.org/abs/2509.12132)|null|
 |**2025-09-15**|**Embodied Navigation Foundation Model**|He Wang Team|[2509.12129](http://arxiv.org/abs/2509.12129)|**[link](https://pku-epic.github.io/NavFoM-Web/)**|
@@ -2230,6 +2250,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning**|Xianpeng Lang Team|[2509.12594](http://arxiv.org/abs/2509.12594)|**[link](https://liauto-research.github.io/LightVLA)**|
 |**2025-09-15**|**Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs**|Yanzhi Wang Team|[2509.11480](http://arxiv.org/abs/2509.11480)|null|
 |**2025-09-14**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
 |**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
@@ -2446,6 +2467,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
 |**2025-09-14**|**Quantum deep reinforcement learning for humanoid robot navigation task**|Ahmed Biyabani Team|[2509.11388](http://arxiv.org/abs/2509.11388)|null|
 |**2025-09-16**|**FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers**|Zhigong Song Team|[2509.11109](http://arxiv.org/abs/2509.11109)|null|
 |**2025-09-16**|**Data-fused Model Predictive Control with Guarantees: Application to Flying Humanoid Robots**|Daniele Pucci Team|[2509.10353](http://arxiv.org/abs/2509.10353)|null|
@@ -2458,6 +2480,7 @@ layout: default
 |**2025-09-03**|**The Role of Embodiment in Intuitive Whole-Body Teleoperation for Mobile Manipulation**|Georgia Chalvatzaki Team|[2509.03222](http://arxiv.org/abs/2509.03222)|null|
 |**2025-09-01**|**ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training**|Dieter Fox Team|[2509.01819](http://arxiv.org/abs/2509.01819)|null|
 |**2025-09-04**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|S. Shankar Sastry Team|[2508.21043](http://arxiv.org/abs/2508.21043)|null|
+|**2025-09-16**|**Traversing the Narrow Path: A Two-Stage Reinforcement Learning Framework for Humanoid Beam Walking**|Shiwu Zhang Team|[2508.20661](http://arxiv.org/abs/2508.20661)|**[link](https://huangtc233.github.io/Traversing-the-Narrow-Path/)**|
 |**2025-08-26**|**HuBE: Cross-Embodiment Human-like Behavior Execution for Humanoid Robots**|Guodong Guo Team|[2508.19002](http://arxiv.org/abs/2508.19002)|null|
 |**2025-08-21**|**PriorFormer: A Transformer for Real-time Monocular 3D Human Pose Estimation with Versatile Geometric Priors**|Vincent Bonnet Team|[2508.18238](http://arxiv.org/abs/2508.18238)|null|
 |**2025-09-01**|**SoK: Cybersecurity Assessment of Humanoid Ecosystem**|Yuval Elovici Team|[2508.17481](http://arxiv.org/abs/2508.17481)|null|
@@ -2615,6 +2638,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five**|Robert K. Katzschmann Team|[2509.13074](http://arxiv.org/abs/2509.13074)|null|
+|**2025-09-16**|**MoiréTac: A Dual-Mode Visuotactile Sensor for Multidimensional Perception Using Moiré Pattern Amplification**|Wenbo Ding Team|[2509.12714](http://arxiv.org/abs/2509.12714)|null|
 |**2025-09-11**|**Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration**|Wei Yang Team|[2509.09671](http://arxiv.org/abs/2509.09671)|null|
 |**2025-09-10**|**Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration**|Huimin Lu Team|[2509.08354](http://arxiv.org/abs/2509.08354)|null|
 |**2025-09-09**|**Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions**|Nathan F. Lepora Team|[2509.07445](http://arxiv.org/abs/2509.07445)|null|
