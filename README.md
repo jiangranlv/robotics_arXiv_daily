@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-17**|**MIMIC-D: Multi-modal Imitation for MultI-agent Coordination with Decentralized Diffusion Policies**|Negar Mehr Team|[2509.14159](http://arxiv.org/abs/2509.14159)|null|
+|**2025-09-17**|**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**|Yiming Feng Team|[2509.14138](http://arxiv.org/abs/2509.14138)|null|
+|**2025-09-17**|**PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models**|Dzmitry Tsetserukou Team|[2509.13903](http://arxiv.org/abs/2509.13903)|null|
+|**2025-09-17**|**Dual-Actor Fine-Tuning of VLA Models: A Talk-and-Tweak Human-in-the-Loop Approach**|Yangwei You Team|[2509.13774](http://arxiv.org/abs/2509.13774)|null|
+|**2025-09-17**|**Motion Adaptation Across Users and Tasks for Exoskeletons via Meta-Learning**|Houcheng Li Team|[2509.13736](http://arxiv.org/abs/2509.13736)|null|
+|**2025-09-17**|**Reinforcement Learning for Robotic Insertion of Flexible Cables in Industrial Settings**|Changjoo Nam Team|[2509.13731](http://arxiv.org/abs/2509.13731)|null|
+|**2025-09-17**|**HGACNet: Hierarchical Graph Attention Network for Cross-Modal Point Cloud Completion**|I-Ming Chen Team|[2509.13692](http://arxiv.org/abs/2509.13692)|null|
+|**2025-09-16**|**TreeIRL: Safe Urban Driving with Tree Search and Inverse Reinforcement Learning**|Yunqing Hu Team|[2509.13579](http://arxiv.org/abs/2509.13579)|null|
 |**2025-09-16**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
 |**2025-09-16**|**A Design Co-Pilot for Task-Tailored Manipulators**|Matthias Althoff Team|[2509.13077](http://arxiv.org/abs/2509.13077)|null|
 |**2025-09-16**|**Deep Learning for Model-Free Prediction of Thermal States of Robot Joint Motors**|Eric Guiffo Kaigom Team|[2509.12739](http://arxiv.org/abs/2509.12739)|null|
@@ -855,6 +863,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-17**|**Cinéaste: A Fine-grained Contextual Movie Question Answering Benchmark**|Vishal M. Patel Team|[2509.14227](http://arxiv.org/abs/2509.14227)|null|
+|**2025-09-17**|**TGPO: Tree-Guided Preference Optimization for Robust Web Agent Reinforcement Learning**|Guitao Cao Team|[2509.14172](http://arxiv.org/abs/2509.14172)|null|
+|**2025-09-17**|**VSE-MOT: Multi-Object Tracking in Low-Quality Video Scenes Guided by Visual Semantic Enhancement**|Fei Richard Yu Team|[2509.14060](http://arxiv.org/abs/2509.14060)|null|
+|**2025-09-17**|**Can Current AI Models Count What We Mean, Not What They See? A Benchmark and Systematic Evaluation**|Minh Hoai Team|[2509.13939](http://arxiv.org/abs/2509.13939)|null|
+|**2025-09-17**|**Towards Rationale-Answer Alignment of LVLMs via Self-Rationale Calibration**|Xiaoqiang Li Team|[2509.13919](http://arxiv.org/abs/2509.13919)|null|
+|**2025-09-17**|**EDITS: Enhancing Dataset Distillation with Implicit Textual Semantics**|Jielei Wang Team|[2509.13858](http://arxiv.org/abs/2509.13858)|null|
+|**2025-09-17**|**Diving into Mitigating Hallucinations from a Vision Perspective for Large Vision-Language Models**|Longwen Gao Team|[2509.13836](http://arxiv.org/abs/2509.13836)|null|
+|**2025-09-17**|**Iterative Prompt Refinement for Safer Text-to-Image Generation**|Byung-Jun Lee Team|[2509.13760](http://arxiv.org/abs/2509.13760)|null|
+|**2025-09-17**|**Reinforcement Learning for Robotic Insertion of Flexible Cables in Industrial Settings**|Changjoo Nam Team|[2509.13731](http://arxiv.org/abs/2509.13731)|null|
+|**2025-09-17**|**DREAM: Domain-aware Reasoning for Efficient Autonomous Underwater Monitoring**|Xiaomin Lin Team|[2509.13666](http://arxiv.org/abs/2509.13666)|null|
+|**2025-09-16**|**Intelligent Healthcare Imaging Platform An VLM-Based Framework for Automated Medical Image Analysis and Clinical Report Generation**|Samer Al-Hamadani Team|[2509.13590](http://arxiv.org/abs/2509.13590)|null|
+|**2025-09-16**|**Using Visual Language Models to Control Bionic Hands: Assessment of Object Perception and Grasp Inference**|Cedomir Stefanovic Team|[2509.13572](http://arxiv.org/abs/2509.13572)|null|
+|**2025-09-16**|**EdiVal-Agent: An Object-Centric Framework for Automated, Scalable, Fine-Grained Evaluation of Multi-Turn Editing**|Mingyuan Zhou Team|[2509.13399](http://arxiv.org/abs/2509.13399)|null|
 |**2025-09-16**|**3D Aware Region Prompted Vision Language Model**|Sifei Liu Team|[2509.13317](http://arxiv.org/abs/2509.13317)|**[link](https://www.anjiecheng.me/sr3d)**|
 |**2025-09-16**|**Image Realness Assessment and Localization with Multimodal Features**|Somdyuti Paul Team|[2509.13289](http://arxiv.org/abs/2509.13289)|null|
 |**2025-09-16**|**ChartGaze: Enhancing Chart Understanding in LVLMs with Eye-Tracking Guided Attention Refinement**|Giuseppe Carenini Team|[2509.13282](http://arxiv.org/abs/2509.13282)|null|
@@ -2261,7 +2282,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-17**|**CLAW: A Vision-Language-Action Framework for Weight-Aware Robotic Grasping**|Lifeng Zhou Team|[2509.14143](http://arxiv.org/abs/2509.14143)|null|
+|**2025-09-17**|**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**|Yiming Feng Team|[2509.14138](http://arxiv.org/abs/2509.14138)|null|
+|**2025-09-17**|**GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model**|Dezhen Song Team|[2509.14117](http://arxiv.org/abs/2509.14117)|null|
+|**2025-09-17**|**Dual-Actor Fine-Tuning of VLA Models: A Talk-and-Tweak Human-in-the-Loop Approach**|Yangwei You Team|[2509.13774](http://arxiv.org/abs/2509.13774)|null|
+|**2025-09-17**|**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**|Zhi-xin Yang Team|[2509.13769](http://arxiv.org/abs/2509.13769)|null|
+|**2025-09-13**|**OpenHA: A Series of Open-Source Hierarchical Agentic Models in Minecraft**|Yitao Liang Team|[2509.13347](http://arxiv.org/abs/2509.13347)|null|
 |**2025-09-16**|**The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning**|Xianpeng Lang Team|[2509.12594](http://arxiv.org/abs/2509.12594)|**[link](https://liauto-research.github.io/LightVLA)**|
+|**2025-09-17**|**TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning**|Donglin Wang Team|[2509.11839](http://arxiv.org/abs/2509.11839)|null|
 |**2025-09-15**|**Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs**|Yanzhi Wang Team|[2509.11480](http://arxiv.org/abs/2509.11480)|null|
 |**2025-09-17**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
 |**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
@@ -2480,6 +2508,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-17**|**Cybersecurity AI: Humanoid Robots as Attack Vectors**|Víctor Mayoral-Vilches Team|[2509.14139](http://arxiv.org/abs/2509.14139)|null|
+|**2025-09-17**|**The Cybersecurity of a Humanoid Robot**|Víctor Mayoral-Vilches Team|[2509.14096](http://arxiv.org/abs/2509.14096)|null|
+|**2025-09-17**|**Behavior Foundation Model for Humanoid Robots**|Jiangmiao Pang Team|[2509.13780](http://arxiv.org/abs/2509.13780)|null|
+|**2025-09-17**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Zhizhong Su Team|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
+|**2025-09-16**|**Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning**|Jun Ma Team|[2509.13534](http://arxiv.org/abs/2509.13534)|null|
 |**2025-09-16**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
 |**2025-09-14**|**Quantum deep reinforcement learning for humanoid robot navigation task**|Ahmed Biyabani Team|[2509.11388](http://arxiv.org/abs/2509.11388)|null|
 |**2025-09-16**|**FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers**|Zhigong Song Team|[2509.11109](http://arxiv.org/abs/2509.11109)|null|
@@ -2653,6 +2686,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-16**|**\textsc{Gen2Real}: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video**|Rui Huang Team|[2509.14178](http://arxiv.org/abs/2509.14178)|null|
+|**2025-09-17**|**Whole-body Motion Control of an Omnidirectional Wheel-Legged Mobile Manipulator via Contact-Aware Dynamic Optimization**|Yiqun Li Team|[2509.14010](http://arxiv.org/abs/2509.14010)|null|
 |**2025-09-16**|**Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five**|Robert K. Katzschmann Team|[2509.13074](http://arxiv.org/abs/2509.13074)|null|
 |**2025-09-16**|**MoiréTac: A Dual-Mode Visuotactile Sensor for Multidimensional Perception Using Moiré Pattern Amplification**|Wenbo Ding Team|[2509.12714](http://arxiv.org/abs/2509.12714)|null|
 |**2025-09-11**|**Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration**|Wei Yang Team|[2509.09671](http://arxiv.org/abs/2509.09671)|null|
