@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.17
+## Updated on 2025.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -23,10 +23,10 @@ layout: default
 |**2025-09-15**|**Learning to Generate 4D LiDAR Sequences**|Wei Tsang Ooi Team|[2509.11959](http://arxiv.org/abs/2509.11959)|**[link](https://lidarcrafter.github.io/)**|
 |**2025-09-15**|**Learning Representations in Video Game Agents with Supervised Contrastive Imitation Learning**|Tim Bradley Team|[2509.11880](http://arxiv.org/abs/2509.11880)|null|
 |**2025-09-15**|**Tenma: Robust Cross-Embodiment Robot Manipulation with Diffusion Transformer**|Luhui Hu Team|[2509.11865](http://arxiv.org/abs/2509.11865)|null|
-|**2025-09-15**|**TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning**|Donglin Wang Team|[2509.11839](http://arxiv.org/abs/2509.11839)|null|
+|**2025-09-17**|**TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning**|Donglin Wang Team|[2509.11839](http://arxiv.org/abs/2509.11839)|null|
 |**2025-09-15**|**Inference-stage Adaptation-projection Strategy Adapts Diffusion Policy to Cross-manipulators Scenarios**|Alois Knoll Team|[2509.11621](http://arxiv.org/abs/2509.11621)|null|
 |**2025-09-15**|**RAPTOR: A Foundation Policy for Quadrotor Control**|Giuseppe Loianno Team|[2509.11481](http://arxiv.org/abs/2509.11481)|null|
-|**2025-09-14**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
+|**2025-09-17**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
 |**2025-09-14**|**ActivePose: Active 6D Object Pose Estimation and Tracking for Robotic Manipulation**|Yizhao Wang Team|[2509.11364](http://arxiv.org/abs/2509.11364)|null|
 |**2025-09-14**|**MEMBOT: Memory-Based Robot in Intermittent POMDP**|Eyan Noronha Team|[2509.11225](http://arxiv.org/abs/2509.11225)|null|
 |**2025-09-14**|**SAMP: Spatial Anchor-based Motion Policy for Collision-Aware Robotic Manipulators**|Jun Ma Team|[2509.11185](http://arxiv.org/abs/2509.11185)|null|
@@ -860,7 +860,7 @@ layout: default
 |**2025-09-15**|**An integrated process for design and control of lunar robotics using AI and simulation**|Martin Servin Team|[2509.12367](http://arxiv.org/abs/2509.12367)|null|
 |**2025-09-15**|**Open-ended Hierarchical Streaming Video Understanding with Vision Language Models**|Seon Joo Kim Team|[2509.12145](http://arxiv.org/abs/2509.12145)|null|
 |**2025-09-15**|**Look Again, Think Slowly: Enhancing Visual Reflection in Vision-Language Models**|Jiajun Zhang Team|[2509.12132](http://arxiv.org/abs/2509.12132)|null|
-|**2025-09-15**|**Embodied Navigation Foundation Model**|He Wang Team|[2509.12129](http://arxiv.org/abs/2509.12129)|**[link](https://pku-epic.github.io/NavFoM-Web/)**|
+|**2025-09-16**|**Embodied Navigation Foundation Model**|He Wang Team|[2509.12129](http://arxiv.org/abs/2509.12129)|**[link](https://pku-epic.github.io/NavFoM-Web/)**|
 |**2025-09-15**|**Lost in Embeddings: Information Loss in Vision-Language Models**|Anders Søgaard Team|[2509.11986](http://arxiv.org/abs/2509.11986)|null|
 |**2025-09-15**|**Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding**|Yijun Chen Team|[2509.11961](http://arxiv.org/abs/2509.11961)|null|
 |**2025-09-15**|**Bridging Vision Language Models and Symbolic Grounding for Video Question Answering**|Daisy Zhe Wang Team|[2509.11862](http://arxiv.org/abs/2509.11862)|null|
@@ -2252,7 +2252,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-16**|**The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning**|Xianpeng Lang Team|[2509.12594](http://arxiv.org/abs/2509.12594)|**[link](https://liauto-research.github.io/LightVLA)**|
 |**2025-09-15**|**Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs**|Yanzhi Wang Team|[2509.11480](http://arxiv.org/abs/2509.11480)|null|
-|**2025-09-14**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
+|**2025-09-17**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
 |**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
 |**2025-09-11**|**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**|Donglin Wang Team|[2509.09372](http://arxiv.org/abs/2509.09372)|null|
 |**2025-09-11**|**SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models**|Huanrui Yang Team|[2509.09090](http://arxiv.org/abs/2509.09090)|null|
