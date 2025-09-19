@@ -9,6 +9,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation**|Xin Li Team|[2509.15212](http://arxiv.org/abs/2509.15212)|**[link](https://github.com/alibaba-damo-academy/RynnVLA-001)**|
+|**2025-09-18**|**Self-Improving Embodied Foundation Models**|Igor Mordatch Team|[2509.15155](http://arxiv.org/abs/2509.15155)|null|
+|**2025-09-18**|**A Nonlinear Scaling-based Design of Control Lyapunov-barrier Function for Relative Degree 2 Case and its Application to Safe Feedback Linearization**|Gyunghoon Park Team|[2509.15071](http://arxiv.org/abs/2509.15071)|null|
+|**2025-09-18**|**Reinforcement Learning Agent for a 2D Shooter Game**|Hamza A. A. Gardi Team|[2509.15042](http://arxiv.org/abs/2509.15042)|null|
+|**2025-09-18**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|Yasuhisa Hasegawa Team|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
+|**2025-09-18**|**Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale**|Florian Walter Team|[2509.14932](http://arxiv.org/abs/2509.14932)|null|
+|**2025-09-18**|**exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation**|Yong-Lu Li Team|[2509.14688](http://arxiv.org/abs/2509.14688)|null|
+|**2025-09-18**|**SimCoachCorpus: A naturalistic dataset with language and trajectories for embodied teaching**|Guy Rosman Team|[2509.14548](http://arxiv.org/abs/2509.14548)|null|
+|**2025-09-18**|**Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking**|Chen Peng Team|[2509.14530](http://arxiv.org/abs/2509.14530)|null|
+|**2025-09-17**|**Learning Discrete Abstractions for Visual Rearrangement Tasks Using Vision-Guided Graph Coloring**|Constantinos Chamzas Team|[2509.14460](http://arxiv.org/abs/2509.14460)|null|
+|**2025-09-17**|**LeVR: A Modular VR Teleoperation Framework for Imitation Learning in Dexterous Manipulation**|Han Liu Team|[2509.14349](http://arxiv.org/abs/2509.14349)|null|
 |**2025-09-17**|**MIMIC-D: Multi-modal Imitation for MultI-agent Coordination with Decentralized Diffusion Policies**|Negar Mehr Team|[2509.14159](http://arxiv.org/abs/2509.14159)|null|
 |**2025-09-17**|**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**|Yiming Feng Team|[2509.14138](http://arxiv.org/abs/2509.14138)|null|
 |**2025-09-17**|**PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models**|Dzmitry Tsetserukou Team|[2509.13903](http://arxiv.org/abs/2509.13903)|null|
@@ -854,6 +865,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**Calibration-Aware Prompt Learning for Medical Vision-Language Models**|Muhammad Haris Khan Team|[2509.15226](http://arxiv.org/abs/2509.15226)|null|
+|**2025-09-18**|**ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data**|Wenhai Wang Team|[2509.15221](http://arxiv.org/abs/2509.15221)|null|
+|**2025-09-18**|**What's the Best Way to Retrieve Slides? A Comparative Study of Multimodal, Caption-Based, and Hybrid Retrieval Techniques**|Grigorios Tsoumakas Team|[2509.15211](http://arxiv.org/abs/2509.15211)|null|
+|**2025-09-18**|**MedFact-R1: Towards Factual Medical Reasoning via Pseudo-Label Augmentation**|Guodong Ding Team|[2509.15154](http://arxiv.org/abs/2509.15154)|null|
+|**2025-09-18**|**Forecasting and Visualizing Air Quality from Sky Images with Vision-Language Models**|Yanqing Zhang Team|[2509.15076](http://arxiv.org/abs/2509.15076)|null|
+|**2025-09-18**|**QuizRank: Picking Images by Quizzing VLMs**|Eytan Adar Team|[2509.15059](http://arxiv.org/abs/2509.15059)|null|
+|**2025-09-18**|**PRISM: Product Retrieval In Shopping Carts using Hybrid Matching**|Jiajing Chen Team|[2509.14985](http://arxiv.org/abs/2509.14985)|null|
+|**2025-09-18**|**EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal Ultrasound Intelligence**|Qinghua Huang Team|[2509.14977](http://arxiv.org/abs/2509.14977)|null|
+|**2025-09-18**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|Yasuhisa Hasegawa Team|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
+|**2025-09-18**|**MARIC: Multi-Agent Reasoning for Image Classification**|Seunghyun Lee Team|[2509.14860](http://arxiv.org/abs/2509.14860)|null|
+|**2025-09-18**|**V-SEAM: Visual Semantic Editing and Attention Modulating for Causal Interpretability of Vision-Language Models**|Ming Jiang Team|[2509.14837](http://arxiv.org/abs/2509.14837)|null|
+|**2025-09-18**|**Frame Sampling Strategies Matter: A Benchmark for small vision language models**|Mounim A. El Yacoubi Team|[2509.14769](http://arxiv.org/abs/2509.14769)|null|
+|**2025-09-18**|**Do Vision-Language Models See Urban Scenes as People Do? An Urban Perception Benchmark**|Rashid Mushkani Team|[2509.14574](http://arxiv.org/abs/2509.14574)|null|
+|**2025-09-18**|**VisMoDAl: Visual Analytics for Evaluating and Improving Corruption Robustness of Vision-Language Models**|Yuxin Ma Team|[2509.14571](http://arxiv.org/abs/2509.14571)|null|
+|**2025-09-17**|**CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks**|Negar Mehr Team|[2509.14380](http://arxiv.org/abs/2509.14380)|null|
 |**2025-09-17**|**Cinéaste: A Fine-grained Contextual Movie Question Answering Benchmark**|Vishal M. Patel Team|[2509.14227](http://arxiv.org/abs/2509.14227)|null|
 |**2025-09-17**|**TGPO: Tree-Guided Preference Optimization for Robust Web Agent Reinforcement Learning**|Guitao Cao Team|[2509.14172](http://arxiv.org/abs/2509.14172)|null|
 |**2025-09-17**|**VSE-MOT: Multi-Object Tracking in Low-Quality Video Scenes Guided by Visual Semantic Enhancement**|Fei Richard Yu Team|[2509.14060](http://arxiv.org/abs/2509.14060)|null|
@@ -2271,6 +2297,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation**|Xin Li Team|[2509.15212](http://arxiv.org/abs/2509.15212)|**[link](https://github.com/alibaba-damo-academy/RynnVLA-001)**|
+|**2025-09-18**|**Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale**|Florian Walter Team|[2509.14932](http://arxiv.org/abs/2509.14932)|null|
+|**2025-09-18**|**CollabVLA: Self-Reflective Vision-Language-Action Model Dreaming Together with Human**|Huaping Liu Team|[2509.14889](http://arxiv.org/abs/2509.14889)|null|
+|**2025-09-18**|**RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI**|Tao Shen Team|[2509.14687](http://arxiv.org/abs/2509.14687)|null|
+|**2025-09-18**|**Toward Embodiment Equivariant Vision-Language-Action Policy**|Yue Wang Team|[2509.14630](http://arxiv.org/abs/2509.14630)|null|
 |**2025-09-17**|**CLAW: A Vision-Language-Action Framework for Weight-Aware Robotic Grasping**|Lifeng Zhou Team|[2509.14143](http://arxiv.org/abs/2509.14143)|null|
 |**2025-09-17**|**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**|Yiming Feng Team|[2509.14138](http://arxiv.org/abs/2509.14138)|null|
 |**2025-09-17**|**GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model**|Dezhen Song Team|[2509.14117](http://arxiv.org/abs/2509.14117)|null|
@@ -2495,6 +2526,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids**|Daniele Pucci Team|[2509.14935](http://arxiv.org/abs/2509.14935)|null|
+|**2025-09-18**|**RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI**|Tao Shen Team|[2509.14687](http://arxiv.org/abs/2509.14687)|null|
 |**2025-09-17**|**Cybersecurity AI: Humanoid Robots as Attack Vectors**|Víctor Mayoral-Vilches Team|[2509.14139](http://arxiv.org/abs/2509.14139)|null|
 |**2025-09-17**|**The Cybersecurity of a Humanoid Robot**|Víctor Mayoral-Vilches Team|[2509.14096](http://arxiv.org/abs/2509.14096)|null|
 |**2025-09-17**|**Behavior Foundation Model for Humanoid Robots**|Jiangmiao Pang Team|[2509.13780](http://arxiv.org/abs/2509.13780)|null|
@@ -2671,6 +2704,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**A Novel Task-Driven Diffusion-Based Policy with Affordance Learning for Generalizable Manipulation of Articulated Objects**|Yongduan Song Team|[2509.14939](http://arxiv.org/abs/2509.14939)|null|
+|**2025-09-18**|**Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking**|Chen Peng Team|[2509.14530](http://arxiv.org/abs/2509.14530)|null|
+|**2025-09-17**|**LeVR: A Modular VR Teleoperation Framework for Imitation Learning in Dexterous Manipulation**|Han Liu Team|[2509.14349](http://arxiv.org/abs/2509.14349)|null|
 |**2025-09-16**|**\textsc{Gen2Real}: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video**|Rui Huang Team|[2509.14178](http://arxiv.org/abs/2509.14178)|null|
 |**2025-09-17**|**Whole-body Motion Control of an Omnidirectional Wheel-Legged Mobile Manipulator via Contact-Aware Dynamic Optimization**|Yiqun Li Team|[2509.14010](http://arxiv.org/abs/2509.14010)|null|
 |**2025-09-16**|**Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five**|Robert K. Katzschmann Team|[2509.13074](http://arxiv.org/abs/2509.13074)|null|
