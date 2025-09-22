@@ -1,4 +1,4 @@
-## Updated on 2025.09.21
+## Updated on 2025.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2025-09-18**|**Self-Improving Embodied Foundation Models**|Igor Mordatch Team|[2509.15155](http://arxiv.org/abs/2509.15155)|null|
 |**2025-09-18**|**A Nonlinear Scaling-based Design of Control Lyapunov-barrier Function for Relative Degree 2 Case and its Application to Safe Feedback Linearization**|Gyunghoon Park Team|[2509.15071](http://arxiv.org/abs/2509.15071)|null|
 |**2025-09-18**|**Reinforcement Learning Agent for a 2D Shooter Game**|Hamza A. A. Gardi Team|[2509.15042](http://arxiv.org/abs/2509.15042)|null|
-|**2025-09-18**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|Yasuhisa Hasegawa Team|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
+|**2025-09-19**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|Yasuhisa Hasegawa Team|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
 |**2025-09-18**|**Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale**|Florian Walter Team|[2509.14932](http://arxiv.org/abs/2509.14932)|null|
 |**2025-09-18**|**exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation**|Yong-Lu Li Team|[2509.14688](http://arxiv.org/abs/2509.14688)|null|
 |**2025-09-18**|**SimCoachCorpus: A naturalistic dataset with language and trajectories for embodied teaching**|Guy Rosman Team|[2509.14548](http://arxiv.org/abs/2509.14548)|null|
@@ -35,7 +35,7 @@
 |**2025-09-17**|**Reinforcement Learning for Robotic Insertion of Flexible Cables in Industrial Settings**|Changjoo Nam Team|[2509.13731](http://arxiv.org/abs/2509.13731)|null|
 |**2025-09-17**|**HGACNet: Hierarchical Graph Attention Network for Cross-Modal Point Cloud Completion**|I-Ming Chen Team|[2509.13692](http://arxiv.org/abs/2509.13692)|null|
 |**2025-09-16**|**TreeIRL: Safe Urban Driving with Tree Search and Inverse Reinforcement Learning**|Yunqing Hu Team|[2509.13579](http://arxiv.org/abs/2509.13579)|null|
-|**2025-09-16**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
+|**2025-09-18**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
 |**2025-09-16**|**A Design Co-Pilot for Task-Tailored Manipulators**|Matthias Althoff Team|[2509.13077](http://arxiv.org/abs/2509.13077)|null|
 |**2025-09-16**|**Deep Learning for Model-Free Prediction of Thermal States of Robot Joint Motors**|Eric Guiffo Kaigom Team|[2509.12739](http://arxiv.org/abs/2509.12739)|null|
 |**2025-09-16**|**Safety filtering of robotic manipulation under environment uncertainty: a computational approach**|Martin Servin Team|[2509.12674](http://arxiv.org/abs/2509.12674)|null|
@@ -868,21 +868,21 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-18**|**Calibration-Aware Prompt Learning for Medical Vision-Language Models**|Muhammad Haris Khan Team|[2509.15226](http://arxiv.org/abs/2509.15226)|null|
-|**2025-09-18**|**ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data**|Wenhai Wang Team|[2509.15221](http://arxiv.org/abs/2509.15221)|null|
+|**2025-09-19**|**ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data**|Wenhai Wang Team|[2509.15221](http://arxiv.org/abs/2509.15221)|null|
 |**2025-09-18**|**What's the Best Way to Retrieve Slides? A Comparative Study of Multimodal, Caption-Based, and Hybrid Retrieval Techniques**|Grigorios Tsoumakas Team|[2509.15211](http://arxiv.org/abs/2509.15211)|null|
 |**2025-09-18**|**MedFact-R1: Towards Factual Medical Reasoning via Pseudo-Label Augmentation**|Guodong Ding Team|[2509.15154](http://arxiv.org/abs/2509.15154)|null|
 |**2025-09-18**|**Forecasting and Visualizing Air Quality from Sky Images with Vision-Language Models**|Yanqing Zhang Team|[2509.15076](http://arxiv.org/abs/2509.15076)|null|
 |**2025-09-18**|**QuizRank: Picking Images by Quizzing VLMs**|Eytan Adar Team|[2509.15059](http://arxiv.org/abs/2509.15059)|null|
 |**2025-09-18**|**PRISM: Product Retrieval In Shopping Carts using Hybrid Matching**|Jiajing Chen Team|[2509.14985](http://arxiv.org/abs/2509.14985)|null|
 |**2025-09-18**|**EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal Ultrasound Intelligence**|Qinghua Huang Team|[2509.14977](http://arxiv.org/abs/2509.14977)|null|
-|**2025-09-18**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|Yasuhisa Hasegawa Team|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
+|**2025-09-19**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|Yasuhisa Hasegawa Team|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
 |**2025-09-18**|**MARIC: Multi-Agent Reasoning for Image Classification**|Seunghyun Lee Team|[2509.14860](http://arxiv.org/abs/2509.14860)|null|
 |**2025-09-18**|**V-SEAM: Visual Semantic Editing and Attention Modulating for Causal Interpretability of Vision-Language Models**|Ming Jiang Team|[2509.14837](http://arxiv.org/abs/2509.14837)|null|
 |**2025-09-18**|**Frame Sampling Strategies Matter: A Benchmark for small vision language models**|Mounim A. El Yacoubi Team|[2509.14769](http://arxiv.org/abs/2509.14769)|null|
@@ -890,7 +890,7 @@
 |**2025-09-18**|**VisMoDAl: Visual Analytics for Evaluating and Improving Corruption Robustness of Vision-Language Models**|Yuxin Ma Team|[2509.14571](http://arxiv.org/abs/2509.14571)|null|
 |**2025-09-17**|**CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks**|Negar Mehr Team|[2509.14380](http://arxiv.org/abs/2509.14380)|null|
 |**2025-09-17**|**Cinéaste: A Fine-grained Contextual Movie Question Answering Benchmark**|Vishal M. Patel Team|[2509.14227](http://arxiv.org/abs/2509.14227)|null|
-|**2025-09-17**|**TGPO: Tree-Guided Preference Optimization for Robust Web Agent Reinforcement Learning**|Guitao Cao Team|[2509.14172](http://arxiv.org/abs/2509.14172)|null|
+|**2025-09-19**|**TGPO: Tree-Guided Preference Optimization for Robust Web Agent Reinforcement Learning**|Guitao Cao Team|[2509.14172](http://arxiv.org/abs/2509.14172)|null|
 |**2025-09-17**|**VSE-MOT: Multi-Object Tracking in Low-Quality Video Scenes Guided by Visual Semantic Enhancement**|Fei Richard Yu Team|[2509.14060](http://arxiv.org/abs/2509.14060)|null|
 |**2025-09-17**|**Can Current AI Models Count What We Mean, Not What They See? A Benchmark and Systematic Evaluation**|Minh Hoai Team|[2509.13939](http://arxiv.org/abs/2509.13939)|null|
 |**2025-09-17**|**Towards Rationale-Answer Alignment of LVLMs via Self-Rationale Calibration**|Xiaoqiang Li Team|[2509.13919](http://arxiv.org/abs/2509.13919)|null|
@@ -2302,7 +2302,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
 
 ## VLA
 
@@ -2533,7 +2533,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
 
 ## Humanoid
 
@@ -2541,12 +2541,12 @@
 |---|---|---|---|---|
 |**2025-09-18**|**CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids**|Daniele Pucci Team|[2509.14935](http://arxiv.org/abs/2509.14935)|null|
 |**2025-09-18**|**RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI**|Tao Shen Team|[2509.14687](http://arxiv.org/abs/2509.14687)|null|
-|**2025-09-17**|**Cybersecurity AI: Humanoid Robots as Attack Vectors**|Víctor Mayoral-Vilches Team|[2509.14139](http://arxiv.org/abs/2509.14139)|null|
+|**2025-09-19**|**Cybersecurity AI: Humanoid Robots as Attack Vectors**|Víctor Mayoral-Vilches Team|[2509.14139](http://arxiv.org/abs/2509.14139)|null|
 |**2025-09-17**|**The Cybersecurity of a Humanoid Robot**|Víctor Mayoral-Vilches Team|[2509.14096](http://arxiv.org/abs/2509.14096)|null|
 |**2025-09-17**|**Behavior Foundation Model for Humanoid Robots**|Jiangmiao Pang Team|[2509.13780](http://arxiv.org/abs/2509.13780)|null|
 |**2025-09-17**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Zhizhong Su Team|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
 |**2025-09-16**|**Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning**|Jun Ma Team|[2509.13534](http://arxiv.org/abs/2509.13534)|null|
-|**2025-09-16**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
+|**2025-09-18**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
 |**2025-09-14**|**Quantum deep reinforcement learning for humanoid robot navigation task**|Ahmed Biyabani Team|[2509.11388](http://arxiv.org/abs/2509.11388)|null|
 |**2025-09-16**|**FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers**|Zhigong Song Team|[2509.11109](http://arxiv.org/abs/2509.11109)|null|
 |**2025-09-16**|**Data-fused Model Predictive Control with Guarantees: Application to Flying Humanoid Robots**|Daniele Pucci Team|[2509.10353](http://arxiv.org/abs/2509.10353)|null|
@@ -2713,7 +2713,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
 
 ## Dexterous
 
@@ -2842,5 +2842,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
 
