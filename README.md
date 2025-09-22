@@ -16,6 +16,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-19**|**Efficient Detection of Objects Near a Robot Manipulator via Miniature Time-of-Flight Sensors**|Michael Gleicher Team|[2509.16122](http://arxiv.org/abs/2509.16122)|null|
+|**2025-09-19**|**I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models**|Mohamed Chetouani Team|[2509.16072](http://arxiv.org/abs/2509.16072)|null|
+|**2025-09-19**|**Compose by Focus: Scene Graph-based Atomic Skills**|Heng Yang Team|[2509.16053](http://arxiv.org/abs/2509.16053)|null|
+|**2025-09-19**|**Learning Safety for Obstacle Avoidance via Control Barrier Functions**|Calin A. Belta Team|[2509.16037](http://arxiv.org/abs/2509.16037)|null|
+|**2025-09-19**|**Improving Robotic Manipulation with Efficient Geometry-Aware Vision Encoder**|Ian Reid Team|[2509.15880](http://arxiv.org/abs/2509.15880)|**[link](https://evggt.github.io/)**|
+|**2025-09-19**|**All-Electric Heavy-Duty Robotic Manipulator: Actuator Configuration Optimization and Sensorless Control**|Jouni Mattila Team|[2509.15778](http://arxiv.org/abs/2509.15778)|null|
+|**2025-09-19**|**GP3: A 3D Geometry-Aware Policy with Multi-View Images for Robotic Manipulation**|Deli Zhao Team|[2509.15733](http://arxiv.org/abs/2509.15733)|null|
+|**2025-09-19**|**Imagination at Inference: Synthesizing In-Hand Views for Robust Visuomotor Policy Inference**|Yoshihiko Nakamura Team|[2509.15717](http://arxiv.org/abs/2509.15717)|null|
+|**2025-09-18**|**Implicit Kinodynamic Motion Retargeting for Human-to-humanoid Imitation Learning**|Haodong Zhang Team|[2509.15443](http://arxiv.org/abs/2509.15443)|null|
 |**2025-09-18**|**RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation**|Xin Li Team|[2509.15212](http://arxiv.org/abs/2509.15212)|**[link](https://github.com/alibaba-damo-academy/RynnVLA-001)**|
 |**2025-09-18**|**Self-Improving Embodied Foundation Models**|Igor Mordatch Team|[2509.15155](http://arxiv.org/abs/2509.15155)|null|
 |**2025-09-18**|**A Nonlinear Scaling-based Design of Control Lyapunov-barrier Function for Relative Degree 2 Case and its Application to Safe Feedback Linearization**|Gyunghoon Park Team|[2509.15071](http://arxiv.org/abs/2509.15071)|null|
@@ -874,6 +883,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-19**|**Robust Vision-Language Models via Tensor Decomposition: A Defense Against Adversarial Attacks**|Evangelos E. Papalexakis Team|[2509.16163](http://arxiv.org/abs/2509.16163)|null|
+|**2025-09-19**|**Randomized Smoothing Meets Vision-Language Models**|Chih-Hong Cheng Team|[2509.16088](http://arxiv.org/abs/2509.16088)|null|
+|**2025-09-19**|**I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models**|Mohamed Chetouani Team|[2509.16072](http://arxiv.org/abs/2509.16072)|null|
+|**2025-09-19**|**Compose by Focus: Scene Graph-based Atomic Skills**|Heng Yang Team|[2509.16053](http://arxiv.org/abs/2509.16053)|null|
+|**2025-09-19**|**CIDER: A Causal Cure for Brand-Obsessed Text-to-Image Models**|Wushao Wen Team|[2509.15803](http://arxiv.org/abs/2509.15803)|null|
+|**2025-09-19**|**Vision-Language Models as Differentiable Semantic and Spatial Rewards for Text-to-3D Generation**|He Sun Team|[2509.15772](http://arxiv.org/abs/2509.15772)|null|
+|**2025-09-19**|**GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning**|Zhaojian Li Team|[2509.15738](http://arxiv.org/abs/2509.15738)|null|
+|**2025-09-19**|**Training-Free Pyramid Token Pruning for Efficient Large Vision-Language Models via Region, Token, and Instruction-Guided Importance**|Xiangyang Xue Team|[2509.15704](http://arxiv.org/abs/2509.15704)|null|
+|**2025-09-19**|**ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models**|Hao Su Team|[2509.15695](http://arxiv.org/abs/2509.15695)|null|
+|**2025-09-19**|**SightSound-R1: Cross-Modal Reasoning Distillation from Vision to Audio Language Models**|Nima Mesgarani Team|[2509.15661](http://arxiv.org/abs/2509.15661)|null|
+|**2025-09-19**|**PRIMT: Preference-based Reinforcement Learning with Multimodal Feedback and Trajectory Synthesis from Foundation Models**|Byung-Cheol Min Team|[2509.15607](http://arxiv.org/abs/2509.15607)|null|
+|**2025-09-18**|**SmolRGPT: Efficient Spatial Reasoning for Warehouse Environments with 600M Parameters**|Andy Couturier Team|[2509.15490](http://arxiv.org/abs/2509.15490)|null|
+|**2025-09-18**|**Comparing Computational Pathology Foundation Models using Representational Similarity Analysis**|William Lotter Team|[2509.15482](http://arxiv.org/abs/2509.15482)|null|
+|**2025-09-18**|**ORCA: Agentic Reasoning For Hallucination and Adversarial Robustness in Vision-Language Models**|Nathaniel D. Bastian Team|[2509.15435](http://arxiv.org/abs/2509.15435)|null|
+|**2025-09-18**|**SERVAL: Surprisingly Effective Zero-Shot Visual Document Retrieval Powered by Large Vision and Language Models**|Andrew Yates Team|[2509.15432](http://arxiv.org/abs/2509.15432)|null|
+|**2025-09-18**|**CoDoL: Conditional Domain Prompt Learning for Out-of-Distribution Generalization**|Xin Lin Team|[2509.15330](http://arxiv.org/abs/2509.15330)|null|
 |**2025-09-18**|**Calibration-Aware Prompt Learning for Medical Vision-Language Models**|Muhammad Haris Khan Team|[2509.15226](http://arxiv.org/abs/2509.15226)|null|
 |**2025-09-19**|**ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data**|Wenhai Wang Team|[2509.15221](http://arxiv.org/abs/2509.15221)|null|
 |**2025-09-18**|**What's the Best Way to Retrieve Slides? A Comparative Study of Multimodal, Caption-Based, and Hybrid Retrieval Techniques**|Grigorios Tsoumakas Team|[2509.15211](http://arxiv.org/abs/2509.15211)|null|
@@ -2308,6 +2333,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-19**|**CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine**|Jian Sun Team|[2509.15968](http://arxiv.org/abs/2509.15968)|null|
+|**2025-09-19**|**A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning**|Jiangmiao Pang Team|[2509.15937](http://arxiv.org/abs/2509.15937)|null|
 |**2025-09-18**|**RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation**|Xin Li Team|[2509.15212](http://arxiv.org/abs/2509.15212)|**[link](https://github.com/alibaba-damo-academy/RynnVLA-001)**|
 |**2025-09-18**|**Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale**|Florian Walter Team|[2509.14932](http://arxiv.org/abs/2509.14932)|null|
 |**2025-09-18**|**CollabVLA: Self-Reflective Vision-Language-Action Model Dreaming Together with Human**|Huaping Liu Team|[2509.14889](http://arxiv.org/abs/2509.14889)|null|
@@ -2539,6 +2566,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-19**|**A Matter of Height: The Impact of a Robotic Object on Human Compliance**|Hadas Erel Team|[2509.16032](http://arxiv.org/abs/2509.16032)|null|
+|**2025-09-18**|**Implicit Kinodynamic Motion Retargeting for Human-to-humanoid Imitation Learning**|Haodong Zhang Team|[2509.15443](http://arxiv.org/abs/2509.15443)|null|
 |**2025-09-18**|**CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids**|Daniele Pucci Team|[2509.14935](http://arxiv.org/abs/2509.14935)|null|
 |**2025-09-18**|**RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI**|Tao Shen Team|[2509.14687](http://arxiv.org/abs/2509.14687)|null|
 |**2025-09-19**|**Cybersecurity AI: Humanoid Robots as Attack Vectors**|Víctor Mayoral-Vilches Team|[2509.14139](http://arxiv.org/abs/2509.14139)|null|
