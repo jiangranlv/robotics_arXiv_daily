@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.24
+## Updated on 2025.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -21,7 +21,7 @@ layout: default
 |**2025-09-23**|**MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning**|Fares Abu-Dakka Team|[2509.18757](http://arxiv.org/abs/2509.18757)|**[link](https://mv-umi.github.io)**|
 |**2025-09-23**|**Learning Obstacle Avoidance using Double DQN for Quadcopter Navigation**|Sanket Gujar Team|[2509.18734](http://arxiv.org/abs/2509.18734)|null|
 |**2025-09-23**|**3D Flow Diffusion Policy: Visuomotor Policy Learning via Generating Flow in 3D Space**|Kyoobin Lee Team|[2509.18676](http://arxiv.org/abs/2509.18676)|null|
-|**2025-09-23**|**Do You Need Proprioceptive States in Visuomotor Policies?**|Yang Gao Team|[2509.18644](http://arxiv.org/abs/2509.18644)|**[link](https://statefreepolicy.github.io)**|
+|**2025-09-24**|**Do You Need Proprioceptive States in Visuomotor Policies?**|Yang Gao Team|[2509.18644](http://arxiv.org/abs/2509.18644)|**[link](https://statefreepolicy.github.io)**|
 |**2025-09-23**|**Generalizable Domain Adaptation for Sim-and-Real Policy Co-Training**|Danfei Xu Team|[2509.18631](http://arxiv.org/abs/2509.18631)|null|
 |**2025-09-23**|**SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones**|Mac Schwager Team|[2509.18610](http://arxiv.org/abs/2509.18610)|null|
 |**2025-09-23**|**Growing with Your Embodied Agent: A Human-in-the-Loop Lifelong Code Generation Framework for Long-Horizon Manipulation Skills**|Alois Knoll Team|[2509.18597](http://arxiv.org/abs/2509.18597)|null|
