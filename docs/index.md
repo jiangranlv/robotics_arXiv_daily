@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.25
+## Updated on 2025.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -933,7 +933,7 @@ layout: default
 |**2025-09-24**|**A Simple Data Augmentation Strategy for Text-in-Image Scientific VQA**|Yova Kementchedjhieva Team|[2509.20119](http://arxiv.org/abs/2509.20119)|null|
 |**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Xianpeng Lang Team|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
 |**2025-09-24**|**Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning**|Jiajun Liu Team|[2509.20077](http://arxiv.org/abs/2509.20077)|null|
-|**2025-09-24**|**OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving**|Jun Ma Team|[2509.19973](http://arxiv.org/abs/2509.19973)|null|
+|**2025-09-25**|**OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving**|Jun Ma Team|[2509.19973](http://arxiv.org/abs/2509.19973)|null|
 |**2025-09-24**|**Generalist Robot Manipulation beyond Action Labeled Data**|Danda Pani Paudel Team|[2509.19958](http://arxiv.org/abs/2509.19958)|null|
 |**2025-09-24**|**Benchmarking Gaslighting Attacks Against Speech Large Language Models**|Pan Zhou Team|[2509.19858](http://arxiv.org/abs/2509.19858)|null|
 |**2025-09-24**|**CHURRO: Making History Readable with an Open-Weight Large Vision-Language Model for High-Accuracy, Low-Cost Historical Text Recognition**|Monica S. Lam Team|[2509.19768](http://arxiv.org/abs/2509.19768)|null|
@@ -2672,7 +2672,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-24**|**VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation**|Jiajun Wu Team|[2509.20322](http://arxiv.org/abs/2509.20322)|**[link](https://visualmimic.github.io)**|
-|**2025-09-24**|**HL-IK: A Lightweight Implementation of Human-Like Inverse Kinematics in Humanoid Arms**|Houde Liu Team|[2509.20263](http://arxiv.org/abs/2509.20263)|null|
+|**2025-09-25**|**HL-IK: A Lightweight Implementation of Human-Like Inverse Kinematics in Humanoid Arms**|Houde Liu Team|[2509.20263](http://arxiv.org/abs/2509.20263)|null|
 |**2025-09-23**|**Chasing Stability: Humanoid Running via Control Lyapunov Function Guided Reinforcement Learning**|Aaron D. Ames Team|[2509.19573](http://arxiv.org/abs/2509.19573)|null|
 |**2025-09-23**|**RoMoCo: Robotic Motion Control Toolbox for Reduced-Order Model-Based Locomotion on Bipedal and Humanoid Robots**|Aaron D. Ames Team|[2509.19545](http://arxiv.org/abs/2509.19545)|null|
 |**2025-09-23**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Anusha Nagabandi Team|[2509.19301](http://arxiv.org/abs/2509.19301)|null|
