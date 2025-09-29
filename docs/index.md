@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.28
+## Updated on 2025.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -14,7 +14,7 @@ layout: default
 |**2025-09-25**|**Joint Flow Trajectory Optimization For Feasible Robot Motion Generation from Video Demonstrations**|Weiming Zhi Team|[2509.20703](http://arxiv.org/abs/2509.20703)|null|
 |**2025-09-24**|**Large Pre-Trained Models for Bimanual Manipulation in 3D**|David Meger Team|[2509.20579](http://arxiv.org/abs/2509.20579)|null|
 |**2025-09-24**|**Selective Progress-Aware Querying for Human-in-the-Loop Reinforcement Learning**|Anamika J H Team|[2509.20541](http://arxiv.org/abs/2509.20541)|null|
-|**2025-09-24**|**mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies**|Shiwei Sheng Team|[2509.20297](http://arxiv.org/abs/2509.20297)|null|
+|**2025-09-26**|**mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies**|Shiwei Sheng Team|[2509.20297](http://arxiv.org/abs/2509.20297)|null|
 |**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Xianpeng Lang Team|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
 |**2025-09-24**|**LLM Trainer: Automated Robotic Data Generating via Demonstration Augmentation using LLMs**|Amir Barati Farimani Team|[2509.20070](http://arxiv.org/abs/2509.20070)|null|
 |**2025-09-24**|**Generalist Robot Manipulation beyond Action Labeled Data**|Danda Pani Paudel Team|[2509.19958](http://arxiv.org/abs/2509.19958)|null|
@@ -2704,7 +2704,7 @@ layout: default
 |**2025-09-25**|**HL-IK: A Lightweight Implementation of Human-Like Inverse Kinematics in Humanoid Arms**|Houde Liu Team|[2509.20263](http://arxiv.org/abs/2509.20263)|null|
 |**2025-09-23**|**Chasing Stability: Humanoid Running via Control Lyapunov Function Guided Reinforcement Learning**|Aaron D. Ames Team|[2509.19573](http://arxiv.org/abs/2509.19573)|null|
 |**2025-09-23**|**RoMoCo: Robotic Motion Control Toolbox for Reduced-Order Model-Based Locomotion on Bipedal and Humanoid Robots**|Aaron D. Ames Team|[2509.19545](http://arxiv.org/abs/2509.19545)|null|
-|**2025-09-23**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Anusha Nagabandi Team|[2509.19301](http://arxiv.org/abs/2509.19301)|null|
+|**2025-09-25**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Anusha Nagabandi Team|[2509.19301](http://arxiv.org/abs/2509.19301)|**[link](https://residual-offpolicy-rl.github.io)**|
 |**2025-09-23**|**HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos**|Guanya Shi Team|[2509.16757](http://arxiv.org/abs/2509.16757)|null|
 |**2025-09-20**|**KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control**|Chenjia Bai Team|[2509.16638](http://arxiv.org/abs/2509.16638)|null|
 |**2025-09-19**|**A Framework for Optimal Ankle Design of Humanoid Robots**|Daniele Pucci Team|[2509.16469](http://arxiv.org/abs/2509.16469)|null|
@@ -2888,7 +2888,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-23**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Anusha Nagabandi Team|[2509.19301](http://arxiv.org/abs/2509.19301)|null|
+|**2025-09-25**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Anusha Nagabandi Team|[2509.19301](http://arxiv.org/abs/2509.19301)|**[link](https://residual-offpolicy-rl.github.io)**|
 |**2025-09-23**|**Lang2Morph: Language-Driven Morphological Design of Robotic Hands**|Josie Hughes Team|[2509.18937](http://arxiv.org/abs/2509.18937)|null|
 |**2025-09-22**|**Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands**|Daniel Seita Team|[2509.18455](http://arxiv.org/abs/2509.18455)|null|
 |**2025-09-22**|**Learning Dexterous Manipulation with Quantized Hand State**|Cewu Lu Team|[2509.17450](http://arxiv.org/abs/2509.17450)|null|
