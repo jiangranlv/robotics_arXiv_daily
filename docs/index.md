@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -2748,7 +2748,7 @@ layout: default
 |**2025-09-23**|**Chasing Stability: Humanoid Running via Control Lyapunov Function Guided Reinforcement Learning**|Aaron D. Ames Team|[2509.19573](http://arxiv.org/abs/2509.19573)|null|
 |**2025-09-23**|**RoMoCo: Robotic Motion Control Toolbox for Reduced-Order Model-Based Locomotion on Bipedal and Humanoid Robots**|Aaron D. Ames Team|[2509.19545](http://arxiv.org/abs/2509.19545)|null|
 |**2025-09-25**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Anusha Nagabandi Team|[2509.19301](http://arxiv.org/abs/2509.19301)|**[link](https://residual-offpolicy-rl.github.io)**|
-|**2025-09-23**|**HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos**|Guanya Shi Team|[2509.16757](http://arxiv.org/abs/2509.16757)|null|
+|**2025-09-27**|**HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos**|Guanya Shi Team|[2509.16757](http://arxiv.org/abs/2509.16757)|null|
 |**2025-09-20**|**KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control**|Chenjia Bai Team|[2509.16638](http://arxiv.org/abs/2509.16638)|null|
 |**2025-09-19**|**A Framework for Optimal Ankle Design of Humanoid Robots**|Daniele Pucci Team|[2509.16469](http://arxiv.org/abs/2509.16469)|null|
 |**2025-09-19**|**A Matter of Height: The Impact of a Robotic Object on Human Compliance**|Hadas Erel Team|[2509.16032](http://arxiv.org/abs/2509.16032)|null|
