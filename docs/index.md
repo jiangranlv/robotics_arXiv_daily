@@ -9,6 +9,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Shanghang Zhang Team|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
+|**2025-09-30**|**Learning from Hallucinating Critical Points for Navigation in Dynamic Environments**|Xuesu Xiao Team|[2509.26513](http://arxiv.org/abs/2509.26513)|null|
+|**2025-09-30**|**Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation**|Kevin Haninger Team|[2509.26308](http://arxiv.org/abs/2509.26308)|null|
+|**2025-09-30**|**Noise-Guided Transport for Imitation Learning**|Alexandros Kalousis Team|[2509.26294](http://arxiv.org/abs/2509.26294)|null|
+|**2025-09-30**|**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**|Hao Chen Team|[2509.25852](http://arxiv.org/abs/2509.25852)|null|
+|**2025-09-30**|**Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies**|Li Cheng Team|[2509.25822](http://arxiv.org/abs/2509.25822)|null|
+|**2025-09-30**|**Point-It-Out: Benchmarking Embodied Reasoning for Vision Language Models in Multi-Stage Visual Grounding**|Jiaojiao Fan Team|[2509.25794](http://arxiv.org/abs/2509.25794)|null|
+|**2025-09-30**|**SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling**|Wenbo Ding Team|[2509.25756](http://arxiv.org/abs/2509.25756)|null|
+|**2025-09-30**|**Best of Sim and Real: Decoupled Visuomotor Manipulation via Learning Control in Simulation and Perception in Real**|Yang Gao Team|[2509.25747](http://arxiv.org/abs/2509.25747)|null|
+|**2025-09-29**|**Boolean Satisfiability via Imitation Learning**|Xiangyu Xu Team|[2509.25411](http://arxiv.org/abs/2509.25411)|null|
+|**2025-09-29**|**Parallel Heuristic Search as Inference for Actor-Critic Reinforcement Learning Models**|Maxim Likhachev Team|[2509.25402](http://arxiv.org/abs/2509.25402)|null|
+|**2025-09-29**|**SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation**|Philipp Wu Team|[2509.25358](http://arxiv.org/abs/2509.25358)|null|
+|**2025-09-29**|**SRMP: Search-Based Robot Motion Planning Library**|Maxim Likhachev Team|[2509.25352](http://arxiv.org/abs/2509.25352)|null|
 |**2025-09-29**|**Curriculum Imitation Learning of Distributed Multi-Robot Policies**|Eduardo Montijano Team|[2509.25097](http://arxiv.org/abs/2509.25097)|null|
 |**2025-09-29**|**Annotation-Free One-Shot Imitation Learning for Multi-Step Manipulation Tasks**|Ruchi Choudhary Team|[2509.24972](http://arxiv.org/abs/2509.24972)|null|
 |**2025-09-29**|**MSG: Multi-Stream Generative Policies for Sample-Efficient Robotic Manipulation**|Abhinav Valada Team|[2509.24956](http://arxiv.org/abs/2509.24956)|null|
@@ -967,6 +980,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Shanghang Zhang Team|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
+|**2025-09-30**|**Query-Kontext: An Unified Multimodal Model for Image Generation and Editing**|Jingdong Wang Team|[2509.26641](http://arxiv.org/abs/2509.26641)|null|
+|**2025-09-30**|**Clarification as Supervision: Reinforcement Learning for Vision-Language Interfaces**|Ivan Titov Team|[2509.26594](http://arxiv.org/abs/2509.26594)|null|
+|**2025-09-30**|**The Invisible Mentor: Inferring User Actions from Screen Recordings to Recommend Better Workflows**|Emerson Murphy-Hill Team|[2509.26557](http://arxiv.org/abs/2509.26557)|null|
+|**2025-09-30**|**Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional Video Generation**|Varun Jampani Team|[2509.26555](http://arxiv.org/abs/2509.26555)|**[link](https://stable-cinemetrics.github.io/)**|
+|**2025-09-30**|**Zero-Shot Decentralized Federated Learning**|Giovanni Bellitto Team|[2509.26462](http://arxiv.org/abs/2509.26462)|**[link](https://github.com/perceivelab/ZeroDFL)**|
+|**2025-09-30**|**SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval**|Huei-Fang Yang Team|[2509.26330](http://arxiv.org/abs/2509.26330)|null|
+|**2025-09-30**|**ProfVLM: A Lightweight Video-Language Model for Multi-View Proficiency Estimation**|Antonio Liotta Team|[2509.26278](http://arxiv.org/abs/2509.26278)|null|
+|**2025-09-30**|**Interpret, prune and distill Donut : towards lightweight VLMs for VQA on document**|David Naccache Team|[2509.26235](http://arxiv.org/abs/2509.26235)|null|
+|**2025-09-30**|**TSalV360: A Method and Dataset for Text-driven Saliency Detection in 360-Degrees Videos**|Vasileios Mezaris Team|[2509.26208](http://arxiv.org/abs/2509.26208)|**[link](https://ieeexplore.ieee.org/)**|
+|**2025-09-30**|**SGS: Segmentation-Guided Scoring for Global Scene Inconsistencies**|Xue Li Team|[2509.26039](http://arxiv.org/abs/2509.26039)|null|
+|**2025-09-30**|**AgenticIQA: An Agentic Framework for Adaptive and Interpretable Image Quality Assessment**|Weisi Lin Team|[2509.26006](http://arxiv.org/abs/2509.26006)|null|
+|**2025-09-30**|**Learning Egocentric In-Hand Object Segmentation through Weak Supervision from Human Narrations**|Antonino Furnari Team|[2509.26004](http://arxiv.org/abs/2509.26004)|null|
+|**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Zhun Zhong Team|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
+|**2025-09-30**|**NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving**|Johannes Betz Team|[2509.25944](http://arxiv.org/abs/2509.25944)|null|
+|**2025-09-30**|**VLM-FO1: Bridging the Gap Between High-Level Reasoning and Fine-Grained Perception in VLMs**|Tiancheng Zhao Team|[2509.25916](http://arxiv.org/abs/2509.25916)|null|
+|**2025-09-30**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|Yongjun Shen Team|[2509.25896](http://arxiv.org/abs/2509.25896)|null|
+|**2025-09-30**|**DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning**|Jing Zhang Team|[2509.25866](http://arxiv.org/abs/2509.25866)|null|
+|**2025-09-30**|**MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification**|Daoqiang Zhang Team|[2509.25863](http://arxiv.org/abs/2509.25863)|null|
+|**2025-09-30**|**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**|Hao Chen Team|[2509.25852](http://arxiv.org/abs/2509.25852)|null|
 |**2025-09-29**|**TemMed-Bench: Evaluating Temporal Medical Image Reasoning in Vision-Language Models**|Nanyun Peng Team|[2509.25143](http://arxiv.org/abs/2509.25143)|null|
 |**2025-09-29**|**Visual serial processing deficits explain divergences in human and VLM reasoning**|Thomas L. Griffiths Team|[2509.25142](http://arxiv.org/abs/2509.25142)|null|
 |**2025-09-29**|**GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning**|Salman Khan Team|[2509.25026](http://arxiv.org/abs/2509.25026)|**[link](https://mustansarfiaz.github.io/GeoVLM-R1/)**|
@@ -2531,6 +2564,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Shanghang Zhang Team|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
+|**2025-09-30**|**MUVLA: Learning to Explore Object Navigation via Map Understanding**|Jianye Hao Team|[2509.25966](http://arxiv.org/abs/2509.25966)|null|
+|**2025-09-30**|**TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses**|Yangwei You Team|[2509.25746](http://arxiv.org/abs/2509.25746)|null|
+|**2025-09-30**|**VLA Model Post-Training via Action-Chunked PPO and Self Behavior Cloning**|Zeng-Guang Hou Team|[2509.25718](http://arxiv.org/abs/2509.25718)|null|
+|**2025-09-30**|**dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought**|Yi Xu Team|[2509.25681](http://arxiv.org/abs/2509.25681)|null|
 |**2025-09-29**|**AIRoA MoMa Dataset: A Large-Scale Hierarchical Dataset for Mobile Manipulation**|Tetsuya Ogata Team|[2509.25032](http://arxiv.org/abs/2509.25032)|null|
 |**2025-09-29**|**World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training**|Qing Zhang Team|[2509.24948](http://arxiv.org/abs/2509.24948)|null|
 |**2025-09-29**|**IA-VLA: Input Augmentation for Vision-Language-Action models in settings with semantically complex tasks**|Ville Kyrki Team|[2509.24768](http://arxiv.org/abs/2509.24768)|null|
@@ -2790,6 +2828,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Guanya Shi Team|[2509.26633](http://arxiv.org/abs/2509.26633)|**[link](https://omniretarget.github.io)**|
+|**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|Katherine J. Kuchenbecker Team|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
+|**2025-09-30**|**Evolutionary Continuous Adaptive RL-Powered Co-Design for Humanoid Chin-Up Performance**|Frank Kirchner Team|[2509.26082](http://arxiv.org/abs/2509.26082)|null|
+|**2025-09-29**|**CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation**|Yoshihiko Nakamura Team|[2509.25443](http://arxiv.org/abs/2509.25443)|null|
 |**2025-09-29**|**Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning and Control-Informed Steering**|Daniele Pucci Team|[2509.24697](http://arxiv.org/abs/2509.24697)|null|
 |**2025-09-29**|**Game Theory to Study Cooperation in Human-Robot Mixed Groups: Exploring the Potential of the Public Good Game**|Alessandra Sciutti Team|[2509.24530](http://arxiv.org/abs/2509.24530)|null|
 |**2025-09-29**|**Preference-Based Long-Horizon Robotic Stacking with Multimodal Large Language Models**|Sethu Vijayakumar Team|[2509.24163](http://arxiv.org/abs/2509.24163)|null|
@@ -2985,6 +3027,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|Katherine J. Kuchenbecker Team|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
 |**2025-09-28**|**DexFlyWheel: A Scalable and Self-improving Data Generation Framework for Dexterous Manipulation**|Yuanpei Chen Team|[2509.23829](http://arxiv.org/abs/2509.23829)|null|
 |**2025-09-26**|**DemoGrasp: Universal Dexterous Grasping from a Single Demonstration**|Zongqing Lu Team|[2509.22149](http://arxiv.org/abs/2509.22149)|null|
 |**2025-09-25**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Anusha Nagabandi Team|[2509.19301](http://arxiv.org/abs/2509.19301)|**[link](https://residual-offpolicy-rl.github.io)**|
