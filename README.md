@@ -1,4 +1,4 @@
-## Updated on 2025.09.30
+## Updated on 2025.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-09-28**|**Mash, Spread, Slice! Learning to Manipulate Object States via Visual Spatial Progress**|Kristen Grauman Team|[2509.24129](http://arxiv.org/abs/2509.24129)|null|
 |**2025-09-28**|**DexFlyWheel: A Scalable and Self-improving Data Generation Framework for Dexterous Manipulation**|Yuanpei Chen Team|[2509.23829](http://arxiv.org/abs/2509.23829)|null|
 |**2025-09-28**|**Control Your Robot: A Unified System for Robot Control and Policy Deployment**|Bingshan Hu Team|[2509.23823](http://arxiv.org/abs/2509.23823)|**[link](https://github.com/Tian-Nian/control_your_robot)**|
-|**2025-09-28**|**Sequence Pathfinder for Multi-Agent Pickup and Delivery in the Warehouse**|Ying Wen Team|[2509.23778](http://arxiv.org/abs/2509.23778)|null|
+|**2025-09-30**|**Sequence Pathfinder for Multi-Agent Pickup and Delivery in the Warehouse**|Ying Wen Team|[2509.23778](http://arxiv.org/abs/2509.23778)|null|
 |**2025-09-26**|**Pixel Motion Diffusion is What We Need for Robot Control**|Michael S. Ryoo Team|[2509.22652](http://arxiv.org/abs/2509.22652)|null|
 |**2025-09-26**|**VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search**|Ziwei Wang Team|[2509.22643](http://arxiv.org/abs/2509.22643)|null|
 |**2025-09-26**|**Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning**|Xing Sun Team|[2509.22601](http://arxiv.org/abs/2509.22601)|null|
@@ -970,7 +970,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
 ## VLM
 
@@ -985,7 +985,7 @@
 |**2025-09-29**|**IA-VLA: Input Augmentation for Vision-Language-Action models in settings with semantically complex tasks**|Ville Kyrki Team|[2509.24768](http://arxiv.org/abs/2509.24768)|null|
 |**2025-09-29**|**IWR-Bench: Can LVLMs reconstruct interactive webpage from a user interaction video?**|Botian Shi Team|[2509.24709](http://arxiv.org/abs/2509.24709)|null|
 |**2025-09-29**|**Can you SPLICE it together? A Human Curated Benchmark for Probing Visual Reasoning in VLMs**|Elia Bruni Team|[2509.24640](http://arxiv.org/abs/2509.24640)|null|
-|**2025-09-29**|**Inducing Dyslexia in Vision Language Models**|Martin Schrimpf Team|[2509.24597](http://arxiv.org/abs/2509.24597)|null|
+|**2025-09-30**|**Inducing Dyslexia in Vision Language Models**|Martin Schrimpf Team|[2509.24597](http://arxiv.org/abs/2509.24597)|null|
 |**2025-09-29**|**TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models**|Joey Tianyi Zhou Team|[2509.24566](http://arxiv.org/abs/2509.24566)|null|
 |**2025-09-29**|**CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D**|Matin Mirzababaei Team|[2509.24528](http://arxiv.org/abs/2509.24528)|null|
 |**2025-09-29**|**PhysiAgent: An Embodied Agent Framework in Physical World**|Xianyuan Zhan Team|[2509.24524](http://arxiv.org/abs/2509.24524)|null|
@@ -993,7 +993,7 @@
 |**2025-09-29**|**Euclid's Gift: Enhancing Spatial Perception and Reasoning in Vision-Language Models via Geometric Surrogate Tasks**|Kai Chen Team|[2509.24473](http://arxiv.org/abs/2509.24473)|null|
 |**2025-09-29**|**AXIS: Explainable Time Series Anomaly Detection with Large Language Models**|Chen Zhang Team|[2509.24378](http://arxiv.org/abs/2509.24378)|null|
 |**2025-09-29**|**SONAR: Semantic-Object Navigation with Aggregated Reasoning through a Cross-Modal Inference Paradigm**|Jiankun Wang Team|[2509.24321](http://arxiv.org/abs/2509.24321)|null|
-|**2025-09-29**|**FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting**|Yu Cheng Team|[2509.24304](http://arxiv.org/abs/2509.24304)|null|
+|**2025-09-30**|**FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting**|Yu Cheng Team|[2509.24304](http://arxiv.org/abs/2509.24304)|null|
 |**2025-09-29**|**ViReSkill: Vision-Grounded Replanning with Skill Memory for LLM-Based Planning in Lifelong Robot Learning**|Yang You Team|[2509.24219](http://arxiv.org/abs/2509.24219)|null|
 |**2025-09-29**|**Talk in Pieces, See in Whole: Disentangling and Hierarchical Aggregating Representations for Language-based Object Detection**|Donghyun Kim Team|[2509.24192](http://arxiv.org/abs/2509.24192)|null|
 |**2025-09-26**|**See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation**|Yu-Lun Liu Team|[2509.22653](http://arxiv.org/abs/2509.22653)|**[link](https://spf-web.pages.dev)**|
@@ -2536,7 +2536,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
 ## VLA
 
@@ -2797,7 +2797,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
 ## Humanoid
 
@@ -2994,7 +2994,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
 ## Dexterous
 
@@ -3129,5 +3129,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
