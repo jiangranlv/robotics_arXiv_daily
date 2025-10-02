@@ -1,4 +1,4 @@
-## Updated on 2025.10.01
+## Updated on 2025.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -983,7 +983,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
 
 ## VLM
 
@@ -1000,7 +1000,7 @@
 |**2025-09-30**|**Interpret, prune and distill Donut : towards lightweight VLMs for VQA on document**|David Naccache Team|[2509.26235](http://arxiv.org/abs/2509.26235)|null|
 |**2025-09-30**|**TSalV360: A Method and Dataset for Text-driven Saliency Detection in 360-Degrees Videos**|Vasileios Mezaris Team|[2509.26208](http://arxiv.org/abs/2509.26208)|**[link](https://ieeexplore.ieee.org/)**|
 |**2025-09-30**|**SGS: Segmentation-Guided Scoring for Global Scene Inconsistencies**|Xue Li Team|[2509.26039](http://arxiv.org/abs/2509.26039)|null|
-|**2025-09-30**|**AgenticIQA: An Agentic Framework for Adaptive and Interpretable Image Quality Assessment**|Weisi Lin Team|[2509.26006](http://arxiv.org/abs/2509.26006)|null|
+|**2025-10-01**|**AgenticIQA: An Agentic Framework for Adaptive and Interpretable Image Quality Assessment**|Weisi Lin Team|[2509.26006](http://arxiv.org/abs/2509.26006)|null|
 |**2025-09-30**|**Learning Egocentric In-Hand Object Segmentation through Weak Supervision from Human Narrations**|Antonino Furnari Team|[2509.26004](http://arxiv.org/abs/2509.26004)|null|
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Zhun Zhong Team|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
 |**2025-09-30**|**NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving**|Johannes Betz Team|[2509.25944](http://arxiv.org/abs/2509.25944)|null|
@@ -2569,7 +2569,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
 
 ## VLA
 
@@ -2835,7 +2835,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
 
 ## Humanoid
 
@@ -3036,7 +3036,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
 
 ## Dexterous
 
@@ -3172,5 +3172,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
 

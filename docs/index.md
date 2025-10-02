@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.01
+## Updated on 2025.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -991,7 +991,7 @@ layout: default
 |**2025-09-30**|**Interpret, prune and distill Donut : towards lightweight VLMs for VQA on document**|David Naccache Team|[2509.26235](http://arxiv.org/abs/2509.26235)|null|
 |**2025-09-30**|**TSalV360: A Method and Dataset for Text-driven Saliency Detection in 360-Degrees Videos**|Vasileios Mezaris Team|[2509.26208](http://arxiv.org/abs/2509.26208)|**[link](https://ieeexplore.ieee.org/)**|
 |**2025-09-30**|**SGS: Segmentation-Guided Scoring for Global Scene Inconsistencies**|Xue Li Team|[2509.26039](http://arxiv.org/abs/2509.26039)|null|
-|**2025-09-30**|**AgenticIQA: An Agentic Framework for Adaptive and Interpretable Image Quality Assessment**|Weisi Lin Team|[2509.26006](http://arxiv.org/abs/2509.26006)|null|
+|**2025-10-01**|**AgenticIQA: An Agentic Framework for Adaptive and Interpretable Image Quality Assessment**|Weisi Lin Team|[2509.26006](http://arxiv.org/abs/2509.26006)|null|
 |**2025-09-30**|**Learning Egocentric In-Hand Object Segmentation through Weak Supervision from Human Narrations**|Antonino Furnari Team|[2509.26004](http://arxiv.org/abs/2509.26004)|null|
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Zhun Zhong Team|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
 |**2025-09-30**|**NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving**|Johannes Betz Team|[2509.25944](http://arxiv.org/abs/2509.25944)|null|
