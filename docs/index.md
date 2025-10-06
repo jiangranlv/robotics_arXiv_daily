@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.05
+## Updated on 2025.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -1013,7 +1013,7 @@ layout: default
 |**2025-10-02**|**Source-Free Cross-Domain Continual Learning**|Kutluyil Dogancay Team|[2510.01649](http://arxiv.org/abs/2510.01649)|null|
 |**2025-10-02**|**FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models**|Bihan Wen Team|[2510.01642](http://arxiv.org/abs/2510.01642)|**[link](https://jimntu.github.io/FailSafe/)**|
 |**2025-10-02**|**ImageNet-Think-250K: A Large-Scale Synthetic Dataset for Multimodal Reasoning for Vision Language Models**|Murali Emani Team|[2510.01582](http://arxiv.org/abs/2510.01582)|null|
-|**2025-10-01**|**Understanding Adversarial Transfer: Why Representation-Space Attacks Fail Where Data-Space Attacks Succeed**|Sanmi Koyejo Team|[2510.01494](http://arxiv.org/abs/2510.01494)|null|
+|**2025-10-03**|**Understanding Adversarial Transfer: Why Representation-Space Attacks Fail Where Data-Space Attacks Succeed**|Sanmi Koyejo Team|[2510.01494](http://arxiv.org/abs/2510.01494)|null|
 |**2025-10-01**|**VL-KnG: Visual Scene Understanding for Navigation Goal Identification using Spatiotemporal Knowledge Graphs**|Gonzalo Ferrer Team|[2510.01483](http://arxiv.org/abs/2510.01483)|null|
 |**2025-10-01**|**Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories**|Baharan Mirzasoleiman Team|[2510.01454](http://arxiv.org/abs/2510.01454)|**[link](https://bigml-cs-ucla.github.io/XMAS-project-page/)**|
 |**2025-10-01**|**GeoSURGE: Geo-localization using Semantic Fusion with Hierarchy of Geographic Embeddings**|Rakesh Kumar Team|[2510.01448](http://arxiv.org/abs/2510.01448)|null|
@@ -3092,7 +3092,7 @@ layout: default
 |**2025-09-17**|**LeVR: A Modular VR Teleoperation Framework for Imitation Learning in Dexterous Manipulation**|Han Liu Team|[2509.14349](http://arxiv.org/abs/2509.14349)|null|
 |**2025-09-16**|**\textsc{Gen2Real}: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video**|Rui Huang Team|[2509.14178](http://arxiv.org/abs/2509.14178)|null|
 |**2025-09-17**|**Whole-body Motion Control of an Omnidirectional Wheel-Legged Mobile Manipulator via Contact-Aware Dynamic Optimization**|Yiqun Li Team|[2509.14010](http://arxiv.org/abs/2509.14010)|null|
-|**2025-09-16**|**Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five**|Robert K. Katzschmann Team|[2509.13074](http://arxiv.org/abs/2509.13074)|null|
+|**2025-10-03**|**Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five**|Robert K. Katzschmann Team|[2509.13074](http://arxiv.org/abs/2509.13074)|null|
 |**2025-09-16**|**MoiréTac: A Dual-Mode Visuotactile Sensor for Multidimensional Perception Using Moiré Pattern Amplification**|Wenbo Ding Team|[2509.12714](http://arxiv.org/abs/2509.12714)|null|
 |**2025-09-11**|**Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration**|Wei Yang Team|[2509.09671](http://arxiv.org/abs/2509.09671)|null|
 |**2025-09-10**|**Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration**|Huimin Lu Team|[2509.08354](http://arxiv.org/abs/2509.08354)|null|
