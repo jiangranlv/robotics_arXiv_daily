@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-03**|**Mask2IV: Interaction-Centric Video Generation via Mask Trajectories**|Laura Sevilla-Lara Team|[2510.03135](http://arxiv.org/abs/2510.03135)|**[link](https://reagan1311.github.io/mask2iv)**|
+|**2025-10-03**|**Learning Stability Certificate for Robotics in Real-World Environments**|Zhe Shen Team|[2510.03123](http://arxiv.org/abs/2510.03123)|null|
+|**2025-10-03**|**Distributional Inverse Reinforcement Learning**|Anqi Wu Team|[2510.03013](http://arxiv.org/abs/2510.03013)|null|
+|**2025-10-03**|**Action Deviation-Aware Inference for Low-Latency Wireless Robots**|Seong-Lyun Kim Team|[2510.02851](http://arxiv.org/abs/2510.02851)|null|
+|**2025-10-03**|**Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data**|Nadia Figueroa Team|[2510.02738](http://arxiv.org/abs/2510.02738)|null|
+|**2025-10-02**|**A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models**|Hao Su Team|[2510.02538](http://arxiv.org/abs/2510.02538)|null|
+|**2025-10-02**|**U-LAG: Uncertainty-Aware, Lag-Adaptive Goal Retargeting for Robotic Manipulation**|Anujith Muraleedharan Team|[2510.02526](http://arxiv.org/abs/2510.02526)|null|
+|**2025-10-02**|**Beyond Imitation: Recovering Dense Rewards from Demonstrations**|Gholamreza Haffari Team|[2510.02493](http://arxiv.org/abs/2510.02493)|null|
 |**2025-10-02**|**ARMADA: Autonomous Online Failure Detection and Human Shared Control Empower Scalable Real-world Deployment and Adaptation**|Cewu Lu Team|[2510.02298](http://arxiv.org/abs/2510.02298)|null|
 |**2025-10-02**|**Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning**|Matthew R. Walter Team|[2510.02268](http://arxiv.org/abs/2510.02268)|null|
 |**2025-10-02**|**GRACE: A Language Model Framework for Explainable Inverse Reinforcement Learning**|Bogdan Mazoure Team|[2510.02180](http://arxiv.org/abs/2510.02180)|null|
@@ -1009,6 +1017,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-03**|**Simulation to Rules: A Dual-VLM Framework for Formal Visual Planning**|Yang Zhang Team|[2510.03182](http://arxiv.org/abs/2510.03182)|null|
+|**2025-10-03**|**SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the SpineMed-450k Corpus**|Caifeng Shan Team|[2510.03160](http://arxiv.org/abs/2510.03160)|null|
+|**2025-10-03**|**Multimodal Carotid Risk Stratification with Large Vision-Language Models: Benchmarking, Fine-Tuning, and Clinical Insights**|Konstantina Nikita Team|[2510.02922](http://arxiv.org/abs/2510.02922)|null|
+|**2025-10-03**|**Zero-Shot Robustness of Vision Language Models Via Confidence-Aware Weighting**|Mostafa Tavassolipour Team|[2510.02913](http://arxiv.org/abs/2510.02913)|null|
+|**2025-10-03**|**Med-K2N: Flexible K-to-N Modality Translation for Medical Image Synthesis**|Xin Gao Team|[2510.02815](http://arxiv.org/abs/2510.02815)|null|
+|**2025-10-03**|**MaskCD: Mitigating LVLM Hallucinations by Image Head Masked Contrastive Decoding**|Yujiu Yang Team|[2510.02790](http://arxiv.org/abs/2510.02790)|null|
+|**2025-10-03**|**OTR: Synthesizing Overlay Text Dataset for Text Removal**|Kota Yamaguchi Team|[2510.02787](http://arxiv.org/abs/2510.02787)|**[link](https://doi.org/10.1145/3746027.3758297)**|
+|**2025-10-03**|**Reasoning Riddles: How Explainability Reveals Cognitive Limits in Vision-Language Models**|Prahitha Movva Team|[2510.02780](http://arxiv.org/abs/2510.02780)|null|
+|**2025-10-03**|**AdaRD-key: Adaptive Relevance-Diversity Keyframe Sampling for Long-form Video understanding**|Mohammed Bennamoun Team|[2510.02778](http://arxiv.org/abs/2510.02778)|null|
+|**2025-10-03**|**Bayesian Test-time Adaptation for Object Recognition and Detection with Vision-language Models**|Zhen Lei Team|[2510.02750](http://arxiv.org/abs/2510.02750)|null|
+|**2025-10-03**|**Team Xiaomi EV-AD VLA: Caption-Guided Retrieval System for Cross-Modal Drone Navigation -- Technical Report for IROS 2025 RoboSense Challenge Track 4**|Xiaoshuai Hao Team|[2510.02728](http://arxiv.org/abs/2510.02728)|null|
+|**2025-10-03**|**ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks**|Bo Li Team|[2510.02677](http://arxiv.org/abs/2510.02677)|null|
+|**2025-10-02**|**Exploring OCR-augmented Generation for Bilingual VQA**|Sunho Park Team|[2510.02543](http://arxiv.org/abs/2510.02543)|null|
+|**2025-10-02**|**Multimodal Function Vectors for Spatial Relations**|Hongjing Lu Team|[2510.02528](http://arxiv.org/abs/2510.02528)|null|
 |**2025-10-02**|**From Behavioral Performance to Internal Competence: Interpreting Vision-Language Models with VLM-Lens**|Freda Shi Team|[2510.02292](http://arxiv.org/abs/2510.02292)|**[link](https://github.com/compling-wat/vlm-lens)**|
 |**2025-10-02**|**microCLIP: Unsupervised CLIP Adaptation via Coarse-Fine Token Fusion for Fine-Grained Image Classification**|Muhammad Haris Khan Team|[2510.02270](http://arxiv.org/abs/2510.02270)|null|
 |**2025-10-02**|**Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents**|Zhuosheng Zhang Team|[2510.02204](http://arxiv.org/abs/2510.02204)|null|
@@ -2615,6 +2637,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-03**|**MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning**|He Wang Team|[2510.03142](http://arxiv.org/abs/2510.03142)|**[link](https://pku-epic.github.io/MM-Nav-Web/)**|
 |**2025-10-02**|**Contrastive Representation Regularization for Vision-Language-Action Models**|Jinwoo Shin Team|[2510.01711](http://arxiv.org/abs/2510.01711)|null|
 |**2025-10-02**|**FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models**|Bihan Wen Team|[2510.01642](http://arxiv.org/abs/2510.01642)|**[link](https://jimntu.github.io/FailSafe/)**|
 |**2025-10-02**|**VLA-R1: Enhancing Reasoning in Vision-Language-Action Models**|Zheng Zhu Team|[2510.01623](http://arxiv.org/abs/2510.01623)|null|
@@ -2890,6 +2913,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-03**|**Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot**|Kui Jia Team|[2510.03081](http://arxiv.org/abs/2510.03081)|null|
+|**2025-10-03**|**HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton**|Yi Xu Team|[2510.03022](http://arxiv.org/abs/2510.03022)|null|
 |**2025-10-02**|**Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking**|C. Karen Liu Team|[2510.02252](http://arxiv.org/abs/2510.02252)|null|
 |**2025-10-02**|**Stand Up, NAO! Increasing the Reliability of Stand-Up Motions Through Error Compensation in Position Control**|Tim Laue Team|[2510.02129](http://arxiv.org/abs/2510.02129)|null|
 |**2025-10-02**|**Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots**|Peng Lu Team|[2510.01843](http://arxiv.org/abs/2510.01843)|null|
