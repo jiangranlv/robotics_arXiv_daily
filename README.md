@@ -16,6 +16,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model**|Zhaoxiang Zhang Team|[2510.06207](http://arxiv.org/abs/2510.06207)|**[link](https://anonymous.4open.science/w/Embodied-Coder/)**|
+|**2025-10-07**|**Differentiable Model Predictive Control on the GPU**|Thomas Lew Team|[2510.06179](http://arxiv.org/abs/2510.06179)|null|
+|**2025-10-07**|**Towards Autonomous Tape Handling for Robotic Wound Redressing**|Michael Yip Team|[2510.06127](http://arxiv.org/abs/2510.06127)|null|
+|**2025-10-07**|**Learning to Crawl: Latent Model-Based Reinforcement Learning for Soft Robotic Adaptive Locomotion**|Robin Chhabra Team|[2510.05957](http://arxiv.org/abs/2510.05957)|null|
+|**2025-10-07**|**VCoT-Grasp: Grasp Foundation Models with Visual Chain-of-Thought Reasoning for Language-driven Grasp Generation**|Badong Chen Team|[2510.05827](http://arxiv.org/abs/2510.05827)|null|
+|**2025-10-07**|**DeLTa: Demonstration and Language-Guided Novel Transparent Object Manipulation**|Kuk-Jin Yoon Team|[2510.05662](http://arxiv.org/abs/2510.05662)|**[link](https://sites.google.com/view/DeLTa25/)**|
+|**2025-10-07**|**Teaching Machines to Speak Using Articulatory Control**|Gopala Anumanchipalli Team|[2510.05619](http://arxiv.org/abs/2510.05619)|null|
+|**2025-10-07**|**Correlation-Aware Dual-View Pose and Velocity Estimation for Dynamic Robotic Manipulation**|Farrokh Janabi-Sharifi Team|[2510.05536](http://arxiv.org/abs/2510.05536)|null|
+|**2025-10-06**|**VER: Vision Expert Transformer for Robot Learning via Foundation Distillation and Dynamic Routing**|Masayoshi Tomizuka Team|[2510.05213](http://arxiv.org/abs/2510.05213)|null|
 |**2025-10-06**|**Curiosity-Driven Co-Development of Action and Language in Robots Through Self-Exploration**|Jun Tani Team|[2510.05013](http://arxiv.org/abs/2510.05013)|null|
 |**2025-10-06**|**Hands-Free Heritage: Automated 3D Scanning for Cultural Heritage Digitization**|Arianna Traviglia Team|[2510.04781](http://arxiv.org/abs/2510.04781)|null|
 |**2025-10-06**|**MobRT: A Digital Twin-Based Framework for Scalable Learning in Mobile Manipulation**|Wenjie Song Team|[2510.04592](http://arxiv.org/abs/2510.04592)|null|
@@ -1027,6 +1036,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**Reasoning under Vision: Understanding Visual-Spatial Cognition in Vision-Language Models for CAPTCHA**|Junfeng Yang Team|[2510.06067](http://arxiv.org/abs/2510.06067)|null|
+|**2025-10-07**|**Medical Vision Language Models as Policies for Robotic Surgery**|Martin Radfar Team|[2510.06064](http://arxiv.org/abs/2510.06064)|null|
+|**2025-10-07**|**Data Factory with Minimal Human Effort Using VLMs**|Andrew Markham Team|[2510.05722](http://arxiv.org/abs/2510.05722)|null|
+|**2025-10-07**|**Activation-Informed Pareto-Guided Low-Rank Compression for Efficient LLM/VLM**|Zheng Zhang Team|[2510.05544](http://arxiv.org/abs/2510.05544)|null|
 |**2025-10-06**|**Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization**|Ariel Gera Team|[2510.05038](http://arxiv.org/abs/2510.05038)|null|
 |**2025-10-06**|**Efficient Navigation in Unknown Indoor Environments with Vision-Language Models**|J. P. How Team|[2510.04991](http://arxiv.org/abs/2510.04991)|null|
 |**2025-10-06**|**ViTs: Teaching Machines to See Time Series Anomalies Like Human Experts**|Dan Pei Team|[2510.04710](http://arxiv.org/abs/2510.04710)|null|
@@ -2667,6 +2680,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model**|Zhaoxiang Zhang Team|[2510.06207](http://arxiv.org/abs/2510.06207)|**[link](https://anonymous.4open.science/w/Embodied-Coder/)**|
+|**2025-10-07**|**Verifier-free Test-Time Sampling for Vision Language Action Models**|Jinwoo Shin Team|[2510.05681](http://arxiv.org/abs/2510.05681)|null|
+|**2025-10-07**|**MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption**|Marios Savvides Team|[2510.05580](http://arxiv.org/abs/2510.05580)|null|
 |**2025-10-06**|**HyperVLA: Efficient Inference in Vision-Language-Action Models via Hypernetworks**|Shimon Whiteson Team|[2510.04898](http://arxiv.org/abs/2510.04898)|null|
 |**2025-10-05**|**ContextVLA: Vision-Language-Action Model with Amortized Multi-Frame Context**|Jinwoo Shin Team|[2510.04246](http://arxiv.org/abs/2510.04246)|**[link](https://huiwon-jang.github.io/contextvla)**|
 |**2025-10-05**|**SITCOM: Scaling Inference-Time COMpute for VLAs**|Esha Pahwa Team|[2510.04041](http://arxiv.org/abs/2510.04041)|null|
@@ -2950,6 +2966,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**A Co-Design Framework for Energy-Aware Monoped Jumping with Detailed Actuator Modeling**|Shishir Kolathaya Team|[2510.05923](http://arxiv.org/abs/2510.05923)|null|
 |**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|Abhishek Warrier Team|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
 |**2025-10-05**|**Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation**|Robert Griffin Team|[2510.04353](http://arxiv.org/abs/2510.04353)|null|
 |**2025-10-03**|**LapSurgie: Humanoid Robots Performing Surgery via Teleoperated Handheld Laparoscopy**|Michael C. Yip Team|[2510.03529](http://arxiv.org/abs/2510.03529)|null|
@@ -3160,6 +3177,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**Cross-Embodiment Dexterous Hand Articulation Generation via Morphology-Aware Learning**|Yan Wu Team|[2510.06068](http://arxiv.org/abs/2510.06068)|null|
+|**2025-10-06**|**A multi-modal tactile fingertip design for robotic hands to enhance dexterous manipulation**|Zeynep Temel Team|[2510.05382](http://arxiv.org/abs/2510.05382)|null|
 |**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|Katherine J. Kuchenbecker Team|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
 |**2025-09-28**|**DexFlyWheel: A Scalable and Self-improving Data Generation Framework for Dexterous Manipulation**|Yuanpei Chen Team|[2509.23829](http://arxiv.org/abs/2509.23829)|null|
 |**2025-09-26**|**DemoGrasp: Universal Dexterous Grasping from a Single Demonstration**|Zongqing Lu Team|[2509.22149](http://arxiv.org/abs/2509.22149)|null|
