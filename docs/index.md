@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -1031,7 +1031,7 @@ layout: default
 |**2025-10-05**|**ContextVLA: Vision-Language-Action Model with Amortized Multi-Frame Context**|Jinwoo Shin Team|[2510.04246](http://arxiv.org/abs/2510.04246)|**[link](https://huiwon-jang.github.io/contextvla)**|
 |**2025-10-05**|**Zoom-In to Sort AI-Generated Images Out**|Jianfu Zhang Team|[2510.04225](http://arxiv.org/abs/2510.04225)|null|
 |**2025-10-05**|**Automating construction safety inspections using a multi-modal vision-language RAG framework**|Daniel Dias-da-Costa Team|[2510.04145](http://arxiv.org/abs/2510.04145)|null|
-|**2025-10-05**|**AgriGPT-VL: Agricultural Vision-Language Understanding Suite**|Shijian Li Team|[2510.04002](http://arxiv.org/abs/2510.04002)|null|
+|**2025-10-07**|**AgriGPT-VL: Agricultural Vision-Language Understanding Suite**|Shijian Li Team|[2510.04002](http://arxiv.org/abs/2510.04002)|null|
 |**2025-10-04**|**No Tokens Wasted: Leveraging Long Context in Biomedical Vision-Language Models**|Serena Yeung-Levy Team|[2510.03978](http://arxiv.org/abs/2510.03978)|null|
 |**2025-10-04**|**Zero-Shot Fine-Grained Image Classification Using Large Vision-Language Models**|Chris Thomas Team|[2510.03903](http://arxiv.org/abs/2510.03903)|null|
 |**2025-10-04**|**Bridge Thinking and Acting: Unleashing Physical Potential of VLM with Generalizable Action Expert**|Chunhua Shen Team|[2510.03896](http://arxiv.org/abs/2510.03896)|null|
@@ -2949,7 +2949,7 @@ layout: default
 |**2025-09-30**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Guanya Shi Team|[2509.26633](http://arxiv.org/abs/2509.26633)|**[link](https://omniretarget.github.io)**|
 |**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|Katherine J. Kuchenbecker Team|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
 |**2025-09-30**|**Evolutionary Continuous Adaptive RL-Powered Co-Design for Humanoid Chin-Up Performance**|Frank Kirchner Team|[2509.26082](http://arxiv.org/abs/2509.26082)|null|
-|**2025-09-29**|**CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation**|Yoshihiko Nakamura Team|[2509.25443](http://arxiv.org/abs/2509.25443)|null|
+|**2025-10-06**|**CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation**|Yoshihiko Nakamura Team|[2509.25443](http://arxiv.org/abs/2509.25443)|null|
 |**2025-09-29**|**Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning and Control-Informed Steering**|Daniele Pucci Team|[2509.24697](http://arxiv.org/abs/2509.24697)|null|
 |**2025-09-29**|**Game Theory to Study Cooperation in Human-Robot Mixed Groups: Exploring the Potential of the Public Good Game**|Alessandra Sciutti Team|[2509.24530](http://arxiv.org/abs/2509.24530)|null|
 |**2025-09-29**|**Preference-Based Long-Horizon Robotic Stacking with Multimodal Large Language Models**|Sethu Vijayakumar Team|[2509.24163](http://arxiv.org/abs/2509.24163)|null|
