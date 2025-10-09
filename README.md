@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation**|Shanghang Zhang Team|[2510.07313](http://arxiv.org/abs/2510.07313)|null|
+|**2025-10-08**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|Shanghang Zhang Team|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
+|**2025-10-08**|**DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning**|Chen Lv Team|[2510.06913](http://arxiv.org/abs/2510.06913)|null|
+|**2025-10-07**|**Webscale-RL: Automated Data Pipeline for Scaling RL Data to Pretraining Levels**|Weiran Yao Team|[2510.06499](http://arxiv.org/abs/2510.06499)|null|
 |**2025-10-07**|**EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model**|Zhaoxiang Zhang Team|[2510.06207](http://arxiv.org/abs/2510.06207)|**[link](https://anonymous.4open.science/w/Embodied-Coder/)**|
 |**2025-10-07**|**Differentiable Model Predictive Control on the GPU**|Thomas Lew Team|[2510.06179](http://arxiv.org/abs/2510.06179)|null|
 |**2025-10-07**|**Towards Autonomous Tape Handling for Robotic Wound Redressing**|Michael Yip Team|[2510.06127](http://arxiv.org/abs/2510.06127)|null|
@@ -1036,6 +1040,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|Shanghang Zhang Team|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
+|**2025-10-08**|**Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models**|Benoit Macq Team|[2510.07135](http://arxiv.org/abs/2510.07135)|null|
+|**2025-10-08**|**TALENT: Table VQA via Augmented Language-Enhanced Natural-text Transcription**|Haoyu Wang Team|[2510.07098](http://arxiv.org/abs/2510.07098)|null|
+|**2025-10-08**|**Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications**|Yuke Zhu Team|[2510.07077](http://arxiv.org/abs/2510.07077)|**[link](https://vla-survey.github.io)**|
+|**2025-10-08**|**Unified Molecule Pre-training with Flexible 2D and 3D Modalities: Single and Paired Modality Integration**|Yuan Fang Team|[2510.07035](http://arxiv.org/abs/2510.07035)|null|
+|**2025-10-08**|**Get RICH or Die Scaling: Profitably Trading Inference Compute for Robustness**|Brian Bartoldson Team|[2510.06790](http://arxiv.org/abs/2510.06790)|null|
+|**2025-10-08**|**TTRV: Test-Time Reinforcement Learning for Vision Language Models**|M. Jehanzeb Mirza Team|[2510.06783](http://arxiv.org/abs/2510.06783)|null|
+|**2025-10-08**|**ToolMem: Enhancing Multimodal Agents with Learnable Tool Capability Memory**|Zora Zhiruo Wang Team|[2510.06664](http://arxiv.org/abs/2510.06664)|null|
+|**2025-10-08**|**VUGEN: Visual Understanding priors for GENeration**|Jakob Verbeek Team|[2510.06529](http://arxiv.org/abs/2510.06529)|null|
+|**2025-10-07**|**ChainMPQ: Interleaved Text-Image Reasoning Chains for Mitigating Relation Hallucinations**|Yujun Cai Team|[2510.06292](http://arxiv.org/abs/2510.06292)|null|
+|**2025-10-06**|**Surgeons Are Indian Males and Speech Therapists Are White Females: Auditing Biases in Vision-Language Models for Healthcare Professionals**|Beenish Moalla Chaudhry Team|[2510.06280](http://arxiv.org/abs/2510.06280)|null|
 |**2025-10-07**|**Reasoning under Vision: Understanding Visual-Spatial Cognition in Vision-Language Models for CAPTCHA**|Junfeng Yang Team|[2510.06067](http://arxiv.org/abs/2510.06067)|null|
 |**2025-10-07**|**Medical Vision Language Models as Policies for Robotic Surgery**|Martin Radfar Team|[2510.06064](http://arxiv.org/abs/2510.06064)|null|
 |**2025-10-07**|**Data Factory with Minimal Human Effort Using VLMs**|Andrew Markham Team|[2510.05722](http://arxiv.org/abs/2510.05722)|null|
@@ -2680,6 +2695,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**|He Wang Team|[2510.07134](http://arxiv.org/abs/2510.07134)|**[link](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)**|
+|**2025-10-08**|**Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications**|Yuke Zhu Team|[2510.07077](http://arxiv.org/abs/2510.07077)|**[link](https://vla-survey.github.io)**|
+|**2025-10-08**|**Bring the Apple, Not the Sofa: Impact of Irrelevant Context in Embodied AI Commands on VLA Models**|Elena Tutubalina Team|[2510.07067](http://arxiv.org/abs/2510.07067)|null|
+|**2025-10-08**|**RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training**|Yu Wang Team|[2510.06710](http://arxiv.org/abs/2510.06710)|**[link](https://github.com/RLinf/RLinf)**|
 |**2025-10-07**|**EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model**|Zhaoxiang Zhang Team|[2510.06207](http://arxiv.org/abs/2510.06207)|**[link](https://anonymous.4open.science/w/Embodied-Coder/)**|
 |**2025-10-07**|**Verifier-free Test-Time Sampling for Vision Language Action Models**|Jinwoo Shin Team|[2510.05681](http://arxiv.org/abs/2510.05681)|null|
 |**2025-10-07**|**MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption**|Marios Savvides Team|[2510.05580](http://arxiv.org/abs/2510.05580)|null|
@@ -2966,6 +2985,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction**|Qiang Zhang Team|[2510.07152](http://arxiv.org/abs/2510.07152)|null|
 |**2025-10-07**|**A Co-Design Framework for Energy-Aware Monoped Jumping with Detailed Actuator Modeling**|Shishir Kolathaya Team|[2510.05923](http://arxiv.org/abs/2510.05923)|null|
 |**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|Abhishek Warrier Team|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
 |**2025-10-05**|**Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation**|Robert Griffin Team|[2510.04353](http://arxiv.org/abs/2510.04353)|null|
