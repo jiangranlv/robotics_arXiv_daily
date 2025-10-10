@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -2983,7 +2983,7 @@ layout: default
 |**2025-10-02**|**Stand Up, NAO! Increasing the Reliability of Stand-Up Motions Through Error Compensation in Position Control**|Tim Laue Team|[2510.02129](http://arxiv.org/abs/2510.02129)|null|
 |**2025-10-02**|**Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots**|Peng Lu Team|[2510.01843](http://arxiv.org/abs/2510.01843)|null|
 |**2025-09-30**|**Learning Human Reaching Optimality Principles from Minimal Observation Inverse Reinforcement Learning**|Ludovic Righetti Team|[2510.00329](http://arxiv.org/abs/2510.00329)|null|
-|**2025-09-30**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Guanya Shi Team|[2509.26633](http://arxiv.org/abs/2509.26633)|**[link](https://omniretarget.github.io)**|
+|**2025-10-08**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Guanya Shi Team|[2509.26633](http://arxiv.org/abs/2509.26633)|**[link](https://omniretarget.github.io)**|
 |**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|Katherine J. Kuchenbecker Team|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
 |**2025-09-30**|**Evolutionary Continuous Adaptive RL-Powered Co-Design for Humanoid Chin-Up Performance**|Frank Kirchner Team|[2509.26082](http://arxiv.org/abs/2509.26082)|null|
 |**2025-10-06**|**CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation**|Yoshihiko Nakamura Team|[2509.25443](http://arxiv.org/abs/2509.25443)|null|
