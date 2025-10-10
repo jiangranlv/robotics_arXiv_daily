@@ -16,8 +16,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**Agent Learning via Early Experience**|Yifan Wu Team|[2510.08558](http://arxiv.org/abs/2510.08558)|null|
+|**2025-10-09**|**R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized Manipulation**|Jiwen Lu Team|[2510.08547](http://arxiv.org/abs/2510.08547)|**[link](https://r2rgen.github.io/)**|
+|**2025-10-09**|**Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge**|Wei Shen Team|[2510.08316](http://arxiv.org/abs/2510.08316)|null|
+|**2025-10-09**|**FastUMI-100K: Advancing Data-driven Robotic Manipulation with a Large-scale UMI-style Dataset**|Xuelong Li Team|[2510.08022](http://arxiv.org/abs/2510.08022)|null|
+|**2025-10-09**|**DM1: MeanFlow with Dispersive Regularization for 1-Step Robotic Manipulation**|Weibing Li Team|[2510.07865](http://arxiv.org/abs/2510.07865)|**[link](https://guowei-zou.github.io/dm1/)**|
+|**2025-10-09**|**Trajectory Conditioned Cross-embodiment Skill Transfer**|Bin Zhao Team|[2510.07773](http://arxiv.org/abs/2510.07773)|null|
+|**2025-10-09**|**Differentiable Particle Optimization for Fast Sequential Manipulation**|Zachary Kingston Team|[2510.07674](http://arxiv.org/abs/2510.07674)|null|
 |**2025-10-08**|**WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation**|Shanghang Zhang Team|[2510.07313](http://arxiv.org/abs/2510.07313)|null|
-|**2025-10-08**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|Shanghang Zhang Team|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
+|**2025-10-09**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|Shanghang Zhang Team|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
 |**2025-10-08**|**DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning**|Chen Lv Team|[2510.06913](http://arxiv.org/abs/2510.06913)|null|
 |**2025-10-07**|**Webscale-RL: Automated Data Pipeline for Scaling RL Data to Pretraining Levels**|Weiran Yao Team|[2510.06499](http://arxiv.org/abs/2510.06499)|null|
 |**2025-10-07**|**EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model**|Zhaoxiang Zhang Team|[2510.06207](http://arxiv.org/abs/2510.06207)|**[link](https://anonymous.4open.science/w/Embodied-Coder/)**|
@@ -1040,7 +1047,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-08**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|Shanghang Zhang Team|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
+|**2025-10-09**|**MATRIX: Multimodal Agent Tuning for Robust Tool-Use Reasoning**|Salman Khan Team|[2510.08567](http://arxiv.org/abs/2510.08567)|null|
+|**2025-10-09**|**SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models**|Yueting Zhuang Team|[2510.08531](http://arxiv.org/abs/2510.08531)|**[link](https://zju-real.github.io/SpatialLadder/)**|
+|**2025-10-09**|**To Sink or Not to Sink: Visual Information Pathways in Large Vision-Language Models**|Leonid Sigal Team|[2510.08510](http://arxiv.org/abs/2510.08510)|**[link](https://davidhalladay.github.io/diysink_demo)**|
+|**2025-10-09**|**MoA-VR: A Mixture-of-Agents System Towards All-in-One Video Restoration**|Guangtao Zhai Team|[2510.08508](http://arxiv.org/abs/2510.08508)|null|
+|**2025-10-09**|**The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form-Meaning Mapping**|Esam Ghaleb Team|[2510.08482](http://arxiv.org/abs/2510.08482)|null|
+|**2025-10-09**|**Looking to Learn: Token-wise Dynamic Gating for Low-Resource Vision-Language Modelling**|Paula Buttery Team|[2510.08470](http://arxiv.org/abs/2510.08470)|null|
+|**2025-10-09**|**VideoVerse: How Far is Your T2V Generator from a World Model?**|Lei Zhang Team|[2510.08398](http://arxiv.org/abs/2510.08398)|null|
+|**2025-10-09**|**Evaluating Small Vision-Language Models on Distance-Dependent Traffic Perception**|Ciaran Eising Team|[2510.08352](http://arxiv.org/abs/2510.08352)|null|
+|**2025-10-09**|**Chain-of-Trigger: An Agentic Backdoor that Paradoxically Enhances Agentic Robustness**|Hai Zhao Team|[2510.08238](http://arxiv.org/abs/2510.08238)|null|
+|**2025-10-09**|**Approximate Domain Unlearning for Vision-Language Models**|Go Irie Team|[2510.08132](http://arxiv.org/abs/2510.08132)|null|
+|**2025-10-09**|**CIR-CoT: Towards Interpretable Composed Image Retrieval via End-to-End Chain-of-Thought Reasoning**|Rongrong Ji Team|[2510.08003](http://arxiv.org/abs/2510.08003)|null|
+|**2025-10-09**|**Executable Analytic Concepts as the Missing Link Between VLM Insight and Precise Manipulation**|Jianhua Sun Team|[2510.07975](http://arxiv.org/abs/2510.07975)|null|
+|**2025-10-09**|**Effective and Stealthy One-Shot Jailbreaks on Deployed Mobile Vision-Language Agents**|Jun Zhu Team|[2510.07809](http://arxiv.org/abs/2510.07809)|null|
+|**2025-10-09**|**GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models**|Long Zeng Team|[2510.07791](http://arxiv.org/abs/2510.07791)|null|
+|**2025-10-09**|**IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction**|Liqiang Nie Team|[2510.07778](http://arxiv.org/abs/2510.07778)|null|
+|**2025-10-09**|**Multimodal Safety Evaluation in Generative Agent Social Simulations**|Bernard Ghanem Team|[2510.07709](http://arxiv.org/abs/2510.07709)|null|
+|**2025-10-09**|**Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models**|Fuzhi Tang Team|[2510.07632](http://arxiv.org/abs/2510.07632)|null|
+|**2025-10-08**|**Cross-Modal Attention Guided Unlearning in Vision-Language Models**|Xintao Wu Team|[2510.07567](http://arxiv.org/abs/2510.07567)|null|
+|**2025-10-08**|**Deploying Tiny LVLM Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices**|Jimmy Huang Team|[2510.07545](http://arxiv.org/abs/2510.07545)|null|
+|**2025-10-09**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|Shanghang Zhang Team|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
 |**2025-10-08**|**Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models**|Benoit Macq Team|[2510.07135](http://arxiv.org/abs/2510.07135)|null|
 |**2025-10-08**|**TALENT: Table VQA via Augmented Language-Enhanced Natural-text Transcription**|Haoyu Wang Team|[2510.07098](http://arxiv.org/abs/2510.07098)|null|
 |**2025-10-08**|**Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications**|Yuke Zhu Team|[2510.07077](http://arxiv.org/abs/2510.07077)|**[link](https://vla-survey.github.io)**|
@@ -2695,6 +2721,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered**|Shayegan Omidshafiei Team|[2510.08464](http://arxiv.org/abs/2510.08464)|null|
+|**2025-10-09**|**USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots**|Zhengxing Wu Team|[2510.07869](http://arxiv.org/abs/2510.07869)|null|
+|**2025-10-09**|**IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction**|Liqiang Nie Team|[2510.07778](http://arxiv.org/abs/2510.07778)|null|
+|**2025-10-09**|**DEAS: DEtached value learning with Action Sequence for Scalable Offline RL**|Yuke Zhu Team|[2510.07730](http://arxiv.org/abs/2510.07730)|**[link](https://changyeon.site/deas)**|
 |**2025-10-08**|**TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**|He Wang Team|[2510.07134](http://arxiv.org/abs/2510.07134)|**[link](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)**|
 |**2025-10-08**|**Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications**|Yuke Zhu Team|[2510.07077](http://arxiv.org/abs/2510.07077)|**[link](https://vla-survey.github.io)**|
 |**2025-10-08**|**Bring the Apple, Not the Sofa: Impact of Irrelevant Context in Embodied AI Commands on VLA Models**|Elena Tutubalina Team|[2510.07067](http://arxiv.org/abs/2510.07067)|null|
@@ -2985,6 +3015,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos**|Tsung-Wei Ke Team|[2510.08475](http://arxiv.org/abs/2510.08475)|**[link](https://embodiedai-ntu.github.io/dexman/index.html)**|
+|**2025-10-09**|**Reliability of Single-Level Equality-Constrained Inverse Optimal Control**|Vincent Bonnet Team|[2510.08406](http://arxiv.org/abs/2510.08406)|null|
+|**2025-10-09**|**Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots**|Zongqing Lu Team|[2510.07882](http://arxiv.org/abs/2510.07882)|null|
 |**2025-10-08**|**DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction**|Qiang Zhang Team|[2510.07152](http://arxiv.org/abs/2510.07152)|null|
 |**2025-10-07**|**A Co-Design Framework for Energy-Aware Monoped Jumping with Detailed Actuator Modeling**|Shishir Kolathaya Team|[2510.05923](http://arxiv.org/abs/2510.05923)|null|
 |**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|Abhishek Warrier Team|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
@@ -3197,6 +3230,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**DexNDM: Closing the Reality Gap for Dexterous In-Hand Rotation via Joint-Wise Neural Dynamics Model**|Li Yi Team|[2510.08556](http://arxiv.org/abs/2510.08556)|**[link](https://meowuu7.github.io/DexNDM/)**|
+|**2025-10-09**|**DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos**|Tsung-Wei Ke Team|[2510.08475](http://arxiv.org/abs/2510.08475)|**[link](https://embodiedai-ntu.github.io/dexman/index.html)**|
+|**2025-10-08**|**AVO: Amortized Value Optimization for Contact Mode Switching in Multi-Finger Manipulation**|Dmitry Berenson Team|[2510.07548](http://arxiv.org/abs/2510.07548)|null|
 |**2025-10-07**|**Cross-Embodiment Dexterous Hand Articulation Generation via Morphology-Aware Learning**|Yan Wu Team|[2510.06068](http://arxiv.org/abs/2510.06068)|null|
 |**2025-10-06**|**A multi-modal tactile fingertip design for robotic hands to enhance dexterous manipulation**|Zeynep Temel Team|[2510.05382](http://arxiv.org/abs/2510.05382)|null|
 |**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|Katherine J. Kuchenbecker Team|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
