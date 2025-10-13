@@ -9,6 +9,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**|Caifeng Shan Team|[2510.09607](http://arxiv.org/abs/2510.09607)|**[link](https://ltbai.github.io/VITA-VLA/)**|
+|**2025-10-10**|**Guiding Energy-Efficient Locomotion through Impact Mitigation Rewards**|Alireza Ramezani Team|[2510.09543](http://arxiv.org/abs/2510.09543)|null|
+|**2025-10-10**|**Autonomous Soft Robotic Guidewire Navigation via Imitation Learning**|Axel Krieger Team|[2510.09497](http://arxiv.org/abs/2510.09497)|null|
+|**2025-10-10**|**Near-Optimal Second-Order Guarantees for Model-Based Adversarial Imitation Learning**|Weitong Zhang Team|[2510.09487](http://arxiv.org/abs/2510.09487)|null|
+|**2025-10-10**|**Failure Prediction at Runtime for Generative Robot Policies**|Angela P. Schoellig Team|[2510.09459](http://arxiv.org/abs/2510.09459)|null|
+|**2025-10-10**|**Rate optimal learning of equilibria from data**|Giorgia Ramponi Team|[2510.09325](http://arxiv.org/abs/2510.09325)|null|
+|**2025-10-10**|**Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System**|Pai Zheng Team|[2510.09229](http://arxiv.org/abs/2510.09229)|null|
+|**2025-10-10**|**FM-IRL: Flow-Matching for Reward Modeling and Policy Regularization in Reinforcement Learning**|Ivor Tsang Team|[2510.09222](http://arxiv.org/abs/2510.09222)|null|
+|**2025-10-10**|**When a Robot is More Capable than a Human: Learning from Constrained Demonstrators**|Erdem Bıyık Team|[2510.09096](http://arxiv.org/abs/2510.09096)|null|
+|**2025-10-10**|**iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation**|Ziwei Wang Team|[2510.09036](http://arxiv.org/abs/2510.09036)|null|
+|**2025-10-09**|**Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation**|Yue Wang Team|[2510.08807](http://arxiv.org/abs/2510.08807)|null|
+|**2025-10-09**|**Geometry-aware Policy Imitation**|Sylvain Calinon Team|[2510.08787](http://arxiv.org/abs/2510.08787)|null|
+|**2025-10-09**|**Point and Go: Intuitive Reference Frame Reallocation in Mode Switching for Assistive Robotics**|M. Jagersand Team|[2510.08753](http://arxiv.org/abs/2510.08753)|null|
 |**2025-10-09**|**Agent Learning via Early Experience**|Yifan Wu Team|[2510.08558](http://arxiv.org/abs/2510.08558)|null|
 |**2025-10-09**|**R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized Manipulation**|Jiwen Lu Team|[2510.08547](http://arxiv.org/abs/2510.08547)|**[link](https://r2rgen.github.io/)**|
 |**2025-10-09**|**Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge**|Wei Shen Team|[2510.08316](http://arxiv.org/abs/2510.08316)|null|
@@ -1038,6 +1051,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**StreamingVLM: Real-Time Understanding for Infinite Video Streams**|Song Han Team|[2510.09608](http://arxiv.org/abs/2510.09608)|null|
+|**2025-10-10**|**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**|Caifeng Shan Team|[2510.09607](http://arxiv.org/abs/2510.09607)|**[link](https://ltbai.github.io/VITA-VLA/)**|
+|**2025-10-10**|**Vision Language Models: A Survey of 26K Papers**|Fengming Lin Team|[2510.09586](http://arxiv.org/abs/2510.09586)|null|
+|**2025-10-10**|**D-TPT: Dimensional Entropy Maximization for Calibrating Test-Time Prompt Tuning in Vision-Language Models**|Wonjun Hwang Team|[2510.09473](http://arxiv.org/abs/2510.09473)|null|
+|**2025-10-10**|**Boosting Multi-modal Keyphrase Prediction with Dynamic Chain-of-Thought in Vision-Language Models**|Jiao Ran Team|[2510.09358](http://arxiv.org/abs/2510.09358)|**[link](https://github.com/bytedance/DynamicCoT)**|
+|**2025-10-10**|**Spotlight on Token Perception for Multimodal Reinforcement Learning**|Yu Cheng Team|[2510.09285](http://arxiv.org/abs/2510.09285)|**[link](https://github.com/huaixuheqing/VPPO-RL)**|
+|**2025-10-10**|**Hallucination Filtering in Radiology Vision-Language Models Using Discrete Semantic Entropy**|Daniel Truhn Team|[2510.09256](http://arxiv.org/abs/2510.09256)|**[link](https://github.com/TruhnLab/VisionSemanticEntropy)**|
+|**2025-10-10**|**Zero-shot image privacy classification with Vision-Language Models**|Andrea Cavallaro Team|[2510.09253](http://arxiv.org/abs/2510.09253)|null|
+|**2025-10-10**|**Clear Roads, Clear Vision: Advancements in Multi-Weather Restoration for Smart Transportation**|Subrahmanyam Murala Team|[2510.09228](http://arxiv.org/abs/2510.09228)|null|
+|**2025-10-10**|**MCMC: Bridging Rendering, Optimization and Generative AI**|Wenzel Jakob Team|[2510.09078](http://arxiv.org/abs/2510.09078)|null|
+|**2025-10-10**|**On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models**|Se Young Chun Team|[2510.09008](http://arxiv.org/abs/2510.09008)|null|
+|**2025-10-10**|**Unleashing Perception-Time Scaling to Multimodal Reasoning Models**|Minghui Qiu Team|[2510.08964](http://arxiv.org/abs/2510.08964)|null|
+|**2025-10-10**|**PHyCLIP: $\ell_1$ -Product of Hyperbolic Factors Unifies Hierarchy and Compositionality in Vision-Language Representation Learning**|Takashi Matsubara Team|[2510.08919](http://arxiv.org/abs/2510.08919)|null|
+|**2025-10-09**|**CDE: Concept-Driven Exploration for Reinforcement Learning**|Joseph Campbell Team|[2510.08851](http://arxiv.org/abs/2510.08851)|null|
+|**2025-10-09**|**FOLK: Fast Open-Vocabulary 3D Instance Segmentation via Label-guided Knowledge Distillation**|Zhihua Wei Team|[2510.08849](http://arxiv.org/abs/2510.08849)|null|
+|**2025-10-09**|**D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**|Yun Fu Team|[2510.08818](http://arxiv.org/abs/2510.08818)|null|
+|**2025-10-09**|**Q-Router: Agentic Video Quality Assessment with Expert Model Routing and Artifact Localization**|Zhengzhong Tu Team|[2510.08789](http://arxiv.org/abs/2510.08789)|null|
 |**2025-10-09**|**MATRIX: Multimodal Agent Tuning for Robust Tool-Use Reasoning**|Salman Khan Team|[2510.08567](http://arxiv.org/abs/2510.08567)|null|
 |**2025-10-09**|**SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models**|Yueting Zhuang Team|[2510.08531](http://arxiv.org/abs/2510.08531)|**[link](https://zju-real.github.io/SpatialLadder/)**|
 |**2025-10-09**|**To Sink or Not to Sink: Visual Information Pathways in Large Vision-Language Models**|Leonid Sigal Team|[2510.08510](http://arxiv.org/abs/2510.08510)|**[link](https://davidhalladay.github.io/diysink_demo)**|
@@ -2710,8 +2740,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**|Caifeng Shan Team|[2510.09607](http://arxiv.org/abs/2510.09607)|**[link](https://ltbai.github.io/VITA-VLA/)**|
+|**2025-10-10**|**PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs**|Ying-Cong Chen Team|[2510.09507](http://arxiv.org/abs/2510.09507)|null|
+|**2025-10-10**|**Goal-oriented Backdoor Attack against Vision-Language-Action Models via Physical Objects**|Jingfeng Zhang Team|[2510.09269](http://arxiv.org/abs/2510.09269)|null|
 |**2025-10-09**|**Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered**|Shayegan Omidshafiei Team|[2510.08464](http://arxiv.org/abs/2510.08464)|null|
-|**2025-10-09**|**USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots**|Zhengxing Wu Team|[2510.07869](http://arxiv.org/abs/2510.07869)|null|
+|**2025-10-10**|**USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots**|Zhengxing Wu Team|[2510.07869](http://arxiv.org/abs/2510.07869)|**[link](https://vincentgu2000.github.io/u0project/)**|
 |**2025-10-09**|**IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction**|Liqiang Nie Team|[2510.07778](http://arxiv.org/abs/2510.07778)|null|
 |**2025-10-09**|**DEAS: DEtached value learning with Action Sequence for Scalable Offline RL**|Yuke Zhu Team|[2510.07730](http://arxiv.org/abs/2510.07730)|**[link](https://changyeon.site/deas)**|
 |**2025-10-08**|**TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**|He Wang Team|[2510.07134](http://arxiv.org/abs/2510.07134)|**[link](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)**|
@@ -3002,10 +3035,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-09**|**Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation**|Yue Wang Team|[2510.08807](http://arxiv.org/abs/2510.08807)|null|
 |**2025-10-09**|**DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos**|Tsung-Wei Ke Team|[2510.08475](http://arxiv.org/abs/2510.08475)|**[link](https://embodiedai-ntu.github.io/dexman/index.html)**|
 |**2025-10-09**|**Reliability of Single-Level Equality-Constrained Inverse Optimal Control**|Vincent Bonnet Team|[2510.08406](http://arxiv.org/abs/2510.08406)|null|
 |**2025-10-09**|**Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots**|Zongqing Lu Team|[2510.07882](http://arxiv.org/abs/2510.07882)|null|
-|**2025-10-08**|**DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction**|Qiang Zhang Team|[2510.07152](http://arxiv.org/abs/2510.07152)|null|
+|**2025-10-10**|**DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction**|Qiang Zhang Team|[2510.07152](http://arxiv.org/abs/2510.07152)|null|
 |**2025-10-07**|**A Co-Design Framework for Energy-Aware Monoped Jumping with Detailed Actuator Modeling**|Shishir Kolathaya Team|[2510.05923](http://arxiv.org/abs/2510.05923)|null|
 |**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|Abhishek Warrier Team|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
 |**2025-10-05**|**Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation**|Robert Griffin Team|[2510.04353](http://arxiv.org/abs/2510.04353)|null|
@@ -3215,6 +3249,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System**|Pai Zheng Team|[2510.09229](http://arxiv.org/abs/2510.09229)|null|
+|**2025-10-10**|**PLEXUS Hand: Lightweight Four-Motor Prosthetic Hand Enabling Precision-Lateral Dexterous Manipulation**|Kazutoshi Tanaka Team|[2510.09209](http://arxiv.org/abs/2510.09209)|null|
 |**2025-10-09**|**DexNDM: Closing the Reality Gap for Dexterous In-Hand Rotation via Joint-Wise Neural Dynamics Model**|Li Yi Team|[2510.08556](http://arxiv.org/abs/2510.08556)|**[link](https://meowuu7.github.io/DexNDM/)**|
 |**2025-10-09**|**DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos**|Tsung-Wei Ke Team|[2510.08475](http://arxiv.org/abs/2510.08475)|**[link](https://embodiedai-ntu.github.io/dexman/index.html)**|
 |**2025-10-08**|**AVO: Amortized Value Optimization for Contact Mode Switching in Multi-Finger Manipulation**|Dmitry Berenson Team|[2510.07548](http://arxiv.org/abs/2510.07548)|null|
