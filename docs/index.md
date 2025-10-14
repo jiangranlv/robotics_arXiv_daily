@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.13
+## Updated on 2025.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -28,7 +28,7 @@ layout: default
 |**2025-10-09**|**FastUMI-100K: Advancing Data-driven Robotic Manipulation with a Large-scale UMI-style Dataset**|Xuelong Li Team|[2510.08022](http://arxiv.org/abs/2510.08022)|null|
 |**2025-10-09**|**DM1: MeanFlow with Dispersive Regularization for 1-Step Robotic Manipulation**|Weibing Li Team|[2510.07865](http://arxiv.org/abs/2510.07865)|**[link](https://guowei-zou.github.io/dm1/)**|
 |**2025-10-09**|**Trajectory Conditioned Cross-embodiment Skill Transfer**|Bin Zhao Team|[2510.07773](http://arxiv.org/abs/2510.07773)|null|
-|**2025-10-09**|**Differentiable Particle Optimization for Fast Sequential Manipulation**|Zachary Kingston Team|[2510.07674](http://arxiv.org/abs/2510.07674)|null|
+|**2025-10-11**|**Differentiable Particle Optimization for Fast Sequential Manipulation**|Zachary Kingston Team|[2510.07674](http://arxiv.org/abs/2510.07674)|null|
 |**2025-10-08**|**WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation**|Shanghang Zhang Team|[2510.07313](http://arxiv.org/abs/2510.07313)|null|
 |**2025-10-09**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|Shanghang Zhang Team|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
 |**2025-10-08**|**DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning**|Chen Lv Team|[2510.06913](http://arxiv.org/abs/2510.06913)|null|
