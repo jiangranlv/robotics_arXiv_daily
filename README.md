@@ -16,6 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tunin**|Yunzhu Li Team|[2510.14930](http://arxiv.org/abs/2510.14930)|**[link](https://binghao-huang.github.io/vt_refine/)**|
+|**2025-10-16**|**SADCHER: Scheduling using Attention-based Dynamic Coalitions of Heterogeneous Robots in Real-Time**|Javier Alonso-Mora Team|[2510.14851](http://arxiv.org/abs/2510.14851)|**[link](https://autonomousrobots.nl/paper_websites/sadcher_MRTA/)**|
+|**2025-10-16**|**RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning**|Huazhe Xu Team|[2510.14830](http://arxiv.org/abs/2510.14830)|**[link](https://lei-kun.github.io/RL-100/)**|
+|**2025-10-16**|**Open TeleDex: A Hardware-Agnostic Teleoperation System for Imitation Learning based Dexterous Manipulation**|Shan An Team|[2510.14771](http://arxiv.org/abs/2510.14771)|null|
+|**2025-10-16**|**Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models**|Wilm Decré Team|[2510.14615](http://arxiv.org/abs/2510.14615)|null|
+|**2025-10-16**|**Restoring Noisy Demonstration for Imitation Learning With Diffusion Models**|Shao-Hua Sun Team|[2510.14467](http://arxiv.org/abs/2510.14467)|null|
+|**2025-10-16**|**Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning**|Yao Mu Team|[2510.14300](http://arxiv.org/abs/2510.14300)|null|
+|**2025-10-15**|**ViTacGen: Robotic Pushing with Vision-to-Touch Generation**|Shan Luo Team|[2510.14117](http://arxiv.org/abs/2510.14117)|null|
+|**2025-10-15**|**Optimistic Reinforcement Learning-Based Skill Insertions for Task and Motion Planning**|Bram Vanderborght Team|[2510.14065](http://arxiv.org/abs/2510.14065)|null|
+|**2025-10-15**|**CausalVerse: Benchmarking Causal Representation Learning with Configurable High-Fidelity Simulations**|Kun Zhang Team|[2510.14049](http://arxiv.org/abs/2510.14049)|null|
 |**2025-10-15**|**LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models**|Xipeng Qiu Team|[2510.13626](http://arxiv.org/abs/2510.13626)|null|
 |**2025-10-15**|**Efficient Force and Stiffness Prediction in Robotic Produce Handling with a Piezoresistive Pressure Sensor**|Xiaobo Tan Team|[2510.13616](http://arxiv.org/abs/2510.13616)|**[link](https://drive.google.com/drive/folders/1jol-_z6gaUfjpL1Qi7EG420usTbVSodv?usp=sharing)**|
 |**2025-10-15**|**Active Tactile Exploration for Rigid Body Pose and Shape Estimation**|Michael Posa Team|[2510.13595](http://arxiv.org/abs/2510.13595)|null|
@@ -1090,6 +1100,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**From Pixels to Words -- Towards Native Vision-Language Primitives at Scale**|Ziwei Liu Team|[2510.14979](http://arxiv.org/abs/2510.14979)|null|
+|**2025-10-16**|**Learning an Image Editing Model without Image Editing Pairs**|Xun Huang Team|[2510.14978](http://arxiv.org/abs/2510.14978)|**[link](https://nupurkmr9.github.io/npedit/)**|
+|**2025-10-16**|**RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks**|Jiachen Li Team|[2510.14968](http://arxiv.org/abs/2510.14968)|null|
+|**2025-10-16**|**RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning**|Haoran Li Team|[2510.14828](http://arxiv.org/abs/2510.14828)|null|
+|**2025-10-16**|**CoT-PL: Visual Chain-of-Thought Reasoning Meets Pseudo-Labeling for Open-Vocabulary Object Detection**|Hyunjung Shim Team|[2510.14792](http://arxiv.org/abs/2510.14792)|null|
+|**2025-10-16**|**Free-Grained Hierarchical Recognition**|Stella X. Yu Team|[2510.14737](http://arxiv.org/abs/2510.14737)|null|
+|**2025-10-16**|**Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference**|Andrew Tao Team|[2510.14624](http://arxiv.org/abs/2510.14624)|null|
+|**2025-10-16**|**Talking Points: Describing and Localizing Pixels**|Shai Avidan Team|[2510.14583](http://arxiv.org/abs/2510.14583)|null|
+|**2025-10-16**|**Exploring Cross-Modal Flows for Few-Shot Learning**|Long Chen Team|[2510.14543](http://arxiv.org/abs/2510.14543)|null|
+|**2025-10-16**|**PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model**|Yanjun Ma Team|[2510.14528](http://arxiv.org/abs/2510.14528)|null|
+|**2025-10-16**|**Noise Projection: Closing the Prompt-Agnostic Gap Behind Text-to-Image Misalignment in Diffusion Models**|Ziyu Zhao Team|[2510.14526](http://arxiv.org/abs/2510.14526)|null|
+|**2025-10-16**|**Hi-Agent: Hierarchical Vision-Language Agents for Mobile Device Control**|Yuanchun Shi Team|[2510.14388](http://arxiv.org/abs/2510.14388)|null|
+|**2025-10-16**|**Watermarking for Factuality: Guiding Vision-Language Models Toward Truth via Tri-layer Contrastive Decoding**|Jinkyu Kim Team|[2510.14304](http://arxiv.org/abs/2510.14304)|**[link](https://github.com/KR-0822/TCD)**|
+|**2025-10-15**|**Efficient Few-Shot Learning in Remote Sensing: Fusing Vision and Vision-Language Models**|Miguel Arana-Catania Team|[2510.13993](http://arxiv.org/abs/2510.13993)|null|
 |**2025-10-15**|**VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models**|Srijan Das Team|[2510.13808](http://arxiv.org/abs/2510.13808)|null|
 |**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Yujiu Yang Team|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
 |**2025-10-15**|**Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models**|Xiaowei Huang Team|[2510.13394](http://arxiv.org/abs/2510.13394)|null|
@@ -2834,6 +2858,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks**|Jiachen Li Team|[2510.14968](http://arxiv.org/abs/2510.14968)|null|
+|**2025-10-16**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Chang Xu Team|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
+|**2025-10-16**|**VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation**|Donglin Wang Team|[2510.14902](http://arxiv.org/abs/2510.14902)|null|
+|**2025-10-16**|**QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models**|Haoran Li Team|[2510.14836](http://arxiv.org/abs/2510.14836)|null|
+|**2025-10-16**|**Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning**|Yao Mu Team|[2510.14300](http://arxiv.org/abs/2510.14300)|null|
 |**2025-10-15**|**InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy**|Yangkun Zhu Team|[2510.13778](http://arxiv.org/abs/2510.13778)|null|
 |**2025-10-15**|**LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models**|Xipeng Qiu Team|[2510.13626](http://arxiv.org/abs/2510.13626)|null|
 |**2025-10-15**|**DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning**|Hang Zhao Team|[2510.13375](http://arxiv.org/abs/2510.13375)|null|
@@ -3147,6 +3176,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions**|Massimiliano de Sa Aaron D. Ames Team|[2510.14959](http://arxiv.org/abs/2510.14959)|null|
+|**2025-10-16**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Chang Xu Team|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
+|**2025-10-16**|**Towards Adaptable Humanoid Control via Adaptive Motion Tracking**|Jiangmiao Pang Team|[2510.14454](http://arxiv.org/abs/2510.14454)|null|
 |**2025-10-15**|**A Modular Object Detection System for Humanoid Robots Using YOLO**|Meng Cheng Lau Team|[2510.13625](http://arxiv.org/abs/2510.13625)|null|
 |**2025-10-15**|**Development of an Intuitive GUI for Non-Expert Teleoperation of Humanoid Robots**|Meng Cheng Lau Team|[2510.13594](http://arxiv.org/abs/2510.13594)|null|
 |**2025-10-14**|**PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing**|Yucong Wu Team|[2510.12346](http://arxiv.org/abs/2510.12346)|null|
@@ -3374,6 +3406,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Open TeleDex: A Hardware-Agnostic Teleoperation System for Imitation Learning based Dexterous Manipulation**|Shan An Team|[2510.14771](http://arxiv.org/abs/2510.14771)|null|
+|**2025-10-16**|**Leveraging Neural Descriptor Fields for Learning Contact-Aware Dynamic Recovery**|Dmitry Berenson Team|[2510.14768](http://arxiv.org/abs/2510.14768)|null|
+|**2025-10-16**|**Spatially anchored Tactile Awareness for Robust Dexterous Manipulation**|Kaifeng Zhang Team|[2510.14647](http://arxiv.org/abs/2510.14647)|null|
+|**2025-10-16**|**Restoring Noisy Demonstration for Imitation Learning With Diffusion Models**|Shao-Hua Sun Team|[2510.14467](http://arxiv.org/abs/2510.14467)|null|
 |**2025-10-14**|**Learning to Grasp Anything by Playing with Random Toys**|Roei Herzig Team|[2510.12866](http://arxiv.org/abs/2510.12866)|null|
 |**2025-10-14**|**T(R,O) Grasp: Efficient Graph Diffusion of Robot-Object Spatial Transformation for Cross-Embodiment Dexterous Grasping**|Lin Shao Team|[2510.12724](http://arxiv.org/abs/2510.12724)|null|
 |**2025-10-10**|**Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System**|Pai Zheng Team|[2510.09229](http://arxiv.org/abs/2510.09229)|null|
