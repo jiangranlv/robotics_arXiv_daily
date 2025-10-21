@@ -1,4 +1,4 @@
-## Updated on 2025.10.20
+## Updated on 2025.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2025-10-17**|**Learning to Answer from Correct Demonstrations**|Nathan Srebro Team|[2510.15464](http://arxiv.org/abs/2510.15464)|null|
 |**2025-10-17**|**GaussGym: An open-source real-to-sim framework for learning locomotion from pixels**|Pieter Abbeel Team|[2510.15352](http://arxiv.org/abs/2510.15352)|null|
 |**2025-10-16**|**RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation**|Jianfei Yang Team|[2510.15189](http://arxiv.org/abs/2510.15189)|null|
-|**2025-10-16**|**VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tunin**|Yunzhu Li Team|[2510.14930](http://arxiv.org/abs/2510.14930)|**[link](https://binghao-huang.github.io/vt_refine/)**|
+|**2025-10-18**|**VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning**|Yunzhu Li Team|[2510.14930](http://arxiv.org/abs/2510.14930)|**[link](https://binghao-huang.github.io/vt_refine/)**|
 |**2025-10-16**|**SADCHER: Scheduling using Attention-based Dynamic Coalitions of Heterogeneous Robots in Real-Time**|Javier Alonso-Mora Team|[2510.14851](http://arxiv.org/abs/2510.14851)|**[link](https://autonomousrobots.nl/paper_websites/sadcher_MRTA/)**|
 |**2025-10-16**|**RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning**|Huazhe Xu Team|[2510.14830](http://arxiv.org/abs/2510.14830)|**[link](https://lei-kun.github.io/RL-100/)**|
 |**2025-10-16**|**Open TeleDex: A Hardware-Agnostic Teleoperation System for Imitation Learning based Dexterous Manipulation**|Shan An Team|[2510.14771](http://arxiv.org/abs/2510.14771)|null|
@@ -1101,7 +1101,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## VLM
 
@@ -2864,7 +2864,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## VLA
 
@@ -3183,13 +3183,13 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-16**|**CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions**|Massimiliano de Sa Aaron D. Ames Team|[2510.14959](http://arxiv.org/abs/2510.14959)|null|
+|**2025-10-19**|**CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions**|Aaron D. Ames Team|[2510.14959](http://arxiv.org/abs/2510.14959)|null|
 |**2025-10-17**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Chang Xu Team|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
 |**2025-10-16**|**Towards Adaptable Humanoid Control via Adaptive Motion Tracking**|Jiangmiao Pang Team|[2510.14454](http://arxiv.org/abs/2510.14454)|null|
 |**2025-10-15**|**A Modular Object Detection System for Humanoid Robots Using YOLO**|Meng Cheng Lau Team|[2510.13625](http://arxiv.org/abs/2510.13625)|null|
@@ -3413,7 +3413,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## Dexterous
 
@@ -3563,5 +3563,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 

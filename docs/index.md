@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.20
+## Updated on 2025.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -16,7 +16,7 @@ layout: default
 |**2025-10-17**|**Learning to Answer from Correct Demonstrations**|Nathan Srebro Team|[2510.15464](http://arxiv.org/abs/2510.15464)|null|
 |**2025-10-17**|**GaussGym: An open-source real-to-sim framework for learning locomotion from pixels**|Pieter Abbeel Team|[2510.15352](http://arxiv.org/abs/2510.15352)|null|
 |**2025-10-16**|**RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation**|Jianfei Yang Team|[2510.15189](http://arxiv.org/abs/2510.15189)|null|
-|**2025-10-16**|**VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tunin**|Yunzhu Li Team|[2510.14930](http://arxiv.org/abs/2510.14930)|**[link](https://binghao-huang.github.io/vt_refine/)**|
+|**2025-10-18**|**VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning**|Yunzhu Li Team|[2510.14930](http://arxiv.org/abs/2510.14930)|**[link](https://binghao-huang.github.io/vt_refine/)**|
 |**2025-10-16**|**SADCHER: Scheduling using Attention-based Dynamic Coalitions of Heterogeneous Robots in Real-Time**|Javier Alonso-Mora Team|[2510.14851](http://arxiv.org/abs/2510.14851)|**[link](https://autonomousrobots.nl/paper_websites/sadcher_MRTA/)**|
 |**2025-10-16**|**RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning**|Huazhe Xu Team|[2510.14830](http://arxiv.org/abs/2510.14830)|**[link](https://lei-kun.github.io/RL-100/)**|
 |**2025-10-16**|**Open TeleDex: A Hardware-Agnostic Teleoperation System for Imitation Learning based Dexterous Manipulation**|Shan An Team|[2510.14771](http://arxiv.org/abs/2510.14771)|null|
@@ -3176,7 +3176,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-16**|**CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions**|Massimiliano de Sa Aaron D. Ames Team|[2510.14959](http://arxiv.org/abs/2510.14959)|null|
+|**2025-10-19**|**CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions**|Aaron D. Ames Team|[2510.14959](http://arxiv.org/abs/2510.14959)|null|
 |**2025-10-17**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Chang Xu Team|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
 |**2025-10-16**|**Towards Adaptable Humanoid Control via Adaptive Motion Tracking**|Jiangmiao Pang Team|[2510.14454](http://arxiv.org/abs/2510.14454)|null|
 |**2025-10-15**|**A Modular Object Detection System for Humanoid Robots Using YOLO**|Meng Cheng Lau Team|[2510.13625](http://arxiv.org/abs/2510.13625)|null|
