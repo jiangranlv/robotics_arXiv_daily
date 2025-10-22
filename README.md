@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**Efficient Model-Based Reinforcement Learning for Robot Control via Online Learning**|Marco Hutter Team|[2510.18518](http://arxiv.org/abs/2510.18518)|null|
+|**2025-10-21**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
+|**2025-10-21**|**MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation**|Li Fei-Fei Team|[2510.18316](http://arxiv.org/abs/2510.18316)|null|
+|**2025-10-20**|**Quality Over Quantity: Curating Contact-Based Robot Datasets Improves Learning**|Ian Abraham Team|[2510.18137](http://arxiv.org/abs/2510.18137)|null|
+|**2025-10-20**|**R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations**|Daniel S. Brown Team|[2510.18085](http://arxiv.org/abs/2510.18085)|null|
+|**2025-10-20**|**SPACeR: Self-Play Anchoring with Centralized Reference Models**|Wei Zhan Team|[2510.18060](http://arxiv.org/abs/2510.18060)|**[link](https://spacer-ai.github.io/)**|
 |**2025-10-20**|**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**|Ziwei Wang Team|[2510.17640](http://arxiv.org/abs/2510.17640)|null|
 |**2025-10-20**|**Learned Inertial Odometry for Cycling Based on Mixture of Experts Algorithm**|Xiaoji Niu Team|[2510.17604](http://arxiv.org/abs/2510.17604)|null|
 |**2025-10-20**|**Plasma Shape Control via Zero-shot Generative Reinforcement Learning**|Wulyu Zhong Team|[2510.17531](http://arxiv.org/abs/2510.17531)|null|
@@ -1119,7 +1125,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-20**|**Glyph: Scaling Context Windows via Visual-Text Compression**|Minlie Huang Team|[2510.17800](http://arxiv.org/abs/2510.17800)|null|
+|**2025-10-21**|**DSI-Bench: A Benchmark for Dynamic Spatial Intelligence**|Zhou Zhao Team|[2510.18873](http://arxiv.org/abs/2510.18873)|null|
+|**2025-10-21**|**FedDEAP: Adaptive Dual-Prompt Tuning for Multi-Domain Federated Learning**|Jagath C. Rajapakse Team|[2510.18837](http://arxiv.org/abs/2510.18837)|null|
+|**2025-10-21**|**Seg the HAB: Language-Guided Geospatial Algae Bloom Reasoning and Segmentation**|Elvis Hsieh Team|[2510.18751](http://arxiv.org/abs/2510.18751)|null|
+|**2025-10-21**|**Exploring a Unified Vision-Centric Contrastive Alternatives on Multi-Modal Web Documents**|Mike Zheng Shou Team|[2510.18703](http://arxiv.org/abs/2510.18703)|**[link](https://linyq17.github.io/VC2L/)**|
+|**2025-10-21**|**Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views**|Ruqi Huang Team|[2510.18632](http://arxiv.org/abs/2510.18632)|null|
+|**2025-10-21**|**CUARewardBench: A Benchmark for Evaluating Reward Models on Computer-using Agent**|Xing Sun Team|[2510.18596](http://arxiv.org/abs/2510.18596)|null|
+|**2025-10-21**|**CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder**|Hye Won Chung Team|[2510.18583](http://arxiv.org/abs/2510.18583)|null|
+|**2025-10-21**|**Zero-Shot Vehicle Model Recognition via Text-Based Retrieval-Augmented Generation**|Yan-Ann Chen Team|[2510.18502](http://arxiv.org/abs/2510.18502)|null|
+|**2025-10-21**|**StarBench: A Turn-Based RPG Benchmark for Agentic Multimodal Decision-Making and Information Seeking**|Donglin Yu Team|[2510.18483](http://arxiv.org/abs/2510.18483)|null|
+|**2025-10-21**|**Grounding or Guessing? Visual Signals for Detecting Hallucinations in Sign Language Translation**|Cristina España-Bonet Team|[2510.18439](http://arxiv.org/abs/2510.18439)|null|
+|**2025-10-21**|**ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization**|Hongyi Wen Team|[2510.18433](http://arxiv.org/abs/2510.18433)|null|
+|**2025-10-21**|**Beyond Single Models: Mitigating Multimodal Hallucinations via Adaptive Token Ensemble Decoding**|Xian Wu Team|[2510.18321](http://arxiv.org/abs/2510.18321)|null|
+|**2025-10-21**|**StreamingTOM: Streaming Token Compression for Efficient Video Understanding**|Huan Wang Team|[2510.18269](http://arxiv.org/abs/2510.18269)|null|
+|**2025-10-21**|**UWBench: A Comprehensive Vision-Language Benchmark for Underwater Understanding**|Xuelong Li Team|[2510.18262](http://arxiv.org/abs/2510.18262)|null|
+|**2025-10-21**|**RadDiagSeg-M: A Vision Language Model for Joint Diagnosis and Multi-Target Segmentation in Radiology**|Bjoern Menze Team|[2510.18188](http://arxiv.org/abs/2510.18188)|null|
+|**2025-10-20**|**Online In-Context Distillation for Low-Resource Vision Language Models**|Karteek Alahari Team|[2510.18117](http://arxiv.org/abs/2510.18117)|null|
+|**2025-10-20**|**HouseTour: A Virtual Real Estate A(I)gent**|Iro Armeni Team|[2510.18054](http://arxiv.org/abs/2510.18054)|null|
+|**2025-10-20**|**SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection**|Johannes Betz Team|[2510.18034](http://arxiv.org/abs/2510.18034)|null|
+|**2025-10-21**|**Glyph: Scaling Context Windows via Visual-Text Compression**|Minlie Huang Team|[2510.17800](http://arxiv.org/abs/2510.17800)|null|
 |**2025-10-20**|**SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference**|Zhijian Liu Team|[2510.17777](http://arxiv.org/abs/2510.17777)|null|
 |**2025-10-20**|**Seeing but Not Believing: Probing the Disconnect Between Visual Attention and Answer Correctness in VLMs**|Hanghang Tong Team|[2510.17771](http://arxiv.org/abs/2510.17771)|null|
 |**2025-10-20**|**VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models**|Ruqi Zhang Team|[2510.17759](http://arxiv.org/abs/2510.17759)|null|
@@ -2902,6 +2926,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
 |**2025-10-20**|**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**|Ziwei Wang Team|[2510.17640](http://arxiv.org/abs/2510.17640)|null|
 |**2025-10-20**|**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**|Pan Zhou Team|[2510.17439](http://arxiv.org/abs/2510.17439)|**[link](https://falcon-vla.github.io/)**|
 |**2025-10-20**|**Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots**|Josie Hughes Team|[2510.17369](http://arxiv.org/abs/2510.17369)|null|
@@ -3230,6 +3255,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices**|Yueyue Dai Team|[2510.18544](http://arxiv.org/abs/2510.18544)|null|
+|**2025-10-20**|**Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints**|Jiangmiao Pang Team|[2510.18002](http://arxiv.org/abs/2510.18002)|null|
 |**2025-10-20**|**SoftMimic: Learning Compliant Whole-body Control from Examples**|Pulkit Agrawal Team|[2510.17792](http://arxiv.org/abs/2510.17792)|**[link](https://gmargo11.github.io/softmimic/)**|
 |**2025-10-19**|**CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions**|Aaron D. Ames Team|[2510.14959](http://arxiv.org/abs/2510.14959)|null|
 |**2025-10-17**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Chang Xu Team|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
