@@ -1,4 +1,4 @@
-## Updated on 2025.10.22
+## Updated on 2025.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-10-21**|**Efficient Model-Based Reinforcement Learning for Robot Control via Online Learning**|Marco Hutter Team|[2510.18518](http://arxiv.org/abs/2510.18518)|null|
-|**2025-10-21**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
+|**2025-10-22**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
 |**2025-10-21**|**MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation**|Li Fei-Fei Team|[2510.18316](http://arxiv.org/abs/2510.18316)|null|
 |**2025-10-20**|**Quality Over Quantity: Curating Contact-Based Robot Datasets Improves Learning**|Ian Abraham Team|[2510.18137](http://arxiv.org/abs/2510.18137)|null|
 |**2025-10-20**|**R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations**|Daniel S. Brown Team|[2510.18085](http://arxiv.org/abs/2510.18085)|null|
@@ -26,7 +26,7 @@
 |**2025-10-20**|**Learned Inertial Odometry for Cycling Based on Mixture of Experts Algorithm**|Xiaoji Niu Team|[2510.17604](http://arxiv.org/abs/2510.17604)|null|
 |**2025-10-20**|**Plasma Shape Control via Zero-shot Generative Reinforcement Learning**|Wulyu Zhong Team|[2510.17531](http://arxiv.org/abs/2510.17531)|null|
 |**2025-10-20**|**A Generalization of Input-Output Linearization via Dynamic Switching Between Melds of Output Functions**|Antonio Franchi Team|[2510.17448](http://arxiv.org/abs/2510.17448)|null|
-|**2025-10-20**|**OmniVIC: A Self-Improving Variable Impedance Controller with Vision-Language In-Context Learning for Safe Robotic Manipulation**|Arash Ajoudani Team|[2510.17150](http://arxiv.org/abs/2510.17150)|**[link](https://sites.google.com/view/omni-vic})**|
+|**2025-10-22**|**OmniVIC: A Self-Improving Variable Impedance Controller with Vision-Language In-Context Learning for Safe Robotic Manipulation**|Arash Ajoudani Team|[2510.17150](http://arxiv.org/abs/2510.17150)|**[link](https://sites.google.com/view/omni-vic})**|
 |**2025-10-20**|**Decentralized Real-Time Planning for Multi-UAV Cooperative Manipulation via Imitation Learning**|Sihao Sun Team|[2510.17143](http://arxiv.org/abs/2510.17143)|null|
 |**2025-10-20**|**Learning to Design Soft Hands using Reward Models**|Sha Yi Team|[2510.17086](http://arxiv.org/abs/2510.17086)|null|
 |**2025-10-19**|**End-to-end Listen, Look, Speak and Act**|Chao Zhang Team|[2510.16756](http://arxiv.org/abs/2510.16756)|null|
@@ -35,7 +35,7 @@
 |**2025-10-18**|**Learning to Optimize Edge Robotics: A Fast Integrated Perception-Motion-Communication Approach**|Chengzhong Xu Team|[2510.16424](http://arxiv.org/abs/2510.16424)|null|
 |**2025-10-17**|**DeGrip: A Compact Cable-driven Robotic Gripper for Desktop Disassembly**|Minghui Zheng Team|[2510.16231](http://arxiv.org/abs/2510.16231)|null|
 |**2025-10-17**|**DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation**|Yiwen Lu Team|[2510.15786](http://arxiv.org/abs/2510.15786)|null|
-|**2025-10-17**|**VO-DP: Semantic-Geometric Adaptive Diffusion Policy for Vision-Only Robotic Manipulation**|Bin He Team|[2510.15530](http://arxiv.org/abs/2510.15530)|null|
+|**2025-10-22**|**VO-DP: Semantic-Geometric Adaptive Diffusion Policy for Vision-Only Robotic Manipulation**|Bin He Team|[2510.15530](http://arxiv.org/abs/2510.15530)|null|
 |**2025-10-17**|**Exploring Conditions for Diffusion models in Robotic Control**|Taekyung Kim Team|[2510.15510](http://arxiv.org/abs/2510.15510)|**[link](https://orca-rc.github.io/)**|
 |**2025-10-17**|**Perfect Prediction or Plenty of Proposals? What Matters Most in Planning for Autonomous Driving**|Joschka Boedecker Team|[2510.15505](http://arxiv.org/abs/2510.15505)|null|
 |**2025-10-17**|**Learning to Answer from Correct Demonstrations**|Nathan Srebro Team|[2510.15464](http://arxiv.org/abs/2510.15464)|null|
@@ -1119,7 +1119,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
 ## VLM
 
@@ -2920,13 +2920,13 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-21**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
+|**2025-10-22**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
 |**2025-10-20**|**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**|Ziwei Wang Team|[2510.17640](http://arxiv.org/abs/2510.17640)|null|
 |**2025-10-20**|**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**|Pan Zhou Team|[2510.17439](http://arxiv.org/abs/2510.17439)|**[link](https://falcon-vla.github.io/)**|
 |**2025-10-20**|**Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots**|Josie Hughes Team|[2510.17369](http://arxiv.org/abs/2510.17369)|null|
@@ -3249,7 +3249,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
 ## Humanoid
 
@@ -3482,7 +3482,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
 ## Dexterous
 
@@ -3633,5 +3633,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
