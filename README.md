@@ -1,4 +1,4 @@
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-10-22**|**TARMAC: A Taxonomy for Robot Manipulation in Chemistry**|Jihong Zhu Team|[2510.19289](http://arxiv.org/abs/2510.19289)|null|
 |**2025-10-21**|**A Cross-Environment and Cross-Embodiment Path Planning Framework via a Conditional Diffusion Model**|Homayoun Najjaran Team|[2510.19128](http://arxiv.org/abs/2510.19128)|null|
 |**2025-10-21**|**Efficient Model-Based Reinforcement Learning for Robot Control via Online Learning**|Marco Hutter Team|[2510.18518](http://arxiv.org/abs/2510.18518)|null|
-|**2025-10-22**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
+|**2025-10-23**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
 |**2025-10-21**|**MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation**|Li Fei-Fei Team|[2510.18316](http://arxiv.org/abs/2510.18316)|null|
 |**2025-10-20**|**Quality Over Quantity: Curating Contact-Based Robot Datasets Improves Learning**|Ian Abraham Team|[2510.18137](http://arxiv.org/abs/2510.18137)|null|
 |**2025-10-20**|**R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations**|Daniel S. Brown Team|[2510.18085](http://arxiv.org/abs/2510.18085)|null|
@@ -1126,7 +1126,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## VLM
 
@@ -2943,7 +2943,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## VLA
 
@@ -2952,7 +2952,7 @@
 |**2025-10-22**|**Learning Affordances at Inference-Time for Vision-Language-Action Models**|Sergey Levine Team|[2510.19752](http://arxiv.org/abs/2510.19752)|null|
 |**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|Zheng Zhu Team|[2510.19430](http://arxiv.org/abs/2510.19430)|**[link](https://gigabrain0.github.io/)**|
 |**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Baining Guo Team|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
-|**2025-10-22**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
+|**2025-10-23**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
 |**2025-10-20**|**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**|Ziwei Wang Team|[2510.17640](http://arxiv.org/abs/2510.17640)|null|
 |**2025-10-20**|**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**|Pan Zhou Team|[2510.17439](http://arxiv.org/abs/2510.17439)|**[link](https://falcon-vla.github.io/)**|
 |**2025-10-20**|**Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots**|Josie Hughes Team|[2510.17369](http://arxiv.org/abs/2510.17369)|null|
@@ -3275,7 +3275,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Humanoid
 
@@ -3508,14 +3508,14 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-10-21**|**RAPID Hand Prototype: Design of an Affordable, Fully-Actuated Biomimetic Hand for Dexterous Teleoperation**|Hui Cheng Team|[2510.16931](http://arxiv.org/abs/2510.16931)|null|
-|**2025-10-17**|**DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation**|Yiwen Lu Team|[2510.15786](http://arxiv.org/abs/2510.15786)|null|
+|**2025-10-23**|**DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation**|Yiwen Lu Team|[2510.15786](http://arxiv.org/abs/2510.15786)|null|
 |**2025-10-16**|**Open TeleDex: A Hardware-Agnostic Teleoperation System for Imitation Learning based Dexterous Manipulation**|Shan An Team|[2510.14771](http://arxiv.org/abs/2510.14771)|null|
 |**2025-10-16**|**Leveraging Neural Descriptor Fields for Learning Contact-Aware Dynamic Recovery**|Dmitry Berenson Team|[2510.14768](http://arxiv.org/abs/2510.14768)|null|
 |**2025-10-16**|**Spatially anchored Tactile Awareness for Robust Dexterous Manipulation**|Kaifeng Zhang Team|[2510.14647](http://arxiv.org/abs/2510.14647)|null|
@@ -3659,5 +3659,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -17,7 +17,7 @@ layout: default
 |**2025-10-22**|**TARMAC: A Taxonomy for Robot Manipulation in Chemistry**|Jihong Zhu Team|[2510.19289](http://arxiv.org/abs/2510.19289)|null|
 |**2025-10-21**|**A Cross-Environment and Cross-Embodiment Path Planning Framework via a Conditional Diffusion Model**|Homayoun Najjaran Team|[2510.19128](http://arxiv.org/abs/2510.19128)|null|
 |**2025-10-21**|**Efficient Model-Based Reinforcement Learning for Robot Control via Online Learning**|Marco Hutter Team|[2510.18518](http://arxiv.org/abs/2510.18518)|null|
-|**2025-10-22**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
+|**2025-10-23**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
 |**2025-10-21**|**MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation**|Li Fei-Fei Team|[2510.18316](http://arxiv.org/abs/2510.18316)|null|
 |**2025-10-20**|**Quality Over Quantity: Curating Contact-Based Robot Datasets Improves Learning**|Ian Abraham Team|[2510.18137](http://arxiv.org/abs/2510.18137)|null|
 |**2025-10-20**|**R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations**|Daniel S. Brown Team|[2510.18085](http://arxiv.org/abs/2510.18085)|null|
@@ -2941,7 +2941,7 @@ layout: default
 |**2025-10-22**|**Learning Affordances at Inference-Time for Vision-Language-Action Models**|Sergey Levine Team|[2510.19752](http://arxiv.org/abs/2510.19752)|null|
 |**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|Zheng Zhu Team|[2510.19430](http://arxiv.org/abs/2510.19430)|**[link](https://gigabrain0.github.io/)**|
 |**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Baining Guo Team|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
-|**2025-10-22**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
+|**2025-10-23**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Heng Yang Team|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
 |**2025-10-20**|**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**|Ziwei Wang Team|[2510.17640](http://arxiv.org/abs/2510.17640)|null|
 |**2025-10-20**|**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**|Pan Zhou Team|[2510.17439](http://arxiv.org/abs/2510.17439)|**[link](https://falcon-vla.github.io/)**|
 |**2025-10-20**|**Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots**|Josie Hughes Team|[2510.17369](http://arxiv.org/abs/2510.17369)|null|
@@ -3500,7 +3500,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-21**|**RAPID Hand Prototype: Design of an Affordable, Fully-Actuated Biomimetic Hand for Dexterous Teleoperation**|Hui Cheng Team|[2510.16931](http://arxiv.org/abs/2510.16931)|null|
-|**2025-10-17**|**DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation**|Yiwen Lu Team|[2510.15786](http://arxiv.org/abs/2510.15786)|null|
+|**2025-10-23**|**DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation**|Yiwen Lu Team|[2510.15786](http://arxiv.org/abs/2510.15786)|null|
 |**2025-10-16**|**Open TeleDex: A Hardware-Agnostic Teleoperation System for Imitation Learning based Dexterous Manipulation**|Shan An Team|[2510.14771](http://arxiv.org/abs/2510.14771)|null|
 |**2025-10-16**|**Leveraging Neural Descriptor Fields for Learning Contact-Aware Dynamic Recovery**|Dmitry Berenson Team|[2510.14768](http://arxiv.org/abs/2510.14768)|null|
 |**2025-10-16**|**Spatially anchored Tactile Awareness for Robust Dexterous Manipulation**|Kaifeng Zhang Team|[2510.14647](http://arxiv.org/abs/2510.14647)|null|
