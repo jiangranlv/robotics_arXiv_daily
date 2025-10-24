@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation**|Xiaolong Wang Team|[2510.20813](http://arxiv.org/abs/2510.20813)|null|
+|**2025-10-23**|**FieldGen: From Teleoperated Pre-Manipulation Trajectories to Field-Guided Data Generation**|Yao Mu Team|[2510.20774](http://arxiv.org/abs/2510.20774)|**[link](https://fieldgen.github.io/)**|
+|**2025-10-23**|**A Parameter-Linear Formulation of the Optimal Path Following Problem for Robotic Manipulator**|Andreas Mueller Team|[2510.20496](http://arxiv.org/abs/2510.20496)|null|
+|**2025-10-23**|**Dual Control Reference Generation for Optimal Pick-and-Place Execution under Payload Uncertainty**|Tom Lefebvre Team|[2510.20483](http://arxiv.org/abs/2510.20483)|null|
+|**2025-10-23**|**PointMapPolicy: Structured Point Cloud Processing for Multi-Modal Imitation Learning**|Gerhard Neumann Team|[2510.20406](http://arxiv.org/abs/2510.20406)|null|
+|**2025-10-23**|**NeuralTouch: Neural Descriptors for Precise Sim-to-Real Tactile Robot Control**|Nathan F. Lepora Team|[2510.20390](http://arxiv.org/abs/2510.20390)|null|
+|**2025-10-23**|**MemER: Scaling Up Memory for Robot Control via Experience Retrieval**|Chelsea Finn Team|[2510.20328](http://arxiv.org/abs/2510.20328)|**[link](https://jen-pan.github.io/memer/)**|
+|**2025-10-22**|**Approximate Model Predictive Control for Microgrid Energy Management via Imitation Learning**|Bart De Schutter Team|[2510.20040](http://arxiv.org/abs/2510.20040)|null|
+|**2025-10-22**|**Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets**|Xuanmeng Zhang Team|[2510.19944](http://arxiv.org/abs/2510.19944)|**[link](https://seed.bytedance.com/seed3d)**|
 |**2025-10-22**|**Using Non-Expert Data to Robustify Imitation Learning via Offline Reinforcement Learning**|Abhishek Gupta Team|[2510.19495](http://arxiv.org/abs/2510.19495)|null|
 |**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Baining Guo Team|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
 |**2025-10-22**|**Using Temperature Sampling to Effectively Train Robot Learning Policies on Imbalanced Datasets**|Bernadette Bucher Team|[2510.19373](http://arxiv.org/abs/2510.19373)|null|
@@ -1123,6 +1132,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation**|Shengjie Wang Team|[2510.20812](http://arxiv.org/abs/2510.20812)|null|
+|**2025-10-23**|**Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models**|Linfeng Zhang Team|[2510.20707](http://arxiv.org/abs/2510.20707)|**[link](https://github.com/xuyang-liu16/MixKV)**|
+|**2025-10-23**|**Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward**|Chenliang Xu Team|[2510.20696](http://arxiv.org/abs/2510.20696)|null|
+|**2025-10-23**|**Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging**|Bjoern Menze Team|[2510.20639](http://arxiv.org/abs/2510.20639)|null|
+|**2025-10-23**|**Bi-CoG: Bi-Consistency-Guided Self-Training for Vision-Language Models**|Lan-Zhe Guo Team|[2510.20477](http://arxiv.org/abs/2510.20477)|null|
+|**2025-10-23**|**GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?**|Yingchun Wang Team|[2510.20333](http://arxiv.org/abs/2510.20333)|null|
+|**2025-10-23**|**Breakdance Video classification in the age of Generative AI**|Michelle Munson Team|[2510.20287](http://arxiv.org/abs/2510.20287)|null|
+|**2025-10-23**|**Empower Words: DualGround for Structured Phrase and Sentence-Level Temporal Grounding**|Sangyoun Lee Team|[2510.20244](http://arxiv.org/abs/2510.20244)|null|
+|**2025-10-23**|**Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context**|Sibei Yang Team|[2510.20229](http://arxiv.org/abs/2510.20229)|null|
+|**2025-10-22**|**Surfer 2: The Next Generation of Cross-Platform Computer Use Agents**|Jevgenij Zubovskij Team|[2510.19949](http://arxiv.org/abs/2510.19949)|null|
 |**2025-10-22**|**Semantic World Models**|Abhishek Gupta Team|[2510.19818](http://arxiv.org/abs/2510.19818)|null|
 |**2025-10-22**|**olmOCR 2: Unit Test Rewards for Document OCR**|Kyle Lo Team|[2510.19817](http://arxiv.org/abs/2510.19817)|**[link](https://olmocr.allen.ai/)**|
 |**2025-10-22**|**Class-Aware Prototype Learning with Negative Contrast for Test-Time Adaptation of Vision-Language Models**|Xuelong Li Team|[2510.19802](http://arxiv.org/abs/2510.19802)|null|
@@ -2938,6 +2957,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation**|Abhishek Gupta Team|[2510.20818](http://arxiv.org/abs/2510.20818)|null|
+|**2025-10-23**|**MemER: Scaling Up Memory for Robot Control via Experience Retrieval**|Chelsea Finn Team|[2510.20328](http://arxiv.org/abs/2510.20328)|**[link](https://jen-pan.github.io/memer/)**|
 |**2025-10-22**|**Learning Affordances at Inference-Time for Vision-Language-Action Models**|Sergey Levine Team|[2510.19752](http://arxiv.org/abs/2510.19752)|null|
 |**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|Zheng Zhu Team|[2510.19430](http://arxiv.org/abs/2510.19430)|**[link](https://gigabrain0.github.io/)**|
 |**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Baining Guo Team|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
@@ -2946,7 +2967,7 @@ layout: default
 |**2025-10-20**|**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**|Pan Zhou Team|[2510.17439](http://arxiv.org/abs/2510.17439)|**[link](https://falcon-vla.github.io/)**|
 |**2025-10-20**|**Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots**|Josie Hughes Team|[2510.17369](http://arxiv.org/abs/2510.17369)|null|
 |**2025-10-21**|**DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment**|Wang Jijun Team|[2510.17148](http://arxiv.org/abs/2510.17148)|null|
-|**2025-10-22**|**Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey**|Jian Cheng Team|[2510.17111](http://arxiv.org/abs/2510.17111)|null|
+|**2025-10-23**|**Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey**|Jian Cheng Team|[2510.17111](http://arxiv.org/abs/2510.17111)|null|
 |**2025-10-18**|**MoS-VLA: A Vision-Language-Action Model with One-Shot Skill Adaptation**|Ufuk Topcu Team|[2510.16617](http://arxiv.org/abs/2510.16617)|null|
 |**2025-10-18**|**Do What You Say: Steering Vision-Language-Action Models via Runtime Reasoning-Action Alignment Verification**|Claudia P'erez-D'Arpino Team|[2510.16281](http://arxiv.org/abs/2510.16281)|null|
 |**2025-10-21**|**NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?**|Yu Yin Team|[2510.16263](http://arxiv.org/abs/2510.16263)|**[link](https://vulab-ai.github.io/NEBULA-Alpha/)**|
