@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.26
+## Updated on 2025.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -1141,7 +1141,7 @@ layout: default
 |**2025-10-23**|**Breakdance Video classification in the age of Generative AI**|Michelle Munson Team|[2510.20287](http://arxiv.org/abs/2510.20287)|null|
 |**2025-10-23**|**Empower Words: DualGround for Structured Phrase and Sentence-Level Temporal Grounding**|Sangyoun Lee Team|[2510.20244](http://arxiv.org/abs/2510.20244)|null|
 |**2025-10-23**|**Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context**|Sibei Yang Team|[2510.20229](http://arxiv.org/abs/2510.20229)|null|
-|**2025-10-22**|**Surfer 2: The Next Generation of Cross-Platform Computer Use Agents**|Jevgenij Zubovskij Team|[2510.19949](http://arxiv.org/abs/2510.19949)|null|
+|**2025-10-24**|**Surfer 2: The Next Generation of Cross-Platform Computer Use Agents**|Jevgenij Zubovskij Team|[2510.19949](http://arxiv.org/abs/2510.19949)|null|
 |**2025-10-22**|**Semantic World Models**|Abhishek Gupta Team|[2510.19818](http://arxiv.org/abs/2510.19818)|null|
 |**2025-10-22**|**olmOCR 2: Unit Test Rewards for Document OCR**|Kyle Lo Team|[2510.19817](http://arxiv.org/abs/2510.19817)|**[link](https://olmocr.allen.ai/)**|
 |**2025-10-22**|**Class-Aware Prototype Learning with Negative Contrast for Test-Time Adaptation of Vision-Language Models**|Xuelong Li Team|[2510.19802](http://arxiv.org/abs/2510.19802)|null|

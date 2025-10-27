@@ -1,4 +1,4 @@
-## Updated on 2025.10.26
+## Updated on 2025.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1135,7 +1135,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## VLM
 
@@ -1150,7 +1150,7 @@
 |**2025-10-23**|**Breakdance Video classification in the age of Generative AI**|Michelle Munson Team|[2510.20287](http://arxiv.org/abs/2510.20287)|null|
 |**2025-10-23**|**Empower Words: DualGround for Structured Phrase and Sentence-Level Temporal Grounding**|Sangyoun Lee Team|[2510.20244](http://arxiv.org/abs/2510.20244)|null|
 |**2025-10-23**|**Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context**|Sibei Yang Team|[2510.20229](http://arxiv.org/abs/2510.20229)|null|
-|**2025-10-22**|**Surfer 2: The Next Generation of Cross-Platform Computer Use Agents**|Jevgenij Zubovskij Team|[2510.19949](http://arxiv.org/abs/2510.19949)|null|
+|**2025-10-24**|**Surfer 2: The Next Generation of Cross-Platform Computer Use Agents**|Jevgenij Zubovskij Team|[2510.19949](http://arxiv.org/abs/2510.19949)|null|
 |**2025-10-22**|**Semantic World Models**|Abhishek Gupta Team|[2510.19818](http://arxiv.org/abs/2510.19818)|null|
 |**2025-10-22**|**olmOCR 2: Unit Test Rewards for Document OCR**|Kyle Lo Team|[2510.19817](http://arxiv.org/abs/2510.19817)|**[link](https://olmocr.allen.ai/)**|
 |**2025-10-22**|**Class-Aware Prototype Learning with Negative Contrast for Test-Time Adaptation of Vision-Language Models**|Xuelong Li Team|[2510.19802](http://arxiv.org/abs/2510.19802)|null|
@@ -2962,7 +2962,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## VLA
 
@@ -3296,7 +3296,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## Humanoid
 
@@ -3529,7 +3529,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## Dexterous
 
@@ -3680,5 +3680,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
