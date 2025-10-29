@@ -16,6 +16,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**Fare: Failure Resilience in Learned Visual Navigation Control**|David Hsu Team|[2510.24680](http://arxiv.org/abs/2510.24680)|null|
+|**2025-10-28**|**Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning**|Arnold W. Schumann Team|[2510.24650](http://arxiv.org/abs/2510.24650)|null|
+|**2025-10-28**|**DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation**|Gang Hua Team|[2510.24261](http://arxiv.org/abs/2510.24261)|null|
+|**2025-10-28**|**Manipulate as Human: Learning Task-oriented Manipulation Skills by Adversarial Motion Priors**|Yue Gao Team|[2510.24257](http://arxiv.org/abs/2510.24257)|null|
+|**2025-10-28**|**Blindfolded Experts Generalize Better: Insights from Robotic Manipulation and Videogames**|Aviv Tamar Team|[2510.24194](http://arxiv.org/abs/2510.24194)|null|
+|**2025-10-28**|**PFEA: An LLM-based High-Level Natural Language Planning and Feedback Embodied Agent for Human-Centered AI**|Philip Dames Team|[2510.24109](http://arxiv.org/abs/2510.24109)|null|
+|**2025-10-28**|**ZTRS: Zero-Imitation End-to-end Autonomous Driving with Trajectory Scoring**|Jose M. Alvarez Team|[2510.24108](http://arxiv.org/abs/2510.24108)|null|
+|**2025-10-28**|**Learning Parameterized Skills from Demonstrations**|George Konidaris Team|[2510.24095](http://arxiv.org/abs/2510.24095)|null|
+|**2025-10-28**|**Language-Conditioned Representations and Mixture-of-Experts Policy for Robust Multi-Task Robotic Manipulation**|Jiashuo Bai Team|[2510.24055](http://arxiv.org/abs/2510.24055)|null|
+|**2025-10-27**|**Adaptive Keyframe Selection for Scalable 3D Scene Reconstruction in Dynamic Environments**|Giuseppe Loianno Team|[2510.23928](http://arxiv.org/abs/2510.23928)|null|
+|**2025-10-27**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Xipeng Qiu Team|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
 |**2025-10-27**|**RobotArena $\infty$ : Scalable Robot Benchmarking via Real-to-Sim Translation**|Katerina Fragkiadaki Team|[2510.23571](http://arxiv.org/abs/2510.23571)|**[link](https://robotarenainf.github.io)**|
 |**2025-10-27**|**Optimal Dimensioning of Elastic-Link Manipulators regarding Lifetime Estimation**|Andreas Mueller Team|[2510.23234](http://arxiv.org/abs/2510.23234)|null|
 |**2025-10-27**|**Workspace Registration and Collision Detection for Industrial Robotics Applications**|Andreas Mueller Team|[2510.23227](http://arxiv.org/abs/2510.23227)|null|
@@ -1160,6 +1171,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning**|Arnold W. Schumann Team|[2510.24650](http://arxiv.org/abs/2510.24650)|null|
+|**2025-10-28**|**OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows**|Lingpeng Kong Team|[2510.24411](http://arxiv.org/abs/2510.24411)|null|
+|**2025-10-28**|**What do vision-language models see in the context? Investigating multimodal in-context learning**|Sandra Avila Team|[2510.24331](http://arxiv.org/abs/2510.24331)|null|
+|**2025-10-28**|**Few-Shot Remote Sensing Image Scene Classification with CLIP and Prompt Learning**|Ivan Kitanovski Team|[2510.24321](http://arxiv.org/abs/2510.24321)|null|
+|**2025-10-28**|**ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Model**|Rui Yan Team|[2510.24285](http://arxiv.org/abs/2510.24285)|null|
+|**2025-10-28**|**Enabling Near-realtime Remote Sensing via Satellite-Ground Collaboration of Large Vision-Language Models**|Yue Gao Team|[2510.24242](http://arxiv.org/abs/2510.24242)|null|
+|**2025-10-28**|**V-SAT: Video Subtitle Annotation Tool**|Vishwanathan Raman Team|[2510.24180](http://arxiv.org/abs/2510.24180)|null|
+|**2025-10-28**|**Enhancing Vision-Language Models for Autonomous Driving through Task-Specific Prompting and Spatial Reasoning**|Xubo Luo Team|[2510.24152](http://arxiv.org/abs/2510.24152)|null|
+|**2025-10-28**|**Compositional Image Synthesis with Inference-Time Scaling**|Namhyuk Ahn Team|[2510.24133](http://arxiv.org/abs/2510.24133)|**[link](https://github.com/gcl-inha/ReFocus)**|
+|**2025-10-28**|**HistoLens: An Interactive XAI Toolkit for Verifying and Mitigating Flaws in Vision-Language Models for Histopathology**|Vandita Singh Team|[2510.24115](http://arxiv.org/abs/2510.24115)|null|
+|**2025-10-28**|**PFEA: An LLM-based High-Level Natural Language Planning and Feedback Embodied Agent for Human-Centered AI**|Philip Dames Team|[2510.24109](http://arxiv.org/abs/2510.24109)|null|
+|**2025-10-28**|**Enhancing CLIP Robustness via Cross-Modality Alignment**|Hanwang Zhang Team|[2510.24038](http://arxiv.org/abs/2510.24038)|null|
+|**2025-10-28**|**Mars-Bench: A Benchmark for Evaluating Foundation Models for Mars Science Tasks**|Hannah Kerner Team|[2510.24010](http://arxiv.org/abs/2510.24010)|null|
+|**2025-10-28**|**Reasoning Visual Language Model for Chest X-Ray Analysis**|Daguang Xu Team|[2510.23968](http://arxiv.org/abs/2510.23968)|null|
+|**2025-10-27**|**Latent Chain-of-Thought for Visual Reasoning**|Zhiqiang Tao Team|[2510.23925](http://arxiv.org/abs/2510.23925)|null|
+|**2025-10-27**|**Explainable Detection of AI-Generated Images with Artifact Localization Using Faster-Than-Lies and Vision-Language Models for Edge Devices**|Madesh Kuppusamy Team|[2510.23775](http://arxiv.org/abs/2510.23775)|null|
 |**2025-10-27**|**RobotArena $\infty$ : Scalable Robot Benchmarking via Real-to-Sim Translation**|Katerina Fragkiadaki Team|[2510.23571](http://arxiv.org/abs/2510.23571)|**[link](https://robotarenainf.github.io)**|
 |**2025-10-28**|**VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation**|Cordelia Schmid Team|[2510.23497](http://arxiv.org/abs/2510.23497)|null|
 |**2025-10-27**|**On the Faithfulness of Visual Thinking: Measurement and Enhancement**|Guisong Xia Team|[2510.23482](http://arxiv.org/abs/2510.23482)|null|
@@ -3021,6 +3048,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**BLM $_1$ : A Boundless Large Model for Cross-Space, Cross-Task, and Cross-Embodiment Learning**|Heng Tao Shen Team|[2510.24161](http://arxiv.org/abs/2510.24161)|null|
+|**2025-10-27**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Xipeng Qiu Team|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
 |**2025-10-27**|**UrbanVLA: A Vision-Language-Action Model for Urban Micromobility**|He Wang Team|[2510.23576](http://arxiv.org/abs/2510.23576)|null|
 |**2025-10-27**|**Dexbotic: Open-Source Vision-Language-Action Toolbox**|Ziyu Zhang Team|[2510.23511](http://arxiv.org/abs/2510.23511)|**[link](https://dexbotic.com/.)**|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Jaegul Choo Team|[2510.22201](http://arxiv.org/abs/2510.22201)|null|
