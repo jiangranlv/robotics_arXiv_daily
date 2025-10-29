@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -1152,7 +1152,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-27**|**RobotArena $\infty$ : Scalable Robot Benchmarking via Real-to-Sim Translation**|Katerina Fragkiadaki Team|[2510.23571](http://arxiv.org/abs/2510.23571)|**[link](https://robotarenainf.github.io)**|
-|**2025-10-27**|**VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation**|Cordelia Schmid Team|[2510.23497](http://arxiv.org/abs/2510.23497)|null|
+|**2025-10-28**|**VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation**|Cordelia Schmid Team|[2510.23497](http://arxiv.org/abs/2510.23497)|null|
 |**2025-10-27**|**On the Faithfulness of Visual Thinking: Measurement and Enhancement**|Guisong Xia Team|[2510.23482](http://arxiv.org/abs/2510.23482)|null|
 |**2025-10-27**|**A Video Is Not Worth a Thousand Words**|Michael Wray Team|[2510.23253](http://arxiv.org/abs/2510.23253)|null|
 |**2025-10-27**|**Process Reward Models for Sentence-Level Verification of LVLM Radiology Reports**|Curtis P. Langlotz Team|[2510.23217](http://arxiv.org/abs/2510.23217)|null|
@@ -1162,7 +1162,7 @@ layout: default
 |**2025-10-27**|**Revisiting Multimodal Positional Encoding in Vision-Language Models**|Shuai Bai Team|[2510.23095](http://arxiv.org/abs/2510.23095)|null|
 |**2025-10-27**|**Multi-Stage Field Extraction of Financial Documents with OCR and Compact Vision-Language Models**|Donald MacDonald Team|[2510.23066](http://arxiv.org/abs/2510.23066)|null|
 |**2025-10-27**|**VoMP: Predicting Volumetric Mechanical Property Fields**|Maria Shugrina Team|[2510.22975](http://arxiv.org/abs/2510.22975)|**[link](https://research.nvidia.com/labs/sil/projects/vomp)**|
-|**2025-10-27**|**HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment**|Zhen Li Team|[2510.22917](http://arxiv.org/abs/2510.22917)|null|
+|**2025-10-28**|**HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment**|Zhen Li Team|[2510.22917](http://arxiv.org/abs/2510.22917)|null|
 |**2025-10-26**|**Seeing the Unseen: Towards Zero-Shot Inspection for Wind Turbine Blades using Knowledge-Augmented Vision Language Models**|Jiong Tang Team|[2510.22868](http://arxiv.org/abs/2510.22868)|null|
 |**2025-10-26**|**Semantic-Preserving Cross-Style Visual Reasoning for Robust Multi-Modal Understanding in Large Vision-Language Models**|Kaito Tanaka Team|[2510.22838](http://arxiv.org/abs/2510.22838)|null|
 |**2025-10-26**|**VEHME: A Vision-Language Model For Evaluating Handwritten Mathematics Expressions**|Taehwan Kim Team|[2510.22798](http://arxiv.org/abs/2510.22798)|**[link](https://vehme.github.io/)**|
