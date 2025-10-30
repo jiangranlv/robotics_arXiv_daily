@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Kyung-Joong Kim Team|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
+|**2025-10-29**|**Sim-to-Real Gentle Manipulation of Deformable and Fragile Objects with Stress-Guided Reinforcement Learning**|Florian T. Pokorny Team|[2510.25405](http://arxiv.org/abs/2510.25405)|null|
+|**2025-10-29**|**SynHLMA:Synthesizing Hand Language Manipulation for Articulated Object with Discrete Human Object Interaction Representation**|Dan Guo Team|[2510.25268](http://arxiv.org/abs/2510.25268)|null|
+|**2025-10-29**|**Time-Optimal Transport of Loosely Placed Liquid Filled Cups along Prescribed Paths**|Andreas Mueller Team|[2510.25255](http://arxiv.org/abs/2510.25255)|null|
+|**2025-10-29**|**Hybrid Vision Servoing with Depp Alignment and GRU-Based Occlusion Recovery**|Jongseong Brad Choi Team|[2510.25233](http://arxiv.org/abs/2510.25233)|null|
+|**2025-10-29**|**Learning Spatial-Aware Manipulation Ordering**|Jian Pu Team|[2510.25138](http://arxiv.org/abs/2510.25138)|null|
+|**2025-10-29**|**NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies**|Jinghui Lu Team|[2510.25122](http://arxiv.org/abs/2510.25122)|null|
 |**2025-10-28**|**Fare: Failure Resilience in Learned Visual Navigation Control**|David Hsu Team|[2510.24680](http://arxiv.org/abs/2510.24680)|null|
 |**2025-10-28**|**Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning**|Arnold W. Schumann Team|[2510.24650](http://arxiv.org/abs/2510.24650)|null|
 |**2025-10-28**|**DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation**|Gang Hua Team|[2510.24261](http://arxiv.org/abs/2510.24261)|null|
@@ -1162,6 +1169,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|Zhuochen Wang Team|[2510.25682](http://arxiv.org/abs/2510.25682)|null|
+|**2025-10-29**|**ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents**|Bela Gipp Team|[2510.25668](http://arxiv.org/abs/2510.25668)|null|
+|**2025-10-29**|**Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization**|Aleksandr I. Panov Team|[2510.25616](http://arxiv.org/abs/2510.25616)|null|
+|**2025-10-29**|**Using VLM Reasoning to Constrain Task and Motion Planning**|Zachary Kingston Team|[2510.25548](http://arxiv.org/abs/2510.25548)|null|
+|**2025-10-29**|**Seeing, Signing, and Saying: A Vision-Language Model-Assisted Pipeline for Sign Language Data Acquisition and Curation from Social Media**|Josef van Genabith Team|[2510.25413](http://arxiv.org/abs/2510.25413)|null|
+|**2025-10-29**|**SoraNav: Adaptive UAV Task-Centric Navigation via Zeroshot VLM Reasoning**|Wei Pan Team|[2510.25191](http://arxiv.org/abs/2510.25191)|null|
+|**2025-10-29**|**Agentic Moderation: Multi-Agent Design for Safer Vision-Language Models**|Usman Naseem Team|[2510.25179](http://arxiv.org/abs/2510.25179)|null|
+|**2025-10-29**|**Learning Spatial-Aware Manipulation Ordering**|Jian Pu Team|[2510.25138](http://arxiv.org/abs/2510.25138)|null|
+|**2025-10-29**|**NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies**|Jinghui Lu Team|[2510.25122](http://arxiv.org/abs/2510.25122)|null|
+|**2025-10-29**|**Visual Diversity and Region-aware Prompt Learning for Zero-shot HOI Detection**|Hyunwoo J. Kim Team|[2510.25094](http://arxiv.org/abs/2510.25094)|null|
+|**2025-10-29**|**DRIP: Dynamic patch Reduction via Interpretable Pooling**|Sachin Kumar Team|[2510.25067](http://arxiv.org/abs/2510.25067)|null|
+|**2025-10-28**|**Efficient License Plate Recognition via Pseudo-Labeled Supervision with Grounding DINO and YOLOv8**|Ching Yee Suen Team|[2510.25032](http://arxiv.org/abs/2510.25032)|null|
+|**2025-10-28**|**SCOUT: A Lightweight Framework for Scenario Coverage Assessment in Autonomous Driving**|Mykel J. Kochenderfer Team|[2510.24949](http://arxiv.org/abs/2510.24949)|null|
+|**2025-10-28**|**Finding Culture-Sensitive Neurons in Vision-Language Models**|Ivan Titov Team|[2510.24942](http://arxiv.org/abs/2510.24942)|null|
 |**2025-10-28**|**Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning**|Arnold W. Schumann Team|[2510.24650](http://arxiv.org/abs/2510.24650)|null|
 |**2025-10-28**|**OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows**|Lingpeng Kong Team|[2510.24411](http://arxiv.org/abs/2510.24411)|null|
 |**2025-10-28**|**What do vision-language models see in the context? Investigating multimodal in-context learning**|Sandra Avila Team|[2510.24331](http://arxiv.org/abs/2510.24331)|null|
@@ -3037,8 +3058,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models**|Robert Katzschmann Team|[2510.25713](http://arxiv.org/abs/2510.25713)|null|
+|**2025-10-29**|**Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization**|Aleksandr I. Panov Team|[2510.25616](http://arxiv.org/abs/2510.25616)|null|
+|**2025-10-29**|**NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies**|Jinghui Lu Team|[2510.25122](http://arxiv.org/abs/2510.25122)|null|
+|**2025-10-27**|**A Survey on Efficient Vision-Language-Action Models**|Heng Tao Shen Team|[2510.24795](http://arxiv.org/abs/2510.24795)|null|
 |**2025-10-28**|**BLM $_1$ : A Boundless Large Model for Cross-Space, Cross-Task, and Cross-Embodiment Learning**|Heng Tao Shen Team|[2510.24161](http://arxiv.org/abs/2510.24161)|null|
-|**2025-10-27**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Xipeng Qiu Team|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
+|**2025-10-29**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Xipeng Qiu Team|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
 |**2025-10-27**|**UrbanVLA: A Vision-Language-Action Model for Urban Micromobility**|He Wang Team|[2510.23576](http://arxiv.org/abs/2510.23576)|null|
 |**2025-10-27**|**Dexbotic: Open-Source Vision-Language-Action Toolbox**|Ziyu Zhang Team|[2510.23511](http://arxiv.org/abs/2510.23511)|**[link](https://dexbotic.com/.)**|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Jaegul Choo Team|[2510.22201](http://arxiv.org/abs/2510.22201)|null|
@@ -3378,6 +3403,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Kyung-Joong Kim Team|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-27**|**Awakening Facial Emotional Expressions in Human-Robot**|Jianwei Zhang Team|[2510.23059](http://arxiv.org/abs/2510.23059)|null|
 |**2025-10-25**|**Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery**|Guiliang Liu Team|[2510.22336](http://arxiv.org/abs/2510.22336)|null|
 |**2025-10-21**|**SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices**|Yueyue Dai Team|[2510.18544](http://arxiv.org/abs/2510.18544)|null|
@@ -3611,6 +3637,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Kyung-Joong Kim Team|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-27**|**OmniDexGrasp: Generalizable Dexterous Grasping via Foundation Model and Force Feedback**|Wei-Shi Zheng Team|[2510.23119](http://arxiv.org/abs/2510.23119)|**[link](https://isee-laboratory.github.io/OmniDexGrasp/)**|
 |**2025-10-24**|**Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos**|Baining Guo Team|[2510.21571](http://arxiv.org/abs/2510.21571)|**[link](https://microsoft.github.io/VITRA/)**|
 |**2025-10-23**|**SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing**|Axel Krieger Team|[2510.20965](http://arxiv.org/abs/2510.20965)|null|
