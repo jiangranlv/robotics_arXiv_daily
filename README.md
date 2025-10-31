@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-30**|**Hybrid Consistency Policy: Decoupling Multi-Modal Diversity and Real-Time Efficiency in Robotic Manipulation**|Qiaojun Yu Team|[2510.26670](http://arxiv.org/abs/2510.26670)|null|
+|**2025-10-30**|**An Impulse Control Approach to Market Making in a Hawkes LOB Market**|Philip Treleaven Team|[2510.26438](http://arxiv.org/abs/2510.26438)|null|
+|**2025-10-30**|**Human-in-the-loop Online Rejection Sampling for Robotic Manipulation**|Yansong Tang Team|[2510.26406](http://arxiv.org/abs/2510.26406)|null|
+|**2025-10-30**|**Beyond Imitation: Constraint-Aware Trajectory Generation with Flow Matching For End-to-End Autonomous Driving**|Yandan Luo Team|[2510.26292](http://arxiv.org/abs/2510.26292)|null|
+|**2025-10-30**|**Learning to Manage Investment Portfolios beyond Simple Utility Functions**|J. Doyne Farmer Team|[2510.26165](http://arxiv.org/abs/2510.26165)|null|
 |**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Kyung-Joong Kim Team|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-29**|**Sim-to-Real Gentle Manipulation of Deformable and Fragile Objects with Stress-Guided Reinforcement Learning**|Florian T. Pokorny Team|[2510.25405](http://arxiv.org/abs/2510.25405)|null|
 |**2025-10-29**|**SynHLMA:Synthesizing Hand Language Manipulation for Articulated Object with Discrete Human Object Interaction Representation**|Dan Guo Team|[2510.25268](http://arxiv.org/abs/2510.25268)|null|
@@ -1178,6 +1183,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-30**|**ChartAB: A Benchmark for Chart Grounding & Dense Alignment**|Tianyi Zhou Team|[2510.26781](http://arxiv.org/abs/2510.26781)|null|
+|**2025-10-30**|**SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models**|Chris Thomas Team|[2510.26769](http://arxiv.org/abs/2510.26769)|null|
+|**2025-10-30**|**All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles**|Abolfazl Razi Team|[2510.26641](http://arxiv.org/abs/2510.26641)|null|
+|**2025-10-30**|**Counteracting Matthew Effect in Self-Improvement of LVLMs through Head-Tail Re-balancing**|Xuanjing Huang Team|[2510.26474](http://arxiv.org/abs/2510.26474)|null|
+|**2025-10-30**|**Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition**|ShengJun Huang Team|[2510.26466](http://arxiv.org/abs/2510.26466)|null|
+|**2025-10-30**|**Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection**|Chengjie Wang Team|[2510.26464](http://arxiv.org/abs/2510.26464)|null|
+|**2025-10-30**|**A-TPT: Angular Diversity Calibration Properties for Test-Time Prompt Tuning of Vision-Language Models**|Muhammad Haris Khan Team|[2510.26441](http://arxiv.org/abs/2510.26441)|null|
+|**2025-10-30**|**MedSAE: Dissecting MedCLIP Representations with Sparse Autoencoders**|Marco Grangetto Team|[2510.26411](http://arxiv.org/abs/2510.26411)|null|
+|**2025-10-30**|**Distilling Multilingual Vision-Language Models: When Smaller Models Stay Multilingual**|Peerat Limkonchotiwat Team|[2510.26271](http://arxiv.org/abs/2510.26271)|null|
+|**2025-10-30**|**Which Way Does Time Flow? A Psychophysics-Grounded Evaluation for Vision-Language Models**|Shigeru Kitazawa Team|[2510.26241](http://arxiv.org/abs/2510.26241)|null|
+|**2025-10-30**|**MV-MLM: Bridging Multi-View Mammography and Language for Breast Cancer Diagnosis and Risk Prediction**|Ali Diba Team|[2510.26151](http://arxiv.org/abs/2510.26151)|null|
+|**2025-10-30**|**GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in GUI Tasks**|Qing Li Team|[2510.26098](http://arxiv.org/abs/2510.26098)|null|
+|**2025-10-30**|**Dynamic VLM-Guided Negative Prompting for Diffusion Models**|Yoonseok Choi Team|[2510.26052](http://arxiv.org/abs/2510.26052)|null|
+|**2025-10-29**|**CAVE: Detecting and Explaining Commonsense Anomalies in Visual Environments**|Antoine Bosselut Team|[2510.26006](http://arxiv.org/abs/2510.26006)|null|
 |**2025-10-30**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|Zhuochen Wang Team|[2510.25682](http://arxiv.org/abs/2510.25682)|null|
 |**2025-10-29**|**ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents**|Bela Gipp Team|[2510.25668](http://arxiv.org/abs/2510.25668)|null|
 |**2025-10-29**|**Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization**|Aleksandr I. Panov Team|[2510.25616](http://arxiv.org/abs/2510.25616)|null|
@@ -3069,6 +3088,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-30**|**RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration**|Shanghang Zhang Team|[2510.26536](http://arxiv.org/abs/2510.26536)|null|
+|**2025-10-30**|**Human-in-the-loop Online Rejection Sampling for Robotic Manipulation**|Yansong Tang Team|[2510.26406](http://arxiv.org/abs/2510.26406)|null|
+|**2025-10-29**|**$π_\texttt{RL}$ : Online RL Fine-tuning for Flow-based Vision-Language-Action Models**|Chao Yu Team|[2510.25889](http://arxiv.org/abs/2510.25889)|null|
 |**2025-10-29**|**Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models**|Robert Katzschmann Team|[2510.25713](http://arxiv.org/abs/2510.25713)|null|
 |**2025-10-29**|**Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization**|Aleksandr I. Panov Team|[2510.25616](http://arxiv.org/abs/2510.25616)|null|
 |**2025-10-29**|**NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies**|Jinghui Lu Team|[2510.25122](http://arxiv.org/abs/2510.25122)|null|
@@ -3416,6 +3438,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-30**|**Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse**|Renkai Ma Team|[2510.26082](http://arxiv.org/abs/2510.26082)|null|
 |**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Kyung-Joong Kim Team|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-27**|**Awakening Facial Emotional Expressions in Human-Robot**|Jianwei Zhang Team|[2510.23059](http://arxiv.org/abs/2510.23059)|null|
 |**2025-10-25**|**Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery**|Guiliang Liu Team|[2510.22336](http://arxiv.org/abs/2510.22336)|null|
