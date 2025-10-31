@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.30
+## Updated on 2025.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -1169,7 +1169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-29**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|Zhuochen Wang Team|[2510.25682](http://arxiv.org/abs/2510.25682)|null|
+|**2025-10-30**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|Zhuochen Wang Team|[2510.25682](http://arxiv.org/abs/2510.25682)|null|
 |**2025-10-29**|**ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents**|Bela Gipp Team|[2510.25668](http://arxiv.org/abs/2510.25668)|null|
 |**2025-10-29**|**Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization**|Aleksandr I. Panov Team|[2510.25616](http://arxiv.org/abs/2510.25616)|null|
 |**2025-10-29**|**Using VLM Reasoning to Constrain Task and Motion Planning**|Zachary Kingston Team|[2510.25548](http://arxiv.org/abs/2510.25548)|null|
