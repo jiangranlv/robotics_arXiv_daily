@@ -9,8 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Whole-Body Proprioceptive Morphing: A Modular Soft Gripper for Robust Cross-Scale Grasping**|Xiaonan Huang Team|[2510.27666](http://arxiv.org/abs/2510.27666)|null|
+|**2025-10-31**|**Toward Accurate Long-Horizon Robotic Manipulation: Language-to-Action with Foundation Models via Scene Graphs**|Shinkyu Park Team|[2510.27558](http://arxiv.org/abs/2510.27558)|null|
+|**2025-10-31**|**When AI Trading Agents Compete: Adverse Selection of Meta-Orders by Reinforcement Learning-Based Market Making**|Nick Firoozye Team|[2510.27334](http://arxiv.org/abs/2510.27334)|null|
+|**2025-10-31**|**Learning Generalizable Visuomotor Policy through Dynamics-Alignment**|Jungwoo Lee Team|[2510.27114](http://arxiv.org/abs/2510.27114)|null|
 |**2025-10-30**|**Hybrid Consistency Policy: Decoupling Multi-Modal Diversity and Real-Time Efficiency in Robotic Manipulation**|Qiaojun Yu Team|[2510.26670](http://arxiv.org/abs/2510.26670)|null|
-|**2025-10-30**|**An Impulse Control Approach to Market Making in a Hawkes LOB Market**|Philip Treleaven Team|[2510.26438](http://arxiv.org/abs/2510.26438)|null|
+|**2025-10-31**|**An Impulse Control Approach to Market Making in a Hawkes LOB Market**|Philip Treleaven Team|[2510.26438](http://arxiv.org/abs/2510.26438)|null|
 |**2025-10-30**|**Human-in-the-loop Online Rejection Sampling for Robotic Manipulation**|Yansong Tang Team|[2510.26406](http://arxiv.org/abs/2510.26406)|null|
 |**2025-10-30**|**Beyond Imitation: Constraint-Aware Trajectory Generation with Flow Matching For End-to-End Autonomous Driving**|Yandan Luo Team|[2510.26292](http://arxiv.org/abs/2510.26292)|null|
 |**2025-10-30**|**Learning to Manage Investment Portfolios beyond Simple Utility Functions**|J. Doyne Farmer Team|[2510.26165](http://arxiv.org/abs/2510.26165)|null|
@@ -1174,6 +1178,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting**|Tyler J. Bradshaw Team|[2510.27680](http://arxiv.org/abs/2510.27680)|null|
+|**2025-10-31**|**Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning**|Jiaqi Wang Team|[2510.27606](http://arxiv.org/abs/2510.27606)|null|
+|**2025-10-31**|**From Pixels to Paths: A Multi-Agent Framework for Editable Scientific Illustration**|Kaipeng Zhang Team|[2510.27452](http://arxiv.org/abs/2510.27452)|null|
+|**2025-10-31**|**Modality Alignment across Trees on Heterogeneous Hyperbolic Manifolds**|Mehrtash Harandi Team|[2510.27391](http://arxiv.org/abs/2510.27391)|null|
+|**2025-10-31**|**FOCUS: Efficient Keyframe Selection for Long Video Understanding**|Yang You Team|[2510.27280](http://arxiv.org/abs/2510.27280)|null|
+|**2025-10-31**|**T3: Test-Time Model Merging in VLMs for Zero-Shot Medical Imaging Analysis**|Mohammad Yaqub Team|[2510.27265](http://arxiv.org/abs/2510.27265)|null|
+|**2025-10-31**|**ECVL-ROUTER: Scenario-Aware Routing for Vision-Language Models**|Tengxiang Zhang Team|[2510.27256](http://arxiv.org/abs/2510.27256)|null|
+|**2025-10-31**|**Enhancing Spatio-Temporal Zero-shot Action Recognition with Language-driven Description Attributes**|Seong-Whan Lee Team|[2510.27255](http://arxiv.org/abs/2510.27255)|null|
+|**2025-10-31**|**Generating Accurate and Detailed Captions for High-Resolution Images**|Jiyoung Jung Team|[2510.27164](http://arxiv.org/abs/2510.27164)|null|
+|**2025-10-30**|**MoME: Mixture of Visual Language Medical Experts for Medical Imaging Segmentation**|Xiaohui Xie Team|[2510.26996](http://arxiv.org/abs/2510.26996)|null|
+|**2025-10-30**|**MM-OPERA: Benchmarking Open-ended Association Reasoning for Large Vision-Language Models**|Ziliang Chen Team|[2510.26937](http://arxiv.org/abs/2510.26937)|null|
+|**2025-10-30**|**NaviTrace: Evaluating Embodied Navigation of Vision-Language Models**|Jonas Frey Team|[2510.26909](http://arxiv.org/abs/2510.26909)|null|
+|**2025-10-30**|**Cognition Envelopes for Bounded AI Reasoning in Autonomous UAS Operations**|Jane Cleland-Huang Team|[2510.26905](http://arxiv.org/abs/2510.26905)|null|
+|**2025-10-30**|**Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench**|Xi Yang Team|[2510.26865](http://arxiv.org/abs/2510.26865)|**[link](https://flageval-baai.github.io/MeasureBenchPage/)**|
 |**2025-10-30**|**ChartAB: A Benchmark for Chart Grounding & Dense Alignment**|Tianyi Zhou Team|[2510.26781](http://arxiv.org/abs/2510.26781)|null|
 |**2025-10-30**|**SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models**|Chris Thomas Team|[2510.26769](http://arxiv.org/abs/2510.26769)|null|
 |**2025-10-30**|**All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles**|Abolfazl Razi Team|[2510.26641](http://arxiv.org/abs/2510.26641)|null|
@@ -3077,6 +3095,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|Jinwoo Shin Team|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
+|**2025-10-31**|**EBT-Policy: Energy Unlocks Emergent Physical Reasoning Capabilities**|Luhui Hu Team|[2510.27545](http://arxiv.org/abs/2510.27545)|null|
 |**2025-10-30**|**RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration**|Shanghang Zhang Team|[2510.26536](http://arxiv.org/abs/2510.26536)|null|
 |**2025-10-30**|**Human-in-the-loop Online Rejection Sampling for Robotic Manipulation**|Yansong Tang Team|[2510.26406](http://arxiv.org/abs/2510.26406)|null|
 |**2025-10-29**|**$π_\texttt{RL}$ : Online RL Fine-tuning for Flow-based Vision-Language-Action Models**|Chao Yu Team|[2510.25889](http://arxiv.org/abs/2510.25889)|null|
@@ -3660,6 +3680,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**SpikeATac: A Multimodal Tactile Finger with Taxelized Dynamic Sensing for Dexterous Manipulation**|Matei Ciocarlie Team|[2510.27048](http://arxiv.org/abs/2510.27048)|null|
 |**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Kyung-Joong Kim Team|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-27**|**OmniDexGrasp: Generalizable Dexterous Grasping via Foundation Model and Force Feedback**|Wei-Shi Zheng Team|[2510.23119](http://arxiv.org/abs/2510.23119)|**[link](https://isee-laboratory.github.io/OmniDexGrasp/)**|
 |**2025-10-24**|**Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos**|Baining Guo Team|[2510.21571](http://arxiv.org/abs/2510.21571)|**[link](https://microsoft.github.io/VITRA/)**|
