@@ -1185,18 +1185,18 @@ layout: default
 |**2025-10-31**|**FOCUS: Efficient Keyframe Selection for Long Video Understanding**|Yang You Team|[2510.27280](http://arxiv.org/abs/2510.27280)|null|
 |**2025-10-31**|**T3: Test-Time Model Merging in VLMs for Zero-Shot Medical Imaging Analysis**|Mohammad Yaqub Team|[2510.27265](http://arxiv.org/abs/2510.27265)|null|
 |**2025-10-31**|**ECVL-ROUTER: Scenario-Aware Routing for Vision-Language Models**|Tengxiang Zhang Team|[2510.27256](http://arxiv.org/abs/2510.27256)|null|
-|**2025-10-31**|**Enhancing Spatio-Temporal Zero-shot Action Recognition with Language-driven Description Attributes**|Seong-Whan Lee Team|[2510.27255](http://arxiv.org/abs/2510.27255)|null|
+|**2025-11-03**|**Enhancing Spatio-Temporal Zero-shot Action Recognition with Language-driven Description Attributes**|Seong-Whan Lee Team|[2510.27255](http://arxiv.org/abs/2510.27255)|null|
 |**2025-10-31**|**Generating Accurate and Detailed Captions for High-Resolution Images**|Jiyoung Jung Team|[2510.27164](http://arxiv.org/abs/2510.27164)|null|
 |**2025-10-30**|**MoME: Mixture of Visual Language Medical Experts for Medical Imaging Segmentation**|Xiaohui Xie Team|[2510.26996](http://arxiv.org/abs/2510.26996)|null|
 |**2025-10-30**|**MM-OPERA: Benchmarking Open-ended Association Reasoning for Large Vision-Language Models**|Ziliang Chen Team|[2510.26937](http://arxiv.org/abs/2510.26937)|null|
 |**2025-10-30**|**NaviTrace: Evaluating Embodied Navigation of Vision-Language Models**|Jonas Frey Team|[2510.26909](http://arxiv.org/abs/2510.26909)|null|
 |**2025-10-30**|**Cognition Envelopes for Bounded AI Reasoning in Autonomous UAS Operations**|Jane Cleland-Huang Team|[2510.26905](http://arxiv.org/abs/2510.26905)|null|
 |**2025-10-30**|**Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench**|Xi Yang Team|[2510.26865](http://arxiv.org/abs/2510.26865)|**[link](https://flageval-baai.github.io/MeasureBenchPage/)**|
-|**2025-10-30**|**ChartAB: A Benchmark for Chart Grounding & Dense Alignment**|Tianyi Zhou Team|[2510.26781](http://arxiv.org/abs/2510.26781)|null|
+|**2025-11-03**|**ChartAB: A Benchmark for Chart Grounding & Dense Alignment**|Tianyi Zhou Team|[2510.26781](http://arxiv.org/abs/2510.26781)|null|
 |**2025-10-30**|**SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models**|Chris Thomas Team|[2510.26769](http://arxiv.org/abs/2510.26769)|null|
 |**2025-10-30**|**All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles**|Abolfazl Razi Team|[2510.26641](http://arxiv.org/abs/2510.26641)|null|
 |**2025-10-30**|**Counteracting Matthew Effect in Self-Improvement of LVLMs through Head-Tail Re-balancing**|Xuanjing Huang Team|[2510.26474](http://arxiv.org/abs/2510.26474)|null|
-|**2025-10-30**|**Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition**|ShengJun Huang Team|[2510.26466](http://arxiv.org/abs/2510.26466)|null|
+|**2025-11-03**|**Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition**|ShengJun Huang Team|[2510.26466](http://arxiv.org/abs/2510.26466)|null|
 |**2025-10-30**|**Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection**|Chengjie Wang Team|[2510.26464](http://arxiv.org/abs/2510.26464)|null|
 |**2025-10-30**|**A-TPT: Angular Diversity Calibration Properties for Test-Time Prompt Tuning of Vision-Language Models**|Muhammad Haris Khan Team|[2510.26441](http://arxiv.org/abs/2510.26441)|null|
 |**2025-10-30**|**MedSAE: Dissecting MedCLIP Representations with Sparse Autoencoders**|Marco Grangetto Team|[2510.26411](http://arxiv.org/abs/2510.26411)|null|
@@ -3105,7 +3105,7 @@ layout: default
 |**2025-10-29**|**NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies**|Jinghui Lu Team|[2510.25122](http://arxiv.org/abs/2510.25122)|null|
 |**2025-10-27**|**A Survey on Efficient Vision-Language-Action Models**|Heng Tao Shen Team|[2510.24795](http://arxiv.org/abs/2510.24795)|null|
 |**2025-10-28**|**BLM $_1$ : A Boundless Large Model for Cross-Space, Cross-Task, and Cross-Embodiment Learning**|Heng Tao Shen Team|[2510.24161](http://arxiv.org/abs/2510.24161)|null|
-|**2025-10-29**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Xipeng Qiu Team|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
+|**2025-11-01**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Xipeng Qiu Team|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
 |**2025-10-27**|**UrbanVLA: A Vision-Language-Action Model for Urban Micromobility**|He Wang Team|[2510.23576](http://arxiv.org/abs/2510.23576)|null|
 |**2025-10-27**|**Dexbotic: Open-Source Vision-Language-Action Toolbox**|Ziyu Zhang Team|[2510.23511](http://arxiv.org/abs/2510.23511)|**[link](https://dexbotic.com/.)**|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Jaegul Choo Team|[2510.22201](http://arxiv.org/abs/2510.22201)|null|
@@ -3445,7 +3445,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-30**|**Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse**|Renkai Ma Team|[2510.26082](http://arxiv.org/abs/2510.26082)|null|
+|**2025-11-01**|**Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse**|Renkai Ma Team|[2510.26082](http://arxiv.org/abs/2510.26082)|null|
 |**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Kyung-Joong Kim Team|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-27**|**Awakening Facial Emotional Expressions in Human-Robot**|Jianwei Zhang Team|[2510.23059](http://arxiv.org/abs/2510.23059)|null|
 |**2025-10-25**|**Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery**|Guiliang Liu Team|[2510.22336](http://arxiv.org/abs/2510.22336)|null|
