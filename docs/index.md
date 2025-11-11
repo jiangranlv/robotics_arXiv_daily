@@ -9,6 +9,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields**|Pieter Abbeel Team|[2511.07418](http://arxiv.org/abs/2511.07418)|**[link](https://github.com/zhaohengyin/lightning-grasp)**|
+|**2025-11-10**|**Robot Learning from a Physical World Model**|Yue Wang Team|[2511.07416](http://arxiv.org/abs/2511.07416)|**[link](https://pointscoder.github.io/PhysWorld_Web/)**|
+|**2025-11-10**|**Enabling Off-Policy Imitation Learning with Deep Actor Critic Stabilization**|Shalabh Bhatnagar Team|[2511.07288](http://arxiv.org/abs/2511.07288)|null|
+|**2025-11-10**|**SlotVLA: Towards Modeling of Object-Relation Representations in Robotic Manipulation**|Ngan Le Team|[2511.06754](http://arxiv.org/abs/2511.06754)|null|
+|**2025-11-10**|**Physically-Grounded Goal Imagination: Physics-Informed Variational Autoencoder for Self-Supervised Reinforcement Learning**|Nam Pham Hai Team|[2511.06745](http://arxiv.org/abs/2511.06745)|null|
+|**2025-11-10**|**Rapidly Learning Soft Robot Control via Implicit Time-Stepping**|Dezhong Tong Team|[2511.06667](http://arxiv.org/abs/2511.06667)|**[link](https://github.com/QuantuMope/dismech-rl)**|
+|**2025-11-09**|**Real Garment Benchmark (RGBench): A Comprehensive Benchmark for Robotic Garment Manipulation featuring a High-Fidelity Scalable Simulator**|Ruigang Yang Team|[2511.06434](http://arxiv.org/abs/2511.06434)|null|
+|**2025-11-09**|**ExpReS-VLA: Specializing Vision-Language-Action Models Through Experience Replay and Retrieval**|Jeff Ichnowski Team|[2511.06202](http://arxiv.org/abs/2511.06202)|null|
+|**2025-11-08**|**Exploring Category-level Articulated Object Pose Tracking on SE(3) Manifolds**|Jun Liu Team|[2511.05996](http://arxiv.org/abs/2511.05996)|null|
+|**2025-11-08**|**Gentle Manipulation Policy Learning via Demonstrations from VLM Planned Atomic Skills**|Renjing Xu Team|[2511.05855](http://arxiv.org/abs/2511.05855)|null|
+|**2025-11-08**|**VLAD-Grasp: Zero-shot Grasp Detection via Vision-Language Models**|Aniket Bera Team|[2511.05791](http://arxiv.org/abs/2511.05791)|null|
+|**2025-11-07**|**VLM-driven Skill Selection for Robotic Assembly Tasks**|Chang-Hyun Kim Team|[2511.05680](http://arxiv.org/abs/2511.05680)|null|
 |**2025-11-07**|**EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation**|Samuel Dickerson Team|[2511.05397](http://arxiv.org/abs/2511.05397)|null|
 |**2025-11-07**|**ETHOS: A Robotic Encountered-Type Haptic Display for Social Interaction in Virtual Reality**|Matthew K. X. J. Pan Team|[2511.05379](http://arxiv.org/abs/2511.05379)|null|
 |**2025-11-07**|**Force-Safe Environment Maps and Real-Time Detection for Soft Robot Manipulators**|Andrew P. Sabelhaus Team|[2511.05307](http://arxiv.org/abs/2511.05307)|null|
@@ -1216,6 +1228,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Using Vision Language Models as Closed-Loop Symbolic Planners for Robotic Applications: A Control-Theoretic Perspective**|Somil Bansal Team|[2511.07410](http://arxiv.org/abs/2511.07410)|null|
+|**2025-11-10**|**CAMP-VQA: Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video**|David Bull Team|[2511.07290](http://arxiv.org/abs/2511.07290)|null|
+|**2025-11-10**|**Leveraging Text-Driven Semantic Variation for Robust OOD Segmentation**|Jaekoo Lee Team|[2511.07238](http://arxiv.org/abs/2511.07238)|null|
+|**2025-11-10**|**Federated Learning for Video Violence Detection: Complementary Roles of Lightweight CNNs and Vision-Language Models for Energy-Efficient Use**|Rachid Chelouah Team|[2511.07171](http://arxiv.org/abs/2511.07171)|null|
+|**2025-11-10**|**ClusterMine: Robust Label-Free Visual Out-Of-Distribution Detection via Concept Mining from Text Corpora**|Markus Kollmann Team|[2511.07068](http://arxiv.org/abs/2511.07068)|**[link](https://github.com/HHU-MMBS/clustermine_wacv_official)**|
+|**2025-11-10**|**CoLM: Collaborative Large Models via A Client-Server Paradigm**|Hongyuan Zhang Team|[2511.06991](http://arxiv.org/abs/2511.06991)|null|
+|**2025-11-10**|**RPTS: Tree-Structured Reasoning Process Scoring for Faithful Multimodal Evaluation**|Yu Zhang Team|[2511.06899](http://arxiv.org/abs/2511.06899)|null|
+|**2025-11-10**|**Flexible Concept Bottleneck Model**|Rui Zhang Team|[2511.06678](http://arxiv.org/abs/2511.06678)|null|
+|**2025-11-10**|**HiMo-CLIP: Modeling Semantic Hierarchy and Monotonicity in Vision-Language Alignment**|Shiguo Lian Team|[2511.06653](http://arxiv.org/abs/2511.06653)|null|
+|**2025-11-10**|**NOVO: Bridging LLaVA and SAM with Visual-only Prompts for Reasoning Segmentation**|Yeong-Jun Cho Team|[2511.06651](http://arxiv.org/abs/2511.06651)|null|
+|**2025-11-10**|**How Do VLAs Effectively Inherit from VLMs?**|Jiang Bian Team|[2511.06619](http://arxiv.org/abs/2511.06619)|null|
+|**2025-11-09**|**A Low-Rank Method for Vision Language Model Hallucination Mitigation in Autonomous Driving**|Xiaopeng Li Team|[2511.06496](http://arxiv.org/abs/2511.06496)|null|
+|**2025-11-09**|**Zooming into Comics: Region-Aware RL Improves Fine-Grained Comic Understanding in Vision-Language Models**|Sabine Süsstrunk Team|[2511.06490](http://arxiv.org/abs/2511.06490)|null|
+|**2025-11-09**|**GazeVLM: A Vision-Language Model for Multi-Task Gaze Understanding**|Riad Souissi Team|[2511.06348](http://arxiv.org/abs/2511.06348)|null|
+|**2025-11-09**|**ALIGN: A Vision-Language Framework for High-Accuracy Accident Location Inference through Geo-Spatial Neural Reasoning**|Moazzem Hossain Team|[2511.06316](http://arxiv.org/abs/2511.06316)|null|
+|**2025-11-09**|**TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks**|Bo Xu Team|[2511.06283](http://arxiv.org/abs/2511.06283)|null|
+|**2025-11-09**|**WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation**|Jie Tang Team|[2511.06251](http://arxiv.org/abs/2511.06251)|null|
+|**2025-11-09**|**Affordance-Guided Coarse-to-Fine Exploration for Base Placement in Open-Vocabulary Mobile Manipulation**|Winston H. Hsu Team|[2511.06240](http://arxiv.org/abs/2511.06240)|null|
+|**2025-11-09**|**MoRA: Missing Modality Low-Rank Adaptation for Visual Recognition**|Vijaykrishnan Narayanan Team|[2511.06225](http://arxiv.org/abs/2511.06225)|null|
+|**2025-11-09**|**Scene-Aware Urban Design: A Human-AI Recommendation Framework Using Co-Occurrence Embeddings and Vision-Language Models**|Alexander Htet Kyaw Team|[2511.06201](http://arxiv.org/abs/2511.06201)|null|
 |**2025-11-07**|**Visual Spatial Tuning**|Hengshuang Zhao Team|[2511.05491](http://arxiv.org/abs/2511.05491)|null|
 |**2025-11-07**|**Turning Adversaries into Allies: Reversing Typographic Attacks for Multimodal E-Commerce Product Retrieval**|Hongda Shen Team|[2511.05325](http://arxiv.org/abs/2511.05325)|null|
 |**2025-11-07**|**Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings**|Furong Huang Team|[2511.05017](http://arxiv.org/abs/2511.05017)|null|
@@ -3174,6 +3206,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**How Do VLAs Effectively Inherit from VLMs?**|Jiang Bian Team|[2511.06619](http://arxiv.org/abs/2511.06619)|null|
+|**2025-11-09**|**ExpReS-VLA: Specializing Vision-Language-Action Models Through Experience Replay and Retrieval**|Jeff Ichnowski Team|[2511.06202](http://arxiv.org/abs/2511.06202)|null|
+|**2025-11-08**|**10 Open Challenges Steering the Future of Vision-Language-Action Models**|David Hsu Team|[2511.05936](http://arxiv.org/abs/2511.05936)|null|
+|**2025-11-07**|**Lite VLA: Efficient Vision-Language-Action Control on CPU-Bound Edge Robots**|Mrinmoy Sarkar Team|[2511.05642](http://arxiv.org/abs/2511.05642)|null|
 |**2025-11-07**|**Visual Spatial Tuning**|Hengshuang Zhao Team|[2511.05491](http://arxiv.org/abs/2511.05491)|null|
 |**2025-11-07**|**EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation**|Samuel Dickerson Team|[2511.05397](http://arxiv.org/abs/2511.05397)|null|
 |**2025-11-07**|**TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models**|Youngwoon Lee Team|[2511.05275](http://arxiv.org/abs/2511.05275)|**[link](https://jellyho.github.io/TwinVLA/)**|
@@ -3540,6 +3576,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Unified Humanoid Fall-Safety Policy from a Few Demonstrations**|Stella X. Yu Team|[2511.07407](http://arxiv.org/abs/2511.07407)|null|
+|**2025-11-10**|**Human-Level Actuation for Humanoids**|MD-Nazmus Sunbeam Team|[2511.06796](http://arxiv.org/abs/2511.06796)|null|
+|**2025-11-09**|**Towards Adaptive Humanoid Control via Multi-Behavior Distillation and Reinforced Fine-Tuning**|Chenjia Bai Team|[2511.06371](http://arxiv.org/abs/2511.06371)|null|
+|**2025-11-08**|**Towards Human-AI-Robot Collaboration and AI-Agent based Digital Twins for Parkinson's Disease Management: Review and Outlook**|Tareq Y. Al-Naffouri Team|[2511.06036](http://arxiv.org/abs/2511.06036)|null|
 |**2025-11-06**|**ScheduleStream: Temporal Planning with Samplers for GPU-Accelerated Multi-Arm Task and Motion Planning & Scheduling**|Fabio Ramos Team|[2511.04758](http://arxiv.org/abs/2511.04758)|**[link](https://schedulestream.github.io)**|
 |**2025-11-06**|**GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction**|C. Karen Liu Team|[2511.04679](http://arxiv.org/abs/2511.04679)|**[link](https://gentle-humanoid.axell.top)**|
 |**2025-11-06**|**BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning**|Guanya Shi Team|[2511.04131](http://arxiv.org/abs/2511.04131)|null|
@@ -3783,11 +3823,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields**|Pieter Abbeel Team|[2511.07418](http://arxiv.org/abs/2511.07418)|**[link](https://github.com/zhaohengyin/lightning-grasp)**|
 |**2025-11-06**|**Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning**|Gavriel State Team|[2511.04831](http://arxiv.org/abs/2511.04831)|**[link](https://github.com/isaac-sim/IsaacLab)**|
-|**2025-11-05**|**Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control**|Sheng Yi Team|[2511.03481](http://arxiv.org/abs/2511.03481)|null|
+|**2025-11-09**|**Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control**|Sheng Yi Team|[2511.03481](http://arxiv.org/abs/2511.03481)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|C. Karen Liu Team|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
 |**2025-11-03**|**GenDexHand: Generative Simulation for Dexterous Hands**|Yi Ma Team|[2511.01791](http://arxiv.org/abs/2511.01791)|null|
-|**2025-11-03**|**Scaling Cross-Embodiment World Models for Dexterous Manipulation**|Hao Su Team|[2511.01177](http://arxiv.org/abs/2511.01177)|null|
+|**2025-11-09**|**Scaling Cross-Embodiment World Models for Dexterous Manipulation**|Hao Su Team|[2511.01177](http://arxiv.org/abs/2511.01177)|null|
 |**2025-10-31**|**End-to-End Dexterous Arm-Hand VLA Policies via Shared Autonomy: VR Teleoperation Augmented by Autonomous Hand VLA Policy for Efficient Data Collection**|Zhibin Li Team|[2511.00139](http://arxiv.org/abs/2511.00139)|null|
 |**2025-10-30**|**SpikeATac: A Multimodal Tactile Finger with Taxelized Dynamic Sensing for Dexterous Manipulation**|Matei Ciocarlie Team|[2510.27048](http://arxiv.org/abs/2510.27048)|null|
 |**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Kyung-Joong Kim Team|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
