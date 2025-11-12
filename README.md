@@ -1244,6 +1244,7 @@
 |**2022-02-07**|**BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning**|Chelsea Finn Team|[2202.02005](http://arxiv.org/abs/2202.02005)|null|
 |**2021-11-02**|**Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation**|Chelsea Finn Team|[2109.01115](http://arxiv.org/abs/2109.01115)|null|
 |**2021-06-11**|**Coarse-to-Fine Imitation Learning: Robot Manipulation from a Single Demonstration**|Edward Johns Team|[2105.06411](http://arxiv.org/abs/2105.06411)|**[link](https://www.robot-learning.uk/coarse-to-fine-imitation-learning)**|
+|**2022-03-09**|**Interactive Imitation Learning in State-Space**|Jens Kober Team|[2008.00524](http://arxiv.org/abs/2008.00524)|null|
 |**2020-05-19**|**On-Policy Robot Imitation Learning from a Converging Supervisor**|Ken Goldberg Team|[1907.03423](http://arxiv.org/abs/1907.03423)|null|
 |**2018-11-08**|**RoboTurk: A Crowdsourcing Platform for Robotic Skill Learning through Imitation**|Li Fei-Fei Team|[1811.02790](http://arxiv.org/abs/1811.02790)|null|
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
