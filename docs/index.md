@@ -3431,7 +3431,7 @@ layout: default
 |**2025-09-06**|**4D Visual Pre-training for Robot Learning**|Huazhe Xu Team|[2508.17230](http://arxiv.org/abs/2508.17230)|null|
 |**2025-08-23**|**NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows**|Vladislav Kurenkov Team|[2508.16845](http://arxiv.org/abs/2508.16845)|null|
 |**2025-08-22**|**Do What? Teaching Vision-Language-Action Models to Reject the Impossible**|David M. Chan Team|[2508.16292](http://arxiv.org/abs/2508.16292)|null|
-|**2025-08-22**|**Survey of Vision-Language-Action Models for Embodied Manipulation**|Dongbin Zhao Team|[2508.15201](http://arxiv.org/abs/2508.15201)|null|
+|**2025-11-13**|**Survey of Vision-Language-Action Models for Embodied Manipulation**|Dongbin Zhao Team|[2508.15201](http://arxiv.org/abs/2508.15201)|null|
 |**2025-08-19**|**CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models**|Sergey Levine Team|[2508.13446](http://arxiv.org/abs/2508.13446)|null|
 |**2025-08-18**|**Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**|Zhi Hou Team|[2508.13103](http://arxiv.org/abs/2508.13103)|null|
 |**2025-09-01**|**Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey**|Liqiang Nie Team|[2508.13073](http://arxiv.org/abs/2508.13073)|**[link](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)**|
