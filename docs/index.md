@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.13
+## Updated on 2025.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -4049,6 +4049,7 @@ layout: default
 |**2024-08-22**|**Tilde: Teleoperation for Dexterous In-Hand Manipulation Learning with a DeltaHand**|Oliver Kroemer Team|[2405.18804](http://arxiv.org/abs/2405.18804)|null|
 |**2023-12-13**|**DEFT: Dexterous Fine-Tuning for Real-World Hand Policies**|Deepak Pathak Team|[2310.19797](http://arxiv.org/abs/2310.19797)|**[link](https://dexterous-finetuning.github.io/)**|
 |**2023-12-27**|**DELTAHANDS: A Synergistic Dexterous Hand Framework Based on Delta Robots**|F. Zeynep Temel Team|[2310.05266](http://arxiv.org/abs/2310.05266)|null|
+|**2023-10-17**|**Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation**|C. Karen Liu Team|[2309.00987](http://arxiv.org/abs/2309.00987)|null|
 |**2023-08-23**|**Dexterous Soft Hands Linearize Feedback-Control for In-Hand Manipulation**|Oliver Brock Team|[2308.10691](http://arxiv.org/abs/2308.10691)|null|
 |**2023-04-20**|**Progressive Transfer Learning for Dexterous In-Hand Manipulation with Multi-Fingered Anthropomorphic Hand**|Jia Sun Team|[2304.09526](http://arxiv.org/abs/2304.09526)|null|
 |**2022-03-25**|**Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation**|Lerrel Pinto Team|[2203.13251](http://arxiv.org/abs/2203.13251)|null|
