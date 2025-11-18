@@ -9,6 +9,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Xiaolong Wang Team|[2511.13710](http://arxiv.org/abs/2511.13710)|**[link](https://jianglongye.com/power-to-precision)**|
+|**2025-11-17**|**OpenRoboCare: A Multimodal Multi-Task Expert Demonstration Dataset for Robot Caregiving**|Tapomayukh Bhattacharjee Team|[2511.13707](http://arxiv.org/abs/2511.13707)|null|
+|**2025-11-17**|**PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image**|Ziwei Liu Team|[2511.13648](http://arxiv.org/abs/2511.13648)|**[link](https://physx-anything.github.io/)**|
+|**2025-11-17**|**Contact-Safe Reinforcement Learning with ProMP Reparameterization and Energy Awareness**|Luis Figueredo Team|[2511.13459](http://arxiv.org/abs/2511.13459)|null|
+|**2025-11-17**|**ZeroDexGrasp: Zero-Shot Task-Oriented Dexterous Grasp Synthesis with Prompt-Based Multi-Stage Semantic Reasoning**|Ruizhen Hu Team|[2511.13327](http://arxiv.org/abs/2511.13327)|null|
+|**2025-11-17**|**EL3DD: Extended Latent 3D Diffusion for Language Conditioned Multitask Manipulation**|Sven Behnke Team|[2511.13312](http://arxiv.org/abs/2511.13312)|null|
+|**2025-11-17**|**Robust Control Design Using a Hybrid-Gain Finite-Time Sliding-Mode Controller**|Fernando A. C. C. Fontes Team|[2511.13260](http://arxiv.org/abs/2511.13260)|null|
+|**2025-11-17**|**Difficulty-Aware Label-Guided Denoising for Monocular 3D Object Detection**|Dongbo Min Team|[2511.13195](http://arxiv.org/abs/2511.13195)|null|
+|**2025-11-17**|**Orientation-Free Neural Network-Based Bias Estimation for Low-Cost Stationary Accelerometers**|Itzik Klein Team|[2511.13071](http://arxiv.org/abs/2511.13071)|null|
+|**2025-11-17**|**Learning Branching Policies for MILPs with Proximal Policy Optimization**|Amal El Fallah Seghrouchni Team|[2511.12986](http://arxiv.org/abs/2511.12986)|null|
+|**2025-11-17**|**ArtiWorld: LLM-Driven Articulation of 3D Objects in Scenes**|Feng Zheng Team|[2511.12977](http://arxiv.org/abs/2511.12977)|null|
+|**2025-11-17**|**DiffuDepGrasp: Diffusion-based Depth Noise Modeling Empowers Sim2Real Robotic Grasping**|Dongbin Zhao Team|[2511.12912](http://arxiv.org/abs/2511.12912)|null|
+|**2025-11-17**|**Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views**|Hesheng Wang Team|[2511.12878](http://arxiv.org/abs/2511.12878)|null|
+|**2025-11-17**|**Structured Imitation Learning of Interactive Policies through Inverse Games**|Todd Murphey Team|[2511.12848](http://arxiv.org/abs/2511.12848)|**[link](https://sites.google.com/view/gai-hri/)**|
+|**2025-11-17**|**Mapping fNIRS Signals to Agent Performance: Toward Reinforcement Learning from Neural Feedback**|Jivko SInapov Team|[2511.12844](http://arxiv.org/abs/2511.12844)|null|
+|**2025-11-16**|**Scalable Multi-Objective and Meta Reinforcement Learning via Gradient Estimation**|Hongyang R. Zhang Team|[2511.12779](http://arxiv.org/abs/2511.12779)|null|
+|**2025-11-16**|**Task-Aware Morphology Optimization of Planar Manipulators via Reinforcement Learning**|Sohom Chakrabarty Team|[2511.12650](http://arxiv.org/abs/2511.12650)|null|
+|**2025-11-16**|**Botany Meets Robotics in Alpine Scree Monitoring**|Manolo Garabini Team|[2511.12526](http://arxiv.org/abs/2511.12526)|null|
+|**2025-11-16**|**RoboAfford++: A Generative AI-Enhanced Dataset for Multimodal Affordance Learning in Robotic Manipulation and Navigation**|Long Chen Team|[2511.12436](http://arxiv.org/abs/2511.12436)|null|
+|**2025-11-16**|**VLA-R: Vision-Language Action Retrieval toward Open-World End-to-End Autonomous Driving**|David Hyunchul Shim Team|[2511.12405](http://arxiv.org/abs/2511.12405)|null|
 |**2025-11-14**|**Volumetric Ergodic Control**|Todd Murphey Team|[2511.11533](http://arxiv.org/abs/2511.11533)|null|
 |**2025-11-14**|**Terrain Costmap Generation via Scaled Preference Conditioning**|Joydeep Biswas Team|[2511.11529](http://arxiv.org/abs/2511.11529)|null|
 |**2025-11-14**|**Scalable Policy Evaluation with Video World Models**|Lin Yen-Chen Team|[2511.11520](http://arxiv.org/abs/2511.11520)|null|
@@ -1287,6 +1307,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-17**|**Scaling Spatial Intelligence with Multimodal Foundation Models**|Lei Yang Team|[2511.13719](http://arxiv.org/abs/2511.13719)|**[link](https://huggingface.co/collections/sensenova/sensenova-si)**|
+|**2025-11-17**|**TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models**|Ying-Cong Chen Team|[2511.13704](http://arxiv.org/abs/2511.13704)|**[link](https://haroldchen19.github.io/TiViBench-Page/)**|
+|**2025-11-17**|**Crossing Borders: A Multimodal Challenge for Indian Poetry Translation and Image Generation**|Joseph K J Team|[2511.13689](http://arxiv.org/abs/2511.13689)|null|
+|**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Haoji Hu Team|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
+|**2025-11-17**|**Part-X-MLLM: Part-aware 3D Multimodal Large Language Model**|Chunchao Guo Team|[2511.13647](http://arxiv.org/abs/2511.13647)|null|
+|**2025-11-17**|**CacheFlow: Compressive Streaming Memory for Efficient Long-Form Video Understanding**|Daivik Patel Team|[2511.13644](http://arxiv.org/abs/2511.13644)|null|
+|**2025-11-17**|**CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product**|Jiayi Cen Team|[2511.13626](http://arxiv.org/abs/2511.13626)|null|
+|**2025-11-17**|**FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI**|Jiangtao Gong Team|[2511.13524](http://arxiv.org/abs/2511.13524)|null|
+|**2025-11-17**|**Language-Guided Invariance Probing of Vision-Language Models**|Jae Joong Lee Team|[2511.13494](http://arxiv.org/abs/2511.13494)|null|
+|**2025-11-17**|**Semantic Document Derendering: SVG Reconstruction via Vision-Language Modeling**|Pascal Frossard Team|[2511.13478](http://arxiv.org/abs/2511.13478)|null|
+|**2025-11-17**|**Trust in Vision-Language Models: Insights from a Participatory User Workshop**|Viola Schiaffonati Team|[2511.13458](http://arxiv.org/abs/2511.13458)|null|
+|**2025-11-17**|**Unlocking the Forgery Detection Potential of Vanilla MLLMs: A Novel Training-Free Pipeline**|Ziqian Lu Team|[2511.13442](http://arxiv.org/abs/2511.13442)|null|
+|**2025-11-17**|**VOPE: Revisiting Hallucination of Vision-Language Models in Voluntary Imagination Task**|Xilin Chen Team|[2511.13420](http://arxiv.org/abs/2511.13420)|null|
+|**2025-11-17**|**Attention Grounded Enhancement for Visual Document Retrieval**|Keping Bi Team|[2511.13415](http://arxiv.org/abs/2511.13415)|null|
+|**2025-11-17**|**Descriptor: Distance-Annotated Traffic Perception Question Answering (DTPQA)**|Ciaran Eising Team|[2511.13397](http://arxiv.org/abs/2511.13397)|null|
+|**2025-11-17**|**Generalized Denoising Diffusion Codebook Models (gDDCM): Tokenizing images using a pre-trained diffusion model**|Fei Kong Team|[2511.13387](http://arxiv.org/abs/2511.13387)|null|
+|**2025-11-17**|**Moving Pictures of Thought: Extracting Visual Knowledge in Charles S. Peirce's Manuscripts with Vision-Language Models**|Dario Rodighiero Team|[2511.13378](http://arxiv.org/abs/2511.13378)|null|
+|**2025-11-17**|**Tab-PET: Graph-Based Positional Encodings for Tabular Transformers**|Mehul Motani Team|[2511.13338](http://arxiv.org/abs/2511.13338)|null|
+|**2025-11-17**|**TabFlash: Efficient Table Understanding with Progressive Question Conditioning and Token Focusing**|Hyunwoo J. Kim Team|[2511.13283](http://arxiv.org/abs/2511.13283)|null|
+|**2025-11-17**|**Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation**|Wenbo Ding Team|[2511.13269](http://arxiv.org/abs/2511.13269)|null|
 |**2025-11-14**|**DocLens : A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding**|Jinsung Yoon Team|[2511.11552](http://arxiv.org/abs/2511.11552)|null|
 |**2025-11-14**|**Bridging Hidden States in Vision-Language Models**|Jacob Fein-Ashley Team|[2511.11526](http://arxiv.org/abs/2511.11526)|null|
 |**2025-11-14**|**Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities**|Jingyuan Chen Team|[2511.11512](http://arxiv.org/abs/2511.11512)|null|
@@ -3321,6 +3361,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-17**|**TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models**|Ying-Cong Chen Team|[2511.13704](http://arxiv.org/abs/2511.13704)|**[link](https://haroldchen19.github.io/TiViBench-Page/)**|
+|**2025-11-17**|**Yanyun-3: Enabling Cross-Platform Strategy Game Operation with Vision-Language Models**|Yuxiang Sun Team|[2511.12937](http://arxiv.org/abs/2511.12937)|null|
+|**2025-11-17**|**Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views**|Hesheng Wang Team|[2511.12878](http://arxiv.org/abs/2511.12878)|null|
+|**2025-11-16**|**BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections**|Vedhus Hoskere Team|[2511.12676](http://arxiv.org/abs/2511.12676)|null|
+|**2025-11-16**|**RoboAfford++: A Generative AI-Enhanced Dataset for Multimodal Affordance Learning in Robotic Manipulation and Navigation**|Long Chen Team|[2511.12436](http://arxiv.org/abs/2511.12436)|null|
+|**2025-11-16**|**VLA-R: Vision-Language Action Retrieval toward Open-World End-to-End Autonomous Driving**|David Hyunchul Shim Team|[2511.12405](http://arxiv.org/abs/2511.12405)|null|
+|**2025-11-15**|**AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models**|Yu-Gang Jiang Team|[2511.12149](http://arxiv.org/abs/2511.12149)|null|
+|**2025-11-15**|**Decoupled Action Head: Confining Task Knowledge to Conditioning Layers**|Qi WU Team|[2511.12101](http://arxiv.org/abs/2511.12101)|null|
 |**2025-11-14**|**Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective**|Ngan Le Team|[2511.11478](http://arxiv.org/abs/2511.11478)|null|
 |**2025-11-14**|**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment**|Hongyi Zhang Team|[2511.11301](http://arxiv.org/abs/2511.11301)|null|
 |**2025-11-14**|**Experiences from Benchmarking Vision-Language-Action Models for Robotic Manipulation**|Xi Zheng Team|[2511.11298](http://arxiv.org/abs/2511.11298)|null|
@@ -3726,6 +3774,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-15**|**Learning Adaptive Neural Teleoperation for Humanoid Robots: From Inverse Kinematics to End-to-End Control**|Sanjar Atamuradov Team|[2511.12390](http://arxiv.org/abs/2511.12390)|null|
 |**2025-11-14**|**Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning**|Xiaoyu Ren Team|[2511.11218](http://arxiv.org/abs/2511.11218)|null|
 |**2025-11-13**|**DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion**|Roman Gorbachev Team|[2511.10021](http://arxiv.org/abs/2511.10021)|null|
 |**2025-11-12**|**SPIDER: Scalable Physics-Informed Dexterous Retargeting**|Francois Hogan Team|[2511.09484](http://arxiv.org/abs/2511.09484)|**[link](https://jc-bao.github.io/spider-project/)**|
@@ -3998,6 +4047,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Xiaolong Wang Team|[2511.13710](http://arxiv.org/abs/2511.13710)|**[link](https://jianglongye.com/power-to-precision)**|
+|**2025-11-17**|**ZeroDexGrasp: Zero-Shot Task-Oriented Dexterous Grasp Synthesis with Prompt-Based Multi-Stage Semantic Reasoning**|Ruizhen Hu Team|[2511.13327](http://arxiv.org/abs/2511.13327)|null|
 |**2025-11-14**|**Dexterous Manipulation Transfer via Progressive Kinematic-Dynamic Alignment**|Yi Sun Team|[2511.10987](http://arxiv.org/abs/2511.10987)|null|
 |**2025-11-13**|**Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning**|Xiaocong Li Team|[2511.10087](http://arxiv.org/abs/2511.10087)|null|
 |**2025-11-12**|**ScaleADFG: Affordance-based Dexterous Functional Grasping via Scalable Dataset**|Peng Wang Team|[2511.09602](http://arxiv.org/abs/2511.09602)|null|
