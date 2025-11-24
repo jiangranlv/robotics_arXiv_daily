@@ -9,11 +9,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Hao Chen Team|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
+|**2025-11-21**|**RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation**|Guocai Yao Team|[2511.17441](http://arxiv.org/abs/2511.17441)|null|
+|**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Danda Pani Paudel Team|[2511.17411](http://arxiv.org/abs/2511.17411)|null|
+|**2025-11-21**|**Feasibility of Embodied Dynamics Based Bayesian Learning for Continuous Pursuit Motion Control of Assistive Mobile Robots in the Built Environment**|Vineet R. Kamat Team|[2511.17401](http://arxiv.org/abs/2511.17401)|null|
+|**2025-11-21**|**Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data**|Hongyang Li Team|[2511.17373](http://arxiv.org/abs/2511.17373)|null|
+|**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Shanghang Zhang Team|[2511.17366](http://arxiv.org/abs/2511.17366)|null|
+|**2025-11-21**|**A ROS2 Interface for Universal Robots Collaborative Manipulators Based on ur_rtde**|Jacopo Aleotti Team|[2511.17237](http://arxiv.org/abs/2511.17237)|null|
+|**2025-11-21**|**VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation**|Gim Hee Lee Team|[2511.17199](http://arxiv.org/abs/2511.17199)|null|
+|**2025-11-21**|**H-GAR: A Hierarchical Interaction Framework via Goal-Driven Observation-Action Refinement for Robotic Manipulation**|Zitong Yu Team|[2511.17079](http://arxiv.org/abs/2511.17079)|**[link](https://github.com/JiuTian-VL/H-GAR)**|
+|**2025-11-21**|**MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints**|Hong Zhang Team|[2511.17013](http://arxiv.org/abs/2511.17013)|null|
+|**2025-11-21**|**Stable Offline Hand-Eye Calibration for any Robot with Just One Mark**|Yu-Gang Jiang Team|[2511.17001](http://arxiv.org/abs/2511.17001)|null|
 |**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Homanga Bharadhwaj Team|[2511.16661](http://arxiv.org/abs/2511.16661)|null|
 |**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Jiangmiao Pang Team|[2511.16651](http://arxiv.org/abs/2511.16651)|null|
 |**2025-11-20**|**Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies**|Aviv Tamar Team|[2511.16596](http://arxiv.org/abs/2511.16596)|null|
 |**2025-11-20**|**Green Resilience of Cyber-Physical Systems: Doctoral Dissertation**|Diaeddin Rimawi Team|[2511.16593](http://arxiv.org/abs/2511.16593)|null|
-|**2025-11-20**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Bo Zhao Team|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
+|**2025-11-21**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Bo Zhao Team|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
 |**2025-11-20**|**Graph Neural Networks for Surgical Scene Segmentation**|Danail Stoyanov Team|[2511.16430](http://arxiv.org/abs/2511.16430)|null|
 |**2025-11-20**|**LAOF: Robust Latent Action Learning with Optical Flow Constraints**|Wei Li Team|[2511.16407](http://arxiv.org/abs/2511.16407)|**[link](https://github.com/XizoB/LAOF)**|
 |**2025-11-20**|**Homogeneous Proportional-Integral-Derivative Controller in Mobile Robotic Manipulators**|Andrey Polyakov Team|[2511.16406](http://arxiv.org/abs/2511.16406)|null|
@@ -1358,6 +1369,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Hao Chen Team|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
+|**2025-11-21**|**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**|Serena Yeung-Levy Team|[2511.17487](http://arxiv.org/abs/2511.17487)|**[link](https://web.stanford.edu/~markendo/projects/downscaling_intelligence)**|
+|**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Mathias Unberath Team|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
+|**2025-11-21**|**MMT-ARD: Multimodal Multi-Teacher Adversarial Distillation for Robust Vision-Language Models**|Yew-Soon Ong Team|[2511.17448](http://arxiv.org/abs/2511.17448)|null|
+|**2025-11-21**|**REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Begüm Demir Team|[2511.17442](http://arxiv.org/abs/2511.17442)|**[link](https://github.com/be-chen/REMSA)**|
+|**2025-11-21**|**SMILE: A Composite Lexical-Semantic Metric for Question-Answering Evaluation**|Juan Carlos Niebles Team|[2511.17432](http://arxiv.org/abs/2511.17432)|null|
+|**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Danda Pani Paudel Team|[2511.17411](http://arxiv.org/abs/2511.17411)|null|
+|**2025-11-21**|**IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation**|Yu Kong Team|[2511.17384](http://arxiv.org/abs/2511.17384)|null|
+|**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Shanghang Zhang Team|[2511.17366](http://arxiv.org/abs/2511.17366)|null|
+|**2025-11-21**|**UAM: A Unified Attention-Mamba Backbone of Multimodal Framework for Tumor Cell Classification**|Nancy Guo Team|[2511.17355](http://arxiv.org/abs/2511.17355)|null|
+|**2025-11-21**|**Agentic Program Verification**|Abhik Roychoudhury Team|[2511.17330](http://arxiv.org/abs/2511.17330)|null|
+|**2025-11-21**|**SpatialGeo:Boosting Spatial Reasoning in Multimodal LLMs via Geometry-Semantics Fusion**|Weida Wang Team|[2511.17308](http://arxiv.org/abs/2511.17308)|null|
+|**2025-11-21**|**MolSight: Optical Chemical Structure Recognition with SMILES Pretraining, Multi-Granularity Learning and Reinforcement Learning**|Wenyu Liu Team|[2511.17300](http://arxiv.org/abs/2511.17300)|null|
+|**2025-11-21**|**Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation**|Tat-Seng Chua Team|[2511.17282](http://arxiv.org/abs/2511.17282)|null|
+|**2025-11-21**|**A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback**|Nava Tintarev Team|[2511.17255](http://arxiv.org/abs/2511.17255)|null|
+|**2025-11-21**|**Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats**|Sibei Yang Team|[2511.17254](http://arxiv.org/abs/2511.17254)|**[link](https://github.com/SooLab/AllPath)**|
+|**2025-11-21**|**Lost in Translation and Noise: A Deep Dive into the Failure Modes of VLMs on Real-World Tables**|Abhay Kumary Team|[2511.17238](http://arxiv.org/abs/2511.17238)|null|
+|**2025-11-21**|**Scaling Self-Supervised and Cross-Modal Pretraining for Volumetric CT Transformers**|Fons van der Sommen Team|[2511.17209](http://arxiv.org/abs/2511.17209)|null|
+|**2025-11-21**|**VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation**|Gim Hee Lee Team|[2511.17199](http://arxiv.org/abs/2511.17199)|null|
+|**2025-11-21**|**Device-Guided Music Transfer**|Dong Ma Team|[2511.17136](http://arxiv.org/abs/2511.17136)|null|
 |**2025-11-20**|**Learning to Think Fast and Slow for Visual Language Models**|Kaiyang Zhou Team|[2511.16670](http://arxiv.org/abs/2511.16670)|null|
 |**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Jing Liao Team|[2511.16669](http://arxiv.org/abs/2511.16669)|**[link](https://video-as-answer.github.io/)**|
 |**2025-11-20**|**Cognitive Foundations for Reasoning and Their Manifestation in LLMs**|Yulia Tsvetkov Team|[2511.16660](http://arxiv.org/abs/2511.16660)|null|
@@ -3472,8 +3503,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Hao Chen Team|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
+|**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Shanghang Zhang Team|[2511.17366](http://arxiv.org/abs/2511.17366)|null|
+|**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Jonathan Le Roux Team|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
+|**2025-11-21**|**VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation**|Gim Hee Lee Team|[2511.17199](http://arxiv.org/abs/2511.17199)|null|
+|**2025-11-21**|**Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation**|Zhaoxin Fan Team|[2511.17097](http://arxiv.org/abs/2511.17097)|null|
 |**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Jiangmiao Pang Team|[2511.16651](http://arxiv.org/abs/2511.16651)|null|
-|**2025-11-20**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Bo Zhao Team|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
+|**2025-11-21**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Bo Zhao Team|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
 |**2025-11-20**|**FT-NCFM: An Influence-Aware Data Distillation Framework for Efficient VLA Models**|Mingsheng Shang Team|[2511.16233](http://arxiv.org/abs/2511.16233)|null|
 |**2025-11-20**|**When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models**|Yaochu Jin Team|[2511.16203](http://arxiv.org/abs/2511.16203)|null|
 |**2025-11-20**|**Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight**|Zhijie Deng Team|[2511.16175](http://arxiv.org/abs/2511.16175)|null|
@@ -3905,6 +3941,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data**|Hongyang Li Team|[2511.17373](http://arxiv.org/abs/2511.17373)|null|
 |**2025-11-20**|**InEKFormer: A Hybrid State Estimator for Humanoid Robots**|Frank Kirchner Team|[2511.16306](http://arxiv.org/abs/2511.16306)|null|
 |**2025-11-19**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Yuke Zhu Team|[2511.15200](http://arxiv.org/abs/2511.15200)|**[link](https://viral-humanoid.github.io/)**|
 |**2025-11-18**|**HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation**|Xiaolong Wang Team|[2511.14756](http://arxiv.org/abs/2511.14756)|null|
@@ -4181,6 +4218,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation**|Guocai Yao Team|[2511.17441](http://arxiv.org/abs/2511.17441)|null|
+|**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Shanghang Zhang Team|[2511.17366](http://arxiv.org/abs/2511.17366)|null|
 |**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Homanga Bharadhwaj Team|[2511.16661](http://arxiv.org/abs/2511.16661)|null|
 |**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Jiangmiao Pang Team|[2511.16651](http://arxiv.org/abs/2511.16651)|null|
 |**2025-11-19**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Yuke Zhu Team|[2511.15200](http://arxiv.org/abs/2511.15200)|**[link](https://viral-humanoid.github.io/)**|
