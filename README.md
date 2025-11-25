@@ -16,6 +16,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**Mixture of Horizons in Action Chunking**|Mingyu Ding Team|[2511.19433](http://arxiv.org/abs/2511.19433)|null|
+|**2025-11-24**|**Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments**|Maximo Cobos Team|[2511.19396](http://arxiv.org/abs/2511.19396)|null|
+|**2025-11-24**|**Rethinking Intermediate Representation for VLM-based Robot Manipulation**|Chi-Wing Fu Team|[2511.19315](http://arxiv.org/abs/2511.19315)|null|
+|**2025-11-24**|**Efficient Optimization of a Permanent Magnet Array for a Stable 2D Trap**|Tian Qiu Team|[2511.19201](http://arxiv.org/abs/2511.19201)|null|
+|**2025-11-24**|**Analysis of Deep-Learning Methods in an ISO/TS 15066-Compliant Human-Robot Safety Framework**|Andreas Mueller Team|[2511.19094](http://arxiv.org/abs/2511.19094)|null|
+|**2025-11-24**|**ReEXplore: Improving MLLMs for Embodied Exploration with Contextualized Retrospective Experience Replay**|Volker Tresp Team|[2511.19033](http://arxiv.org/abs/2511.19033)|null|
+|**2025-11-24**|**Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors**|Yuchen Zhou Team|[2511.19031](http://arxiv.org/abs/2511.19031)|null|
+|**2025-11-24**|**AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention**|Xiaoyuan Yu Team|[2511.18960](http://arxiv.org/abs/2511.18960)|null|
+|**2025-11-24**|**Learning to Compress Graphs via Dual Agents for Consistent Topological Robustness Evaluation**|Tao Jia Team|[2511.18958](http://arxiv.org/abs/2511.18958)|null|
+|**2025-11-24**|**Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation**|Wenjing Qian Team|[2511.18950](http://arxiv.org/abs/2511.18950)|null|
+|**2025-11-24**|**Accelerating Reinforcement Learning via Error-Related Human Brain Signals**|Hyo-Jeong Jang Team|[2511.18878](http://arxiv.org/abs/2511.18878)|null|
+|**2025-11-24**|**AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion**|Mingguo Zhao Team|[2511.18857](http://arxiv.org/abs/2511.18857)|null|
+|**2025-11-24**|**Any4D: Open-Prompt 4D Generation from Natural Language and Images**|Qiao Sun Team|[2511.18746](http://arxiv.org/abs/2511.18746)|null|
+|**2025-11-23**|**AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations**|Erdem Biyik Team|[2511.18617](http://arxiv.org/abs/2511.18617)|**[link](http://autofocus-il.github.io/)**|
+|**2025-11-23**|**Object-centric Task Representation and Transfer using Diffused Orientation Fields**|Sylvain Calinon Team|[2511.18563](http://arxiv.org/abs/2511.18563)|null|
+|**2025-11-23**|**SafeFall: Learning Protective Control for Humanoid Robots**|Siyuan Huang Team|[2511.18509](http://arxiv.org/abs/2511.18509)|null|
+|**2025-11-23**|**ORIGAMISPACE: Benchmarking Multimodal LLMs in Multi-Step Spatial Reasoning with Mathematical Constraints**|Yinghui Xu Team|[2511.18450](http://arxiv.org/abs/2511.18450)|null|
+|**2025-11-23**|**Learning Visually Interpretable Oscillator Networks for Soft Continuum Robots from Video**|Takehisa Yairi Team|[2511.18322](http://arxiv.org/abs/2511.18322)|null|
+|**2025-11-23**|**MicCheck: Repurposing Off-the-Shelf Pin Microphones for Easy and Low-Cost Contact Sensing**|Jia-Yeu Lin Team|[2511.18299](http://arxiv.org/abs/2511.18299)|null|
+|**2025-11-23**|**Dreaming Falcon: Physics-Informed Model-Based Reinforcement Learning for Quadcopters**|Matthew McCrink Team|[2511.18243](http://arxiv.org/abs/2511.18243)|null|
 |**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Hao Chen Team|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
 |**2025-11-21**|**RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation**|Guocai Yao Team|[2511.17441](http://arxiv.org/abs/2511.17441)|null|
 |**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Danda Pani Paudel Team|[2511.17411](http://arxiv.org/abs/2511.17411)|null|
@@ -1378,6 +1398,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**Mixture of Horizons in Action Chunking**|Mingyu Ding Team|[2511.19433](http://arxiv.org/abs/2511.19433)|null|
+|**2025-11-24**|**Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution**|Xiang Bai Team|[2511.19430](http://arxiv.org/abs/2511.19430)|**[link](https://github.com/H-EmbodVis/GRANT})**|
+|**2025-11-24**|**Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens**|Xudong Wang Team|[2511.19418](http://arxiv.org/abs/2511.19418)|**[link](https://wakalsprojectpage.github.io/comt-website/)**|
+|**2025-11-24**|**Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration**|Hoifung Poon Team|[2511.19417](http://arxiv.org/abs/2511.19417)|null|
+|**2025-11-24**|**UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval**|Rima Kilany Team|[2511.19380](http://arxiv.org/abs/2511.19380)|null|
+|**2025-11-24**|**Rethinking Intermediate Representation for VLM-based Robot Manipulation**|Chi-Wing Fu Team|[2511.19315](http://arxiv.org/abs/2511.19315)|null|
+|**2025-11-24**|**LAST: LeArning to Think in Space and Time for Generalist Vision-Language Models**|Jiaheng Wei Team|[2511.19261](http://arxiv.org/abs/2511.19261)|null|
+|**2025-11-24**|**Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation**|Yefeng Zheng Team|[2511.19257](http://arxiv.org/abs/2511.19257)|null|
+|**2025-11-24**|**Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving**|Hang Xu Team|[2511.19221](http://arxiv.org/abs/2511.19221)|null|
+|**2025-11-24**|**Are Large Vision Language Models Truly Grounded in Medical Images? Evidence from Italian Clinical Visual Question Answering**|Marcello Di Pumpo Team|[2511.19220](http://arxiv.org/abs/2511.19220)|null|
+|**2025-11-24**|**Can Modern Vision Models Understand the Difference Between an Object and a Look-alike?**|Amir Rosenfeld Team|[2511.19200](http://arxiv.org/abs/2511.19200)|null|
+|**2025-11-24**|**EEG-VLM: A Hierarchical Vision-Language Model with Multi-Level Feature Alignment and Visually Enhanced Language-Guided Reasoning for EEG Image-Based Sleep Stage Prediction**|Shuo Li Team|[2511.19155](http://arxiv.org/abs/2511.19155)|null|
+|**2025-11-24**|**From Pixels to Posts: Retrieval-Augmented Fashion Captioning and Hashtag Generation**|Asma Ahmad Farhan Team|[2511.19149](http://arxiv.org/abs/2511.19149)|null|
+|**2025-11-24**|**ABM-LoRA: Activation Boundary Matching for Fast Convergence in Low-Rank Adaptation**|Junseok Kwon Team|[2511.19145](http://arxiv.org/abs/2511.19145)|null|
+|**2025-11-24**|**MonoSR: Open-Vocabulary Spatial Reasoning from Monocular Images**|Shijie Li Team|[2511.19119](http://arxiv.org/abs/2511.19119)|null|
+|**2025-11-24**|**DiffSeg30k: A Multi-Turn Diffusion Editing Benchmark for Localized AIGC Detection**|Mike Zheng Shou Team|[2511.19111](http://arxiv.org/abs/2511.19111)|null|
+|**2025-11-24**|**LLMAID: Identifying AI Capabilities in Android Apps with LLMs**|Hongyu Zhang Team|[2511.19059](http://arxiv.org/abs/2511.19059)|null|
+|**2025-11-24**|**MedSAM3: Delving into Segment Anything with Medical Concepts**|Jintai Chen Team|[2511.19046](http://arxiv.org/abs/2511.19046)|null|
+|**2025-11-24**|**Benchmarking Corruption Robustness of LVLMs: A Discriminative Benchmark and Robustness Alignment Metric**|Xin Sun Team|[2511.19032](http://arxiv.org/abs/2511.19032)|null|
+|**2025-11-24**|**Rethinking Plant Disease Diagnosis: Bridging the Academic-Practical Gap with Vision Transformers and Zero-Shot Learning**|Bilal Fortas Team|[2511.18989](http://arxiv.org/abs/2511.18989)|null|
 |**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Hao Chen Team|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
 |**2025-11-21**|**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**|Serena Yeung-Levy Team|[2511.17487](http://arxiv.org/abs/2511.17487)|**[link](https://web.stanford.edu/~markendo/projects/downscaling_intelligence)**|
 |**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Mathias Unberath Team|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
@@ -3514,7 +3554,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Hao Chen Team|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
+|**2025-11-24**|**Mixture of Horizons in Action Chunking**|Mingyu Ding Team|[2511.19433](http://arxiv.org/abs/2511.19433)|null|
+|**2025-11-24**|**Rethinking Intermediate Representation for VLM-based Robot Manipulation**|Chi-Wing Fu Team|[2511.19315](http://arxiv.org/abs/2511.19315)|null|
+|**2025-11-24**|**Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving**|Hang Xu Team|[2511.19221](http://arxiv.org/abs/2511.19221)|null|
+|**2025-11-24**|**AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention**|Xiaoyuan Yu Team|[2511.18960](http://arxiv.org/abs/2511.18960)|null|
+|**2025-11-24**|**Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation**|Wenjing Qian Team|[2511.18950](http://arxiv.org/abs/2511.18950)|null|
+|**2025-11-24**|**UNeMo: Collaborative Visual-Language Reasoning and Navigation via a Multimodal World Model**|Jianqiang Li Team|[2511.18845](http://arxiv.org/abs/2511.18845)|null|
+|**2025-11-24**|**VideoPerceiver: Enhancing Fine-Grained Temporal Perception in Video Multimodal Large Language Models**|Danfeng Yan Team|[2511.18823](http://arxiv.org/abs/2511.18823)|null|
+|**2025-11-24**|**MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent**|Yadan Luo Team|[2511.18810](http://arxiv.org/abs/2511.18810)|null|
+|**2025-11-24**|**Understanding Task Transfer in Vision-Language Models**|Vineeth N. Balasubramanian Team|[2511.18787](http://arxiv.org/abs/2511.18787)|null|
+|**2025-11-24**|**Any4D: Open-Prompt 4D Generation from Natural Language and Images**|Qiao Sun Team|[2511.18746](http://arxiv.org/abs/2511.18746)|null|
+|**2025-11-24**|**Beyond Description: Cognitively Benchmarking Fine-Grained Action for Embodied Agents**|Yang Liu Team|[2511.18685](http://arxiv.org/abs/2511.18685)|null|
+|**2025-11-23**|**TRANSPORTER: Transferring Visual Semantics from VLM Manifolds**|Alexandros Stergiou Team|[2511.18359](http://arxiv.org/abs/2511.18359)|**[link](https://alexandrosstergiou.github.io/TRANSPORTER)**|
+|**2025-11-22**|**EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation**|Xiaodan Liang Team|[2511.18112](http://arxiv.org/abs/2511.18112)|null|
+|**2025-11-22**|**Continually Evolving Skill Knowledge in Vision Language Action Model**|Hesheng Wang Team|[2511.18085](http://arxiv.org/abs/2511.18085)|null|
+|**2025-11-22**|**ActDistill: General Action-Guided Self-Derived Distillation for Efficient Vision-Language-Action Models**|Guoli Yang Team|[2511.18082](http://arxiv.org/abs/2511.18082)|null|
+|**2025-11-22**|**MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots**|Hao Tang Team|[2511.17889](http://arxiv.org/abs/2511.17889)|null|
+|**2025-11-24**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Hao Chen Team|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
 |**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Shanghang Zhang Team|[2511.17366](http://arxiv.org/abs/2511.17366)|null|
 |**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Jonathan Le Roux Team|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
 |**2025-11-21**|**VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation**|Gim Hee Lee Team|[2511.17199](http://arxiv.org/abs/2511.17199)|null|
@@ -3954,7 +4010,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-11-21**|**Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data**|Hongyang Li Team|[2511.17373](http://arxiv.org/abs/2511.17373)|null|
+|**2025-11-24**|**SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control**|Zongqing Lu Team|[2511.19236](http://arxiv.org/abs/2511.19236)|null|
+|**2025-11-24**|**Reference-Free Sampling-Based Model Predictive Control**|Justin Carpentier Team|[2511.19204](http://arxiv.org/abs/2511.19204)|null|
+|**2025-11-24**|**AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion**|Mingguo Zhao Team|[2511.18857](http://arxiv.org/abs/2511.18857)|null|
+|**2025-11-23**|**SafeFall: Learning Protective Control for Humanoid Robots**|Siyuan Huang Team|[2511.18509](http://arxiv.org/abs/2511.18509)|null|
+|**2025-11-22**|**Switch-JustDance: Benchmarking Whole Body Motion Tracking Policies Using a Commercial Console Game**|Tianyu Li Team|[2511.17925](http://arxiv.org/abs/2511.17925)|null|
+|**2025-11-18**|**Translating Cultural Choreography from Humanoid Forms to Robotic Arm**|Aven-Le Zhou Team|[2511.17603](http://arxiv.org/abs/2511.17603)|null|
+|**2025-11-24**|**Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data**|Hongyang Li Team|[2511.17373](http://arxiv.org/abs/2511.17373)|null|
 |**2025-11-20**|**InEKFormer: A Hybrid State Estimator for Humanoid Robots**|Frank Kirchner Team|[2511.16306](http://arxiv.org/abs/2511.16306)|null|
 |**2025-11-19**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Yuke Zhu Team|[2511.15200](http://arxiv.org/abs/2511.15200)|**[link](https://viral-humanoid.github.io/)**|
 |**2025-11-18**|**HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation**|Xiaolong Wang Team|[2511.14756](http://arxiv.org/abs/2511.14756)|null|
