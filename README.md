@@ -16,6 +16,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Reinforcing Action Policies by Prophesying**|Li Zhang Team|[2511.20633](http://arxiv.org/abs/2511.20633)|**[link](https://LogosRoboticsGroup.github.io/ProphRL)**|
+|**2025-11-25**|**Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning**|Abdalla Swikir Team|[2511.20593](http://arxiv.org/abs/2511.20593)|null|
+|**2025-11-25**|**Gated Uncertainty-Aware Runtime Dual Invariants for Neural Signal-Controlled Robotics**|Oiwi Parker Jones Team|[2511.20570](http://arxiv.org/abs/2511.20570)|null|
+|**2025-11-25**|**Metric, inertially aligned monocular state estimation via kinetodynamic priors**|Laurent Kneip Team|[2511.20496](http://arxiv.org/abs/2511.20496)|null|
+|**2025-11-25**|**Improved adaptive wind driven optimization algorithm for real-time path planning**|Le-le Mao Team|[2511.20394](http://arxiv.org/abs/2511.20394)|null|
+|**2025-11-25**|**How Robot Kinematics Influence Human Performance in Virtual Robot-to-Human Handover Tasks**|Joost C. Dessing Team|[2511.20299](http://arxiv.org/abs/2511.20299)|null|
+|**2025-11-25**|**HAFO: Humanoid Force-Adaptive Control for Intense External Force Interaction Environments**|Bin He Team|[2511.20275](http://arxiv.org/abs/2511.20275)|null|
+|**2025-11-25**|**CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents**|Yunsung Lee Team|[2511.20216](http://arxiv.org/abs/2511.20216)|null|
+|**2025-11-25**|**WPT: World-to-Policy Transfer via Online World Model Distillation**|Xu Yan Team|[2511.20095](http://arxiv.org/abs/2511.20095)|null|
+|**2025-11-25**|**Energy Costs and Neural Complexity Evolution in Changing Environments**|Geoff Nitschke Team|[2511.20018](http://arxiv.org/abs/2511.20018)|null|
+|**2025-11-25**|**ShapeForce: Low-Cost Soft Robotic Wrist for Contact-Rich Manipulation**|Lin Shao Team|[2511.19955](http://arxiv.org/abs/2511.19955)|null|
+|**2025-11-25**|**Collaborate sim and real: Robot Bin Packing Learning in Real-world and Physical Engine**|Tian He Team|[2511.19932](http://arxiv.org/abs/2511.19932)|null|
+|**2025-11-25**|**GigaWorld-0: World Models as Data Engine to Empower Embodied AI**|Zheng Zhu Team|[2511.19861](http://arxiv.org/abs/2511.19861)|**[link](https://gigaworld0.github.io/)**|
+|**2025-11-25**|**Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation**|Sanglu Lu Team|[2511.19859](http://arxiv.org/abs/2511.19859)|null|
+|**2025-11-24**|**Multi-Hypotheses Ego-Tracking for Resilient Navigation**|Roberto Galeazzi Team|[2511.19770](http://arxiv.org/abs/2511.19770)|null|
+|**2025-11-24**|**Robot-Powered Data Flywheels: Deploying Robots in the Wild for Continual Data Collection and Foundation Model Adaptation**|Dorsa Sadigh Team|[2511.19647](http://arxiv.org/abs/2511.19647)|null|
 |**2025-11-24**|**Mixture of Horizons in Action Chunking**|Mingyu Ding Team|[2511.19433](http://arxiv.org/abs/2511.19433)|null|
 |**2025-11-24**|**Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments**|Maximo Cobos Team|[2511.19396](http://arxiv.org/abs/2511.19396)|null|
 |**2025-11-24**|**Rethinking Intermediate Representation for VLM-based Robot Manipulation**|Chi-Wing Fu Team|[2511.19315](http://arxiv.org/abs/2511.19315)|null|
@@ -1398,6 +1414,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight**|Zhiding Yu Team|[2511.20648](http://arxiv.org/abs/2511.20648)|**[link](https://nvlabs.github.io/LocateAnything3D/)**|
+|**2025-11-25**|**Vision-Language Memory for Spatial Reasoning**|Chen Wang Team|[2511.20644](http://arxiv.org/abs/2511.20644)|null|
+|**2025-11-25**|**Concept-Aware Batch Sampling Improves Language-Image Pretraining**|Matthias Bethge Team|[2511.20643](http://arxiv.org/abs/2511.20643)|null|
+|**2025-11-25**|**Unleashing the Power of Vision-Language Models for Long-Tailed Multi-Label Visual Recognition**|Min-Ling Zhang Team|[2511.20641](http://arxiv.org/abs/2511.20641)|null|
+|**2025-11-25**|**Reinforcing Action Policies by Prophesying**|Li Zhang Team|[2511.20633](http://arxiv.org/abs/2511.20633)|**[link](https://LogosRoboticsGroup.github.io/ProphRL)**|
+|**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|Humphrey Shi Team|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
+|**2025-11-25**|**Fighting AI with AI: Leveraging Foundation Models for Assuring AI-Enabled Safety-Critical Systems**|Corina S. Păsăreanu Team|[2511.20627](http://arxiv.org/abs/2511.20627)|null|
+|**2025-11-25**|**Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward**|Li Yuan Team|[2511.20561](http://arxiv.org/abs/2511.20561)|null|
+|**2025-11-25**|**Beyond Generation: Multi-Hop Reasoning for Factual Accuracy in Vision-Language Models**|Shamima Hossain Team|[2511.20531](http://arxiv.org/abs/2511.20531)|null|
+|**2025-11-25**|**Adam Simplified: Bias Correction Simplified**|Antonio Orvieto Team|[2511.20516](http://arxiv.org/abs/2511.20516)|null|
+|**2025-11-25**|**DesignPref: Capturing Personal Preferences in Visual Design Generation**|Jason Wu Team|[2511.20513](http://arxiv.org/abs/2511.20513)|null|
+|**2025-11-25**|**NVIDIA Nemotron Parse 1.1**|Bryan Catanzaro Team|[2511.20478](http://arxiv.org/abs/2511.20478)|null|
+|**2025-11-25**|**Object-Centric Vision Token Pruning for Vision Language Models**|Joni Pajarinen Team|[2511.20439](http://arxiv.org/abs/2511.20439)|null|
+|**2025-11-25**|**VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning**|Sheng Li Team|[2511.20422](http://arxiv.org/abs/2511.20422)|null|
+|**2025-11-25**|**NNGPT: Rethinking AutoML with Large Language Models**|Radu Timofte Team|[2511.20333](http://arxiv.org/abs/2511.20333)|null|
+|**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Qingming Huang Team|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
+|**2025-11-25**|**ScenarioCLIP: Pretrained Transferable Visual Language Models and Action-Genome Dataset for Natural Scene Analysis**|Abhijit Das Team|[2511.20274](http://arxiv.org/abs/2511.20274)|null|
+|**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Yi Wang Team|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
+|**2025-11-25**|**Rectified Flow for Vision-Aided mmWave V2I Beam Prediction**|Henk Wymeersch Team|[2511.20265](http://arxiv.org/abs/2511.20265)|null|
+|**2025-11-25**|**V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs**|Xilin Chen Team|[2511.20223](http://arxiv.org/abs/2511.20223)|null|
 |**2025-11-24**|**Mixture of Horizons in Action Chunking**|Mingyu Ding Team|[2511.19433](http://arxiv.org/abs/2511.19433)|null|
 |**2025-11-24**|**Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution**|Xiang Bai Team|[2511.19430](http://arxiv.org/abs/2511.19430)|**[link](https://github.com/H-EmbodVis/GRANT})**|
 |**2025-11-24**|**Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens**|Xudong Wang Team|[2511.19418](http://arxiv.org/abs/2511.19418)|**[link](https://wakalsprojectpage.github.io/comt-website/)**|
@@ -3554,6 +3590,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Reinforcing Action Policies by Prophesying**|Li Zhang Team|[2511.20633](http://arxiv.org/abs/2511.20633)|**[link](https://LogosRoboticsGroup.github.io/ProphRL)**|
+|**2025-11-25**|**ArtiBench and ArtiBrain: Benchmarking Generalizable Vision-Language Articulated Object Manipulation**|Yan Xia Team|[2511.20330](http://arxiv.org/abs/2511.20330)|null|
+|**2025-11-25**|**ScenarioCLIP: Pretrained Transferable Visual Language Models and Action-Genome Dataset for Natural Scene Analysis**|Abhijit Das Team|[2511.20274](http://arxiv.org/abs/2511.20274)|null|
+|**2025-11-25**|**Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving**|Tat-Seng Chua Team|[2511.19912](http://arxiv.org/abs/2511.19912)|null|
+|**2025-11-25**|**MAPS: Preserving Vision-Language Representations via Module-Wise Proximity Scheduling for Better Vision-Language-Action Generalization**|Zsolt Kira Team|[2511.19878](http://arxiv.org/abs/2511.19878)|null|
+|**2025-11-25**|**GigaWorld-0: World Models as Data Engine to Empower Embodied AI**|Zheng Zhu Team|[2511.19861](http://arxiv.org/abs/2511.19861)|**[link](https://gigaworld0.github.io/)**|
+|**2025-11-25**|**Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation**|Sanglu Lu Team|[2511.19859](http://arxiv.org/abs/2511.19859)|null|
+|**2025-11-24**|**Prune-Then-Plan: Step-Level Calibration for Stable Frontier Exploration in Embodied Question Answering**|Roni Sengupta Team|[2511.19768](http://arxiv.org/abs/2511.19768)|**[link](https://noahfrahm.github.io/Prune-Then-Plan-project-page/)**|
+|**2025-11-24**|**Learning Massively Multitask World Models for Continuous Control**|Xiaolong Wang Team|[2511.19584](http://arxiv.org/abs/2511.19584)|**[link](https://www.nicklashansen.com/NewtWM)**|
+|**2025-11-24**|**Discover, Learn, and Reinforce: Scaling Vision-Language-Action Pretraining with Diverse RL-Generated Trajectories**|Jiang Bian Team|[2511.19528](http://arxiv.org/abs/2511.19528)|null|
 |**2025-11-24**|**Mixture of Horizons in Action Chunking**|Mingyu Ding Team|[2511.19433](http://arxiv.org/abs/2511.19433)|null|
 |**2025-11-24**|**Rethinking Intermediate Representation for VLM-based Robot Manipulation**|Chi-Wing Fu Team|[2511.19315](http://arxiv.org/abs/2511.19315)|null|
 |**2025-11-24**|**Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving**|Hang Xu Team|[2511.19221](http://arxiv.org/abs/2511.19221)|null|
@@ -4010,6 +4056,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**HAFO: Humanoid Force-Adaptive Control for Intense External Force Interaction Environments**|Bin He Team|[2511.20275](http://arxiv.org/abs/2511.20275)|null|
 |**2025-11-24**|**SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control**|Zongqing Lu Team|[2511.19236](http://arxiv.org/abs/2511.19236)|null|
 |**2025-11-24**|**Reference-Free Sampling-Based Model Predictive Control**|Justin Carpentier Team|[2511.19204](http://arxiv.org/abs/2511.19204)|null|
 |**2025-11-24**|**AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion**|Mingguo Zhao Team|[2511.18857](http://arxiv.org/abs/2511.18857)|null|
