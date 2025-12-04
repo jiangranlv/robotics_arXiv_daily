@@ -16,6 +16,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Jonathan Tremblay Team|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
+|**2025-12-03**|**When to Say "Hi" - Learn to Open a Conversation with an in-the-wild Dataset**|Anja Richert Team|[2512.03991](http://arxiv.org/abs/2512.03991)|null|
+|**2025-12-03**|**Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning**|Justin Carpentier Team|[2512.03973](http://arxiv.org/abs/2512.03973)|null|
+|**2025-12-03**|**Classification of User Satisfaction in HRI with Social Signals in the Wild**|Anja Richert Team|[2512.03945](http://arxiv.org/abs/2512.03945)|null|
+|**2025-12-03**|**Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware**|Carl Glen Henshaw Team|[2512.03911](http://arxiv.org/abs/2512.03911)|null|
+|**2025-12-03**|**Comparison of neural network training strategies for the simulation of dynamical systems**|Andreas Körner Team|[2512.03851](http://arxiv.org/abs/2512.03851)|null|
+|**2025-12-03**|**Cross-embodied Co-design for Dexterous Hands**|Xiaolong Wang Team|[2512.03743](http://arxiv.org/abs/2512.03743)|null|
+|**2025-12-03**|**Crossing the Sim2Real Gap Between Simulation and Ground Testing to Space Deployment of Autonomous Free-flyer Control**|Carl Glen Henshaw Team|[2512.03736](http://arxiv.org/abs/2512.03736)|null|
+|**2025-12-03**|**Autonomous Planning In-space Assembly Reinforcement-learning free-flYer (APIARY) International Space Station Astrobee Testing**|Carl Glen Henshaw Team|[2512.03729](http://arxiv.org/abs/2512.03729)|null|
+|**2025-12-03**|**PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention**|Mingming Gong Team|[2512.03724](http://arxiv.org/abs/2512.03724)|null|
+|**2025-12-03**|**ContactRL: Safe Reinforcement Learning based Motion Planning for Contact based Human Robot Collaboration**|Emma Li Team|[2512.03707](http://arxiv.org/abs/2512.03707)|null|
+|**2025-12-03**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Bishakh Bhattacharya Team|[2512.03684](http://arxiv.org/abs/2512.03684)|null|
+|**2025-12-03**|**RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL**|Yong Li Team|[2512.03556](http://arxiv.org/abs/2512.03556)|null|
+|**2025-12-03**|**AdaPower: Specializing World Foundation Models for Predictive Manipulation**|Kai Xu Team|[2512.03538](http://arxiv.org/abs/2512.03538)|null|
+|**2025-12-03**|**PerFACT: Motion Policy with LLM-Powered Dataset Synthesis and Fusion Action-Chunking Transformers**|Minghui Zheng Team|[2512.03444](http://arxiv.org/abs/2512.03444)|null|
+|**2025-12-03**|**Multimodal Reinforcement Learning with Agentic Verifier for AI Agents**|Jianfeng Gao Team|[2512.03438](http://arxiv.org/abs/2512.03438)|null|
+|**2025-12-03**|**World Models for Autonomous Navigation of Terrestrial Robots from LIDAR Observations**|Daniel Fernando Tello Gamarra Team|[2512.03429](http://arxiv.org/abs/2512.03429)|null|
+|**2025-12-03**|**What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models**|Weidong Chen Team|[2512.03422](http://arxiv.org/abs/2512.03422)|null|
+|**2025-12-03**|**GOMP: Grasped Object Manifold Projection for Multimodal Imitation Learning of Manipulation**|Nima Fazeli Team|[2512.03347](http://arxiv.org/abs/2512.03347)|null|
+|**2025-12-02**|**KALIKO: Kalman-Implicit Koopman Operator Learning For Prediction of Nonlinear Dynamical Systems**|Aaron D. Ames Team|[2512.03256](http://arxiv.org/abs/2512.03256)|null|
 |**2025-12-02**|**Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling**|Shanghang Zhang Team|[2512.03044](http://arxiv.org/abs/2512.03044)|null|
 |**2025-12-02**|**SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control**|Xue Bin Peng Team|[2512.03028](http://arxiv.org/abs/2512.03028)|null|
 |**2025-12-02**|**Experimental Characterization of Fingertip Trajectory following for a 3-DoF Series-Parallel Hybrid Robotic Finger**|Nilanjan Chakraborty Team|[2512.02951](http://arxiv.org/abs/2512.02951)|null|
@@ -1485,6 +1505,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Jonathan Tremblay Team|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
+|**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Dimitris N. Metaxas Team|[2512.04048](http://arxiv.org/abs/2512.04048)|**[link](https://stablesigner.github.io)**|
+|**2025-12-03**|**Jina-VLM: Small Multilingual Vision Language Model**|Han Xiao Team|[2512.04032](http://arxiv.org/abs/2512.04032)|null|
+|**2025-12-03**|**DIQ-H: Evaluating Hallucination Persistence in VLMs Under Temporal Visual Degradation**|Xiaoqiang Team|[2512.03992](http://arxiv.org/abs/2512.03992)|null|
+|**2025-12-03**|**TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning**|Limin Wang Team|[2512.03963](http://arxiv.org/abs/2512.03963)|null|
+|**2025-12-03**|**Hierarchical Vision Language Action Model Using Success and Failure Demonstrations**|Sungjoon Choi Team|[2512.03913](http://arxiv.org/abs/2512.03913)|**[link](https://vine-vla.github.io/)**|
+|**2025-12-03**|**OmniDexVLG: Learning Dexterous Grasp Generation from Vision Language Model-Guided Grasp Semantics, Taxonomy and Functional Affordance**|Jianwei Zhang Team|[2512.03874](http://arxiv.org/abs/2512.03874)|**[link](https://sites.google.com/view/omnidexvlg)**|
+|**2025-12-03**|**PULSE: A Unified Multi-Task Architecture for Cardiac Segmentation, Diagnosis, and Few-Shot Cross-Modality Clinical Adaptation**|Muzammil Behzad Team|[2512.03848](http://arxiv.org/abs/2512.03848)|null|
+|**2025-12-03**|**AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition**|Deheng Ye Team|[2512.03794](http://arxiv.org/abs/2512.03794)|null|
+|**2025-12-03**|**Universally Converging Representations of Matter Across Scientific Foundation Models**|Rafael Gómez-Bombarelli Team|[2512.03750](http://arxiv.org/abs/2512.03750)|null|
+|**2025-12-03**|**Thinking with Programming Vision: Towards a Unified View for Thinking with Images**|Tao Jin Team|[2512.03746](http://arxiv.org/abs/2512.03746)|null|
+|**2025-12-03**|**PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention**|Mingming Gong Team|[2512.03724](http://arxiv.org/abs/2512.03724)|null|
+|**2025-12-03**|**ConvRot: Rotation-Based Plug-and-Play 4-bit Quantization for Diffusion Transformers**|Haoqian Wang Team|[2512.03673](http://arxiv.org/abs/2512.03673)|null|
+|**2025-12-03**|**Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning**|Nick Barnes Team|[2512.03667](http://arxiv.org/abs/2512.03667)|null|
+|**2025-12-03**|**Optical Context Compression Is Just (Bad) Autoencoding**|Taylor Berg-Kirkpatrick Team|[2512.03643](http://arxiv.org/abs/2512.03643)|null|
+|**2025-12-03**|**MemVerse: Multimodal Memory for Lifelong Learning Agents**|Ding Wang Team|[2512.03627](http://arxiv.org/abs/2512.03627)|null|
+|**2025-12-03**|**The promising potential of vision language models for the generation of textual weather forecasts**|Charles Ewen Team|[2512.03623](http://arxiv.org/abs/2512.03623)|null|
+|**2025-12-03**|**LAMP: Language-Assisted Motion Planning for Controllable Video Generation**|Duygu Ceylan Team|[2512.03619](http://arxiv.org/abs/2512.03619)|null|
+|**2025-12-03**|**CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding**|Yan Liu Team|[2512.03558](http://arxiv.org/abs/2512.03558)|null|
+|**2025-12-03**|**Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching**|Danhui Guan Team|[2512.03553](http://arxiv.org/abs/2512.03553)|null|
 |**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Xiangyu Yue Team|[2512.03043](http://arxiv.org/abs/2512.03043)|**[link](https://github.com/tulerfeng/OneThinker)**|
 |**2025-12-02**|**InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration**|Wei Pang Team|[2512.02981](http://arxiv.org/abs/2512.02981)|null|
 |**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Jing Shao Team|[2512.02973](http://arxiv.org/abs/2512.02973)|null|
@@ -3741,14 +3781,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning**|Limin Wang Team|[2512.03963](http://arxiv.org/abs/2512.03963)|null|
+|**2025-12-03**|**Hierarchical Vision Language Action Model Using Success and Failure Demonstrations**|Sungjoon Choi Team|[2512.03913](http://arxiv.org/abs/2512.03913)|**[link](https://vine-vla.github.io/)**|
+|**2025-12-03**|**PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention**|Mingming Gong Team|[2512.03724](http://arxiv.org/abs/2512.03724)|null|
+|**2025-12-03**|**Towards Object-centric Understanding for Instructional Videos**|Yu Kong Team|[2512.03479](http://arxiv.org/abs/2512.03479)|null|
 |**2025-12-02**|**VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling**|Guangrun Wang Team|[2512.02902](http://arxiv.org/abs/2512.02902)|null|
 |**2025-12-02**|**Action Anticipation at a Glimpse: To What Extent Can Multimodal Cues Replace Video?**|Jose Garcia-Rodriguez Team|[2512.02846](http://arxiv.org/abs/2512.02846)|null|
 |**2025-12-02**|**Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**|Xuelong Li Team|[2512.02834](http://arxiv.org/abs/2512.02834)|null|
 |**2025-12-02**|**Radiologist Copilot: An Agentic Assistant with Orchestrated Tools for Radiology Reporting with Quality Control**|Xiaofan Zhang Team|[2512.02814](http://arxiv.org/abs/2512.02814)|null|
-|**2025-12-02**|**Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols**|Yong-Lu Li Team|[2512.02787](http://arxiv.org/abs/2512.02787)|null|
+|**2025-12-03**|**Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols**|Yong-Lu Li Team|[2512.02787](http://arxiv.org/abs/2512.02787)|null|
 |**2025-12-02**|**RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning**|Haoqian Wang Team|[2512.02729](http://arxiv.org/abs/2512.02729)|null|
 |**2025-12-01**|**ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation**|Shanghang Zhang Team|[2512.02013](http://arxiv.org/abs/2512.02013)|null|
-|**2025-12-01**|**Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos**|Deepti Ghadiyaram Team|[2512.01803](http://arxiv.org/abs/2512.01803)|null|
+|**2025-12-02**|**Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos**|Deepti Ghadiyaram Team|[2512.01803](http://arxiv.org/abs/2512.01803)|null|
 |**2025-12-02**|**GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation**|Yonghui Wu Team|[2512.01801](http://arxiv.org/abs/2512.01801)|null|
 |**2025-12-01**|**IGen: Scalable Data Generation for Robot Learning from Open-World Images**|Zhi Wang Team|[2512.01773](http://arxiv.org/abs/2512.01773)|null|
 |**2025-12-01**|**DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models**|Zongqing Lu Team|[2512.01715](http://arxiv.org/abs/2512.01715)|null|
@@ -4549,6 +4593,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Cross-embodied Co-design for Dexterous Hands**|Xiaolong Wang Team|[2512.03743](http://arxiv.org/abs/2512.03743)|null|
 |**2025-12-02**|**Experimental Characterization of Fingertip Trajectory following for a 3-DoF Series-Parallel Hybrid Robotic Finger**|Nilanjan Chakraborty Team|[2512.02951](http://arxiv.org/abs/2512.02951)|null|
 |**2025-12-02**|**RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning**|Haoqian Wang Team|[2512.02729](http://arxiv.org/abs/2512.02729)|null|
 |**2025-12-01**|**Learning Dexterous Manipulation Skills from Imperfect Simulations**|Haozhi Qi Team|[2512.02011](http://arxiv.org/abs/2512.02011)|null|
