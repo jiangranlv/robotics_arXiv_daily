@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -1549,6 +1549,8 @@ layout: default
 |**2025-12-05**|**ParaUni: Enhance Generation in Unified Multimodal Model with Reinforcement-driven Hierarchical Parallel Information Interaction**|Feng Zhao Team|[2512.05422](http://arxiv.org/abs/2512.05422)|null|
 |**2025-12-05**|**The Dynamic Prior: Understanding 3D Structures for Casual Dynamic Videos**|Jun Gao Team|[2512.05398](http://arxiv.org/abs/2512.05398)|**[link](https://github.com/wuzy2115/DYNAPO)**|
 |**2025-12-05**|**LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models**|Chao Chen Team|[2512.05391](http://arxiv.org/abs/2512.05391)|null|
+|**2025-12-04**|**From Segments to Scenes: Temporal Understanding in Autonomous Driving via Vision-Language Model**|Mohammad Akbari Team|[2512.05277](http://arxiv.org/abs/2512.05277)|null|
+|**2025-12-04**|**Semore: VLM-guided Enhanced Semantic Motion Representations for Visual Reinforcement Learning**|Yan Wang Team|[2512.05172](http://arxiv.org/abs/2512.05172)|null|
 |**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Hongsheng Li Team|[2512.05112](http://arxiv.org/abs/2512.05112)|**[link](https://github.com/CaraJ7/DraCo)**|
 |**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Jiaqi Wang Team|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
 |**2025-12-04**|**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**|Benjamin Busam Team|[2512.05107](http://arxiv.org/abs/2512.05107)|null|
