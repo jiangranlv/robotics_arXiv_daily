@@ -9,6 +9,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving**|Xinggang Wang Team|[2512.07745](http://arxiv.org/abs/2512.07745)|null|
+|**2025-12-08**|**Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks**|Shayegan Omidshafiei Team|[2512.07697](http://arxiv.org/abs/2512.07697)|null|
+|**2025-12-08**|**See Once, Then Act: Vision-Language-Action Model with Task Learning from One-Shot Video Demonstrations**|Yufeng Yue Team|[2512.07582](http://arxiv.org/abs/2512.07582)|null|
+|**2025-12-08**|**Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation**|Chang Xu Team|[2512.07472](http://arxiv.org/abs/2512.07472)|null|
+|**2025-12-08**|**ESPADA: Execution Speedup via Semantics Aware Demonstration Data Downsampling for Imitation Learning**|Byoung-Tak Zhang Team|[2512.07371](http://arxiv.org/abs/2512.07371)|**[link](https://project-espada.github.io/espada/)**|
+|**2025-12-08**|**Benchmarking Humanoid Imitation Learning with Motion Difficulty**|Yipeng Qin Team|[2512.07248](http://arxiv.org/abs/2512.07248)|null|
+|**2025-12-08**|**VFM-VLM: Vision Foundation Model and Vision Language Model based Visual Comparison for 3D Pose Estimation**|Sungho Kim Team|[2512.07215](http://arxiv.org/abs/2512.07215)|null|
+|**2025-12-08**|**Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation**|Ye Shi Team|[2512.07212](http://arxiv.org/abs/2512.07212)|null|
+|**2025-12-07**|**A Hetero-Associative Sequential Memory Model Utilizing Neuromorphic Signals: Validated on a Mobile Manipulator**|Gordon Cheng Team|[2512.07032](http://arxiv.org/abs/2512.07032)|null|
+|**2025-12-07**|**VideoVLA: Video Generators Can Be Generalizable Robot Manipulators**|Baining Guo Team|[2512.06963](http://arxiv.org/abs/2512.06963)|**[link](https://videovla-nips2025.github.io)**|
+|**2025-12-07**|**MIND-V: Hierarchical Video Generation for Long-Horizon Robotic Manipulation with RL-based Physical Alignment**|Xiu Li Team|[2512.06628](http://arxiv.org/abs/2512.06628)|null|
+|**2025-12-04**|**Closed-Loop Robotic Manipulation of Transparent Substrates for Self-Driving Laboratories using Deep Learning Micro-Error Correction**|Alexander E. Siemenn Team|[2512.06038](http://arxiv.org/abs/2512.06038)|null|
 |**2025-12-05**|**SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models**|Yilun Du Team|[2512.05955](http://arxiv.org/abs/2512.05955)|null|
 |**2025-12-05**|**Correspondence-Oriented Imitation Learning: Flexible Visuomotor Control with 3D Conditioning**|Kuan Fang Team|[2512.05953](http://arxiv.org/abs/2512.05953)|null|
 |**2025-12-05**|**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty**|Anirudha Majumdar Team|[2512.05927](http://arxiv.org/abs/2512.05927)|null|
@@ -20,7 +32,7 @@ layout: default
 |**2025-12-05**|**MIND: Multi-rationale INtegrated Discriminative Reasoning Framework for Multi-modal Large Models**|Xiangyu Yue Team|[2512.05530](http://arxiv.org/abs/2512.05530)|null|
 |**2025-12-05**|**Distributed scalable coupled policy algorithm for networked multi-agent reinforcement learning**|Wei Ren Team|[2512.05447](http://arxiv.org/abs/2512.05447)|null|
 |**2025-12-05**|**State-Conditional Adversarial Learning: An Off-Policy Visual Domain Transfer Method for End-to-End Imitation Learning**|Shengfan Cao Team|[2512.05335](http://arxiv.org/abs/2512.05335)|null|
-|**2025-12-04**|**Disturbance Compensation for Safe Kinematic Control of Robotic Systems with Closed Architecture**|Qin Lin Team|[2512.05292](http://arxiv.org/abs/2512.05292)|null|
+|**2025-12-08**|**Disturbance Compensation for Safe Kinematic Control of Robotic Systems with Closed Architecture**|Qin Lin Team|[2512.05292](http://arxiv.org/abs/2512.05292)|null|
 |**2025-12-04**|**Uncertainty-Aware Data-Efficient AI: An Information-Theoretic Perspective**|Yaniv Romano Team|[2512.05267](http://arxiv.org/abs/2512.05267)|null|
 |**2025-12-04**|**Age-Inclusive 3D Human Mesh Recovery for Action-Preserving Data Anonymization**|Petros Maragos Team|[2512.05259](http://arxiv.org/abs/2512.05259)|null|
 |**2025-12-04**|**IE2Video: Adapting Pretrained Diffusion Models for Event-Based Video Reconstruction**|Yihui Ren Team|[2512.05240](http://arxiv.org/abs/2512.05240)|null|
@@ -1529,6 +1541,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Relational Visual Similarity**|Yuheng Li Team|[2512.07833](http://arxiv.org/abs/2512.07833)|**[link](https://thaoshibe.github.io/relsim)**|
+|**2025-12-08**|**Toward More Reliable Artificial Intelligence: Reducing Hallucinations in Vision-Language Models**|Renzo Ardiccioni Team|[2512.07564](http://arxiv.org/abs/2512.07564)|**[link](https://github.com/kassoumsanogo1/self-correcting-vlm-re-Attention.git)**|
+|**2025-12-08**|**From Show Programmes to Data: Designing a Workflow to Make Performing Arts Ephemera Accessible Through Language Models**|Jeanne Fras Team|[2512.07452](http://arxiv.org/abs/2512.07452)|null|
+|**2025-12-08**|**Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation**|Jianbo Jiao Team|[2512.07360](http://arxiv.org/abs/2512.07360)|null|
+|**2025-12-08**|**Venus: An Efficient Edge Memory-and-Retrieval System for VLM-based Online Video Understanding**|Xu Chen Team|[2512.07344](http://arxiv.org/abs/2512.07344)|null|
+|**2025-12-08**|**Towards Accurate UAV Image Perception: Guiding Vision-Language Models with Stronger Task Prompts**|Chao Tao Team|[2512.07302](http://arxiv.org/abs/2512.07302)|null|
+|**2025-12-08**|**Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery**|Naoto Yokoya Team|[2512.07276](http://arxiv.org/abs/2512.07276)|null|
+|**2025-12-08**|**RVLF: A Reinforcing Vision-Language Framework for Gloss-Free Sign Language Translation**|Jun Wan Team|[2512.07273](http://arxiv.org/abs/2512.07273)|null|
+|**2025-12-08**|**Zero-Shot Textual Explanations via Translating Decision-Critical Features**|Kazuhiko Kawamoto Team|[2512.07245](http://arxiv.org/abs/2512.07245)|null|
+|**2025-12-08**|**Dropout Prompt Learning: Towards Robust and Adaptive Vision-Language Models**|Yuchen Wang Team|[2512.07234](http://arxiv.org/abs/2512.07234)|null|
+|**2025-12-08**|**Pay Less Attention to Function Words for Free Robustness of Vision-Language Models**|Chao Shen Team|[2512.07222](http://arxiv.org/abs/2512.07222)|null|
+|**2025-12-08**|**VFM-VLM: Vision Foundation Model and Vision Language Model based Visual Comparison for 3D Pose Estimation**|Sungho Kim Team|[2512.07215](http://arxiv.org/abs/2512.07215)|null|
+|**2025-12-08**|**MMRPT: MultiModal Reinforcement Pre-Training via Masked Vision-Dependent Reasoning**|Yichao Wu Team|[2512.07203](http://arxiv.org/abs/2512.07203)|null|
+|**2025-12-08**|**Using Vision-Language Models as Proxies for Social Intelligence in Human-Robot Interaction**|Wendy Ju Team|[2512.07177](http://arxiv.org/abs/2512.07177)|null|
+|**2025-12-08**|**CHIMERA: Adaptive Cache Injection and Semantic Anchor Prompting for Zero-shot Image Morphing with Morphing-oriented Metrics**|Jihyong Oh Team|[2512.07155](http://arxiv.org/abs/2512.07155)|**[link](https://cmlab-korea.github.io/CHIMERA/)**|
+|**2025-12-08**|**Think-Reflect-Revise: A Policy-Guided Reflective Framework for Safety Alignment in Large Vision Language Models**|Wenjie Wang Team|[2512.07141](http://arxiv.org/abs/2512.07141)|null|
+|**2025-12-08**|**A Large-Scale Multimodal Dataset and Benchmarks for Human Activity Scene Understanding and Reasoning**|Guoliang Xing Team|[2512.07136](http://arxiv.org/abs/2512.07136)|null|
+|**2025-12-08**|**DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning**|Mohit Bansal Team|[2512.07132](http://arxiv.org/abs/2512.07132)|**[link](https://github.com/nsivaku/dart)**|
+|**2025-12-08**|**MulCLIP: A Multi-level Alignment Framework for Enhancing Fine-grained Long-context CLIP**|Dung D. Le Team|[2512.07128](http://arxiv.org/abs/2512.07128)|null|
+|**2025-12-07**|**Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation**|Nan Tang Team|[2512.06883](http://arxiv.org/abs/2512.06883)|null|
 |**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Sergey Levine Team|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
 |**2025-12-05**|**M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG**|Genta Indra Winata Team|[2512.05959](http://arxiv.org/abs/2512.05959)|null|
 |**2025-12-05**|**SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models**|Yilun Du Team|[2512.05955](http://arxiv.org/abs/2512.05955)|null|
@@ -3845,6 +3877,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**See Once, Then Act: Vision-Language-Action Model with Task Learning from One-Shot Video Demonstrations**|Yufeng Yue Team|[2512.07582](http://arxiv.org/abs/2512.07582)|null|
+|**2025-12-08**|**Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation**|Chang Xu Team|[2512.07472](http://arxiv.org/abs/2512.07472)|null|
+|**2025-12-07**|**VideoVLA: Video Generators Can Be Generalizable Robot Manipulators**|Baining Guo Team|[2512.06963](http://arxiv.org/abs/2512.06963)|**[link](https://videovla-nips2025.github.io)**|
+|**2025-12-07**|**Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge**|Akash Karnatak Team|[2512.06951](http://arxiv.org/abs/2512.06951)|null|
+|**2025-12-05**|**WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving**|Siyu Zhu Team|[2512.06112](http://arxiv.org/abs/2512.06112)|null|
 |**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Sergey Levine Team|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
 |**2025-12-05**|**SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models**|Yilun Du Team|[2512.05955](http://arxiv.org/abs/2512.05955)|null|
 |**2025-12-05**|**TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models**|Babak Damavandi Team|[2512.05943](http://arxiv.org/abs/2512.05943)|null|
@@ -3855,7 +3892,7 @@ layout: default
 |**2025-12-04**|**From Segments to Scenes: Temporal Understanding in Autonomous Driving via Vision-Language Model**|Mohammad Akbari Team|[2512.05277](http://arxiv.org/abs/2512.05277)|null|
 |**2025-12-04**|**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**|Benjamin Busam Team|[2512.05107](http://arxiv.org/abs/2512.05107)|null|
 |**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Emily Dinan Team|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
-|**2025-12-04**|**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via neural Action Tokenization**|Hang Zhao Team|[2512.04952](http://arxiv.org/abs/2512.04952)|null|
+|**2025-12-08**|**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization**|Hang Zhao Team|[2512.04952](http://arxiv.org/abs/2512.04952)|null|
 |**2025-12-04**|**E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving**|Chengzhong Xu Team|[2512.04733](http://arxiv.org/abs/2512.04733)|null|
 |**2025-12-04**|**Towards Cross-View Point Correspondence in Vision-Language Models**|Xiaolong Zheng Team|[2512.04686](http://arxiv.org/abs/2512.04686)|null|
 |**2025-12-04**|**SAM3-I: Segment Anything with Instructions**|Li Cheng Team|[2512.04585](http://arxiv.org/abs/2512.04585)|null|
@@ -3867,7 +3904,7 @@ layout: default
 |**2025-12-04**|**Mitigating Object and Action Hallucinations in Multimodal LLMs via Self-Augmented Contrastive Alignment**|Yu-Chiang Frank Wang Team|[2512.04356](http://arxiv.org/abs/2512.04356)|**[link](https://kpc0810.github.io/santa/)**|
 |**2025-12-04**|**TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning**|Limin Wang Team|[2512.03963](http://arxiv.org/abs/2512.03963)|null|
 |**2025-12-03**|**Hierarchical Vision Language Action Model Using Success and Failure Demonstrations**|Sungjoon Choi Team|[2512.03913](http://arxiv.org/abs/2512.03913)|**[link](https://vine-vla.github.io/)**|
-|**2025-12-03**|**PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention**|Mingming Gong Team|[2512.03724](http://arxiv.org/abs/2512.03724)|null|
+|**2025-12-08**|**PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention**|Mingming Gong Team|[2512.03724](http://arxiv.org/abs/2512.03724)|null|
 |**2025-12-03**|**Towards Object-centric Understanding for Instructional Videos**|Yu Kong Team|[2512.03479](http://arxiv.org/abs/2512.03479)|null|
 |**2025-12-02**|**VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling**|Guangrun Wang Team|[2512.02902](http://arxiv.org/abs/2512.02902)|null|
 |**2025-12-02**|**Action Anticipation at a Glimpse: To What Extent Can Multimodal Cues Replace Video?**|Jose Garcia-Rodriguez Team|[2512.02846](http://arxiv.org/abs/2512.02846)|null|
@@ -4377,6 +4414,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Efficient and Compliant Control Framework for Versatile Human-Humanoid Collaborative Transportation**|Panagiotis Artemiadis Team|[2512.07819](http://arxiv.org/abs/2512.07819)|null|
+|**2025-12-08**|**Gait-Adaptive Perceptive Humanoid Locomotion with Real-Time Under-Base Terrain Reconstruction**|Houqiang Li Team|[2512.07464](http://arxiv.org/abs/2512.07464)|null|
+|**2025-12-07**|**CERNet: Class-Embedding Predictive-Coding RNN for Unified Robot Motion, Recognition, and Confidence Estimation**|Mathias Quoy Team|[2512.07041](http://arxiv.org/abs/2512.07041)|null|
+|**2025-12-06**|**Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input**|Peter Stone Team|[2512.06571](http://arxiv.org/abs/2512.06571)|null|
 |**2025-12-04**|**From Generated Human Videos to Physically Plausible Robot Trajectories**|Roei Herzig Team|[2512.05094](http://arxiv.org/abs/2512.05094)|**[link](https://genmimic.github.io)**|
 |**2025-12-04**|**Preliminary Analysis and Simulation of a Compact Variable Stiffness Wrist**|Giorgio Grioli Team|[2512.04973](http://arxiv.org/abs/2512.04973)|**[link](https://doi.org/10.1007/978-3-031-64057-5_9)**|
 |**2025-12-04**|**X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale**|Mike Zheng Shou Team|[2512.04537](http://arxiv.org/abs/2512.04537)|null|
@@ -4676,6 +4717,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-06**|**Vision-Guided Grasp Planning for Prosthetic Hands in Unstructured Environments**|Simon Bøgh Team|[2512.06517](http://arxiv.org/abs/2512.06517)|null|
 |**2025-12-04**|**Vision-Language-Action Models for Selective Robotic Disassembly: A Case Study on Critical Component Extraction from Desktops**|Minghui Zheng Team|[2512.04446](http://arxiv.org/abs/2512.04446)|null|
 |**2025-12-04**|**Development of a 15-Degree-of-Freedom Bionic Hand with Cable-Driven Transmission and Distributed Actuation**|Hesheng Wang Team|[2512.04399](http://arxiv.org/abs/2512.04399)|null|
 |**2025-12-03**|**ResponsibleRobotBench: Benchmarking Responsible Robot Manipulation using Multi-modal Large Language Models**|Jianwei Zhang Team|[2512.04308](http://arxiv.org/abs/2512.04308)|**[link](https://sites.google.com/view/responsible-robotbench)**|
