@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models**|Donglin Wang Team|[2512.09928](http://arxiv.org/abs/2512.09928)|**[link](https://hifvla.github.io)**|
+|**2025-12-10**|**Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation**|Yixin Zhu Team|[2512.09851](http://arxiv.org/abs/2512.09851)|null|
+|**2025-12-10**|**ViTA-Seg: Vision Transformer for Amodal Segmentation in Robotics**|Paolo Roberto Massenio Team|[2512.09510](http://arxiv.org/abs/2512.09510)|null|
+|**2025-12-10**|**Development of a Compliant Gripper for Safe Robot-Assisted Trouser Dressing-Undressing**|Yasuhisa Hasegawa Team|[2512.09462](http://arxiv.org/abs/2512.09462)|null|
+|**2025-12-10**|**H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos**|Mike Zheng Shou Team|[2512.09406](http://arxiv.org/abs/2512.09406)|null|
+|**2025-12-10**|**One-Shot Real-World Demonstration Synthesis for Scalable Bimanual Manipulation**|Kui Jia Team|[2512.09297](http://arxiv.org/abs/2512.09297)|null|
+|**2025-12-10**|**UPETrack: Unidirectional Position Estimation for Tracking Occluded Deformable Linear Objects**|Shifeng Huang Team|[2512.09283](http://arxiv.org/abs/2512.09283)|null|
+|**2025-12-09**|**Masked Generative Policy for Robotic Control**|Paul Henderson Team|[2512.09101](http://arxiv.org/abs/2512.09101)|null|
 |**2025-12-09**|**Bridging Scale Discrepancies in Robotic Control via Language-Based Action Representations**|Ting Liu Team|[2512.08548](http://arxiv.org/abs/2512.08548)|null|
 |**2025-12-09**|**Curriculum Guided Massive Multi Agent System Solving For Robust Long Horizon Tasks**|Kalathur Chenchu Kishore Kumar Team|[2512.08545](http://arxiv.org/abs/2512.08545)|null|
 |**2025-12-09**|**Learning Robot Manipulation from Audio World Models**|Michael Gienger Team|[2512.08405](http://arxiv.org/abs/2512.08405)|null|
@@ -1555,15 +1563,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**|Yike Guo Team|[2512.09924](http://arxiv.org/abs/2512.09924)|null|
+|**2025-12-10**|**VisualActBench: Can VLMs See and Act like a Human?**|Jiebo Luo Team|[2512.09907](http://arxiv.org/abs/2512.09907)|null|
+|**2025-12-10**|**Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs**|Janis Keuper Team|[2512.09874](http://arxiv.org/abs/2512.09874)|null|
+|**2025-12-10**|**An Automated Tip-and-Cue Framework for Optimized Satellite Tasking and Visual Intelligence**|Israel Cohen Team|[2512.09670](http://arxiv.org/abs/2512.09670)|null|
+|**2025-12-10**|**Building Reasonable Inference for Vision-Language Models in Blind Image Quality Assessment**|Shin'ya Nishida Team|[2512.09555](http://arxiv.org/abs/2512.09555)|null|
+|**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Steffen Staab Team|[2512.09446](http://arxiv.org/abs/2512.09446)|null|
+|**2025-12-10**|**Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model**|Ruixuan Wang Team|[2512.09441](http://arxiv.org/abs/2512.09441)|null|
+|**2025-12-10**|**COVLM-RL: Critical Object-Oriented Reasoning for Autonomous Driving Using VLM-Guided Reinforcement Learning**|Chen Lv Team|[2512.09349](http://arxiv.org/abs/2512.09349)|null|
+|**2025-12-10**|**View-on-Graph: Zero-shot 3D Visual Grounding via Vision-Language Reasoning on Scene Graphs**|Xin Yang Team|[2512.09215](http://arxiv.org/abs/2512.09215)|null|
+|**2025-12-09**|**Prompt-Based Continual Compositional Zero-Shot Learning**|Mohsen Ali Team|[2512.09172](http://arxiv.org/abs/2512.09172)|null|
+|**2025-12-09**|**ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors**|Benjamin Busam Team|[2512.09056](http://arxiv.org/abs/2512.09056)|null|
 |**2025-12-09**|**Unified Diffusion Transformer for High-fidelity Text-Aware Image Restoration**|Seungryong Kim Team|[2512.08922](http://arxiv.org/abs/2512.08922)|null|
 |**2025-12-09**|**SATGround: A Spatially-Aware Approach for Visual Grounding in Remote Sensing**|Jiankang Deng Team|[2512.08881](http://arxiv.org/abs/2512.08881)|null|
 |**2025-12-09**|**Tri-Bench: Stress-Testing VLM Reliability on Spatial Reasoning under Camera Tilt and Object Interference**|Amit Bendkhale Team|[2512.08860](http://arxiv.org/abs/2512.08860)|**[link](https://github.com/Amiton7/Tri-Bench.)**|
 |**2025-12-09**|**InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models**|Xinggang Wang Team|[2512.08829](http://arxiv.org/abs/2512.08829)|null|
 |**2025-12-09**|**Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning**|Angelica I. Aviles-Rivero Team|[2512.08820](http://arxiv.org/abs/2512.08820)|null|
 |**2025-12-09**|**Trajectory Densification and Depth from Perspective-based Blur**|Yueting Chen Team|[2512.08627](http://arxiv.org/abs/2512.08627)|null|
-|**2025-12-09**|**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**|Jianan Wang Team|[2512.08580](http://arxiv.org/abs/2512.08580)|null|
+|**2025-12-10**|**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**|Jianan Wang Team|[2512.08580](http://arxiv.org/abs/2512.08580)|null|
 |**2025-12-09**|**Beyond Real Weights: Hypercomplex Representations for Stable Quantization**|Shafin Rahman Team|[2512.08524](http://arxiv.org/abs/2512.08524)|null|
-|**2025-12-09**|**OpenSubject: Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation**|Harry Yang Team|[2512.08294](http://arxiv.org/abs/2512.08294)|null|
+|**2025-12-10**|**OpenSubject: Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation**|Harry Yang Team|[2512.08294](http://arxiv.org/abs/2512.08294)|null|
 |**2025-12-09**|**PAVAS: Physics-Aware Video-to-Audio Synthesis**|Yuki Mitsufuji Team|[2512.08282](http://arxiv.org/abs/2512.08282)|null|
 |**2025-12-09**|**HybridToken-VLM: Hybrid Token Compression for Vision-Language Models**|Keze Wang Team|[2512.08240](http://arxiv.org/abs/2512.08240)|null|
 |**2025-12-09**|**Semantic-Metric Bayesian Risk Fields: Learning Robot Safety from Human Videos with a VLM Prior**|Mac Schwager Team|[2512.08233](http://arxiv.org/abs/2512.08233)|null|
@@ -3908,7 +3927,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-09**|**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**|Jianan Wang Team|[2512.08580](http://arxiv.org/abs/2512.08580)|null|
+|**2025-12-10**|**HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models**|Donglin Wang Team|[2512.09928](http://arxiv.org/abs/2512.09928)|**[link](https://hifvla.github.io)**|
+|**2025-12-10**|**Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models**|Zhihe Lu Team|[2512.09927](http://arxiv.org/abs/2512.09927)|null|
+|**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Ying-Cong Chen Team|[2512.09864](http://arxiv.org/abs/2512.09864)|**[link](https://seed-uniugp.github.io/)**|
+|**2025-12-10**|**GLaD: Geometric Latent Distillation for Vision-Language-Action Models**|Xiaojun Chang Team|[2512.09619](http://arxiv.org/abs/2512.09619)|null|
+|**2025-12-10**|**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**|Jianan Wang Team|[2512.08580](http://arxiv.org/abs/2512.08580)|null|
 |**2025-12-09**|**Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging**|Sergey Levine Team|[2512.08333](http://arxiv.org/abs/2512.08333)|null|
 |**2025-12-08**|**See Once, Then Act: Vision-Language-Action Model with Task Learning from One-Shot Video Demonstrations**|Yufeng Yue Team|[2512.07582](http://arxiv.org/abs/2512.07582)|null|
 |**2025-12-08**|**Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation**|Chang Xu Team|[2512.07472](http://arxiv.org/abs/2512.07472)|null|
@@ -4449,7 +4472,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-09**|**SensHRPS: Sensing Comfortable Human-Robot Proxemics and Personal Space With Eye-Tracking**|Karsten Berns Team|[2512.08518](http://arxiv.org/abs/2512.08518)|null|
+|**2025-12-10**|**A Hierarchical, Model-Based System for High-Performance Humanoid Soccer**|Dennis W. Hong Team|[2512.09431](http://arxiv.org/abs/2512.09431)|null|
+|**2025-11-28**|**Learning When to Ask: Simulation-Trained Humanoids for Mental-Health Diagnosis**|Longbing Cao Team|[2512.08952](http://arxiv.org/abs/2512.08952)|null|
+|**2025-12-10**|**SensHRPS: Sensing Comfortable Human-Robot Proxemics and Personal Space With Eye-Tracking**|Karsten Berns Team|[2512.08518](http://arxiv.org/abs/2512.08518)|null|
 |**2025-12-08**|**Efficient and Compliant Control Framework for Versatile Human-Humanoid Collaborative Transportation**|Panagiotis Artemiadis Team|[2512.07819](http://arxiv.org/abs/2512.07819)|null|
 |**2025-12-08**|**Gait-Adaptive Perceptive Humanoid Locomotion with Real-Time Under-Base Terrain Reconstruction**|Houqiang Li Team|[2512.07464](http://arxiv.org/abs/2512.07464)|null|
 |**2025-12-07**|**CERNet: Class-Embedding Predictive-Coding RNN for Unified Robot Motion, Recognition, and Confidence Estimation**|Mathias Quoy Team|[2512.07041](http://arxiv.org/abs/2512.07041)|null|
