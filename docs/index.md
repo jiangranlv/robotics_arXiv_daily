@@ -9,8 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models**|Mike Zheng Shou Team|[2512.14666](http://arxiv.org/abs/2512.14666)|null|
+|**2025-12-16**|**A data-physics hybrid generative model for patient-specific post-stroke motor rehabilitation using wearable sensor data**|Shuo Gao Team|[2512.14329](http://arxiv.org/abs/2512.14329)|null|
+|**2025-12-16**|**DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos**|Gitta Kutyniok Team|[2512.14217](http://arxiv.org/abs/2512.14217)|null|
+|**2025-12-16**|**Context Representation via Action-Free Transformer encoder-decoder for Meta Reinforcement Learning**|Homayoun Najjaran Team|[2512.14057](http://arxiv.org/abs/2512.14057)|null|
 |**2025-12-15**|**NL2SpaTiaL: Generating Geometric Spatio-Temporal Logic Specifications from Natural Language for Manipulation Tasks**|Mingyu Cai Team|[2512.13670](http://arxiv.org/abs/2512.13670)|null|
-|**2025-12-15**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Xiang Bai Team|[2512.13636](http://arxiv.org/abs/2512.13636)|**[link](https://xiaomi-mlab.github.io/MindDrive/)**|
+|**2025-12-16**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Xiang Bai Team|[2512.13636](http://arxiv.org/abs/2512.13636)|**[link](https://xiaomi-mlab.github.io/MindDrive/)**|
 |**2025-12-15**|**Post-Training and Test-Time Scaling of Generative Agent Behavior Models for Interactive Autonomous Driving**|Monu Surana Team|[2512.13262](http://arxiv.org/abs/2512.13262)|null|
 |**2025-12-15**|**Sequence of Expert: Boosting Imitation Planners for Autonomous Driving through Temporal Alternation**|Zhong Cao Team|[2512.13094](http://arxiv.org/abs/2512.13094)|null|
 |**2025-12-15**|**PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations**|Wenjun Zeng Team|[2512.13093](http://arxiv.org/abs/2512.13093)|null|
@@ -1571,11 +1575,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Yiran Chen Team|[2512.14661](http://arxiv.org/abs/2512.14661)|null|
+|**2025-12-16**|**A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning**|Ying-Cong Chen Team|[2512.14442](http://arxiv.org/abs/2512.14442)|null|
+|**2025-12-16**|**DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning**|Yusuke Sekikawa Team|[2512.14420](http://arxiv.org/abs/2512.14420)|null|
+|**2025-12-16**|**Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure**|Jaegul Choo Team|[2512.14336](http://arxiv.org/abs/2512.14336)|null|
+|**2025-12-16**|**From YOLO to VLMs: Advancing Zero-Shot and Few-Shot Detection of Wastewater Treatment Plants Using Satellite Imagery in MENA Region**|Garcia Andarcia Mariangel Team|[2512.14312](http://arxiv.org/abs/2512.14312)|null|
+|**2025-12-16**|**Improving Semantic Uncertainty Quantification in LVLMs with Semantic Gaussian Processes**|Gianni Franchi Team|[2512.14177](http://arxiv.org/abs/2512.14177)|null|
+|**2025-12-16**|**UIXPOSE: Mobile Malware Detection via Intention-Behaviour Discrepancy Analysis**|Van-Thuan Pham Team|[2512.14130](http://arxiv.org/abs/2512.14130)|null|
+|**2025-12-16**|**Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries**|Maarten Kruithof Team|[2512.14102](http://arxiv.org/abs/2512.14102)|null|
+|**2025-12-16**|**SDAR-VL: Stable and Efficient Block-wise Diffusion for Vision-Language Understanding**|Bowen Zhou Team|[2512.14068](http://arxiv.org/abs/2512.14068)|null|
+|**2025-12-16**|**OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving**|Wuxiong Huang Team|[2512.14044](http://arxiv.org/abs/2512.14044)|null|
+|**2025-12-16**|**MobileWorldBench: Towards Semantic World Modeling For Mobile Agents**|Aditya Grover Team|[2512.14014](http://arxiv.org/abs/2512.14014)|null|
+|**2025-12-16**|**Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Multilayer VLM-LLM Pipeline**|Abiola Akanmu Team|[2512.13974](http://arxiv.org/abs/2512.13974)|null|
+|**2025-12-15**|**From Unlearning to UNBRANDING: A Benchmark for Trademark-Safe Text-to-Image Generation**|Przemysław Spurek Team|[2512.13953](http://arxiv.org/abs/2512.13953)|null|
+|**2025-12-15**|**Improvise, Adapt, Overcome -- Telescopic Adapters for Efficient Fine-tuning of Vision Language Models in Medical Imaging**|Amit Shukla Team|[2512.13855](http://arxiv.org/abs/2512.13855)|null|
 |**2025-12-15**|**AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection**|Yan Wang Team|[2512.13671](http://arxiv.org/abs/2512.13671)|null|
 |**2025-12-15**|**RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics**|Shanghang Zhang Team|[2512.13660](http://arxiv.org/abs/2512.13660)|**[link](https://zhoues.github.io/RoboTracer)**|
 |**2025-12-15**|**Do-Undo: Generating and Reversing Physical Actions in Vision-Language Models**|Fatih Porikli Team|[2512.13609](http://arxiv.org/abs/2512.13609)|null|
 |**2025-12-15**|**Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning**|Zongqing Lu Team|[2512.13380](http://arxiv.org/abs/2512.13380)|null|
-|**2025-12-15**|**CausalCLIP: Causally-Informed Feature Disentanglement and Filtering for Generalizable Detection of Generated Images**|Qinghui He Team|[2512.13285](http://arxiv.org/abs/2512.13285)|null|
+|**2025-12-16**|**CausalCLIP: Causally-Informed Feature Disentanglement and Filtering for Generalizable Detection of Generated Images**|Qinghui He Team|[2512.13285](http://arxiv.org/abs/2512.13285)|null|
 |**2025-12-15**|**Toward Ambulatory Vision: Learning Visually-Grounded Active View Selection**|Minhyuk Sung Team|[2512.13250](http://arxiv.org/abs/2512.13250)|**[link](https://active-view-selection.github.io/)**|
 |**2025-12-15**|**Reflective Preference Optimization (RPO): Enhancing On-Policy Alignment via Hint-Guided Reflection**|Zechang Li Team|[2512.13240](http://arxiv.org/abs/2512.13240)|null|
 |**2025-12-15**|**MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion**|Weiping Ding Team|[2512.13177](http://arxiv.org/abs/2512.13177)|null|
@@ -3984,7 +4002,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-15**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Xiang Bai Team|[2512.13636](http://arxiv.org/abs/2512.13636)|**[link](https://xiaomi-mlab.github.io/MindDrive/)**|
+|**2025-12-16**|**EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models**|Mike Zheng Shou Team|[2512.14666](http://arxiv.org/abs/2512.14666)|null|
+|**2025-12-16**|**Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model**|Ci-Jyun Liang Team|[2512.14031](http://arxiv.org/abs/2512.14031)|null|
+|**2025-12-16**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Xiang Bai Team|[2512.13636](http://arxiv.org/abs/2512.13636)|**[link](https://xiaomi-mlab.github.io/MindDrive/)**|
 |**2025-12-15**|**Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos**|Zongqing Lu Team|[2512.13080](http://arxiv.org/abs/2512.13080)|null|
 |**2025-12-15**|**Motus: A Unified Latent Action World Model**|Jun Zhu Team|[2512.13030](http://arxiv.org/abs/2512.13030)|null|
 |**2025-12-14**|**DrivePI: Spatial-aware 4D MLLM for Unified Autonomous Driving Understanding, Perception, Prediction and Planning**|Hengshuang Zhao Team|[2512.12799](http://arxiv.org/abs/2512.12799)|null|
@@ -4543,6 +4563,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation**|Yuke Zhu Team|[2512.14689](http://arxiv.org/abs/2512.14689)|**[link](https://nvlabs.github.io/CHIP/)**|
 |**2025-12-15**|**Humanoid Robot Running Through Random Stepping Stones and Jumping Over Obstacles: Step Adaptation Using Spring-Mass Trajectories**|Christian Ott Team|[2512.13304](http://arxiv.org/abs/2512.13304)|**[link](https://youtu.be/HlAg2nbNct4)**|
 |**2025-12-15**|**PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations**|Wenjun Zeng Team|[2512.13093](http://arxiv.org/abs/2512.13093)|null|
 |**2025-12-13**|**Sim2Real Reinforcement Learning for Soccer skills**|Jonathan Spraggett Team|[2512.12437](http://arxiv.org/abs/2512.12437)|null|
