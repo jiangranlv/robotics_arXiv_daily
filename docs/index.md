@@ -9,7 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-24**|**RoboCade: Gamifying Robot Data Collection**|Dorsa Sadigh Team|[2512.21235](http://arxiv.org/abs/2512.21235)|null|
+|**2025-12-26**|**StereoVLA: Enhancing Vision-Language-Action Models with Stereo Vision**|He Wang Team|[2512.21970](http://arxiv.org/abs/2512.21970)|null|
+|**2025-12-26**|**Flexible Multitask Learning with Factorized Diffusion Policy**|Yilun Du Team|[2512.21898](http://arxiv.org/abs/2512.21898)|null|
+|**2025-12-26**|**Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking**|Kazuya Yoshida Team|[2512.21882](http://arxiv.org/abs/2512.21882)|null|
+|**2025-12-25**|**Videos are Sample-Efficient Supervisions: Behavior Cloning from Videos via Latent Representations**|Dongbin Zhao Team|[2512.21586](http://arxiv.org/abs/2512.21586)|null|
+|**2025-12-26**|**RoboCade: Gamifying Robot Data Collection**|Dorsa Sadigh Team|[2512.21235](http://arxiv.org/abs/2512.21235)|null|
 |**2025-12-24**|**Language-Guided Grasp Detection with Coarse-to-Fine Learning for Robotic Manipulation**|Hu Cao Team|[2512.21065](http://arxiv.org/abs/2512.21065)|null|
 |**2025-12-24**|**Tracing Energy Flow: Learning Tactile-based Grasping Force Control to Prevent Slippage in Dynamic Object Interaction**|Takamitsu Matsubara Team|[2512.21043](http://arxiv.org/abs/2512.21043)|null|
 |**2025-12-24**|**Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task**|Tetsuya Ogata Team|[2512.20876](http://arxiv.org/abs/2512.20876)|null|
@@ -1623,6 +1627,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning**|Rui Wang Team|[2512.22120](http://arxiv.org/abs/2512.22120)|null|
+|**2025-12-26**|**Look Closer! An Adversarial Parametric Editing Framework for Hallucination Mitigation in VLMs**|Zhongshi He Team|[2512.21999](http://arxiv.org/abs/2512.21999)|null|
+|**2025-12-26**|**LVLM-Aided Alignment of Task-Specific Vision Models**|Florian Buettner Team|[2512.21985](http://arxiv.org/abs/2512.21985)|null|
+|**2025-12-26**|**Bridging the Copyright Gap: Do Large Vision-Language Models Recognize and Respect Copyrighted Content?**|Shouling Ji Team|[2512.21871](http://arxiv.org/abs/2512.21871)|null|
+|**2025-12-26**|**Frozen LVLMs for Micro-Video Recommendation: A Systematic Study of Feature Extraction and Fusion**|Xiaoyu Du Team|[2512.21863](http://arxiv.org/abs/2512.21863)|null|
+|**2025-12-26**|**Training-free Conditional Image Embedding Framework Leveraging Large Vision Language Models**|Naoto Inoue Team|[2512.21860](http://arxiv.org/abs/2512.21860)|null|
+|**2025-12-26**|**Few Tokens Matter: Entropy Guided Attacks on Vision-Language Models**|Jing Zhang Team|[2512.21815](http://arxiv.org/abs/2512.21815)|null|
+|**2025-12-25**|**Scene-VLM: Multimodal Video Scene Segmentation via Vision-Language Models**|Igor Kviatkovsky Team|[2512.21778](http://arxiv.org/abs/2512.21778)|null|
+|**2025-12-25**|**MAction-SocialNav: Multi-Action Socially Compliant Navigation via Reasoning-enhanced Prompt Tuning**|Ling Xiao Team|[2512.21722](http://arxiv.org/abs/2512.21722)|null|
+|**2025-12-25**|**Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning**|Nilaan Loganathan Team|[2512.21699](http://arxiv.org/abs/2512.21699)|null|
+|**2025-12-25**|**SlideChain: Semantic Provenance for Lecture Understanding via Blockchain Registration**|Ge Wang Team|[2512.21684](http://arxiv.org/abs/2512.21684)|null|
+|**2025-12-25**|**The Deepfake Detective: Interpreting Neural Forensics Through Sparse Features and Manifolds**|Jared Junkin Team|[2512.21670](http://arxiv.org/abs/2512.21670)|null|
+|**2025-12-25**|**Training-Free Disentangled Text-Guided Image Editing via Sparse Latent Constraints**|Novanto Yudistira Team|[2512.21637](http://arxiv.org/abs/2512.21637)|null|
+|**2025-12-25**|**A Medical Multimodal Diagnostic Framework Integrating Vision-Language Models and Logic Tree Reasoning**|Fuji Yang Team|[2512.21583](http://arxiv.org/abs/2512.21583)|null|
+|**2025-12-25**|**Towards Long-window Anchoring in Vision-Language Model Distillation**|Jianxin Li Team|[2512.21576](http://arxiv.org/abs/2512.21576)|null|
+|**2025-12-25**|**Toward Intelligent Scene Augmentation for Context-Aware Object Placement and Sponsor-Logo Integration**|Dhruv Kumar Team|[2512.21560](http://arxiv.org/abs/2512.21560)|null|
+|**2025-12-25**|**Hierarchy-Aware Fine-Tuning of Vision-Language Models**|Juhua Hu Team|[2512.21529](http://arxiv.org/abs/2512.21529)|null|
+|**2025-12-25**|**Fixed-Budget Parameter-Efficient Training with Frozen Encoders Improves Multimodal Chest X-Ray Classification**|Md Nahid Siddique Team|[2512.21508](http://arxiv.org/abs/2512.21508)|null|
+|**2025-12-25**|**RLLaVA: An RL-central Framework for Language and Vision Assistants**|Lei Huang Team|[2512.21450](http://arxiv.org/abs/2512.21450)|**[link](https://github.com/TinyLoopX/RLLaVA)**|
+|**2025-12-24**|**A Tool Bottleneck Framework for Clinically-Informed and Interpretable Medical Image Understanding**|Ehsan Adeli Team|[2512.21414](http://arxiv.org/abs/2512.21414)|null|
 |**2025-12-24**|**Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models**|Yu-Lun Liu Team|[2512.21337](http://arxiv.org/abs/2512.21337)|**[link](https://sytwu.github.io/BeyondMemo/)**|
 |**2025-12-24**|**Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks**|Jiaqi W. Ma Team|[2512.21329](http://arxiv.org/abs/2512.21329)|null|
 |**2025-12-24**|**LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation**|Aleksandr I. Panov Team|[2512.21243](http://arxiv.org/abs/2512.21243)|null|
@@ -4148,6 +4172,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**StereoVLA: Enhancing Vision-Language-Action Models with Stereo Vision**|He Wang Team|[2512.21970](http://arxiv.org/abs/2512.21970)|null|
 |**2025-12-23**|**ActionFlow: A Pipelined Action Acceleration for Vision Language Models on Edge**|Xuehai Zhou Team|[2512.20276](http://arxiv.org/abs/2512.20276)|null|
 |**2025-12-23**|**Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation**|Lianyang Ma Team|[2512.20188](http://arxiv.org/abs/2512.20188)|null|
 |**2025-12-23**|**LoLA: Long Horizon Latent Action Learning for General Robot Manipulation**|Baining Guo Team|[2512.20166](http://arxiv.org/abs/2512.20166)|null|
@@ -4724,6 +4749,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Yukun Zheng Team|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
 |**2025-12-24**|**Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3**|Atar Fuady Babgei Team|[2512.21219](http://arxiv.org/abs/2512.21219)|null|
 |**2025-12-19**|**Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots**|Gang Zhang Team|[2512.17183](http://arxiv.org/abs/2512.17183)|null|
 |**2025-12-18**|**PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence**|Kai Chen Team|[2512.16793](http://arxiv.org/abs/2512.16793)|null|
@@ -5041,7 +5067,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-24**|**UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer**|Zongqing Lu Team|[2512.21233](http://arxiv.org/abs/2512.21233)|null|
+|**2025-12-25**|**UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer**|Zongqing Lu Team|[2512.21233](http://arxiv.org/abs/2512.21233)|null|
 |**2025-12-22**|**Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations**|Ping Tan Team|[2512.19583](http://arxiv.org/abs/2512.19583)|null|
 |**2025-12-19**|**SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning**|Axel Krieger Team|[2512.18068](http://arxiv.org/abs/2512.18068)|null|
 |**2025-12-17**|**ISS Policy : Scalable Diffusion Policy with Implicit Scene Supervision**|Jie Mei Team|[2512.15020](http://arxiv.org/abs/2512.15020)|null|
