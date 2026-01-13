@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Video Generation Models in Robotics - Applications, Research Challenges, Future Directions**|Anirudha Majumdar Team|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
+|**2026-01-12**|**LOONG: Online Time-Optimal Autonomous Flight for MAVs in Cluttered Environments**|Shuo Li Team|[2601.07434](http://arxiv.org/abs/2601.07434)|null|
+|**2026-01-12**|**LRAS: Advanced Legal Reasoning with Agentic Search**|Yike Guo Team|[2601.07296](http://arxiv.org/abs/2601.07296)|null|
+|**2026-01-11**|**PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation**|Ismini Lourentzou Team|[2601.07060](http://arxiv.org/abs/2601.07060)|null|
+|**2026-01-11**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Cheng Han Team|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
+|**2026-01-10**|**Robotic Tele-Operation for Upper Aerodigestive Tract Microsurgery: System Design and Validation**|Leonardo S. Mattos Team|[2601.06617](http://arxiv.org/abs/2601.06617)|null|
+|**2026-01-10**|**CulinaryCut-VLAP: A Vision-Language-Action-Physics Framework for Food Cutting via a Force-Aware Material Point Method**|Heewon Kim Team|[2601.06451](http://arxiv.org/abs/2601.06451)|null|
 |**2026-01-09**|**Intelligent Singularity Avoidance in UR10 Robotic Arm Path Planning Using Hybrid Fuzzy Logic and Reinforcement Learning**|Jyh-Horng Wu Team|[2601.05836](http://arxiv.org/abs/2601.05836)|null|
 |**2026-01-09**|**SceneFoundry: Generating Interactive Infinite 3D Worlds**|YuanFu Yang Team|[2601.05810](http://arxiv.org/abs/2601.05810)|null|
 |**2026-01-09**|**EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium**|Trung-Kiet Huynh Team|[2601.05653](http://arxiv.org/abs/2601.05653)|null|
@@ -1677,6 +1684,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests**|Hendrik Buschmeier Team|[2601.07820](http://arxiv.org/abs/2601.07820)|null|
+|**2026-01-12**|**More Images, More Problems? A Controlled Analysis of VLM Failure Modes**|Brais Martinez Team|[2601.07812](http://arxiv.org/abs/2601.07812)|null|
+|**2026-01-12**|**Vision-Language Model for Accurate Crater Detection**|Hichem Snoussi Team|[2601.07795](http://arxiv.org/abs/2601.07795)|null|
+|**2026-01-12**|**OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent**|Zichen Ding Team|[2601.07779](http://arxiv.org/abs/2601.07779)|null|
+|**2026-01-12**|**Video Evidence to Reasoning Efficient Video Understanding via Explicit Evidence Grounding**|Jianyuan Ni Team|[2601.07761](http://arxiv.org/abs/2601.07761)|null|
+|**2026-01-12**|**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**|Yang Cai Team|[2601.07695](http://arxiv.org/abs/2601.07695)|null|
+|**2026-01-12**|**VirtualEnv: A Platform for Embodied AI Research**|Antonio Torralba Team|[2601.07553](http://arxiv.org/abs/2601.07553)|null|
+|**2026-01-12**|**Controlling Multimodal Conversational Agents with Coverage-Enhanced Latent Actions**|Yongbin Li Team|[2601.07516](http://arxiv.org/abs/2601.07516)|null|
+|**2026-01-12**|**VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing**|Yaqi Wang Team|[2601.07315](http://arxiv.org/abs/2601.07315)|null|
+|**2026-01-12**|**A Visual Semantic Adaptive Watermark grounded by Prefix-Tuning for Large Vision-Language Model**|Xuming Hu Team|[2601.07291](http://arxiv.org/abs/2601.07291)|null|
+|**2026-01-12**|**MEDVISTAGYM: A Scalable Training Environment for Thinking with Medical Images via Tool-Integrated Reinforcement Learning**|Xuan Wang Team|[2601.07107](http://arxiv.org/abs/2601.07107)|null|
+|**2026-01-11**|**Efficient Visual Question Answering Pipeline for Autonomous Driving via Scene Region Compression**|Chongruo Wu Team|[2601.07092](http://arxiv.org/abs/2601.07092)|null|
+|**2026-01-11**|**Measuring Social Bias in Vision-Language Models with Face-Only Counterfactuals from Real Photos**|Jun Yu Team|[2601.06931](http://arxiv.org/abs/2601.06931)|null|
+|**2026-01-11**|**CLIMP: Contrastive Language-Image Mamba Pretraining**|Raja Giryes Team|[2601.06891](http://arxiv.org/abs/2601.06891)|null|
+|**2026-01-11**|**MedGround: Bridging the Evidence Gap in Medical Vision-Language Models with Verified Grounding Data**|Yisheng Lv Team|[2601.06847](http://arxiv.org/abs/2601.06847)|null|
+|**2026-01-11**|**Forest Before Trees: Latent Superposition for Efficient Visual Reasoning**|Yuhan Liu Team|[2601.06803](http://arxiv.org/abs/2601.06803)|null|
+|**2026-01-10**|**ArrowGEV: Grounding Events in Video via Learning the Arrow of Time**|Jie Zhou Team|[2601.06559](http://arxiv.org/abs/2601.06559)|null|
+|**2026-01-10**|**VVTRec: Radio Interferometric Reconstruction through Visual and Textual Modality Enrichment**|Qiong Luo Team|[2601.06475](http://arxiv.org/abs/2601.06475)|null|
+|**2026-01-10**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Yan Wang Team|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
+|**2026-01-10**|**On the Adversarial Robustness of 3D Large Vision-Language Models**|Ngai-Man Cheung Team|[2601.06464](http://arxiv.org/abs/2601.06464)|null|
 |**2026-01-09**|**Open-Vocabulary 3D Instruction Ambiguity Detection**|Ge Li Team|[2601.05991](http://arxiv.org/abs/2601.05991)|null|
 |**2026-01-09**|**Context-Aware Decoding for Faithful Vision-Language Generation**|Ziwei Zhu Team|[2601.05939](http://arxiv.org/abs/2601.05939)|null|
 |**2026-01-09**|**Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs**|Manish Gupta Team|[2601.05851](http://arxiv.org/abs/2601.05851)|null|
@@ -4337,6 +4364,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Motion Focus Recognition in Fast-Moving Egocentric Video**|Abolfazl Razi Team|[2601.07154](http://arxiv.org/abs/2601.07154)|null|
+|**2026-01-11**|**PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation**|Ismini Lourentzou Team|[2601.07060](http://arxiv.org/abs/2601.07060)|null|
+|**2026-01-11**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Cheng Han Team|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
+|**2026-01-10**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Yan Wang Team|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
+|**2026-01-10**|**CulinaryCut-VLAP: A Vision-Language-Action-Physics Framework for Food Cutting via a Force-Aware Material Point Method**|Heewon Kim Team|[2601.06451](http://arxiv.org/abs/2601.06451)|null|
 |**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Hongyang Li Team|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
 |**2026-01-08**|**LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Shanghang Zhang Team|[2601.05248](http://arxiv.org/abs/2601.05248)|null|
 |**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Jiangmiao Pang Team|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
@@ -4344,7 +4376,7 @@ layout: default
 |**2026-01-07**|**CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos**|Yansong Tang Team|[2601.04061](http://arxiv.org/abs/2601.04061)|**[link](https://lin-shan.com/CLAP/)**|
 |**2026-01-07**|**Stable Language Guidance for Vision-Language-Action Models**|Guangrun Wang Team|[2601.04052](http://arxiv.org/abs/2601.04052)|null|
 |**2026-01-07**|**I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing**|Bowen Zhou Team|[2601.03741](http://arxiv.org/abs/2601.03741)|null|
-|**2026-01-07**|**A Vision-Language-Action Model with Visual Prompt for OFF-Road Autonomous Driving**|Liang Xiao Team|[2601.03519](http://arxiv.org/abs/2601.03519)|null|
+|**2026-01-12**|**A Vision-Language-Action Model with Visual Prompt for OFF-Road Autonomous Driving**|Liang Xiao Team|[2601.03519](http://arxiv.org/abs/2601.03519)|null|
 |**2026-01-06**|**VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models**|Jianyu Chen Team|[2601.03309](http://arxiv.org/abs/2601.03309)|null|
 |**2026-01-06**|**Limited Linguistic Diversity in Embodied AI Datasets**|Mitch Pryor Team|[2601.03136](http://arxiv.org/abs/2601.03136)|null|
 |**2026-01-06**|**SOP: A Scalable Online Post-Training System for Vision-Language-Action Models**|Jianlan Luo Team|[2601.03044](http://arxiv.org/abs/2601.03044)|null|
@@ -4943,6 +4975,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots**|Jianfei Yang Team|[2601.07454](http://arxiv.org/abs/2601.07454)|null|
+|**2026-01-12**|**AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers**|Zecui Zeng Team|[2601.07284](http://arxiv.org/abs/2601.07284)|null|
+|**2026-01-11**|**RSLCPP - Deterministic Simulations Using ROS 2**|Markus Lienkamp Team|[2601.07052](http://arxiv.org/abs/2601.07052)|null|
+|**2026-01-09**|**Walk the PLANC: Physics-Guided RL for Agile Humanoid Locomotion on Constrained Footholds**|Aaron D. Ames Team|[2601.06286](http://arxiv.org/abs/2601.06286)|null|
 |**2026-01-08**|**SKATER: Synthesized Kinematics for Advanced Traversing Efficiency on a Humanoid Robot via Roller Skate Swizzles**|Shiwu Zhang Team|[2601.04948](http://arxiv.org/abs/2601.04948)|null|
 |**2026-01-07**|**Locomotion Beyond Feet**|C. Karen Liu Team|[2601.03607](http://arxiv.org/abs/2601.03607)|**[link](https://locomotion-beyond-feet.github.io/)**|
 |**2026-01-06**|**Soft Responsive Materials Enhance Humanoid Safety**|Fan Shi Team|[2601.02857](http://arxiv.org/abs/2601.02857)|null|
@@ -5269,6 +5305,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Stable In-hand Manipulation for a Lightweight Four-motor Prosthetic Hand**|Masashi Hamaya Team|[2601.07559](http://arxiv.org/abs/2601.07559)|null|
 |**2026-01-09**|**DexterCap: An Affordable and Automated System for Capturing Dexterous Hand-Object Manipulation**|Libin Liu Team|[2601.05844](http://arxiv.org/abs/2601.05844)|null|
 |**2026-01-08**|**UniBiDex: A Unified Teleoperation Framework for Robotic Bimanual Dexterous Manipulation**|Peng Zhou Team|[2601.04629](http://arxiv.org/abs/2601.04629)|null|
 |**2026-01-09**|**Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation**|Zhibin Li Team|[2601.02778](http://arxiv.org/abs/2601.02778)|null|
