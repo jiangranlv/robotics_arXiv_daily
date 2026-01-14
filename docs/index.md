@@ -9,12 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Learning from Demonstrations via Capability-Aware Goal Sampling**|He Zhu Team|[2601.08731](http://arxiv.org/abs/2601.08731)|null|
+|**2026-01-13**|**VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory**|Junzhi Yu Team|[2601.08665](http://arxiv.org/abs/2601.08665)|**[link](https://wsakobe.github.io/VLingNav-web/)**|
+|**2026-01-13**|**ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation**|Yanwei Fu Team|[2601.08325](http://arxiv.org/abs/2601.08325)|null|
 |**2026-01-12**|**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**|Anirudha Majumdar Team|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
 |**2026-01-12**|**LOONG: Online Time-Optimal Autonomous Flight for MAVs in Cluttered Environments**|Shuo Li Team|[2601.07434](http://arxiv.org/abs/2601.07434)|null|
 |**2026-01-12**|**LRAS: Advanced Legal Reasoning with Agentic Search**|Yike Guo Team|[2601.07296](http://arxiv.org/abs/2601.07296)|null|
 |**2026-01-11**|**PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation**|Ismini Lourentzou Team|[2601.07060](http://arxiv.org/abs/2601.07060)|null|
-|**2026-01-11**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Cheng Han Team|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
-|**2026-01-10**|**Robotic Tele-Operation for Upper Aerodigestive Tract Microsurgery: System Design and Validation**|Leonardo S. Mattos Team|[2601.06617](http://arxiv.org/abs/2601.06617)|null|
+|**2026-01-13**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Cheng Han Team|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
+|**2026-01-13**|**Robotic Tele-Operation for Upper Aerodigestive Tract Microsurgery: System Design and Validation**|Leonardo S. Mattos Team|[2601.06617](http://arxiv.org/abs/2601.06617)|null|
 |**2026-01-10**|**CulinaryCut-VLAP: A Vision-Language-Action-Physics Framework for Food Cutting via a Force-Aware Material Point Method**|Heewon Kim Team|[2601.06451](http://arxiv.org/abs/2601.06451)|null|
 |**2026-01-09**|**Intelligent Singularity Avoidance in UR10 Robotic Arm Path Planning Using Hybrid Fuzzy Logic and Reinforcement Learning**|Jyh-Horng Wu Team|[2601.05836](http://arxiv.org/abs/2601.05836)|null|
 |**2026-01-09**|**SceneFoundry: Generating Interactive Infinite 3D Worlds**|YuanFu Yang Team|[2601.05810](http://arxiv.org/abs/2601.05810)|null|
@@ -1684,6 +1687,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning**|Jose Dolz Team|[2601.08617](http://arxiv.org/abs/2601.08617)|null|
+|**2026-01-13**|**VideoHEDGE: Entropy-Based Hallucination Detection for Video-VLMs via Semantic Clustering and Spatiotemporal Perturbations**|Pål Halvorsen Team|[2601.08557](http://arxiv.org/abs/2601.08557)|null|
+|**2026-01-13**|**Sketch-Based Facade Renovation With Generative AI: A Streamlined Framework for Bypassing As-Built Modelling in Industrial Adaptive Reuse**|Haoran Xie Team|[2601.08531](http://arxiv.org/abs/2601.08531)|null|
+|**2026-01-13**|**Cross-modal Proxy Evolving for OOD Detection with Vision-Language Models**|Jing Qin Team|[2601.08476](http://arxiv.org/abs/2601.08476)|null|
+|**2026-01-13**|**Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs**|Atsushi Hashimoto Team|[2601.08470](http://arxiv.org/abs/2601.08470)|null|
+|**2026-01-13**|**Zero-Shot Distracted Driver Detection via Vision Language Models with Double Decoupling**|Andrew Morris Team|[2601.08467](http://arxiv.org/abs/2601.08467)|null|
+|**2026-01-13**|**CoMa: Contextual Massing Generation with Vision-Language Models**|Ivan Oseledets Team|[2601.08464](http://arxiv.org/abs/2601.08464)|null|
+|**2026-01-13**|**Real2Sim based on Active Perception with automatically VLM-generated Behavior Trees**|Pietro Falco Team|[2601.08454](http://arxiv.org/abs/2601.08454)|null|
+|**2026-01-13**|**MMLGNet: Cross-Modal Alignment of Remote Sensing Data using CLIP**|Biplab Banerjee Team|[2601.08420](http://arxiv.org/abs/2601.08420)|null|
+|**2026-01-13**|**Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2**|Tian Wang Team|[2601.08408](http://arxiv.org/abs/2601.08408)|null|
+|**2026-01-13**|**Semantic Misalignment in Vision-Language Models under Perceptual Degradation**|Guo Cheng Team|[2601.08355](http://arxiv.org/abs/2601.08355)|null|
+|**2026-01-13**|**ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation**|Yanwei Fu Team|[2601.08325](http://arxiv.org/abs/2601.08325)|null|
+|**2026-01-13**|**Route, Retrieve, Reflect, Repair: Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**|AKM Mahbubur Rahman Team|[2601.08192](http://arxiv.org/abs/2601.08192)|null|
+|**2026-01-13**|**Subspace Alignment for Vision-Language Model Test-time Adaptation**|Hanghang Tong Team|[2601.08139](http://arxiv.org/abs/2601.08139)|null|
+|**2026-01-12**|**Rescind: Countering Image Misconduct in Biomedical Publications with Vision-Language and State-Space Modeling**|Prem Natarajan Team|[2601.08040](http://arxiv.org/abs/2601.08040)|null|
+|**2026-01-12**|**A Highly Efficient Diversity-based Input Selection for DNN Improvement Using VLMs**|Lionel Briand Team|[2601.08024](http://arxiv.org/abs/2601.08024)|null|
+|**2026-01-12**|**Representations of Text and Images Align From Layer One**|Stanislav Fort Team|[2601.08017](http://arxiv.org/abs/2601.08017)|null|
+|**2026-01-12**|**CASHEW: Stabilizing Multimodal Reasoning via Iterative Trajectory Aggregation**|Pooyan Fazli Team|[2601.08010](http://arxiv.org/abs/2601.08010)|null|
+|**2026-01-12**|**VULCA-Bench: A Multicultural Vision-Language Benchmark for Evaluating Cultural Understanding**|Qiufeng Yi Team|[2601.07986](http://arxiv.org/abs/2601.07986)|null|
+|**2026-01-12**|**Cross-Cultural Expert-Level Art Critique Evaluation with Vision-Language Models**|Qiufeng Yi Team|[2601.07984](http://arxiv.org/abs/2601.07984)|null|
 |**2026-01-12**|**Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests**|Hendrik Buschmeier Team|[2601.07820](http://arxiv.org/abs/2601.07820)|null|
 |**2026-01-12**|**More Images, More Problems? A Controlled Analysis of VLM Failure Modes**|Brais Martinez Team|[2601.07812](http://arxiv.org/abs/2601.07812)|null|
 |**2026-01-12**|**Vision-Language Model for Accurate Crater Detection**|Hichem Snoussi Team|[2601.07795](http://arxiv.org/abs/2601.07795)|null|
@@ -4364,9 +4387,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation**|Yanwei Fu Team|[2601.08325](http://arxiv.org/abs/2601.08325)|null|
 |**2026-01-12**|**Motion Focus Recognition in Fast-Moving Egocentric Video**|Abolfazl Razi Team|[2601.07154](http://arxiv.org/abs/2601.07154)|null|
 |**2026-01-11**|**PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation**|Ismini Lourentzou Team|[2601.07060](http://arxiv.org/abs/2601.07060)|null|
-|**2026-01-11**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Cheng Han Team|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
+|**2026-01-13**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Cheng Han Team|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
 |**2026-01-10**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Yan Wang Team|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
 |**2026-01-10**|**CulinaryCut-VLAP: A Vision-Language-Action-Physics Framework for Food Cutting via a Force-Aware Material Point Method**|Heewon Kim Team|[2601.06451](http://arxiv.org/abs/2601.06451)|null|
 |**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Hongyang Li Team|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
@@ -5305,6 +5329,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models**|Wenzhao Lian Team|[2601.08246](http://arxiv.org/abs/2601.08246)|null|
 |**2026-01-12**|**Stable In-hand Manipulation for a Lightweight Four-motor Prosthetic Hand**|Masashi Hamaya Team|[2601.07559](http://arxiv.org/abs/2601.07559)|null|
 |**2026-01-09**|**DexterCap: An Affordable and Automated System for Capturing Dexterous Hand-Object Manipulation**|Libin Liu Team|[2601.05844](http://arxiv.org/abs/2601.05844)|null|
 |**2026-01-08**|**UniBiDex: A Unified Teleoperation Framework for Robotic Bimanual Dexterous Manipulation**|Peng Zhou Team|[2601.04629](http://arxiv.org/abs/2601.04629)|null|
