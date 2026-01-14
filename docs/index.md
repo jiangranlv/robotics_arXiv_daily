@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-12**|**Video Generation Models in Robotics - Applications, Research Challenges, Future Directions**|Anirudha Majumdar Team|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
+|**2026-01-12**|**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**|Anirudha Majumdar Team|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
 |**2026-01-12**|**LOONG: Online Time-Optimal Autonomous Flight for MAVs in Cluttered Environments**|Shuo Li Team|[2601.07434](http://arxiv.org/abs/2601.07434)|null|
 |**2026-01-12**|**LRAS: Advanced Legal Reasoning with Agentic Search**|Yike Guo Team|[2601.07296](http://arxiv.org/abs/2601.07296)|null|
 |**2026-01-11**|**PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation**|Ismini Lourentzou Team|[2601.07060](http://arxiv.org/abs/2601.07060)|null|
@@ -4977,7 +4977,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-12**|**WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots**|Jianfei Yang Team|[2601.07454](http://arxiv.org/abs/2601.07454)|null|
 |**2026-01-12**|**AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers**|Zecui Zeng Team|[2601.07284](http://arxiv.org/abs/2601.07284)|null|
-|**2026-01-11**|**RSLCPP - Deterministic Simulations Using ROS 2**|Markus Lienkamp Team|[2601.07052](http://arxiv.org/abs/2601.07052)|null|
+|**2026-01-11**|**RSLCPP -- Deterministic Simulations Using ROS 2**|Markus Lienkamp Team|[2601.07052](http://arxiv.org/abs/2601.07052)|null|
 |**2026-01-09**|**Walk the PLANC: Physics-Guided RL for Agile Humanoid Locomotion on Constrained Footholds**|Aaron D. Ames Team|[2601.06286](http://arxiv.org/abs/2601.06286)|null|
 |**2026-01-08**|**SKATER: Synthesized Kinematics for Advanced Traversing Efficiency on a Humanoid Robot via Roller Skate Swizzles**|Shiwu Zhang Team|[2601.04948](http://arxiv.org/abs/2601.04948)|null|
 |**2026-01-07**|**Locomotion Beyond Feet**|C. Karen Liu Team|[2601.03607](http://arxiv.org/abs/2601.03607)|**[link](https://locomotion-beyond-feet.github.io/)**|
