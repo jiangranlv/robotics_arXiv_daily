@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Combinatorial Optimization Augmented Machine Learning**|Axel Parmentier Team|[2601.10583](http://arxiv.org/abs/2601.10583)|null|
+|**2026-01-14**|**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**|Jiachen Li Team|[2601.09920](http://arxiv.org/abs/2601.09920)|null|
 |**2026-01-14**|**Sim2real Image Translation Enables Viewpoint-Robust Policies from Fixed-Camera Datasets**|Zsolt Kira Team|[2601.09605](http://arxiv.org/abs/2601.09605)|null|
 |**2026-01-14**|**Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**|Wei-Shi Zheng Team|[2601.09518](http://arxiv.org/abs/2601.09518)|null|
 |**2026-01-14**|**A Canonical Internal Model for Disturbance Rejection for a Class of Nonlinear Systems Subject to Trigonometric-Polynomial Disturbances**|Jie Huang Team|[2601.09471](http://arxiv.org/abs/2601.09471)|null|
@@ -1701,6 +1703,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Alterbute: Editing Intrinsic Attributes of Objects in Images**|Yedid Hoshen Team|[2601.10714](http://arxiv.org/abs/2601.10714)|**[link](https://talreiss.github.io/alterbute/)**|
+|**2026-01-15**|**From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**|Lianli Gao Team|[2601.10710](http://arxiv.org/abs/2601.10710)|null|
+|**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Ranjay Krishna Team|[2601.10611](http://arxiv.org/abs/2601.10611)|null|
+|**2026-01-15**|**Unleashing the Capabilities of Large Vision-Language Models for Intelligent Perception of Roadside Infrastructure**|Zhen Dong Team|[2601.10551](http://arxiv.org/abs/2601.10551)|null|
+|**2026-01-15**|**SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery**|Bisheng Yang Team|[2601.10535](http://arxiv.org/abs/2601.10535)|null|
+|**2026-01-15**|**mergetune: Continued fine-tuning of vision-language models**|Josef Kittler Team|[2601.10497](http://arxiv.org/abs/2601.10497)|null|
+|**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yansheng Li Team|[2601.10477](http://arxiv.org/abs/2601.10477)|null|
+|**2026-01-15**|**SurgGoal: Rethinking Surgical Planning Evaluation via Goal-Satisfiability**|Nassir Navab Team|[2601.10455](http://arxiv.org/abs/2601.10455)|null|
+|**2026-01-15**|**Global Context Compression with Interleaved Vision-Text Transformation**|Feng Huang Team|[2601.10378](http://arxiv.org/abs/2601.10378)|null|
+|**2026-01-15**|**Hierarchical Refinement of Universal Multimodal Attacks on Vision-Language Models**|Zi Huang Team|[2601.10313](http://arxiv.org/abs/2601.10313)|null|
+|**2026-01-15**|**V-Zero: Self-Improving Multimodal Reasoning with Zero Annotation**|Wei Chen Team|[2601.10094](http://arxiv.org/abs/2601.10094)|null|
+|**2026-01-15**|**The Spatial Blindspot of Vision-Language Models**|Bala Krishna S Vegesna Team|[2601.09954](http://arxiv.org/abs/2601.09954)|null|
+|**2026-01-14**|**MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation**|Kuang Gong Team|[2601.09879](http://arxiv.org/abs/2601.09879)|null|
+|**2026-01-14**|**Bears, all bears, and some bears. Language Constraints on Language Models' Inductive Inferences**|Kanishka Misra Team|[2601.09852](http://arxiv.org/abs/2601.09852)|null|
+|**2026-01-14**|**ViSIL: Unified Evaluation of Information Loss in Multimodal Video Captioning**|Sandeep Chinchali Team|[2601.09851](http://arxiv.org/abs/2601.09851)|null|
+|**2026-01-14**|**GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents**|Wu Liu Team|[2601.09770](http://arxiv.org/abs/2601.09770)|null|
 |**2026-01-14**|**Self-Supervised Animal Identification for Long Videos**|Neill Campbell Team|[2601.09663](http://arxiv.org/abs/2601.09663)|null|
 |**2026-01-14**|**LiteEmbed: Adapting CLIP to Rare Classes**|Vineet Gandhi Team|[2601.09661](http://arxiv.org/abs/2601.09661)|null|
 |**2026-01-14**|**Image2Garment: Simulation-ready Garment Generation from a Single Image**|Gordon Wetzstein Team|[2601.09658](http://arxiv.org/abs/2601.09658)|null|
@@ -5028,6 +5046,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**FastStair: Learning to Run Up Stairs with Humanoid Robots**|Jie Zhao Team|[2601.10365](http://arxiv.org/abs/2601.10365)|null|
+|**2026-01-13**|**Heterogeneous computing platform for real-time robotics**|Steve Furber Team|[2601.09755](http://arxiv.org/abs/2601.09755)|null|
 |**2026-01-14**|**Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**|Wei-Shi Zheng Team|[2601.09518](http://arxiv.org/abs/2601.09518)|null|
 |**2026-01-13**|**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**|Miao Li Team|[2601.09031](http://arxiv.org/abs/2601.09031)|null|
 |**2026-01-12**|**WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots**|Jianfei Yang Team|[2601.07454](http://arxiv.org/abs/2601.07454)|null|
