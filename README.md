@@ -16,6 +16,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**Active Cross-Modal Visuo-Tactile Perception of Deformable Linear Objects**|Pietro Falco Team|[2601.13979](http://arxiv.org/abs/2601.13979)|null|
+|**2026-01-20**|**A General One-Shot Multimodal Active Perception Framework for Robotic Manipulation: Learning to Predict Optimal Viewpoint**|Yongchun Fang Team|[2601.13639](http://arxiv.org/abs/2601.13639)|null|
+|**2026-01-19**|**Static Is Not Enough: A Comparative Study of VR and SpaceMouse in Static and Dynamic Teleoperation Tasks**|Kim Baraka Team|[2601.13042](http://arxiv.org/abs/2601.13042)|null|
+|**2026-01-19**|**Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization**|Zongqing Lu Team|[2601.12993](http://arxiv.org/abs/2601.12993)|null|
+|**2026-01-19**|**Imitation learning-based spacecraft rendezvous and docking method with Expert Demonstration**|Mingxuan Jiang Team|[2601.12952](http://arxiv.org/abs/2601.12952)|null|
+|**2026-01-19**|**ForeDiffusion: Foresight-Conditioned Diffusion Policy via Future View Construction for Robot Manipulation**|F. Richard Yu Team|[2601.12925](http://arxiv.org/abs/2601.12925)|null|
+|**2026-01-19**|**Dynamic Hand Gesture Recognition for Robot Manipulator Tasks**|Laxmidhar Behera Team|[2601.12918](http://arxiv.org/abs/2601.12918)|null|
+|**2026-01-19**|**Contact-Aware Neural Dynamics**|Sha Yi Team|[2601.12796](http://arxiv.org/abs/2601.12796)|null|
+|**2026-01-18**|**ReWorld: Multi-Dimensional Reward Modeling for Embodied World Models**|Xin Jin Team|[2601.12428](http://arxiv.org/abs/2601.12428)|null|
+|**2026-01-18**|**Learning Diverse Skills for Behavior Models with Mixture of Experts**|Ziyang Meng Team|[2601.12397](http://arxiv.org/abs/2601.12397)|null|
+|**2026-01-17**|**BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies**|Jia PanI Team|[2601.12116](http://arxiv.org/abs/2601.12116)|null|
+|**2026-01-16**|**Risk-Aware Human-in-the-Loop Framework with Adaptive Intrusion Response for Autonomous Vehicles**|Jin-Hee Cho Team|[2601.11781](http://arxiv.org/abs/2601.11781)|null|
 |**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Hong Cai Team|[2601.11475](http://arxiv.org/abs/2601.11475)|null|
 |**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Yong-Lu Li Team|[2601.11421](http://arxiv.org/abs/2601.11421)|null|
 |**2026-01-16**|**The Mini Wheelbot Dataset: High-Fidelity Data for Robot Learning**|Sebastian Trimpe Team|[2601.11394](http://arxiv.org/abs/2601.11394)|null|
@@ -1709,6 +1721,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**LightOnOCR: A 1B End-to-End Multilingual Vision-Language Model for State-of-the-Art OCR**|Baptiste Aubertin Team|[2601.14251](http://arxiv.org/abs/2601.14251)|null|
+|**2026-01-20**|**Transformer Architectures for Respiratory Sound Analysis and Multimodal Diagnosis**|Gregory Furman Team|[2601.14227](http://arxiv.org/abs/2601.14227)|null|
+|**2026-01-20**|**IIR-VLM: In-Context Instance-level Recognition for Large Vision-Language Models**|Yun Fu Team|[2601.14188](http://arxiv.org/abs/2601.14188)|null|
+|**2026-01-20**|**TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers**|Kai Chen Team|[2601.14133](http://arxiv.org/abs/2601.14133)|**[link](https://github.com/ZGC-EmbodyAI/TwinBrainVLA)**|
+|**2026-01-20**|**Zero-shot adaptable task planning for autonomous construction robots: a comparative study of lightweight single and multi-AI agent systems**|Abiola Akanmu Team|[2601.14091](http://arxiv.org/abs/2601.14091)|null|
+|**2026-01-20**|**DermaBench: A Clinician-Annotated Benchmark Dataset for Dermatology Visual Question Answering and Reasoning**|Burak Temelkuran Team|[2601.14084](http://arxiv.org/abs/2601.14084)|null|
+|**2026-01-20**|**Feature-Aware Test Generation for Deep Learning Models**|Andrea Stocco Team|[2601.14081](http://arxiv.org/abs/2601.14081)|null|
+|**2026-01-20**|**Weather-R1: Logically Consistent Reinforcement Fine-Tuning for Multimodal Reasoning in Meteorology**|Keze Wang Team|[2601.14044](http://arxiv.org/abs/2601.14044)|null|
+|**2026-01-20**|**HyperWalker: Dynamic Hypergraph-Based Deep Diagnosis for Multi-Hop Clinical Modeling across EHR and X-Ray in Medical VLMs**|Lei Bi Team|[2601.13919](http://arxiv.org/abs/2601.13919)|null|
+|**2026-01-20**|**Revisiting Multi-Task Visual Representation Learning**|Weidi Xie Team|[2601.13886](http://arxiv.org/abs/2601.13886)|**[link](https://github.com/Becomebright/MTV)**|
+|**2026-01-20**|**DisasterVQA: A Visual Question Answering Benchmark Dataset for Disaster Scenes**|Ferda Ofli Team|[2601.13839](http://arxiv.org/abs/2601.13839)|null|
+|**2026-01-20**|**PREGEN: Uncovering Latent Thoughts in Composed Video Retrieval**|Chaim Baskin Team|[2601.13797](http://arxiv.org/abs/2601.13797)|null|
+|**2026-01-20**|**Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search**|Yan Lu Team|[2601.13719](http://arxiv.org/abs/2601.13719)|null|
+|**2026-01-20**|**Attention-space Contrastive Guidance for Efficient Hallucination Mitigation in LVLMs**|Taesup Kim Team|[2601.13707](http://arxiv.org/abs/2601.13707)|null|
+|**2026-01-20**|**Reasoning or Pattern Matching? Probing Large Vision-Language Models with Visual Puzzles**|Athanasios Voulodimos Team|[2601.13705](http://arxiv.org/abs/2601.13705)|null|
+|**2026-01-20**|**CARPE: Context-Aware Image Representation Prioritization via Ensemble for Large Vision-Language Models**|Zhe Zhao Team|[2601.13622](http://arxiv.org/abs/2601.13622)|null|
+|**2026-01-20**|**ChartVerse: Scaling Chart Reasoning via Reliable Programmatic Synthesis from Scratch**|Lijun Wu Team|[2601.13606](http://arxiv.org/abs/2601.13606)|null|
+|**2026-01-19**|**PhysicsSolutionAgent: Towards Multimodal Explanations for Numerical Physics Problem Solving**|Dhruv Kumar Team|[2601.13453](http://arxiv.org/abs/2601.13453)|null|
+|**2026-01-19**|**Analyzing VLM-Based Approaches for Anomaly Classification and Segmentation**|Lawrence Swaminathan Xavier Prince Team|[2601.13440](http://arxiv.org/abs/2601.13440)|null|
+|**2026-01-19**|**Reasoning with Pixel-level Precision: QVLM Architecture and SQuID Dataset for Quantitative Geospatial Analytics**|Eric Cosatto Team|[2601.13401](http://arxiv.org/abs/2601.13401)|null|
 |**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Jakob Engel Team|[2601.11514](http://arxiv.org/abs/2601.11514)|**[link](http://facebookresearch.github.io/ShapeR)**|
 |**2026-01-16**|**MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models**|Tao Gui Team|[2601.11464](http://arxiv.org/abs/2601.11464)|null|
 |**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Guanghui Ren Team|[2601.11404](http://arxiv.org/abs/2601.11404)|null|
@@ -4447,6 +4479,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers**|Kai Chen Team|[2601.14133](http://arxiv.org/abs/2601.14133)|**[link](https://github.com/ZGC-EmbodyAI/TwinBrainVLA)**|
+|**2026-01-20**|**Pedagogical Alignment for Vision-Language-Action Models: A Comprehensive Framework for Data, Architecture, and Evaluation in Education**|Gyeonggeon Lee Team|[2601.13876](http://arxiv.org/abs/2601.13876)|null|
+|**2026-01-20**|**DroneVLA: VLA based Aerial Manipulation**|Dzmitry Tsetserukou Team|[2601.13809](http://arxiv.org/abs/2601.13809)|null|
+|**2026-01-19**|**Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization**|Zongqing Lu Team|[2601.12993](http://arxiv.org/abs/2601.12993)|null|
+|**2026-01-17**|**Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving**|Sifa Zheng Team|[2601.12142](http://arxiv.org/abs/2601.12142)|null|
 |**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Hong Cai Team|[2601.11475](http://arxiv.org/abs/2601.11475)|null|
 |**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Guanghui Ren Team|[2601.11404](http://arxiv.org/abs/2601.11404)|null|
 |**2026-01-16**|**VLAgents: A Policy Server for Efficient VLA Inference**|Wolfram Burgard Team|[2601.11250](http://arxiv.org/abs/2601.11250)|null|
@@ -4456,7 +4493,7 @@
 |**2026-01-12**|**Motion Focus Recognition in Fast-Moving Egocentric Video**|Abolfazl Razi Team|[2601.07154](http://arxiv.org/abs/2601.07154)|null|
 |**2026-01-11**|**PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation**|Ismini Lourentzou Team|[2601.07060](http://arxiv.org/abs/2601.07060)|null|
 |**2026-01-13**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Cheng Han Team|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
-|**2026-01-10**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Yan Wang Team|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
+|**2026-01-17**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Yan Wang Team|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
 |**2026-01-10**|**CulinaryCut-VLAP: A Vision-Language-Action-Physics Framework for Food Cutting via a Force-Aware Material Point Method**|Heewon Kim Team|[2601.06451](http://arxiv.org/abs/2601.06451)|null|
 |**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Hongyang Li Team|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
 |**2026-01-08**|**LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Shanghang Zhang Team|[2601.05248](http://arxiv.org/abs/2601.05248)|null|
@@ -5066,7 +5103,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-16**|**ProjecTA: A Semi-Humanoid Robotic Teaching Assistant with In-Situ Projection for Guided Tours**|Pengcheng An Team|[2601.11328](http://arxiv.org/abs/2601.11328)|null|
+|**2026-01-19**|**FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions**|Xipeng Qiu Team|[2601.12799](http://arxiv.org/abs/2601.12799)|**[link](https://openmoss.github.io/FRoM-W1)**|
+|**2026-01-19**|**FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation**|Yue Gao Team|[2601.12790](http://arxiv.org/abs/2601.12790)|null|
+|**2026-01-20**|**ProjecTA: A Semi-Humanoid Robotic Teaching Assistant with In-Situ Projection for Guided Tours**|Pengcheng An Team|[2601.11328](http://arxiv.org/abs/2601.11328)|null|
 |**2026-01-15**|**FastStair: Learning to Run Up Stairs with Humanoid Robots**|Jie Zhao Team|[2601.10365](http://arxiv.org/abs/2601.10365)|null|
 |**2026-01-13**|**Heterogeneous computing platform for real-time robotics**|Steve Furber Team|[2601.09755](http://arxiv.org/abs/2601.09755)|null|
 |**2026-01-14**|**Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**|Wei-Shi Zheng Team|[2601.09518](http://arxiv.org/abs/2601.09518)|null|
