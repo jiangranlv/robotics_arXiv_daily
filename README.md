@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries**|Kai Chen Team|[2601.15197](http://arxiv.org/abs/2601.15197)|null|
+|**2026-01-21**|**UniCon: A Unified System for Efficient Robot Learning Transfers**|Weinan Zhang Team|[2601.14617](http://arxiv.org/abs/2601.14617)|null|
 |**2026-01-20**|**Active Cross-Modal Visuo-Tactile Perception of Deformable Linear Objects**|Pietro Falco Team|[2601.13979](http://arxiv.org/abs/2601.13979)|null|
 |**2026-01-20**|**A General One-Shot Multimodal Active Perception Framework for Robotic Manipulation: Learning to Predict Optimal Viewpoint**|Yongchun Fang Team|[2601.13639](http://arxiv.org/abs/2601.13639)|null|
 |**2026-01-19**|**Static Is Not Enough: A Comparative Study of VR and SpaceMouse in Static and Dynamic Teleoperation Tasks**|Kim Baraka Team|[2601.13042](http://arxiv.org/abs/2601.13042)|null|
@@ -1721,6 +1723,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Towards Understanding Best Practices for Quantization of Vision-Language Models**|Matthew Gwilliam Team|[2601.15287](http://arxiv.org/abs/2601.15287)|null|
+|**2026-01-21**|**Iterative Refinement Improves Compositional Image Generation**|Deepak Pathak Team|[2601.15286](http://arxiv.org/abs/2601.15286)|**[link](https://iterative-img-gen.github.io/)**|
+|**2026-01-21**|**PROGRESSLM: Towards Progress Reasoning in Vision-Language Models**|Han Liu Team|[2601.15224](http://arxiv.org/abs/2601.15224)|**[link](https://progresslm.github.io/ProgressLM/)**|
+|**2026-01-21**|**Training-Free and Interpretable Hateful Video Detection via Multi-stage Adversarial Reasoning**|Zeyu Fu Team|[2601.15115](http://arxiv.org/abs/2601.15115)|null|
+|**2026-01-21**|**Unified Multi-Dataset Training for TBPS**|Brejesh Lall Team|[2601.14978](http://arxiv.org/abs/2601.14978)|null|
+|**2026-01-21**|**Vision-Language Models on the Edge for Real-Time Robotic Perception**|Syed Ali Raza Zaidi Team|[2601.14921](http://arxiv.org/abs/2601.14921)|null|
+|**2026-01-21**|**HumanoidVLM: Vision-Language-Guided Impedance Control for Contact-Rich Humanoid Manipulation**|Dzmitry Tsetserukou Team|[2601.14874](http://arxiv.org/abs/2601.14874)|null|
+|**2026-01-21**|**Measuring and Aligning Abstraction in Vision-Language Models with Medical Taxonomies**|Cosmin I. Bercea Team|[2601.14827](http://arxiv.org/abs/2601.14827)|null|
+|**2026-01-21**|**Does medical specialization of VLMs enhance discriminative power?: A comprehensive investigation through feature distribution analysis**|Tomoya Sakai Team|[2601.14774](http://arxiv.org/abs/2601.14774)|null|
+|**2026-01-21**|**Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning**|Zheng Wei Team|[2601.14750](http://arxiv.org/abs/2601.14750)|null|
+|**2026-01-21**|**DeepMoLM: Leveraging Visual and Geometric Structural Information for Molecule-Text Modeling**|Jung Sun Yoo Team|[2601.14732](http://arxiv.org/abs/2601.14732)|null|
+|**2026-01-21**|**Typhoon OCR: Open Vision-Language Model For Thai Document Extraction**|Kunat Pipatanakul Team|[2601.14722](http://arxiv.org/abs/2601.14722)|null|
+|**2026-01-21**|**Unified Multimodal and Multilingual Retrieval via Multi-Task Learning with NLU Integration**|Guoquan Zhang Team|[2601.14714](http://arxiv.org/abs/2601.14714)|null|
+|**2026-01-21**|**AutoDriDM: An Explainable Benchmark for Decision-Making of Vision-Language Models in Autonomous Driving**|Yu Zhang Team|[2601.14702](http://arxiv.org/abs/2601.14702)|null|
+|**2026-01-21**|**Forest-Chat: Adapting Vision-Language Agents for Interactive Forest Change Analysis**|Nantheera Anantrasirichai Team|[2601.14637](http://arxiv.org/abs/2601.14637)|null|
+|**2026-01-21**|**Probing Prompt Design for Socially Compliant Robot Navigation with Vision Language Models**|Toshihiko Yamasaki Team|[2601.14622](http://arxiv.org/abs/2601.14622)|null|
+|**2026-01-21**|**Learning Consistent Taxonomic Classification through Hierarchical Reasoning**|Haibin Ling Team|[2601.14610](http://arxiv.org/abs/2601.14610)|null|
+|**2026-01-21**|**3D Space as a Scratchpad for Editable Text-to-Image Generation**|Kevin Blackburn-Matzen Team|[2601.14602](http://arxiv.org/abs/2601.14602)|null|
+|**2026-01-21**|**Explainable OOHRI: Communicating Robot Capabilities and Limitations as Augmented Reality Affordances**|Parastoo Abtahi Team|[2601.14587](http://arxiv.org/abs/2601.14587)|null|
+|**2026-01-20**|**GutenOCR: A Grounded Vision-Language Front-End for Documents**|Yosheb Getachew Team|[2601.14490](http://arxiv.org/abs/2601.14490)|null|
 |**2026-01-20**|**LightOnOCR: A 1B End-to-End Multilingual Vision-Language Model for State-of-the-Art OCR**|Baptiste Aubertin Team|[2601.14251](http://arxiv.org/abs/2601.14251)|null|
 |**2026-01-20**|**Transformer Architectures for Respiratory Sound Analysis and Multimodal Diagnosis**|Gregory Furman Team|[2601.14227](http://arxiv.org/abs/2601.14227)|null|
 |**2026-01-20**|**IIR-VLM: In-Context Instance-level Recognition for Large Vision-Language Models**|Yun Fu Team|[2601.14188](http://arxiv.org/abs/2601.14188)|null|
@@ -4479,9 +4501,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries**|Kai Chen Team|[2601.15197](http://arxiv.org/abs/2601.15197)|null|
+|**2026-01-21**|**TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control**|Wei Yun Yau Team|[2601.14945](http://arxiv.org/abs/2601.14945)|null|
+|**2026-01-21**|**A Brain-inspired Embodied Intelligence for Fluid and Fast Reflexive Robotics Control**|Hui Xiong Team|[2601.14628](http://arxiv.org/abs/2601.14628)|null|
+|**2026-01-20**|**SilentDrift: Exploiting Action Chunking for Stealthy Backdoor Attacks on Vision-Language-Action Models**|Emilio Ferrara Team|[2601.14323](http://arxiv.org/abs/2601.14323)|null|
 |**2026-01-20**|**TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers**|Kai Chen Team|[2601.14133](http://arxiv.org/abs/2601.14133)|**[link](https://github.com/ZGC-EmbodyAI/TwinBrainVLA)**|
 |**2026-01-20**|**Pedagogical Alignment for Vision-Language-Action Models: A Comprehensive Framework for Data, Architecture, and Evaluation in Education**|Gyeonggeon Lee Team|[2601.13876](http://arxiv.org/abs/2601.13876)|null|
-|**2026-01-20**|**DroneVLA: VLA based Aerial Manipulation**|Dzmitry Tsetserukou Team|[2601.13809](http://arxiv.org/abs/2601.13809)|null|
+|**2026-01-21**|**DroneVLA: VLA based Aerial Manipulation**|Dzmitry Tsetserukou Team|[2601.13809](http://arxiv.org/abs/2601.13809)|null|
 |**2026-01-19**|**Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization**|Zongqing Lu Team|[2601.12993](http://arxiv.org/abs/2601.12993)|null|
 |**2026-01-17**|**Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving**|Sifa Zheng Team|[2601.12142](http://arxiv.org/abs/2601.12142)|null|
 |**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Hong Cai Team|[2601.11475](http://arxiv.org/abs/2601.11475)|null|
@@ -5103,6 +5129,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Vision-Language Models on the Edge for Real-Time Robotic Perception**|Syed Ali Raza Zaidi Team|[2601.14921](http://arxiv.org/abs/2601.14921)|null|
+|**2026-01-21**|**HumanoidVLM: Vision-Language-Guided Impedance Control for Contact-Rich Humanoid Manipulation**|Dzmitry Tsetserukou Team|[2601.14874](http://arxiv.org/abs/2601.14874)|null|
 |**2026-01-19**|**FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions**|Xipeng Qiu Team|[2601.12799](http://arxiv.org/abs/2601.12799)|**[link](https://openmoss.github.io/FRoM-W1)**|
 |**2026-01-19**|**FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation**|Yue Gao Team|[2601.12790](http://arxiv.org/abs/2601.12790)|null|
 |**2026-01-20**|**ProjecTA: A Semi-Humanoid Robotic Teaching Assistant with In-Situ Projection for Guided Tours**|Pengcheng An Team|[2601.11328](http://arxiv.org/abs/2601.11328)|null|
@@ -5442,6 +5470,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**CADGrasp: Learning Contact and Collision Aware General Dexterous Grasping in Cluttered Scenes**|Hao Dong Team|[2601.15039](http://arxiv.org/abs/2601.15039)|null|
 |**2026-01-16**|**Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation**|Wanxin Jin Team|[2601.10930](http://arxiv.org/abs/2601.10930)|null|
 |**2026-01-13**|**FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models**|Wenzhao Lian Team|[2601.08246](http://arxiv.org/abs/2601.08246)|null|
 |**2026-01-12**|**Stable In-hand Manipulation for a Lightweight Four-motor Prosthetic Hand**|Masashi Hamaya Team|[2601.07559](http://arxiv.org/abs/2601.07559)|null|
