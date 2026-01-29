@@ -16,6 +16,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Learning From a Steady Hand: A Weakly Supervised Agent for Robot Assistance under Microscopy**|Christos Bergeles Team|[2601.20776](http://arxiv.org/abs/2601.20776)|null|
+|**2026-01-28**|**Vibro-Sense: Robust Vibration-based Impulse Response Localization and Trajectory Tracking for Robotic Hands**|Nicolás Navarro-Guerrero Team|[2601.20555](http://arxiv.org/abs/2601.20555)|null|
+|**2026-01-28**|**Advancing Open-source World Models**|Hao Ouyang Team|[2601.20540](http://arxiv.org/abs/2601.20540)|**[link](https://technology.robbyant.com/lingbot-world)**|
+|**2026-01-28**|**STORM: Slot-based Task-aware Object-centric Representation for robotic Manipulation**|Liming Chen Team|[2601.20381](http://arxiv.org/abs/2601.20381)|null|
+|**2026-01-28**|**Demonstration-Free Robotic Control via LLM Agents**|Tiffany J. Hwu Team|[2601.20334](http://arxiv.org/abs/2601.20334)|null|
+|**2026-01-28**|**Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation**|Ziyuan Jiao Team|[2601.20321](http://arxiv.org/abs/2601.20321)|null|
+|**2026-01-28**|**TRACER: Texture-Robust Affordance Chain-of-Thought for Deformable-Object Refinement**|Yaonan Wang Team|[2601.20208](http://arxiv.org/abs/2601.20208)|**[link](https://github.com/Dikay1/TRACER)**|
+|**2026-01-27**|**Real-Time Robot Execution with Masked Action Chunking**|Gaowen Liu Team|[2601.20130](http://arxiv.org/abs/2601.20130)|**[link](https://remac-async.github.io/)**|
+|**2026-01-27**|**In-Context Reinforcement Learning From Suboptimal Historical Data**|Vahid Tarokh Team|[2601.20116](http://arxiv.org/abs/2601.20116)|null|
+|**2026-01-27**|**Just in time Informed Trees: Manipulability-Aware Asymptotically Optimized Motion Planning**|Luis Figueredo Team|[2601.19972](http://arxiv.org/abs/2601.19972)|null|
+|**2026-01-27**|**NeuroAI and Beyond**|Terrence Sejnowski Team|[2601.19955](http://arxiv.org/abs/2601.19955)|null|
 |**2026-01-27**|**AC^2-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation**|Lei Zhu Team|[2601.19634](http://arxiv.org/abs/2601.19634)|null|
 |**2026-01-27**|**ALRM: Agentic LLM for Robotic Manipulation**|Hakim Hacid Team|[2601.19510](http://arxiv.org/abs/2601.19510)|null|
 |**2026-01-27**|**Task-Centric Policy Optimization from Misaligned Motion Priors**|Shentao Qin Team|[2601.19411](http://arxiv.org/abs/2601.19411)|null|
@@ -1749,6 +1760,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Yan Zhang Team|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
+|**2026-01-28**|**bi-modal textual prompt learning for vision-language models in remote sensing**|Biplab Banerjee Team|[2601.20675](http://arxiv.org/abs/2601.20675)|null|
+|**2026-01-28**|**Investigating the Development of Task-Oriented Communication in Vision-Language Models**|Ron Meir Team|[2601.20641](http://arxiv.org/abs/2601.20641)|null|
+|**2026-01-28**|**SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation**|Hongbo Fu Team|[2601.20622](http://arxiv.org/abs/2601.20622)|null|
+|**2026-01-28**|**DeepSeek-OCR 2: Visual Causal Flow**|Yukun Li Team|[2601.20552](http://arxiv.org/abs/2601.20552)|null|
+|**2026-01-28**|**AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors**|Danijel Skočaj Team|[2601.20524](http://arxiv.org/abs/2601.20524)|null|
+|**2026-01-28**|**MARE: Multimodal Alignment and Reinforcement for Explainable Deepfake Detection via Vision-Language Models**|Jiantao Zhou Team|[2601.20433](http://arxiv.org/abs/2601.20433)|null|
+|**2026-01-28**|**Let's Roll a BiFTA: Bi-refinement for Fine-grained Text-visual Alignment in Vision-Language Models**|Feng Liu Team|[2601.20419](http://arxiv.org/abs/2601.20419)|null|
+|**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Kangwook Lee Team|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
+|**2026-01-28**|**Physically Guided Visual Mass Estimation from a Single RGB Image**|Kwang In Kim Team|[2601.20303](http://arxiv.org/abs/2601.20303)|null|
+|**2026-01-28**|**Hallucination Begins Where Saliency Drops**|Hao Tang Team|[2601.20279](http://arxiv.org/abs/2601.20279)|null|
+|**2026-01-27**|**Look in the Middle: Structural Anchor Pruning for Scalable Visual RAG Indexing**|Yu Xiao Team|[2601.20107](http://arxiv.org/abs/2601.20107)|null|
+|**2026-01-27**|**Quantization-Aware Distillation for NVFP4 Inference Accuracy Recovery**|Huizi Mao Team|[2601.20088](http://arxiv.org/abs/2601.20088)|null|
+|**2026-01-27**|**Sparse CLIP: Co-Optimizing Interpretability and Performance in Contrastive Learning**|Stefan Scherer Team|[2601.20075](http://arxiv.org/abs/2601.20075)|null|
+|**2026-01-27**|**DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation**|Mooi Choo Chuah Team|[2601.20064](http://arxiv.org/abs/2601.20064)|null|
 |**2026-01-27**|**EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**|Pheng-Ann Heng Team|[2601.19850](http://arxiv.org/abs/2601.19850)|**[link](https://github.com/Nicous20/EgoHandICL)**|
 |**2026-01-27**|**Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision**|Xiaotian Li Team|[2601.19798](http://arxiv.org/abs/2601.19798)|null|
 |**2026-01-27**|**Physics-Aware Novel-View Acoustic Synthesis with Vision-Language Priors and 3D Acoustic Environment Modeling**|Wenwu Wang Team|[2601.19712](http://arxiv.org/abs/2601.19712)|**[link](https://physnvas.github.io/)**|
@@ -4580,6 +4606,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Demonstration-Free Robotic Control via LLM Agents**|Tiffany J. Hwu Team|[2601.20334](http://arxiv.org/abs/2601.20334)|null|
+|**2026-01-28**|**Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation**|Ziyuan Jiao Team|[2601.20321](http://arxiv.org/abs/2601.20321)|null|
+|**2026-01-28**|**Shallow-π: Knowledge Distillation for Flow-based VLAs**|Taehan Kim Team|[2601.20262](http://arxiv.org/abs/2601.20262)|null|
 |**2026-01-27**|**AC^2-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation**|Lei Zhu Team|[2601.19634](http://arxiv.org/abs/2601.19634)|null|
 |**2026-01-26**|**Trustworthy Evaluation of Robotic Manipulation: A New Benchmark and AutoEval Methods**|Hong Liu Team|[2601.18723](http://arxiv.org/abs/2601.18723)|null|
 |**2026-01-26**|**A Pragmatic VLA Foundation Model**|Kecheng Zheng Team|[2601.18692](http://arxiv.org/abs/2601.18692)|**[link](https://technology.robbyant.com/lingbot-vla/)**|
