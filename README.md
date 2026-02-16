@@ -16,6 +16,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos**|Wei-Chiu Ma Team|[2602.13197](http://arxiv.org/abs/2602.13197)|null|
+|**2026-02-13**|**UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph**|Ziwei Wang Team|[2602.13086](http://arxiv.org/abs/2602.13086)|**[link](https://henryhcliu.github.io/unimanip)**|
+|**2026-02-13**|**How Swarms Differ: Challenges in Collective Behaviour Comparison**|Jonas Kuckling Team|[2602.13016](http://arxiv.org/abs/2602.13016)|null|
+|**2026-02-13**|**SafeFlowMPC: Predictive and Safe Trajectory Planning for Robot Manipulators with Learning-based Policies**|Andreas Kugi Team|[2602.12794](http://arxiv.org/abs/2602.12794)|null|
+|**2026-02-13**|**Scaling Single Human Demonstrations for Imitation Learning using Generative Foundational Models**|Abhinav Valada Team|[2602.12734](http://arxiv.org/abs/2602.12734)|null|
+|**2026-02-13**|**$\mathcal{X}$ -KD: General Experiential Knowledge Distillation for Large Language Models**|Yuyu Yuan Team|[2602.12674](http://arxiv.org/abs/2602.12674)|null|
+|**2026-02-13**|**PMG: Parameterized Motion Generator for Human-like Locomotion Control**|Houde Liu Team|[2602.12656](http://arxiv.org/abs/2602.12656)|null|
+|**2026-02-13**|**Real-to-Sim for Highly Cluttered Environments via Physics-Consistent Inter-Object Reasoning**|Jun Ma Team|[2602.12633](http://arxiv.org/abs/2602.12633)|**[link](https://physics-constrained-real2sim.github.io)**|
+|**2026-02-12**|**Self-Refining Vision Language Model for Robotic Failure Detection and Reasoning**|Yesh Dattatreya Team|[2602.12405](http://arxiv.org/abs/2602.12405)|null|
 |**2026-02-12**|**FAIL: Flow Matching Adversarial Imitation Learning for Image Generation**|Weidi Xie Team|[2602.12155](http://arxiv.org/abs/2602.12155)|null|
 |**2026-02-12**|**GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning**|Zheng Zhu Team|[2602.12099](http://arxiv.org/abs/2602.12099)|**[link](https://gigabrain05m.github.io/)**|
 |**2026-02-12**|**Affordance-Graphed Task Worlds: Self-Evolving Task Generation for Scalable Embodied Learning**|Changshui Zhang Team|[2602.12065](http://arxiv.org/abs/2602.12065)|null|
@@ -1870,6 +1879,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control**|Sergey Levine Team|[2602.13193](http://arxiv.org/abs/2602.13193)|null|
+|**2026-02-13**|**Implicit-Scale 3D Reconstruction for Multi-Food Volume Estimation from Monocular Images**|Jiangpeng He Team|[2602.13041](http://arxiv.org/abs/2602.13041)|**[link](https://www.kaggle.com/competitions/3d-reconstruction-from-monocular-multi-food-images/data)**|
+|**2026-02-13**|**Training-Free Acceleration for Document Parsing Vision-Language Model with Hierarchical Speculative Decoding**|Lianwen Jin Team|[2602.12957](http://arxiv.org/abs/2602.12957)|null|
+|**2026-02-13**|**HoRAMA: Holistic Reconstruction with Automated Material Assignment for Ray Tracing using NYURay**|Theodore S. Rappaport Team|[2602.12942](http://arxiv.org/abs/2602.12942)|null|
+|**2026-02-13**|**RoadscapesQA: A Multitask, Multimodal Dataset for Visual Question Answering on Indian Roads**|Jyothikamalesh S Team|[2602.12877](http://arxiv.org/abs/2602.12877)|null|
+|**2026-02-13**|**Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Chest X-ray Interpretation**|Wei Shen Team|[2602.12843](http://arxiv.org/abs/2602.12843)|null|
+|**2026-02-13**|**X-SYS: A Reference Architecture for Interactive Explanation Systems**|Sebastian Lapuschkin Team|[2602.12748](http://arxiv.org/abs/2602.12748)|null|
+|**2026-02-13**|**SignScene: Visual Sign Grounding for Mapless Navigation**|David Hsu Team|[2602.12686](http://arxiv.org/abs/2602.12686)|null|
+|**2026-02-13**|**IndicFairFace: Balanced Indian Face Dataset for Auditing and Mitigating Geographical Bias in Vision-Language Models**|Jiechao Gao Team|[2602.12659](http://arxiv.org/abs/2602.12659)|null|
+|**2026-02-13**|**PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People**|Alireza Taheri Team|[2602.12597](http://arxiv.org/abs/2602.12597)|null|
+|**2026-02-13**|**On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs**|Arnab Mondal Team|[2602.12506](http://arxiv.org/abs/2602.12506)|null|
+|**2026-02-13**|**Layer-Specific Fine-Tuning for Improved Negation Handling in Medical Vision-Language Models**|Rahmatollah Beheshti Team|[2602.12498](http://arxiv.org/abs/2602.12498)|null|
+|**2026-02-12**|**Self-Refining Vision Language Model for Robotic Failure Detection and Reasoning**|Yesh Dattatreya Team|[2602.12405](http://arxiv.org/abs/2602.12405)|null|
+|**2026-02-12**|**What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis**|Tianyi Zhou Team|[2602.12395](http://arxiv.org/abs/2602.12395)|null|
+|**2026-02-12**|**Synthetic Image Detection with CLIP: Understanding and Assessing Predictive Cues**|Michael Graber Team|[2602.12381](http://arxiv.org/abs/2602.12381)|null|
+|**2026-02-12**|**ForeAct: Steering Your VLA with Efficient Visual Foresight Planning**|Song Han Team|[2602.12322](http://arxiv.org/abs/2602.12322)|null|
+|**2026-02-12**|**LatentAM: Real-Time, Large-Scale Latent Gaussian Attention Mapping via Online Dictionary Learning**|Yulun Tian Team|[2602.12314](http://arxiv.org/abs/2602.12314)|null|
 |**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Marco Pavone Team|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
 |**2026-02-12**|**ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images**|Manuela Veloso Team|[2602.12203](http://arxiv.org/abs/2602.12203)|null|
 |**2026-02-12**|**3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting**|Xinyi Yu Team|[2602.12159](http://arxiv.org/abs/2602.12159)|null|
@@ -4920,6 +4946,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control**|Sergey Levine Team|[2602.13193](http://arxiv.org/abs/2602.13193)|null|
+|**2026-02-13**|**UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph**|Ziwei Wang Team|[2602.13086](http://arxiv.org/abs/2602.13086)|**[link](https://henryhcliu.github.io/unimanip)**|
+|**2026-02-13**|**Learning Native Continuation for Action Chunking Flow Policies**|Yang Gao Team|[2602.12978](http://arxiv.org/abs/2602.12978)|**[link](https://lyfeng001.github.io/Legato/)**|
+|**2026-02-13**|**ALOE: Action-Level Off-Policy Evaluation for Vision-Language-Action Model Post-Training**|Maoqing Yao Team|[2602.12691](http://arxiv.org/abs/2602.12691)|null|
+|**2026-02-13**|**Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution**|Quanyun Zhou Team|[2602.12684](http://arxiv.org/abs/2602.12684)|**[link](https://xiaomi-robotics-0.github.io)**|
+|**2026-02-13**|**RLinf-Co: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models**|Yu Wang Team|[2602.12628](http://arxiv.org/abs/2602.12628)|null|
+|**2026-02-13**|**CRAFT: Adapting VLA Models to Contact-rich Manipulation via Force-aware Curriculum Fine-tuning**|Jingtao Sun Team|[2602.12532](http://arxiv.org/abs/2602.12532)|null|
+|**2026-02-12**|**ForeAct: Steering Your VLA with Efficient Visual Foresight Planning**|Song Han Team|[2602.12322](http://arxiv.org/abs/2602.12322)|null|
 |**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Marco Pavone Team|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
 |**2026-02-12**|**GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning**|Zheng Zhu Team|[2602.12099](http://arxiv.org/abs/2602.12099)|**[link](https://gigabrain05m.github.io/)**|
 |**2026-02-12**|**VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model**|Chelsea Finn Team|[2602.12063](http://arxiv.org/abs/2602.12063)|null|
