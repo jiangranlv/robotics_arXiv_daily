@@ -9,10 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**|Saurabh Gupta Team|[2602.16705](http://arxiv.org/abs/2602.16705)|**[link](https://hero-humanoid.github.io/)**|
+|**2026-02-18**|**VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety**|Stella X. Yu Team|[2602.16511](http://arxiv.org/abs/2602.16511)|null|
+|**2026-02-18**|**RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation**|Jian Tang Team|[2602.16444](http://arxiv.org/abs/2602.16444)|null|
 |**2026-02-17**|**Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**|Lina Yao Team|[2602.15724](http://arxiv.org/abs/2602.15724)|null|
 |**2026-02-17**|**Selective Perception for Robot: Task-Aware Attention in Multimodal VLA**|Soo-Chul Lim Team|[2602.15543](http://arxiv.org/abs/2602.15543)|null|
 |**2026-02-17**|**Feasibility-aware Imitation Learning from Observation with Multimodal Feedback**|Takamitsu Matsubara Team|[2602.15351](http://arxiv.org/abs/2602.15351)|null|
-|**2026-02-16**|**BPP: Long-Context Robot Imitation Learning by Focusing on Key History Frames**|Aviral Kumar Team|[2602.15010](http://arxiv.org/abs/2602.15010)|null|
+|**2026-02-18**|**BPP: Long-Context Robot Imitation Learning by Focusing on Key History Frames**|Aviral Kumar Team|[2602.15010](http://arxiv.org/abs/2602.15010)|null|
 |**2026-02-16**|**PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement**|Chuang Gan Team|[2602.14968](http://arxiv.org/abs/2602.14968)|null|
 |**2026-02-16**|**Affordance Transfer Across Object Instances via Semantically Anchored Functional Map**|Weiming Zhi Team|[2602.14874](http://arxiv.org/abs/2602.14874)|null|
 |**2026-02-16**|**DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving**|Yan Wang Team|[2602.14577](http://arxiv.org/abs/2602.14577)|null|
@@ -1892,6 +1895,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**|Jundong Li Team|[2602.16702](http://arxiv.org/abs/2602.16702)|null|
+|**2026-02-18**|**A Contrastive Learning Framework Empowered by Attention-based Feature Adaptation for Street-View Image Classification**|James Haworth Team|[2602.16590](http://arxiv.org/abs/2602.16590)|null|
+|**2026-02-18**|**DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images**|Chenfanfu Jiang Team|[2602.16502](http://arxiv.org/abs/2602.16502)|null|
+|**2026-02-18**|**Visual Self-Refine: A Pixel-Guided Paradigm for Accurate Chart Parsing**|Dahua Lin Team|[2602.16455](http://arxiv.org/abs/2602.16455)|null|
+|**2026-02-18**|**Designing Production-Scale OCR for India: Multilingual and Domain-Specific Systems**|Shubham Agarwal Team|[2602.16430](http://arxiv.org/abs/2602.16430)|null|
+|**2026-02-18**|**Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI**|Takeo Igarashi Team|[2602.16157](http://arxiv.org/abs/2602.16157)|null|
+|**2026-02-18**|**Evaluating Demographic Misrepresentation in Image-to-Image Portrait Editing**|Jean Oh Team|[2602.16149](http://arxiv.org/abs/2602.16149)|null|
+|**2026-02-18**|**IRIS: Intent Resolution via Inference-time Saccades for Open-Ended VQA in Large Vision-Language Models**|Miguel P. Eckstein Team|[2602.16138](http://arxiv.org/abs/2602.16138)|null|
+|**2026-02-18**|**OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT Analysis**|Beng Chin Ooi Team|[2602.16110](http://arxiv.org/abs/2602.16110)|null|
+|**2026-02-17**|**MedProbCLIP: Probabilistic Adaptation of Vision-Language Foundation Model for Reliable Radiograph-Report Retrieval**|Gongbo Liang Team|[2602.16019](http://arxiv.org/abs/2602.16019)|null|
+|**2026-02-17**|**BTReport: A Framework for Brain Tumor Radiology Report Generation with Clinically Relevant Features**|Mehmet Kurt Team|[2602.16006](http://arxiv.org/abs/2602.16006)|null|
+|**2026-02-17**|**Can Vision-Language Models See Squares? Text-Recognition Mediates Spatial Reasoning Across Three Model Families**|Yuval Levental Team|[2602.15950](http://arxiv.org/abs/2602.15950)|null|
+|**2026-02-17**|**Visual Memory Injection Attacks for Multi-Turn Conversations**|Matthias Hein Team|[2602.15927](http://arxiv.org/abs/2602.15927)|null|
 |**2026-02-17**|**Concept-Enhanced Multimodal RAG: Towards Interpretable and Accurate Radiology Report Generation**|Valerio Guarrasi Team|[2602.15650](http://arxiv.org/abs/2602.15650)|null|
 |**2026-02-17**|**CARE Drive A Framework for Evaluating Reason-Responsiveness of Vision Language Models in Automated Driving**|Arkady Zgonnikov Team|[2602.15645](http://arxiv.org/abs/2602.15645)|null|
 |**2026-02-17**|**Req2Road: A GenAI Pipeline for SDV Test Artifact Generation and On-Vehicle Execution**|Alois Knoll Team|[2602.15591](http://arxiv.org/abs/2602.15591)|null|
@@ -4995,6 +5011,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Linxi Fan Team|[2602.16710](http://arxiv.org/abs/2602.16710)|null|
+|**2026-02-17**|**World Action Models are Zero-shot Policies**|Joel Jang Team|[2602.15922](http://arxiv.org/abs/2602.15922)|**[link](https://dreamzero0.github.io/)**|
 |**2026-02-17**|**Selective Perception for Robot: Task-Aware Attention in Multimodal VLA**|Soo-Chul Lim Team|[2602.15543](http://arxiv.org/abs/2602.15543)|null|
 |**2026-02-17**|**ActionCodec: What Makes for Good Action Tokenizers**|Jianye Hao Team|[2602.15397](http://arxiv.org/abs/2602.15397)|null|
 |**2026-02-16**|**DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI**|Tiancai Wang Team|[2602.14974](http://arxiv.org/abs/2602.14974)|**[link](https://github.com/Dexmal/dexbotic)**|
@@ -5012,7 +5030,7 @@ layout: default
 |**2026-02-16**|**Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models**|Yu Wang Team|[2602.12628](http://arxiv.org/abs/2602.12628)|null|
 |**2026-02-13**|**CRAFT: Adapting VLA Models to Contact-rich Manipulation via Force-aware Curriculum Fine-tuning**|Jingtao Sun Team|[2602.12532](http://arxiv.org/abs/2602.12532)|null|
 |**2026-02-12**|**ForeAct: Steering Your VLA with Efficient Visual Foresight Planning**|Song Han Team|[2602.12322](http://arxiv.org/abs/2602.12322)|null|
-|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Marco Pavone Team|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
+|**2026-02-18**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Marco Pavone Team|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
 |**2026-02-12**|**GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning**|Zheng Zhu Team|[2602.12099](http://arxiv.org/abs/2602.12099)|**[link](https://gigabrain05m.github.io/)**|
 |**2026-02-15**|**VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model**|Chelsea Finn Team|[2602.12063](http://arxiv.org/abs/2602.12063)|**[link](https://sites.google.com/view/vlaw-arxiv)**|
 |**2026-02-12**|**HoloBrain-0 Technical Report**|Zhizhong Su Team|[2602.12062](http://arxiv.org/abs/2602.12062)|null|
@@ -5735,6 +5753,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**|Saurabh Gupta Team|[2602.16705](http://arxiv.org/abs/2602.16705)|**[link](https://hero-humanoid.github.io/)**|
 |**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|C. Karen Liu Team|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
 |**2026-02-17**|**MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction**|Yijie Guo Team|[2602.15733](http://arxiv.org/abs/2602.15733)|null|
 |**2026-02-16**|**Replanning Human-Robot Collaborative Tasks with Vision-Language Models via Semantic and Physical Dual-Correction**|Kensuke Harada Team|[2602.14551](http://arxiv.org/abs/2602.14551)|null|
@@ -6116,6 +6135,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Mingyu Ding Team|[2602.16712](http://arxiv.org/abs/2602.16712)|**[link](https://zhenyuwei2003.github.io/OHRA/)**|
+|**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Linxi Fan Team|[2602.16710](http://arxiv.org/abs/2602.16710)|null|
 |**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Shubham Tulsiani Team|[2602.15828](http://arxiv.org/abs/2602.15828)|**[link](https://dex4d.github.io/)**|
 |**2026-02-15**|**Rigidity-Based Multi-Finger Coordination for Precise In-Hand Manipulation of Force-Sensitive Objects**|Gangshan Jing Team|[2602.14104](http://arxiv.org/abs/2602.14104)|**[link](https://www.youtube.com/watch?v=kcf9dVW0Dpo)**|
 |**2026-02-13**|**FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation**|Xingxing Zuo Team|[2602.13444](http://arxiv.org/abs/2602.13444)|**[link](https://huajian-zeng.github.io/projects/flowhoi/)**|
