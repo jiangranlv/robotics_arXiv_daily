@@ -1,4 +1,4 @@
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,10 +16,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**SimVLA: A Simple VLA Baseline for Robotic Manipulation**|Zhenguo Li Team|[2602.18224](http://arxiv.org/abs/2602.18224)|null|
+|**2026-02-20**|**UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models**|Liang Wang Team|[2602.18020](http://arxiv.org/abs/2602.18020)|null|
+|**2026-02-20**|**Quasi-Periodic Gaussian Process Predictive Iterative Learning Control**|Michael Burke Team|[2602.18014](http://arxiv.org/abs/2602.18014)|null|
+|**2026-02-20**|**Learning Optimal and Sample-Efficient Decision Policies with Guarantees**|Daqian Shao Team|[2602.17978](http://arxiv.org/abs/2602.17978)|null|
+|**2026-02-20**|**Graph-Neural Multi-Agent Coordination for Distributed Access-Point Selection in Cell-Free Massive MIMO**|Raouf Boutaba Team|[2602.17954](http://arxiv.org/abs/2602.17954)|null|
+|**2026-02-20**|**ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models**|Ang Li Team|[2602.17951](http://arxiv.org/abs/2602.17951)|null|
+|**2026-02-19**|**MePoly: Max Entropy Polynomial Policy Optimization**|Maani Ghaffari Team|[2602.17832](http://arxiv.org/abs/2602.17832)|null|
 |**2026-02-19**|**IRIS: Learning-Driven Task-Specific Cinema Robot Arm for Visuomotor Motion Control**|Ali Bereyhi Team|[2602.17537](http://arxiv.org/abs/2602.17537)|null|
 |**2026-02-19**|**Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success**|Torsten Sattler Team|[2602.17101](http://arxiv.org/abs/2602.17101)|null|
 |**2026-02-18**|**SparTa: Sparse Graphical Task Models from a Handful of Demonstrations**|Abhinav Valada Team|[2602.16911](http://arxiv.org/abs/2602.16911)|null|
-|**2026-02-18**|**MALLVI: a multi agent framework for integrated generalized robotics manipulation**|Babak Khalaj Team|[2602.16898](http://arxiv.org/abs/2602.16898)|null|
+|**2026-02-20**|**MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation**|Babak Khalaj Team|[2602.16898](http://arxiv.org/abs/2602.16898)|null|
 |**2026-02-18**|**Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**|Saurabh Gupta Team|[2602.16705](http://arxiv.org/abs/2602.16705)|**[link](https://hero-humanoid.github.io/)**|
 |**2026-02-18**|**VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety**|Stella X. Yu Team|[2602.16511](http://arxiv.org/abs/2602.16511)|null|
 |**2026-02-19**|**RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation**|Jian Tang Team|[2602.16444](http://arxiv.org/abs/2602.16444)|null|
@@ -1902,19 +1909,28 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation**|Jon Froehlich Team|[2602.18424](http://arxiv.org/abs/2602.18424)|null|
+|**2026-02-20**|**Zero-shot Interactive Perception**|Amir Ghalamzan Team|[2602.18374](http://arxiv.org/abs/2602.18374)|**[link](https://openreview.net/forum?id=7MhpFcr5Nx)**|
+|**2026-02-20**|**Simplifying Outcomes of Language Model Component Analyses with ELIA**|Nils Feldhus Team|[2602.18262](http://arxiv.org/abs/2602.18262)|**[link](https://github.com/aaron0eidt/ELIA)**|
+|**2026-02-20**|**FENCE: A Financial and Multimodal Jailbreak Detection Dataset**|Youngjun Kwak Team|[2602.18154](http://arxiv.org/abs/2602.18154)|null|
+|**2026-02-20**|**OODBench: Out-of-Distribution Benchmark for Large Vision-Language Models**|Jingrun Chen Team|[2602.18094](http://arxiv.org/abs/2602.18094)|null|
+|**2026-02-20**|**UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models**|Liang Wang Team|[2602.18020](http://arxiv.org/abs/2602.18020)|null|
+|**2026-02-19**|**Understanding the Fine-Grained Knowledge Capabilities of Vision-Language Models**|Ludwig Schmidt Team|[2602.17871](http://arxiv.org/abs/2602.17871)|null|
+|**2026-02-19**|**Enabling Training-Free Text-Based Remote Sensing Segmentation**|Djamila Aouada Team|[2602.17799](http://arxiv.org/abs/2602.17799)|null|
+|**2026-02-19**|**CLUTCH: Contextualized Language model for Unlocking Text-Conditioned Hand motion modelling in the wild**|Justus Thies Team|[2602.17770](http://arxiv.org/abs/2602.17770)|**[link](https://balamuruganthambiraja.github.io/CLUTCH/)**|
 |**2026-02-19**|**Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting**|Zhiqiang Shen Team|[2602.17645](http://arxiv.org/abs/2602.17645)|**[link](https://github.com/vila-lab/M-Attack-V2)**|
 |**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Monowar Bhuyan Team|[2602.17625](http://arxiv.org/abs/2602.17625)|null|
 |**2026-02-19**|**AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games**|Joshua B. Tenenbaum Team|[2602.17594](http://arxiv.org/abs/2602.17594)|null|
 |**2026-02-19**|**LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs**|Zongyuan Ge Team|[2602.17535](http://arxiv.org/abs/2602.17535)|null|
 |**2026-02-19**|**Selective Training for Large Vision Language Models via Visual Information Gain**|Sangheum Hwang Team|[2602.17186](http://arxiv.org/abs/2602.17186)|null|
 |**2026-02-18**|**Narrow fine-tuning erodes safety alignment in vision-language agents**|Shivam Raval Team|[2602.16931](http://arxiv.org/abs/2602.16931)|null|
-|**2026-02-18**|**MALLVI: a multi agent framework for integrated generalized robotics manipulation**|Babak Khalaj Team|[2602.16898](http://arxiv.org/abs/2602.16898)|null|
+|**2026-02-20**|**MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation**|Babak Khalaj Team|[2602.16898](http://arxiv.org/abs/2602.16898)|null|
 |**2026-02-18**|**DODO: Discrete OCR Diffusion Models**|Niv Nayman Team|[2602.16872](http://arxiv.org/abs/2602.16872)|null|
 |**2026-02-18**|**Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**|Jundong Li Team|[2602.16702](http://arxiv.org/abs/2602.16702)|null|
 |**2026-02-18**|**A Contrastive Learning Framework Empowered by Attention-based Feature Adaptation for Street-View Image Classification**|James Haworth Team|[2602.16590](http://arxiv.org/abs/2602.16590)|null|
@@ -5028,12 +5044,16 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**How Fast Can I Run My VLA? Demystifying VLA Inference Performance with VLA-Perf**|Christos Kozyrakis Team|[2602.18397](http://arxiv.org/abs/2602.18397)|null|
+|**2026-02-20**|**SimVLA: A Simple VLA Baseline for Robotic Manipulation**|Zhenguo Li Team|[2602.18224](http://arxiv.org/abs/2602.18224)|null|
+|**2026-02-20**|**UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models**|Liang Wang Team|[2602.18020](http://arxiv.org/abs/2602.18020)|null|
+|**2026-02-20**|**ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models**|Ang Li Team|[2602.17951](http://arxiv.org/abs/2602.17951)|null|
 |**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Mingyu Ding Team|[2602.17659](http://arxiv.org/abs/2602.17659)|**[link](https://vla-va.github.io/)**|
 |**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Linxi Fan Team|[2602.16710](http://arxiv.org/abs/2602.16710)|null|
 |**2026-02-17**|**World Action Models are Zero-shot Policies**|Joel Jang Team|[2602.15922](http://arxiv.org/abs/2602.15922)|**[link](https://dreamzero0.github.io/)**|
@@ -5773,7 +5793,7 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 ## Humanoid
 
@@ -6157,12 +6177,14 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Gordon Wetzstein Team|[2602.18422](http://arxiv.org/abs/2602.18422)|**[link](https://codeysun.github.io/generated-reality)**|
+|**2026-02-20**|**WHED: A Wearable Hand Exoskeleton for Natural, High-Quality Demonstration Collection**|Dennis W. Hong Team|[2602.17908](http://arxiv.org/abs/2602.17908)|null|
 |**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Mingyu Ding Team|[2602.16712](http://arxiv.org/abs/2602.16712)|**[link](https://zhenyuwei2003.github.io/OHRA/)**|
 |**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Linxi Fan Team|[2602.16710](http://arxiv.org/abs/2602.16710)|null|
 |**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Shubham Tulsiani Team|[2602.15828](http://arxiv.org/abs/2602.15828)|**[link](https://dex4d.github.io/)**|
@@ -6415,5 +6437,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
