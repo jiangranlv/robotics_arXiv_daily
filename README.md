@@ -16,6 +16,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation**|Chuan Wen Team|[2603.02139](http://arxiv.org/abs/2603.02139)|null|
+|**2026-03-02**|**Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons**|Jesse Zhang Team|[2603.02115](http://arxiv.org/abs/2603.02115)|null|
+|**2026-03-02**|**ACDC: Adaptive Curriculum Planning with Dynamic Contrastive Control for Goal-Conditioned Reinforcement Learning in Robotic Manipulation**|Hengyan Liu Team|[2603.02104](http://arxiv.org/abs/2603.02104)|**[link](https://github.com/Xuerui-Wang-oss/Adaptive-Curriculum-Learning-and-Dynamic-Contrastive-Control)**|
+|**2026-03-02**|**Closed-Loop Action Chunks with Dynamic Corrections for Training-Free Diffusion Policy**|Xuelong Li Team|[2603.01953](http://arxiv.org/abs/2603.01953)|null|
+|**2026-03-02**|**ROSER: Few-Shot Robotic Sequence Retrieval for Scalable Robot Learning**|Cristian Meo Team|[2603.01474](http://arxiv.org/abs/2603.01474)|null|
+|**2026-03-02**|**Mean-Flow based One-Step Vision-Language-Action**|Bin Zhao Team|[2603.01469](http://arxiv.org/abs/2603.01469)|null|
+|**2026-03-02**|**Non-Markovian Long-Horizon Robot Manipulation via Keyframe Chaining**|Heng Tao Shen Team|[2603.01465](http://arxiv.org/abs/2603.01465)|null|
+|**2026-03-02**|**Scaling Tasks, Not Samples: Mastering Humanoid Control through Multi-Task Model-Based Reinforcement Learning**|Le Xie Team|[2603.01452](http://arxiv.org/abs/2603.01452)|null|
+|**2026-03-01**|**Hybrid TD3: Overestimation Bias Analysis and Stable Policy Optimization for Hybrid Action Space**|Xiem HoangVan Team|[2603.01302](http://arxiv.org/abs/2603.01302)|null|
+|**2026-03-01**|**RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design**|Ping Luo Team|[2603.01229](http://arxiv.org/abs/2603.01229)|**[link](https://rmbench.github.io/)**|
+|**2026-03-01**|**ArtLLM: Generating Articulated Assets via 3D LLM**|Jiayuan Gu Team|[2603.01142](http://arxiv.org/abs/2603.01142)|null|
+|**2026-03-01**|**Compact Task-Aligned Imitation Learning for Laboratory Automation**|Tetsuya Ogata Team|[2603.01110](http://arxiv.org/abs/2603.01110)|null|
+|**2026-03-01**|**DAM-VLA: A Dynamic Action Model-Based Vision-Language-Action Framework for Robot Manipulation**|Daehyun Ji Team|[2603.00926](http://arxiv.org/abs/2603.00926)|null|
+|**2026-03-01**|**Minimalist Compliance Control**|Shuran Song Team|[2603.00913](http://arxiv.org/abs/2603.00913)|**[link](https://minimalist-compliance-control.github.io/)**|
+|**2026-03-01**|**A Novel Reconfigurable Dexterous Hand Based on Triple-Symmetric Bricard Parallel Mechanism**|Dan Zhang Team|[2603.00892](http://arxiv.org/abs/2603.00892)|null|
+|**2026-02-28**|**COMBAT: Conditional World Models for Behavioral Agent Training**|Spencer Frazier Team|[2603.00825](http://arxiv.org/abs/2603.00825)|null|
+|**2026-02-28**|**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**|Jingya Wang Team|[2603.00732](http://arxiv.org/abs/2603.00732)|null|
+|**2026-02-28**|**TGM-VLA: Task-Guided Mixup for Sampling-Efficient and Robust Robotic Manipulation**|Wenming Yang Team|[2603.00615](http://arxiv.org/abs/2603.00615)|null|
+|**2026-02-28**|**Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation**|Yuan Xie Team|[2603.00500](http://arxiv.org/abs/2603.00500)|null|
 |**2026-02-27**|**Planning from Observation and Interaction**|Byron Boots Team|[2602.24121](http://arxiv.org/abs/2602.24121)|null|
 |**2026-02-27**|**ABPolicy: Asynchronous B-Spline Flow Policy for Real-Time and Smooth Robotic Manipulation**|Yuting Su Team|[2602.23901](http://arxiv.org/abs/2602.23901)|null|
 |**2026-02-27**|**Hybrid Offline-Online Reinforcement Learning for Sensorless, High-Precision Force Regulation in Surgical Robotic Grasping**|Cesare Stefanini Team|[2602.23870](http://arxiv.org/abs/2602.23870)|null|
@@ -1965,6 +1984,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens**|Xingjun Ma Team|[2603.02138](http://arxiv.org/abs/2603.02138)|**[link](https://openvglab.github.io/OmniLottie/)**|
+|**2026-03-02**|**Recursive Think-Answer Process for LLMs and VLMs**|Yong Man Ro Team|[2603.02099](http://arxiv.org/abs/2603.02099)|**[link](https://litcoderr.github.io/rtap_page/)**|
+|**2026-03-02**|**Learning to Read Where to Look: Disease-Aware Vision-Language Pretraining for 3D CT**|Thomas Brox Team|[2603.02026](http://arxiv.org/abs/2603.02026)|null|
+|**2026-03-02**|**Semantic Similarity is a Spurious Measure of Comic Understanding: Lessons Learned from Hallucinations in a Benchmarking Experiment**|Bonnie Dorr Team|[2603.01950](http://arxiv.org/abs/2603.01950)|null|
+|**2026-03-02**|**FireRed-OCR Technical Report**|Changhao Qiao Team|[2603.01840](http://arxiv.org/abs/2603.01840)|null|
+|**2026-03-02**|**SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph**|Fei Wen Team|[2603.01813](http://arxiv.org/abs/2603.01813)|null|
+|**2026-03-02**|**Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning**|Kaifu Zhang Team|[2603.01696](http://arxiv.org/abs/2603.01696)|null|
+|**2026-03-02**|**MVR: Multi-view Video Reward Shaping for Reinforcement Learning**|Qing Li Team|[2603.01694](http://arxiv.org/abs/2603.01694)|null|
+|**2026-03-02**|**Learning Structured Reasoning via Tractable Trajectory Control**|Kai-Wei Chang Team|[2603.01641](http://arxiv.org/abs/2603.01641)|null|
+|**2026-03-02**|**Measuring What VLMs Don't Say: Validation Metrics Hide Clinical Terminology Erasure in Radiology Report Generation**|Stella Frank Team|[2603.01625](http://arxiv.org/abs/2603.01625)|null|
+|**2026-03-02**|**Sparse View Distractor-Free Gaussian Splatting**|Renjing Xu Team|[2603.01603](http://arxiv.org/abs/2603.01603)|null|
+|**2026-03-02**|**Retrieval, Refinement, and Ranking for Text-to-Video Generation via Prompt Optimization and Test-Time Scaling**|Cristian Meo Team|[2603.01509](http://arxiv.org/abs/2603.01509)|null|
+|**2026-03-02**|**SFCo-Nav: Efficient Zero-Shot Visual Language Navigation via Collaboration of Slow LLM and Fast Attributed Graph Alignment**|Ling Pei Team|[2603.01477](http://arxiv.org/abs/2603.01477)|null|
+|**2026-03-02**|**Securing the Floor and Raising the Ceiling: A Merging-based Paradigm for Multi-modal Search Agents**|Yong Li Team|[2603.01416](http://arxiv.org/abs/2603.01416)|null|
+|**2026-03-01**|**When Does RL Help Medical VLMs? Disentangling Vision, SFT, and RL Gains**|Babak Taati Team|[2603.01301](http://arxiv.org/abs/2603.01301)|null|
+|**2026-03-01**|**MOSAIC: A Unified Platform for Cross-Paradigm Comparison and Evaluation of Homogeneous and Heterogeneous Multi-Agent RL, LLM, VLM, and Human Decision-Makers**|Ming Liu Team|[2603.01260](http://arxiv.org/abs/2603.01260)|null|
+|**2026-03-01**|**AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models**|Kyeongbo Kong Team|[2603.01236](http://arxiv.org/abs/2603.01236)|null|
+|**2026-03-01**|**Towards Policy-Adaptive Image Guardrail: Benchmark and Method**|Shuigeng Zhou Team|[2603.01228](http://arxiv.org/abs/2603.01228)|null|
+|**2026-03-01**|**Monocular 3D Object Position Estimation with VLMs for Human-Robot Interaction**|Sebastian Bosse Team|[2603.01224](http://arxiv.org/abs/2603.01224)|null|
+|**2026-03-01**|**TC-SSA: Token Compression via Semantic Slot Aggregation for Gigapixel Pathology Reasoning**|Lijian Xu Team|[2603.01143](http://arxiv.org/abs/2603.01143)|null|
 |**2026-02-27**|**Toward Guarantees for Clinical Reasoning in Vision Language Models via Formal Verification**|Gourav Datta Team|[2602.24111](http://arxiv.org/abs/2602.24111)|null|
 |**2026-02-27**|**Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization**|Hongbin Sun Team|[2602.24059](http://arxiv.org/abs/2602.24059)|null|
 |**2026-02-27**|**GuardAlign: Test-time Safety Alignment in Multimodal Large Language Models**|Xiangnan He Team|[2602.24027](http://arxiv.org/abs/2602.24027)|null|
@@ -5195,6 +5234,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**$π$ -StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs**|Jun Wang Team|[2603.02083](http://arxiv.org/abs/2603.02083)|null|
+|**2026-03-02**|**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**|Fuxi Wen Team|[2603.01928](http://arxiv.org/abs/2603.01928)|null|
+|**2026-03-02**|**Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models**|Sheng Zhong Team|[2603.01766](http://arxiv.org/abs/2603.01766)|null|
+|**2026-03-02**|**KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models**|Xiang Chen Team|[2603.01581](http://arxiv.org/abs/2603.01581)|null|
+|**2026-03-02**|**Pri4R: Learning World Dynamics for Vision-Language-Action Models with Privileged 4D Representation**|Seungryong Kim Team|[2603.01549](http://arxiv.org/abs/2603.01549)|null|
+|**2026-03-02**|**ATA: Bridging Implicit Reasoning with Attention-Guided and Action-Guided Inference for Vision-Language Action Models**|Bo Yuan Team|[2603.01490](http://arxiv.org/abs/2603.01490)|null|
+|**2026-03-02**|**Mean-Flow based One-Step Vision-Language-Action**|Bin Zhao Team|[2603.01469](http://arxiv.org/abs/2603.01469)|null|
+|**2026-03-02**|**Non-Markovian Long-Horizon Robot Manipulation via Keyframe Chaining**|Heng Tao Shen Team|[2603.01465](http://arxiv.org/abs/2603.01465)|null|
+|**2026-03-02**|**Unifying Language-Action Understanding and Generation for Autonomous Driving**|Wei Chen Team|[2603.01441](http://arxiv.org/abs/2603.01441)|null|
+|**2026-03-01**|**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**|Fuxi Wen Team|[2603.01063](http://arxiv.org/abs/2603.01063)|null|
+|**2026-03-01**|**DAM-VLA: A Dynamic Action Model-Based Vision-Language-Action Framework for Robot Manipulation**|Daehyun Ji Team|[2603.00926](http://arxiv.org/abs/2603.00926)|null|
+|**2026-02-28**|**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**|Jingya Wang Team|[2603.00732](http://arxiv.org/abs/2603.00732)|null|
+|**2026-02-28**|**Keyframe-Guided Structured Rewards for Reinforcement Learning in Long-Horizon Laboratory Robotics**|Mingzhai Sun Team|[2603.00719](http://arxiv.org/abs/2603.00719)|null|
+|**2026-02-28**|**LangGap: Diagnosing and Closing the Language Gap in Vision-Language-Action Models**|Lin Zhao Team|[2603.00592](http://arxiv.org/abs/2603.00592)|**[link](https://github.com/YC11Hou/langgap)**|
+|**2026-02-26**|**Embedding Morphology into Transformers for Cross-Robot Policy Learning**|Toshiaki Koike-Akino Team|[2603.00182](http://arxiv.org/abs/2603.00182)|null|
 |**2026-02-27**|**Robust Skills, Brittle Grounding: Diagnosing Restricted Generalization in Vision-Language Action Policies via Multi-Object Picking**|Jean-Michel Renders Team|[2602.24143](http://arxiv.org/abs/2602.24143)|null|
 |**2026-02-27**|**StemVLA:An Open-Source Vision-Language-Action Model with Future 3D Spatial Geometry Knowledge and 4D Historical Representation**|Ziang Tong Team|[2602.23721](http://arxiv.org/abs/2602.23721)|null|
 |**2026-02-27**|**FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation**|Yanyong Zhang Team|[2602.23648](http://arxiv.org/abs/2602.23648)|null|
@@ -5974,6 +6028,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**Spherical Latent Motion Prior for Physics-Based Simulated Humanoid Control**|Renjing Xu Team|[2603.01294](http://arxiv.org/abs/2603.01294)|null|
+|**2026-03-01**|**Pro-HOI: Perceptive Root-guided Humanoid-Object Interaction**|Xuelong Li Team|[2603.01126](http://arxiv.org/abs/2603.01126)|null|
+|**2026-03-01**|**Minimalist Compliance Control**|Shuran Song Team|[2603.00913](http://arxiv.org/abs/2603.00913)|**[link](https://minimalist-compliance-control.github.io/)**|
 |**2026-02-27**|**Humanoid Robots as First Assistants in Endoscopic Surgery**|Mathias Unberath Team|[2602.24156](http://arxiv.org/abs/2602.24156)|null|
 |**2026-02-27**|**OmniTrack: General Motion Tracking via Physics-Consistent Reference**|Siyuan Huang Team|[2602.23832](http://arxiv.org/abs/2602.23832)|**[link](https://omnitrack-humanoid.github.io/)**|
 |**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Taku Komura Team|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
@@ -6364,6 +6421,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Rethinking Policy Diversity in Ensemble Policy Gradient in Large-Scale Reinforcement Learning**|Takayuki Osa Team|[2603.01741](http://arxiv.org/abs/2603.01741)|**[link](https://naoki04.github.io/paper-cpo/)**|
+|**2026-03-02**|**PhysGraph: Physically-Grounded Graph-Transformer Policies for Bimanual Dexterous Hand-Tool-Object Manipulation**|Truong Nguyen Team|[2603.01436](http://arxiv.org/abs/2603.01436)|null|
+|**2026-03-01**|**Minimalist Compliance Control**|Shuran Song Team|[2603.00913](http://arxiv.org/abs/2603.00913)|**[link](https://minimalist-compliance-control.github.io/)**|
+|**2026-03-01**|**A Novel Reconfigurable Dexterous Hand Based on Triple-Symmetric Bricard Parallel Mechanism**|Dan Zhang Team|[2603.00892](http://arxiv.org/abs/2603.00892)|null|
+|**2026-02-28**|**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**|Jingya Wang Team|[2603.00732](http://arxiv.org/abs/2603.00732)|null|
 |**2026-02-26**|**Grasp, Slide, Roll: Comparative Analysis of Contact Modes for Tactile-Based Shape Reconstruction**|Joshua Migdal Team|[2602.23206](http://arxiv.org/abs/2602.23206)|null|
 |**2026-02-26**|**DigiArm: An Anthropomorphic 3D-Printed Prosthetic Hand with Enhanced Dexterity for Typing Tasks**|Nili Krausz Team|[2602.23017](http://arxiv.org/abs/2602.23017)|null|
 |**2026-02-25**|**DexRepNet++: Learning Dexterous Robotic Manipulation with Geometric and Spatial Hand-Object Representations**|Qi Ye Team|[2602.21811](http://arxiv.org/abs/2602.21811)|null|
