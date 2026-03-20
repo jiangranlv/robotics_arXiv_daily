@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|Ziwei Liu Team|[2603.19231](http://arxiv.org/abs/2603.19231)|**[link](https://lihaitian.com/MonoArt)**|
+|**2026-03-19**|**OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation**|Wenchao Ding Team|[2603.19201](http://arxiv.org/abs/2603.19201)|**[link](https://mrsecant.github.io/OmniVTA)**|
+|**2026-03-19**|**Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models**|Mac Schwager Team|[2603.19183](http://arxiv.org/abs/2603.19183)|null|
+|**2026-03-19**|**Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning**|Josiah Hanna Team|[2603.19078](http://arxiv.org/abs/2603.19078)|null|
+|**2026-03-19**|**Safety-Guaranteed Imitation Learning from Nonlinear Model Predictive Control for Spacecraft Close Proximity Operations**|Alen Turnwald Team|[2603.18910](http://arxiv.org/abs/2603.18910)|null|
 |**2026-03-19**|**V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors**|Yang Gao Team|[2603.18811](http://arxiv.org/abs/2603.18811)|null|
 |**2026-03-19**|**ViTac-Tracing: Visual-Tactile Imitation Learning of Deformable Object Tracing**|Shan Luo Team|[2603.18784](http://arxiv.org/abs/2603.18784)|null|
 |**2026-03-19**|**MemoAct: Atkinson-Shiffrin-Inspired Memory-Augmented Visuomotor Policy for Robotic Manipulation**|Gangshan Jing Team|[2603.18494](http://arxiv.org/abs/2603.18494)|null|
@@ -2171,6 +2176,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**|Paola Cascante-Bonilla Team|[2603.19209](http://arxiv.org/abs/2603.19209)|**[link](https://lab-spell.github.io/vlm-ssm-vision-encoders/)**|
+|**2026-03-19**|**Tinted Frames: Question Framing Blinds Vision-Language Models**|Ritwik Gupta Team|[2603.19203](http://arxiv.org/abs/2603.19203)|**[link](https://davidhalladay.github.io/tinted_frames_demo/)**|
+|**2026-03-19**|**Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation**|Nakul Gopalan Team|[2603.19166](http://arxiv.org/abs/2603.19166)|**[link](https://lakshya-asu.github.io/Meanings-Measurements-Multi-Agent-Probabilistic-Grounding/)**|
+|**2026-03-19**|**GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning**|Yu Yin Team|[2603.19137](http://arxiv.org/abs/2603.19137)|**[link](https://vulab-ai.github.io/GSMem/)**|
+|**2026-03-19**|**TAU-R1: Visual Language Model for Traffic Anomaly Understanding**|Nic Zhang Team|[2603.19098](http://arxiv.org/abs/2603.19098)|null|
+|**2026-03-19**|**SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues**|Bernard Ghanem Team|[2603.19092](http://arxiv.org/abs/2603.19092)|null|
+|**2026-03-19**|**SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation**|Phong Nguyen Team|[2603.19053](http://arxiv.org/abs/2603.19053)|null|
+|**2026-03-19**|**TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation**|Paolo Rota Team|[2603.19039](http://arxiv.org/abs/2603.19039)|null|
+|**2026-03-19**|**SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models**|Massimiliano Mancini Team|[2603.19028](http://arxiv.org/abs/2603.19028)|**[link](https://sparse-embedding-modulation.github.io/)**|
+|**2026-03-19**|**MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction**|Michael Gienger Team|[2603.18988](http://arxiv.org/abs/2603.18988)|null|
 |**2026-03-19**|**MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**|Sung Ju Hwang Team|[2603.18892](http://arxiv.org/abs/2603.18892)|**[link](https://youngwanlee.github.io/multihopspatial)**|
 |**2026-03-19**|**HORNet: Task-Guided Frame Selection for Video Question Answering with Vision-Language Models**|Sarah Ostadabbas Team|[2603.18850](http://arxiv.org/abs/2603.18850)|null|
 |**2026-03-19**|**Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation**|Garin Kessler Team|[2603.18795](http://arxiv.org/abs/2603.18795)|null|
@@ -5704,6 +5719,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Peng Wang Team|[2603.19233](http://arxiv.org/abs/2603.19233)|null|
+|**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Jiwen Lu Team|[2603.19219](http://arxiv.org/abs/2603.19219)|**[link](https://paryi555.github.io/DriveTok/)**|
+|**2026-03-19**|**FASTER: Rethinking Real-Time Flow VLAs**|Hengshuang Zhao Team|[2603.19199](http://arxiv.org/abs/2603.19199)|**[link](https://innovator-zero.github.io/FASTER)**|
+|**2026-03-19**|**Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models**|Mac Schwager Team|[2603.19183](http://arxiv.org/abs/2603.19183)|null|
+|**2026-03-19**|**From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models**|Chaojian Li Team|[2603.19131](http://arxiv.org/abs/2603.19131)|null|
 |**2026-03-19**|**MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**|Sung Ju Hwang Team|[2603.18892](http://arxiv.org/abs/2603.18892)|**[link](https://youngwanlee.github.io/multihopspatial)**|
 |**2026-03-19**|**Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds**|Wei Xu Team|[2603.18532](http://arxiv.org/abs/2603.18532)|null|
 |**2026-03-19**|**AcceRL: A Distributed Asynchronous Reinforcement Learning and World Model Framework for Vision-Language-Action Models**|Yang Liu Team|[2603.18464](http://arxiv.org/abs/2603.18464)|null|
