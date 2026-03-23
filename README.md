@@ -2178,6 +2178,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Adaptive Greedy Frame Selection for Long Video Understanding**|Fengqing Zhu Team|[2603.20180](http://arxiv.org/abs/2603.20180)|null|
+|**2026-03-20**|**The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning**|Kwanghyun Park Team|[2603.20164](http://arxiv.org/abs/2603.20164)|**[link](https://limjiyu99.github.io/inner-critic/)**|
 |**2026-03-20**|**HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction**|Guang Yang Team|[2603.19957](http://arxiv.org/abs/2603.19957)|null|
 |**2026-03-20**|**IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment**|Andrew D. Bagdanov Team|[2603.19862](http://arxiv.org/abs/2603.19862)|null|
 |**2026-03-20**|**Beyond detection: cooperative multi-agent reasoning for rapid onboard EO crisis response**|Julian Cobos Aparicio Team|[2603.19858](http://arxiv.org/abs/2603.19858)|**[link](https://atpi.eventsair.com/4s-symposium-2026/))**|
