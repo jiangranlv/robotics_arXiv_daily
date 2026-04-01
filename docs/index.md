@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**SafeDMPs: Integrating Formal Safety with DMPs for Adaptive HRI**|Ravi Prakash Team|[2603.29708](http://arxiv.org/abs/2603.29708)|null|
+|**2026-03-31**|**RAAP: Retrieval-Augmented Affordance Prediction with Cross-Image Action Alignment**|Xiu-Shen Wei Team|[2603.29419](http://arxiv.org/abs/2603.29419)|null|
+|**2026-03-31**|**CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics**|Sung-Eui Yoon Team|[2603.29409](http://arxiv.org/abs/2603.29409)|**[link](https://andrewwwj.github.io/clad)**|
+|**2026-03-31**|**Long-Reach Robotic Manipulation for Assembly and Outfitting of Lunar Structures**|Mark Cutkosky Team|[2603.29226](http://arxiv.org/abs/2603.29226)|null|
+|**2026-03-31**|**Sampling-Horizon Neural Operator Predictors for Nonlinear Control under Delayed Inputs**|Yuanyuan Shi Team|[2603.29119](http://arxiv.org/abs/2603.29119)|null|
+|**2026-03-31**|**HCLSM: Hierarchical Causal Latent State Machines for Object-Centric World Modeling**|Osama Jaber Team|[2603.29090](http://arxiv.org/abs/2603.29090)|**[link](https://github.com/rightnow-ai/hclsm)**|
 |**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Ondrej Biza Team|[2603.28730](http://arxiv.org/abs/2603.28730)|null|
 |**2026-03-30**|**ManipArena: Comprehensive Real-world Evaluation of Reasoning-Oriented Generalist Robot Manipulation**|Xiaodan Liang Team|[2603.28545](http://arxiv.org/abs/2603.28545)|null|
 |**2026-03-30**|**Feel Robot Feels: Tactile Feedback Array Glove for Dexterous Manipulation**|Jiangmiao Pang Team|[2603.28542](http://arxiv.org/abs/2603.28542)|null|
@@ -2227,6 +2233,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Jan Schagen Team|[2603.29777](http://arxiv.org/abs/2603.29777)|null|
+|**2026-03-31**|**TSHA: A Benchmark for Visual Language Models in Trustworthy Safety Hazard Assessment Scenarios**|Xin Tan Team|[2603.29759](http://arxiv.org/abs/2603.29759)|null|
+|**2026-03-31**|**A Comprehensive Information-Decomposition Analysis of Large Vision-Language Models**|Hideki Nakayama Team|[2603.29676](http://arxiv.org/abs/2603.29676)|**[link](https://riishin.github.io/pid-lvlm-iclr26/)**|
+|**2026-03-31**|**Storing Less, Finding More: How Novelty Filtering Improves Cross-Modal Retrieval on Edge Cameras**|Sherif Abdelwahab Team|[2603.29631](http://arxiv.org/abs/2603.29631)|null|
+|**2026-03-31**|**Calibrated Confidence Expression for Radiology Report Generation**|Matthias Keicher Team|[2603.29492](http://arxiv.org/abs/2603.29492)|null|
+|**2026-03-31**|**SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering**|Dan Zeng Team|[2603.29437](http://arxiv.org/abs/2603.29437)|null|
+|**2026-03-31**|**Seeing the Evidence, Missing the Answer: Tool-Guided Vision-Language Models on Visual Illusions**|Harry Wang Team|[2603.29428](http://arxiv.org/abs/2603.29428)|**[link](https://github.com/Davidxswang/cvpr_2026_datacv_submission)**|
+|**2026-03-31**|**AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models**|Zheng Zhang Team|[2603.29410](http://arxiv.org/abs/2603.29410)|**[link](https://github.com/YuboCui/AGFT})**|
+|**2026-03-31**|**Hallucination-aware intermediate representation edit in large vision-language models**|Yanning Zhang Team|[2603.29405](http://arxiv.org/abs/2603.29405)|null|
+|**2026-03-31**|**PRISM: A Multi-View Multi-Capability Retail Video Dataset for Embodied Vision-Language Models**|Sashi Reddi Team|[2603.29281](http://arxiv.org/abs/2603.29281)|null|
+|**2026-03-31**|**ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation**|Yonghang Tai Team|[2603.29271](http://arxiv.org/abs/2603.29271)|null|
+|**2026-03-31**|**Omni-NegCLIP: Enhancing CLIP with Front-Layer Contrastive Fine-Tuning for Comprehensive Negation Understanding**|Jingqi Xu Team|[2603.29258](http://arxiv.org/abs/2603.29258)|null|
+|**2026-03-31**|**VueBuds: Visual Intelligence with Wireless Earbuds**|Shyamnath Gollakota Team|[2603.29095](http://arxiv.org/abs/2603.29095)|null|
+|**2026-03-30**|**ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts**|Rongtian Ye Team|[2603.28902](http://arxiv.org/abs/2603.28902)|null|
+|**2026-03-30**|**A Semantic Observer Layer for Autonomous Vehicles: Pre-Deployment Feasibility Study of VLMs for Low-Latency Anomaly Detection**|Aliasghar Arab Team|[2603.28888](http://arxiv.org/abs/2603.28888)|null|
 |**2026-03-30**|**See it to Place it: Evolving Macro Placements with Vision-Language Models**|Vincent Zhuang Team|[2603.28733](http://arxiv.org/abs/2603.28733)|null|
 |**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Ondrej Biza Team|[2603.28730](http://arxiv.org/abs/2603.28730)|null|
 |**2026-03-30**|**AMIGO: Agentic Multi-Image Grounding Oracle Benchmark**|Ata Mahjoubfar Team|[2603.28662](http://arxiv.org/abs/2603.28662)|null|
@@ -7310,6 +7331,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Retargeting**|Zhen Kan Team|[2603.29213](http://arxiv.org/abs/2603.29213)|null|
 |**2026-03-30**|**FocusVLA: Focused Visual Utilization for Vision-Language-Action Models**|Jia Wan Team|[2603.28740](http://arxiv.org/abs/2603.28740)|null|
 |**2026-03-30**|**Feel Robot Feels: Tactile Feedback Array Glove for Dexterous Manipulation**|Jiangmiao Pang Team|[2603.28542](http://arxiv.org/abs/2603.28542)|null|
 |**2026-03-30**|**Tele-Catch: Adaptive Teleoperation for Dexterous Dynamic 3D Object Catching**|Kaizhu Huang Team|[2603.28427](http://arxiv.org/abs/2603.28427)|null|
