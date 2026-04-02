@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**Deep Reinforcement Learning for Robotic Manipulation under Distribution Shift with Bounded Extremum Seeking**|Alexander Scheinker Team|[2604.01142](http://arxiv.org/abs/2604.01142)|null|
+|**2026-04-01**|**BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control**|Sehoon Ha Team|[2604.01064](http://arxiv.org/abs/2604.01064)|null|
+|**2026-04-01**|**EgoSim: Egocentric World Simulator for Embodied Interaction Generation**|Xudong Xu Team|[2604.01001](http://arxiv.org/abs/2604.01001)|null|
 |**2026-04-01**|**How to Train your Tactile Model: Tactile Perception with Multi-fingered Robot Hands**|Efi Psomopoulou Team|[2604.00744](http://arxiv.org/abs/2604.00744)|null|
 |**2026-04-01**|**A Survey of On-Policy Distillation for Large Language Models**|Mao Zheng Team|[2604.00626](http://arxiv.org/abs/2604.00626)|null|
 |**2026-04-01**|**A Physical Imitation Learning Pipeline for Energy-Efficient Quadruped Locomotion Assisted by Parallel Elastic Joint**|Rui Wu Team|[2604.00611](http://arxiv.org/abs/2604.00611)|null|
@@ -2250,6 +2253,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems**|J. E. Domínguez-Vidal Team|[2604.01179](http://arxiv.org/abs/2604.01179)|null|
+|**2026-04-01**|**Lightweight Prompt-Guided CLIP Adaptation for Monocular Depth Estimation**|Jie Liang Team|[2604.01118](http://arxiv.org/abs/2604.01118)|null|
+|**2026-04-01**|**PDA: Text-Augmented Defense Framework for Robust Vision-Language Models against Adversarial Image Attacks**|Chen Liu Team|[2604.01010](http://arxiv.org/abs/2604.01010)|null|
 |**2026-04-01**|**ACT Now: Preempting LVLM Hallucinations via Adaptive Context Integration**|Xilin Chen Team|[2604.00983](http://arxiv.org/abs/2604.00983)|null|
 |**2026-04-01**|**Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment**|Yu Xiao Team|[2604.00913](http://arxiv.org/abs/2604.00913)|null|
 |**2026-04-01**|**ProCap: Projection-Aware Captioning for Spatial Augmented Reality**|Bingyao Huang Team|[2604.00912](http://arxiv.org/abs/2604.00912)|null|
@@ -6939,6 +6945,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control**|Sehoon Ha Team|[2604.01064](http://arxiv.org/abs/2604.01064)|null|
 |**2026-04-01**|**Learning Humanoid Navigation from Human Data**|Monroe Kennedy Team|[2604.00416](http://arxiv.org/abs/2604.00416)|null|
 |**2026-03-31**|**DreamControl-v2: Simpler and Scalable Autonomous Humanoid Skills via Trainable Guided Diffusion Priors**|Jonathan Chung-Kuan Huang Team|[2604.00202](http://arxiv.org/abs/2604.00202)|null|
 |**2026-03-31**|**Advancing Multi-Robot Networks via MLLM-Driven Sensing, Communication, and Computation: A Comprehensive Survey**|Byonghyo Shim Team|[2604.00061](http://arxiv.org/abs/2604.00061)|null|
