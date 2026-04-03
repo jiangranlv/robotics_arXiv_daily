@@ -2260,6 +2260,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Steerable Visual Representations**|Yuki M. Asano Team|[2604.02327](http://arxiv.org/abs/2604.02327)|null|
+|**2026-04-02**|**VOID: Video Object and Interaction Deletion**|Ta-Ying Cheng Team|[2604.02296](http://arxiv.org/abs/2604.02296)|null|
+|**2026-04-02**|**SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation**|Giorgos Tolias Team|[2604.02252](http://arxiv.org/abs/2604.02252)|null|
 |**2026-04-02**|**UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving**|Xinggang Wang Team|[2604.02190](http://arxiv.org/abs/2604.02190)|**[link](https://github.com/xiaomi-research/unidrivevla)**|
 |**2026-04-02**|**Mining Instance-Centric Vision-Language Contexts for Human-Object Interaction Detection**|Jun Won Choi Team|[2604.02071](http://arxiv.org/abs/2604.02071)|**[link](https://github.com/nowuss/InCoM-Net)**|
 |**2026-04-02**|**Jagle: Building a Large-Scale Japanese Multimodal Post-Training Dataset for Vision-Language Models**|Naoaki Okazaki Team|[2604.02048](http://arxiv.org/abs/2604.02048)|null|
@@ -6016,6 +6019,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Yonglin Tian Team|[2604.02241](http://arxiv.org/abs/2604.02241)|null|
 |**2026-04-02**|**UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving**|Xinggang Wang Team|[2604.02190](http://arxiv.org/abs/2604.02190)|**[link](https://github.com/xiaomi-research/unidrivevla)**|
 |**2026-04-02**|**DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning**|Steven L. Waslander Team|[2604.01765](http://arxiv.org/abs/2604.01765)|**[link](https://drivedreamer-policy.github.io/)**|
 |**2026-04-02**|**Causal Scene Narration with Runtime Safety Supervision for Vision-Language-Action Driving**|Manabu Tsukada Team|[2604.01723](http://arxiv.org/abs/2604.01723)|null|
