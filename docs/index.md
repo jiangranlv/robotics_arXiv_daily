@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Tieniu Tan Team|[2604.03181](http://arxiv.org/abs/2604.03181)|**[link](https://lpy1219.github.io/MV-VDP-Web/)**|
+|**2026-04-03**|**ARM: Advantage Reward Modeling for Long-Horizon Manipulation**|Hua Chen Team|[2604.03037](http://arxiv.org/abs/2604.03037)|null|
+|**2026-04-03**|**Behavior-Constrained Reinforcement Learning with Receding-Horizon Credit Assignment for High-Performance Control**|Jan Peters Team|[2604.03023](http://arxiv.org/abs/2604.03023)|null|
+|**2026-04-03**|**Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision**|Pietro Falco Team|[2604.02812](http://arxiv.org/abs/2604.02812)|null|
+|**2026-04-03**|**ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving**|Liu Ren Team|[2604.02714](http://arxiv.org/abs/2604.02714)|**[link](https://zihaosheng.github.io/ExploreVLA/)**|
+|**2026-04-03**|**Complex-Valued GNNs for Distributed Basis-Invariant Control of Planar Systems**|Kevin Leahy Team|[2604.02615](http://arxiv.org/abs/2604.02615)|null|
+|**2026-04-02**|**Tune to Learn: How Controller Gains Shape Robot Policy Learning**|Pulkit Agrawal Team|[2604.02523](http://arxiv.org/abs/2604.02523)|**[link](https://younghyopark.me/tune-to-learn)**|
+|**2026-04-02**|**F2F-AP: Flow-to-Future Asynchronous Policy for Real-time Dynamic Manipulation**|Jiwen Lu Team|[2604.02408](http://arxiv.org/abs/2604.02408)|null|
 |**2026-04-02**|**Cross-Modal Visuo-Tactile Object Perception**|Mohsen Kaboli Team|[2604.02108](http://arxiv.org/abs/2604.02108)|null|
 |**2026-04-02**|**CompassAD: Intent-Driven 3D Affordance Grounding in Functionally Competing Objects**|Jianfei Yang Team|[2604.02060](http://arxiv.org/abs/2604.02060)|null|
 |**2026-04-02**|**Integrated Identification of Collaborative Robots for Robot Assisted 3D Printing Processes**|Francesco Leali Team|[2604.01991](http://arxiv.org/abs/2604.01991)|null|
@@ -2251,6 +2259,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Salman Khan Team|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
+|**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba Team|[2604.03191](http://arxiv.org/abs/2604.03191)|null|
+|**2026-04-03**|**EffiMiniVLM: A Compact Dual-Encoder Regression Framework**|Yan Chai Hum Team|[2604.03172](http://arxiv.org/abs/2604.03172)|null|
+|**2026-04-03**|**Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models**|Shekhar Jain Team|[2604.03157](http://arxiv.org/abs/2604.03157)|null|
+|**2026-04-03**|**FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation**|Wei Zhang Team|[2604.03139](http://arxiv.org/abs/2604.03139)|null|
+|**2026-04-03**|**Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models**|Wen Yao Team|[2604.03117](http://arxiv.org/abs/2604.03117)|null|
+|**2026-04-03**|**QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection**|Yasin Yilmaz Team|[2604.03040](http://arxiv.org/abs/2604.03040)|null|
+|**2026-04-03**|**Collaborative Multi-Mode Pruning for Vision-Language Models**|Jiaxin Chen Team|[2604.02956](http://arxiv.org/abs/2604.02956)|null|
+|**2026-04-03**|**Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models**|Tunga Bayrak Team|[2604.02893](http://arxiv.org/abs/2604.02893)|null|
+|**2026-04-03**|**InstructTable: Improving Table Structure Recognition Through Instructions**|Pengfei Yan Team|[2604.02880](http://arxiv.org/abs/2604.02880)|null|
+|**2026-04-03**|**MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling**|Jin Gao Team|[2604.02817](http://arxiv.org/abs/2604.02817)|**[link](https://shubolin028.github.io/MMPhysVideo-Page)**|
+|**2026-04-03**|**Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision**|Pietro Falco Team|[2604.02812](http://arxiv.org/abs/2604.02812)|null|
+|**2026-04-03**|**PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis**|Yahong Han Team|[2604.02804](http://arxiv.org/abs/2604.02804)|null|
+|**2026-04-03**|**EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors**|Kei Harada Team|[2604.02784](http://arxiv.org/abs/2604.02784)|null|
+|**2026-04-03**|**Moondream Segmentation: From Words to Masks**|Ethan Reid Team|[2604.02593](http://arxiv.org/abs/2604.02593)|**[link](https://moondream.ai/me/playground)**|
+|**2026-04-02**|**WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models**|Sai Qian Zhang Team|[2604.02570](http://arxiv.org/abs/2604.02570)|null|
+|**2026-04-02**|**Overconfidence and Calibration in Medical VQA: Empirical Findings and Hallucination-Aware Mitigation**|Asma Ben Abacha Team|[2604.02543](http://arxiv.org/abs/2604.02543)|null|
+|**2026-04-02**|**An Explainable Vision-Language Model Framework with Adaptive PID-Tversky Loss for Lumbar Spinal Stenosis Diagnosis**|Md. Golam Rabiul Alam Team|[2604.02502](http://arxiv.org/abs/2604.02502)|null|
+|**2026-04-02**|**VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors**|Yue Dong Team|[2604.02486](http://arxiv.org/abs/2604.02486)|null|
+|**2026-04-02**|**VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation**|Xi Wang Team|[2604.02467](http://arxiv.org/abs/2604.02467)|null|
 |**2026-04-02**|**Steerable Visual Representations**|Yuki M. Asano Team|[2604.02327](http://arxiv.org/abs/2604.02327)|null|
 |**2026-04-02**|**VOID: Video Object and Interaction Deletion**|Ta-Ying Cheng Team|[2604.02296](http://arxiv.org/abs/2604.02296)|null|
 |**2026-04-02**|**SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation**|Giorgos Tolias Team|[2604.02252](http://arxiv.org/abs/2604.02252)|null|
@@ -6008,6 +6036,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba Team|[2604.03191](http://arxiv.org/abs/2604.03191)|null|
+|**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Tieniu Tan Team|[2604.03181](http://arxiv.org/abs/2604.03181)|**[link](https://lpy1219.github.io/MV-VDP-Web/)**|
+|**2026-04-03**|**Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA**|Xiu-Shen Wei Team|[2604.02965](http://arxiv.org/abs/2604.02965)|null|
+|**2026-04-03**|**ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving**|Liu Ren Team|[2604.02714](http://arxiv.org/abs/2604.02714)|**[link](https://zihaosheng.github.io/ExploreVLA/)**|
 |**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Yonglin Tian Team|[2604.02241](http://arxiv.org/abs/2604.02241)|null|
 |**2026-04-02**|**UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving**|Xinggang Wang Team|[2604.02190](http://arxiv.org/abs/2604.02190)|**[link](https://github.com/xiaomi-research/unidrivevla)**|
 |**2026-04-02**|**DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning**|Steven L. Waslander Team|[2604.01765](http://arxiv.org/abs/2604.01765)|**[link](https://drivedreamer-policy.github.io/)**|
@@ -6964,6 +6996,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**A Rapid Instrument Exchange System for Humanoid Robots in Minimally Invasive Surgery**|Lizhi Pan Team|[2604.02707](http://arxiv.org/abs/2604.02707)|null|
+|**2026-04-02**|**A Dynamic Toolkit for Transmission Characteristics of Precision Reducers with Explicit Contact Geometry**|Weidong He Team|[2604.02387](http://arxiv.org/abs/2604.02387)|null|
 |**2026-04-02**|**Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction**|Min Li Team|[2604.01756](http://arxiv.org/abs/2604.01756)|null|
 |**2026-04-01**|**BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control**|Sehoon Ha Team|[2604.01064](http://arxiv.org/abs/2604.01064)|null|
 |**2026-04-01**|**Learning Humanoid Navigation from Human Data**|Monroe Kennedy Team|[2604.00416](http://arxiv.org/abs/2604.00416)|null|
