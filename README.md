@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Feasibility-Aware Imitation Learning for Benders Decomposition**|Prodromos Daoutidis Team|[2604.04801](http://arxiv.org/abs/2604.04801)|null|
+|**2026-04-06**|**Greedy and Transformer-Based Multi-Port Selection for Slow Fluid Antenna Multiple Access**|Luis Castedo Team|[2604.04589](http://arxiv.org/abs/2604.04589)|null|
+|**2026-04-06**|**Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?**|Jianyu Chen Team|[2604.04502](http://arxiv.org/abs/2604.04502)|null|
+|**2026-04-05**|**Learning from Imperfect Demonstrations via Temporal Behavior Tree-Guided Trajectory Repair**|Calin Belta Team|[2604.04225](http://arxiv.org/abs/2604.04225)|null|
+|**2026-04-05**|**Robots Need Some Education: On the complexity of learning in evolutionary robotics**|Fuda van Diggelen Team|[2604.04196](http://arxiv.org/abs/2604.04196)|null|
 |**2026-04-05**|**Adaptive Action Chunking at Inference-time for Vision-Language-Action Models**|Prahlad Vadakkepat Team|[2604.04161](http://arxiv.org/abs/2604.04161)|null|
 |**2026-04-05**|**VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models**|Agoritsa Polyzou Team|[2604.03956](http://arxiv.org/abs/2604.03956)|null|
 |**2026-04-04**|**Build on Priors: Vision--Language--Guided Neuro-Symbolic Imitation Learning for Data-Efficient Real-World Robot Manipulation**|Matthias Scheutz Team|[2604.03759](http://arxiv.org/abs/2604.03759)|null|
@@ -2276,6 +2281,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Rethinking Model Efficiency: Multi-Agent Inference with Large Models**|Qi Qian Team|[2604.04929](http://arxiv.org/abs/2604.04929)|null|
+|**2026-04-06**|**Vero: An Open RL Recipe for General Visual Reasoning**|Zhuang Liu Team|[2604.04917](http://arxiv.org/abs/2604.04917)|**[link](https://vero-reasoning.github.io/)**|
+|**2026-04-06**|**ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality**|Ivan Viola Team|[2604.04905](http://arxiv.org/abs/2604.04905)|null|
+|**2026-04-06**|**Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations**|Vu Minh Hieu Phan Team|[2604.04863](http://arxiv.org/abs/2604.04863)|null|
+|**2026-04-06**|**The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models**|Zhipeng Zhang Team|[2604.04857](http://arxiv.org/abs/2604.04857)|null|
+|**2026-04-06**|**Less Detail, Better Answers: Degradation-Driven Prompting for VQA**|Bohan Zhuang Team|[2604.04838](http://arxiv.org/abs/2604.04838)|null|
+|**2026-04-06**|**Discovering Failure Modes in Vision-Language Models using RL**|Aishwarya Agrawal Team|[2604.04733](http://arxiv.org/abs/2604.04733)|null|
+|**2026-04-06**|**ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration**|Jie Chen Team|[2604.04664](http://arxiv.org/abs/2604.04664)|null|
+|**2026-04-06**|**InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation**|Guansong Pang Team|[2604.04632](http://arxiv.org/abs/2604.04632)|null|
+|**2026-04-06**|**Beyond Semantics: Uncovering the Physics of Fakes via Universal Physical Descriptors for Cross-Modal Synthetic Detection**|Yanyun Qu Team|[2604.04608](http://arxiv.org/abs/2604.04608)|null|
+|**2026-04-06**|**Firebolt-VL: Efficient Vision-Language Understanding with Cross-Modality Modulation**|Debesh Jha Team|[2604.04579](http://arxiv.org/abs/2604.04579)|null|
+|**2026-04-06**|**Visual Prompt Based Reasoning for Offroad Mapping using Multimodal LLMs**|Majid Khonji Team|[2604.04564](http://arxiv.org/abs/2604.04564)|null|
+|**2026-04-06**|**Temporal Inversion for Learning Interval Change in Chest X-Rays**|Chang Min Park Team|[2604.04563](http://arxiv.org/abs/2604.04563)|null|
+|**2026-04-06**|**Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward**|Qi Dou Team|[2604.04500](http://arxiv.org/abs/2604.04500)|null|
+|**2026-04-06**|**Beyond Standard Benchmarks: A Systematic Audit of Vision-Language Model's Robustness to Natural Semantic Variation Across Diverse Tasks**|Isao Echizen Team|[2604.04473](http://arxiv.org/abs/2604.04473)|null|
+|**2026-04-06**|**Responses Fall Short of Understanding: Revealing the Gap between Internal Representations and Responses in Visual Document Understanding**|Kyosuke Nishida Team|[2604.04411](http://arxiv.org/abs/2604.04411)|null|
 |**2026-04-05**|**Scale-Aware Vision-Language Adaptation for Extreme Far-Distance Video Person Re-identification**|Bharatesh Chakravarthi Team|[2604.04183](http://arxiv.org/abs/2604.04183)|null|
 |**2026-04-05**|**GENFIG1: Visual Summaries of Scholarly Work as a Challenge for Vision-Language Models**|Daniel Khashabi Team|[2604.04172](http://arxiv.org/abs/2604.04172)|null|
 |**2026-04-05**|**Solar-VLM: Multimodal Vision-Language Models for Augmented Solar Power Forecasting**|Wei Wei Team|[2604.04145](http://arxiv.org/abs/2604.04145)|null|
@@ -6070,6 +6091,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes**|Kaiwei Wang Team|[2604.04834](http://arxiv.org/abs/2604.04834)|**[link](https://github.com/JJayzee/E-VLA)**|
+|**2026-04-06**|**ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration**|Jie Chen Team|[2604.04664](http://arxiv.org/abs/2604.04664)|null|
+|**2026-04-06**|**Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?**|Jianyu Chen Team|[2604.04502](http://arxiv.org/abs/2604.04502)|null|
 |**2026-04-05**|**Adaptive Action Chunking at Inference-time for Vision-Language-Action Models**|Prahlad Vadakkepat Team|[2604.04161](http://arxiv.org/abs/2604.04161)|null|
 |**2026-04-05**|**VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models**|Agoritsa Polyzou Team|[2604.03956](http://arxiv.org/abs/2604.03956)|null|
 |**2026-04-04**|**OpenRC: An Open-Source Robotic Colonoscopy Framework for Multimodal Data Acquisition and Autonomy Research**|Farshid Alambeigi Team|[2604.03781](http://arxiv.org/abs/2604.03781)|null|
@@ -7484,6 +7508,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control**|Hojoon Lee Team|[2604.04539](http://arxiv.org/abs/2604.04539)|null|
+|**2026-04-06**|**Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?**|Jianyu Chen Team|[2604.04502](http://arxiv.org/abs/2604.04502)|null|
 |**2026-04-05**|**Learning Dexterous Grasping from Sparse Taxonomy Guidance**|Sungjoon Choi Team|[2604.04138](http://arxiv.org/abs/2604.04138)|null|
 |**2026-03-31**|**Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Retargeting**|Zhen Kan Team|[2603.29213](http://arxiv.org/abs/2603.29213)|null|
 |**2026-03-30**|**FocusVLA: Focused Visual Utilization for Vision-Language-Action Models**|Jia Wan Team|[2603.28740](http://arxiv.org/abs/2603.28740)|null|
