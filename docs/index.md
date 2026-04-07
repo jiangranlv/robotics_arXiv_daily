@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Adaptive Action Chunking at Inference-time for Vision-Language-Action Models**|Prahlad Vadakkepat Team|[2604.04161](http://arxiv.org/abs/2604.04161)|null|
+|**2026-04-05**|**VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models**|Agoritsa Polyzou Team|[2604.03956](http://arxiv.org/abs/2604.03956)|null|
+|**2026-04-04**|**Build on Priors: Vision--Language--Guided Neuro-Symbolic Imitation Learning for Data-Efficient Real-World Robot Manipulation**|Matthias Scheutz Team|[2604.03759](http://arxiv.org/abs/2604.03759)|null|
+|**2026-04-04**|**A Multi-View 3D Telepresence System for XR Robot Teleoperation**|Gerhard Neumann Team|[2604.03730](http://arxiv.org/abs/2604.03730)|null|
+|**2026-04-04**|**Human-Robot Copilot for Data-Efficient Imitation Learning**|Xiaolong Wang Team|[2604.03613](http://arxiv.org/abs/2604.03613)|null|
+|**2026-04-04**|**CRAFT: Video Diffusion for Bimanual Robot Data Generation**|Daniel Seita Team|[2604.03552](http://arxiv.org/abs/2604.03552)|null|
+|**2026-04-04**|**Drift-Based Policy Optimization: Native One-Step Policy Learning for Online Robot Control**|Yanyong Zhang Team|[2604.03540](http://arxiv.org/abs/2604.03540)|null|
+|**2026-04-04**|**Optimizing Neurorobot Policy under Limited Demonstration Data through Preference Regret**|Alexander Ororbia Team|[2604.03523](http://arxiv.org/abs/2604.03523)|null|
 |**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Tieniu Tan Team|[2604.03181](http://arxiv.org/abs/2604.03181)|**[link](https://lpy1219.github.io/MV-VDP-Web/)**|
 |**2026-04-03**|**ARM: Advantage Reward Modeling for Long-Horizon Manipulation**|Hua Chen Team|[2604.03037](http://arxiv.org/abs/2604.03037)|null|
 |**2026-04-03**|**Behavior-Constrained Reinforcement Learning with Receding-Horizon Credit Assignment for High-Performance Control**|Jan Peters Team|[2604.03023](http://arxiv.org/abs/2604.03023)|null|
@@ -2259,6 +2267,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Scale-Aware Vision-Language Adaptation for Extreme Far-Distance Video Person Re-identification**|Bharatesh Chakravarthi Team|[2604.04183](http://arxiv.org/abs/2604.04183)|null|
+|**2026-04-05**|**GENFIG1: Visual Summaries of Scholarly Work as a Challenge for Vision-Language Models**|Daniel Khashabi Team|[2604.04172](http://arxiv.org/abs/2604.04172)|null|
+|**2026-04-05**|**Solar-VLM: Multimodal Vision-Language Models for Augmented Solar Power Forecasting**|Wei Wei Team|[2604.04145](http://arxiv.org/abs/2604.04145)|null|
+|**2026-04-05**|**Learning Robust Visual Features in Computed Tomography Enables Efficient Transfer Learning for Clinical Tasks**|Guang Yang Team|[2604.04133](http://arxiv.org/abs/2604.04133)|null|
+|**2026-04-05**|**Hypothesis Graph Refinement: Hypothesis-Driven Exploration with Cascade Error Correction for Embodied Navigation**|Qing Li Team|[2604.04108](http://arxiv.org/abs/2604.04108)|null|
+|**2026-04-05**|**Benchmarking and Evaluating VLMs for Software Architecture Diagram Understanding**|Joost Noppen Team|[2604.04009](http://arxiv.org/abs/2604.04009)|null|
+|**2026-04-05**|**Gram-Anchored Prompt Learning for Vision-Language Models via Second-Order Statistics**|Ye Deng Team|[2604.03980](http://arxiv.org/abs/2604.03980)|null|
+|**2026-04-04**|**When Does Multimodal AI Help? Diagnostic Complementarity of Vision-Language Models and CNNs for Spectrum Management in Satellite-Terrestrial Networks**|Yuanhang Li Team|[2604.03774](http://arxiv.org/abs/2604.03774)|null|
+|**2026-04-04**|**Build on Priors: Vision--Language--Guided Neuro-Symbolic Imitation Learning for Data-Efficient Real-World Robot Manipulation**|Matthias Scheutz Team|[2604.03759](http://arxiv.org/abs/2604.03759)|null|
+|**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Lingbei Meng Team|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
+|**2026-04-04**|**Single-agent vs. Multi-agents for Automated Video Analysis of On-Screen Collaborative Learning Behaviors**|Shihui Feng Team|[2604.03631](http://arxiv.org/abs/2604.03631)|null|
+|**2026-04-04**|**Focus Matters: Phase-Aware Suppression for Hallucination in Vision-Language Models**|Kyeongbo Kong Team|[2604.03556](http://arxiv.org/abs/2604.03556)|null|
+|**2026-04-04**|**Towards the AI Historian: Agentic Information Extraction from Primary Sources**|Philip Torr Team|[2604.03553](http://arxiv.org/abs/2604.03553)|null|
+|**2026-04-03**|**Fine-tuning DeepSeek-OCR-2 for Molecular Structure Recognition**|Junmei Wang Team|[2604.03476](http://arxiv.org/abs/2604.03476)|null|
+|**2026-04-03**|**RDFace: A Benchmark Dataset for Rare Disease Facial Image Analysis under Extreme Data Scarcity and Phenotype-Aware Synthetic Generation**|Pingzhao Hu Team|[2604.03454](http://arxiv.org/abs/2604.03454)|null|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Salman Khan Team|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
 |**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba Team|[2604.03191](http://arxiv.org/abs/2604.03191)|null|
 |**2026-04-03**|**EffiMiniVLM: A Compact Dual-Encoder Regression Framework**|Yan Chai Hum Team|[2604.03172](http://arxiv.org/abs/2604.03172)|null|
@@ -6036,6 +6059,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Adaptive Action Chunking at Inference-time for Vision-Language-Action Models**|Prahlad Vadakkepat Team|[2604.04161](http://arxiv.org/abs/2604.04161)|null|
+|**2026-04-05**|**VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models**|Agoritsa Polyzou Team|[2604.03956](http://arxiv.org/abs/2604.03956)|null|
+|**2026-04-04**|**OpenRC: An Open-Source Robotic Colonoscopy Framework for Multimodal Data Acquisition and Autonomy Research**|Farshid Alambeigi Team|[2604.03781](http://arxiv.org/abs/2604.03781)|null|
 |**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba Team|[2604.03191](http://arxiv.org/abs/2604.03191)|null|
 |**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Tieniu Tan Team|[2604.03181](http://arxiv.org/abs/2604.03181)|**[link](https://lpy1219.github.io/MV-VDP-Web/)**|
 |**2026-04-03**|**Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA**|Xiu-Shen Wei Team|[2604.02965](http://arxiv.org/abs/2604.02965)|null|
@@ -6996,6 +7022,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach**|Yao Su Team|[2604.03999](http://arxiv.org/abs/2604.03999)|null|
 |**2026-04-03**|**A Rapid Instrument Exchange System for Humanoid Robots in Minimally Invasive Surgery**|Lizhi Pan Team|[2604.02707](http://arxiv.org/abs/2604.02707)|null|
 |**2026-04-02**|**A Dynamic Toolkit for Transmission Characteristics of Precision Reducers with Explicit Contact Geometry**|Weidong He Team|[2604.02387](http://arxiv.org/abs/2604.02387)|null|
 |**2026-04-02**|**Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction**|Min Li Team|[2604.01756](http://arxiv.org/abs/2604.01756)|null|
@@ -7442,6 +7469,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Learning Dexterous Grasping from Sparse Taxonomy Guidance**|Sungjoon Choi Team|[2604.04138](http://arxiv.org/abs/2604.04138)|null|
 |**2026-03-31**|**Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Retargeting**|Zhen Kan Team|[2603.29213](http://arxiv.org/abs/2603.29213)|null|
 |**2026-03-30**|**FocusVLA: Focused Visual Utilization for Vision-Language-Action Models**|Jia Wan Team|[2603.28740](http://arxiv.org/abs/2603.28740)|null|
 |**2026-03-30**|**Feel Robot Feels: Tactile Feedback Array Glove for Dexterous Manipulation**|Jiangmiao Pang Team|[2603.28542](http://arxiv.org/abs/2603.28542)|null|
