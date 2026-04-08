@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-07**|**HiPolicy: Hierarchical Multi-Frequency Action Chunking for Policy Learning**|Hao Dong Team|[2604.06067](http://arxiv.org/abs/2604.06067)|null|
+|**2026-04-07**|**You're Pushing My Buttons: Instrumented Learning of Gentle Button Presses**|Francis wyffels Team|[2604.05954](http://arxiv.org/abs/2604.05954)|null|
 |**2026-04-07**|**BiCoord: A Bimanual Manipulation Benchmark towards Long-Horizon Spatial-Temporal Coordination**|Si Liu Team|[2604.05831](http://arxiv.org/abs/2604.05831)|null|
 |**2026-04-07**|**GraspSense: Physically Grounded Grasp and Grip Planning for a Dexterous Robotic Hand via Language-Guided Perception and Force Maps**|Dzmitry Tsetserukou Team|[2604.05697](http://arxiv.org/abs/2604.05697)|null|
 |**2026-04-07**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Xiaodan Liang Team|[2604.05672](http://arxiv.org/abs/2604.05672)|null|
@@ -2289,6 +2291,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-07**|**HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models**|Marcus Rohrbach Team|[2604.06165](http://arxiv.org/abs/2604.06165)|null|
+|**2026-04-07**|**Gym-Anything: Turn any Software into an Agent Environment**|Sean Welleck Team|[2604.06126](http://arxiv.org/abs/2604.06126)|null|
+|**2026-04-07**|**Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery**|Li An Team|[2604.06124](http://arxiv.org/abs/2604.06124)|null|
+|**2026-04-07**|**CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics**|Dmitrii Ustiugov Team|[2604.06036](http://arxiv.org/abs/2604.06036)|null|
+|**2026-04-07**|**Is CLIP Cross-Eyed? Revealing and Mitigating Center Bias in the CLIP Family**|Kuan-Hao Huang Team|[2604.05971](http://arxiv.org/abs/2604.05971)|null|
+|**2026-04-07**|**"I See What You Did There": Can Large Vision-Language Models Understand Multimodal Puns?**|Shouling Ji Team|[2604.05930](http://arxiv.org/abs/2604.05930)|null|
 |**2026-04-07**|**AICA-Bench: Holistically Examining the Capabilities of VLMs in Affective Image Content Analysis**|Zhanpeng Jin Team|[2604.05900](http://arxiv.org/abs/2604.05900)|null|
 |**2026-04-07**|**Reading Between the Pixels: An Inscriptive Jailbreak Attack on Text-to-Image Models**|Xianglong Liu Team|[2604.05853](http://arxiv.org/abs/2604.05853)|null|
 |**2026-04-07**|**Vision-Guided Iterative Refinement for Frontend Code Generation**|Gerrit J. J. van den Burg Team|[2604.05839](http://arxiv.org/abs/2604.05839)|null|
