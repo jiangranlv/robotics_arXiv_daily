@@ -2,18 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Genie Sim PanoRecon: Fast Immersive Scene Generation from Single-View Panorama**|Maoqing Yao Team|[2604.07105](http://arxiv.org/abs/2604.07105)|null|
+|**2026-04-08**|**Flow Motion Policy: Manipulator Motion Planning with Flow Matching Models**|Minghui Zheng Team|[2604.07084](http://arxiv.org/abs/2604.07084)|null|
+|**2026-04-08**|**Sustainable Transfer Learning for Adaptive Robot Skills**|Martin Ruskowski Team|[2604.06943](http://arxiv.org/abs/2604.06943)|null|
+|**2026-04-08**|**A First Guess is Rarely the Final Answer: Learning to Search in the Travelling Salesperson Problem**|Andoni Irazusta Garmendia Team|[2604.06940](http://arxiv.org/abs/2604.06940)|null|
+|**2026-04-08**|**RichMap: A Reachability Map Balancing Precision, Efficiency, and Flexibility for Rich Robot Manipulation Tasks**|Jia Pan Team|[2604.06778](http://arxiv.org/abs/2604.06778)|null|
 |**2026-04-07**|**HiPolicy: Hierarchical Multi-Frequency Action Chunking for Policy Learning**|Hao Dong Team|[2604.06067](http://arxiv.org/abs/2604.06067)|null|
 |**2026-04-07**|**You're Pushing My Buttons: Instrumented Learning of Gentle Button Presses**|Francis wyffels Team|[2604.05954](http://arxiv.org/abs/2604.05954)|null|
 |**2026-04-07**|**BiCoord: A Bimanual Manipulation Benchmark towards Long-Horizon Spatial-Temporal Coordination**|Si Liu Team|[2604.05831](http://arxiv.org/abs/2604.05831)|null|
 |**2026-04-07**|**GraspSense: Physically Grounded Grasp and Grip Planning for a Dexterous Robotic Hand via Language-Guided Perception and Force Maps**|Dzmitry Tsetserukou Team|[2604.05697](http://arxiv.org/abs/2604.05697)|null|
-|**2026-04-07**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Xiaodan Liang Team|[2604.05672](http://arxiv.org/abs/2604.05672)|null|
+|**2026-04-08**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Xiaodan Liang Team|[2604.05672](http://arxiv.org/abs/2604.05672)|null|
 |**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Rui Ma Team|[2604.05656](http://arxiv.org/abs/2604.05656)|null|
 |**2026-04-07**|**Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming**|Liang Lin Team|[2604.05595](http://arxiv.org/abs/2604.05595)|null|
 |**2026-04-07**|**Referring-Aware Visuomotor Policy Learning for Closed-Loop Manipulation**|Ruimao Zhang Team|[2604.05544](http://arxiv.org/abs/2604.05544)|null|
@@ -2282,10 +2287,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering**|Haoqian Wang Team|[2604.07146](http://arxiv.org/abs/2604.07146)|null|
+|**2026-04-08**|**A Utility-preserving De-identification Pipeline for Cross-hospital Radiology Data Sharing**|Yue Yao Team|[2604.07128](http://arxiv.org/abs/2604.07128)|null|
+|**2026-04-08**|**KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis**|Feras Dayoub Team|[2604.07034](http://arxiv.org/abs/2604.07034)|**[link](https://m80hz.github.io/kite/)**|
+|**2026-04-08**|**XR-CareerAssist: An Immersive Platform for Personalised Career Guidance Leveraging Extended Reality and Multimodal AI**|V. Pastrikakis Team|[2604.06901](http://arxiv.org/abs/2604.06901)|null|
+|**2026-04-08**|**Vision-Language Model-Guided Deep Unrolling Enables Personalized, Fast MRI**|Jianhua Ma Team|[2604.06849](http://arxiv.org/abs/2604.06849)|null|
+|**2026-04-08**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Enze Xie Team|[2604.06832](http://arxiv.org/abs/2604.06832)|null|
+|**2026-04-08**|**FlowExtract: Procedural Knowledge Extraction from Maintenance Flowcharts**|Christos Emmanouilidis Team|[2604.06770](http://arxiv.org/abs/2604.06770)|null|
+|**2026-04-08**|**How Well Do Vision-Language Models Understand Sequential Driving Scenes? A Sensitivity Study**|Johannes Betz Team|[2604.06750](http://arxiv.org/abs/2604.06750)|null|
+|**2026-04-08**|**Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation**|Xi Yang Team|[2604.06711](http://arxiv.org/abs/2604.06711)|null|
+|**2026-04-08**|**ChemVLR: Prioritizing Reasoning in Perception for Chemical Vision-Language Understanding**|Bo Xu Team|[2604.06685](http://arxiv.org/abs/2604.06685)|null|
+|**2026-04-08**|**Holistic Optimal Label Selection for Robust Prompt Learning under Partial Labels**|Yilong Yin Team|[2604.06614](http://arxiv.org/abs/2604.06614)|null|
+|**2026-04-07**|**VLMShield: Efficient and Robust Defense of Vision-Language Models against Malicious Prompts**|Nenghai Yu Team|[2604.06502](http://arxiv.org/abs/2604.06502)|null|
+|**2026-04-07**|**When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't**|William Rudman Team|[2604.06422](http://arxiv.org/abs/2604.06422)|null|
 |**2026-04-07**|**HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models**|Marcus Rohrbach Team|[2604.06165](http://arxiv.org/abs/2604.06165)|null|
 |**2026-04-07**|**Gym-Anything: Turn any Software into an Agent Environment**|Sean Welleck Team|[2604.06126](http://arxiv.org/abs/2604.06126)|null|
 |**2026-04-07**|**Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery**|Li An Team|[2604.06124](http://arxiv.org/abs/2604.06124)|null|
-|**2026-04-07**|**CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics**|Dmitrii Ustiugov Team|[2604.06036](http://arxiv.org/abs/2604.06036)|null|
+|**2026-04-08**|**CodecFlow: Codec-Guided End-to-End Optimization for Streaming Video Analytics**|Dmitrii Ustiugov Team|[2604.06036](http://arxiv.org/abs/2604.06036)|null|
 |**2026-04-07**|**Is CLIP Cross-Eyed? Revealing and Mitigating Center Bias in the CLIP Family**|Kuan-Hao Huang Team|[2604.05971](http://arxiv.org/abs/2604.05971)|null|
 |**2026-04-07**|**"I See What You Did There": Can Large Vision-Language Models Understand Multimodal Puns?**|Shouling Ji Team|[2604.05930](http://arxiv.org/abs/2604.05930)|null|
 |**2026-04-07**|**AICA-Bench: Holistically Examining the Capabilities of VLMs in Affective Image Content Analysis**|Zhanpeng Jin Team|[2604.05900](http://arxiv.org/abs/2604.05900)|null|
@@ -6116,7 +6134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-07**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Xiaodan Liang Team|[2604.05672](http://arxiv.org/abs/2604.05672)|null|
+|**2026-04-08**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Xiaodan Liang Team|[2604.05672](http://arxiv.org/abs/2604.05672)|null|
 |**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Rui Ma Team|[2604.05656](http://arxiv.org/abs/2604.05656)|null|
 |**2026-04-07**|**Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment**|Angelo Cangelosi Team|[2604.05614](http://arxiv.org/abs/2604.05614)|null|
 |**2026-04-07**|**Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming**|Liang Lin Team|[2604.05595](http://arxiv.org/abs/2604.05595)|null|
@@ -7095,7 +7113,7 @@ layout: default
 |**2026-04-07**|**Beyond Tools and Persons: Who Are They? Classifying Robots and AI Agents for Proportional Governance**|Jianguo Ding Team|[2604.05568](http://arxiv.org/abs/2604.05568)|null|
 |**2026-04-05**|**Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach**|Yao Su Team|[2604.03999](http://arxiv.org/abs/2604.03999)|null|
 |**2026-04-03**|**A Rapid Instrument Exchange System for Humanoid Robots in Minimally Invasive Surgery**|Lizhi Pan Team|[2604.02707](http://arxiv.org/abs/2604.02707)|null|
-|**2026-04-02**|**A Dynamic Toolkit for Transmission Characteristics of Precision Reducers with Explicit Contact Geometry**|Weidong He Team|[2604.02387](http://arxiv.org/abs/2604.02387)|null|
+|**2026-04-08**|**A Dynamic Toolkit for Transmission Characteristics of Precision Reducers with Explicit Contact Geometry**|Weidong He Team|[2604.02387](http://arxiv.org/abs/2604.02387)|null|
 |**2026-04-02**|**Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction**|Min Li Team|[2604.01756](http://arxiv.org/abs/2604.01756)|null|
 |**2026-04-01**|**BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control**|Sehoon Ha Team|[2604.01064](http://arxiv.org/abs/2604.01064)|null|
 |**2026-04-01**|**Learning Humanoid Navigation from Human Data**|Monroe Kennedy Team|[2604.00416](http://arxiv.org/abs/2604.00416)|null|
