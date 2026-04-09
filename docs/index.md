@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks**|Hongyang Li Team|[2604.07335](http://arxiv.org/abs/2604.07335)|null|
+|**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Antonio Loquercio Team|[2604.07331](http://arxiv.org/abs/2604.07331)|**[link](https://roshi-mocap.github.io/)**|
 |**2026-04-08**|**Genie Sim PanoRecon: Fast Immersive Scene Generation from Single-View Panorama**|Maoqing Yao Team|[2604.07105](http://arxiv.org/abs/2604.07105)|null|
 |**2026-04-08**|**Flow Motion Policy: Manipulator Motion Planning with Flow Matching Models**|Minghui Zheng Team|[2604.07084](http://arxiv.org/abs/2604.07084)|null|
 |**2026-04-08**|**Sustainable Transfer Learning for Adaptive Robot Skills**|Martin Ruskowski Team|[2604.06943](http://arxiv.org/abs/2604.06943)|null|
@@ -2287,6 +2289,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images**|Sophia Ananiadou Team|[2604.07338](http://arxiv.org/abs/2604.07338)|null|
 |**2026-04-08**|**Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering**|Haoqian Wang Team|[2604.07146](http://arxiv.org/abs/2604.07146)|null|
 |**2026-04-08**|**A Utility-preserving De-identification Pipeline for Cross-hospital Radiology Data Sharing**|Yue Yao Team|[2604.07128](http://arxiv.org/abs/2604.07128)|null|
 |**2026-04-08**|**KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis**|Feras Dayoub Team|[2604.07034](http://arxiv.org/abs/2604.07034)|**[link](https://m80hz.github.io/kite/)**|
