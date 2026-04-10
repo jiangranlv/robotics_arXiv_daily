@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**|Guan Huang Team|[2604.08168](http://arxiv.org/abs/2604.08168)|null|
+|**2026-04-08**|**EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World**|Danfei Xu Team|[2604.07607](http://arxiv.org/abs/2604.07607)|null|
+|**2026-04-08**|**A Physical Agentic Loop for Language-Guided Grasping with Execution-State Monitoring**|Feras Dayoub Team|[2604.07395](http://arxiv.org/abs/2604.07395)|**[link](https://wenzewwz123.github.io/Agentic-Loop/)**|
 |**2026-04-08**|**TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks**|Hongyang Li Team|[2604.07335](http://arxiv.org/abs/2604.07335)|null|
 |**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Antonio Loquercio Team|[2604.07331](http://arxiv.org/abs/2604.07331)|**[link](https://roshi-mocap.github.io/)**|
 |**2026-04-08**|**Genie Sim PanoRecon: Fast Immersive Scene Generation from Single-View Panorama**|Maoqing Yao Team|[2604.07105](http://arxiv.org/abs/2604.07105)|null|
@@ -2289,6 +2292,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Can Vision Language Models Judge Action Quality? An Empirical Evaluation**|Pedro Henrique Martins Team|[2604.08294](http://arxiv.org/abs/2604.08294)|null|
+|**2026-04-09**|**EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization**|Wei Zhu Team|[2604.08213](http://arxiv.org/abs/2604.08213)|null|
+|**2026-04-09**|**Vision-Language Foundation Models for Comprehensive Automated Pavement Condition Assessment**|Armstrong Aboah Team|[2604.08212](http://arxiv.org/abs/2604.08212)|null|
+|**2026-04-09**|**MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning**|Minfeng Xu Team|[2604.08203](http://arxiv.org/abs/2604.08203)|null|
+|**2026-04-09**|**A Statistical-AI Framework for Detecting Transient Flares in SDSS Stripe 82 Quasar Light Curves**|Atal Agrawal Team|[2604.08196](http://arxiv.org/abs/2604.08196)|null|
+|**2026-04-09**|**ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**|Guan Huang Team|[2604.08168](http://arxiv.org/abs/2604.08168)|null|
+|**2026-04-09**|**T-Gated Adapter: A Lightweight Temporal Adapter for Vision-Language Medical Segmentation**|Pranjal Khadka Team|[2604.08167](http://arxiv.org/abs/2604.08167)|null|
+|**2026-04-09**|**Small Vision-Language Models are Smart Compressors for Long Video Understanding**|Chenchen Zhu Team|[2604.08120](http://arxiv.org/abs/2604.08120)|**[link](https://FeiElysia.github.io/tempo-page/)**|
+|**2026-04-09**|**OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation**|Youngmin Ro Team|[2604.08110](http://arxiv.org/abs/2604.08110)|null|
+|**2026-04-09**|**AtlasOCR: Building the First Open-Source Darija OCR Model with Vision Language Models**|Haitame Bouanane Team|[2604.08070](http://arxiv.org/abs/2604.08070)|null|
+|**2026-04-09**|**Few-Shot Incremental 3D Object Detection in Dynamic Indoor Environments**|Na Zhao Team|[2604.07997](http://arxiv.org/abs/2604.07997)|null|
+|**2026-04-09**|**DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing**|Sai Satyam Jena Team|[2604.07965](http://arxiv.org/abs/2604.07965)|null|
+|**2026-04-09**|**WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models**|Zhibo Chen Team|[2604.07957](http://arxiv.org/abs/2604.07957)|null|
+|**2026-04-09**|**Mitigating Entangled Steering in Large Vision-Language Models for Hallucination Reduction**|Joey Tianyi Zhou Team|[2604.07914](http://arxiv.org/abs/2604.07914)|null|
+|**2026-04-09**|**ParkSense: Where Should a Delivery Driver Park? Leveraging Idle AV Compute and Vision-Language Models**|Henan Li Team|[2604.07912](http://arxiv.org/abs/2604.07912)|null|
+|**2026-04-09**|**AgriChain Visually Grounded Expert Verified Reasoning for Interpretable Agricultural Vision Language Models**|Rao Anwer Team|[2604.07814](http://arxiv.org/abs/2604.07814)|null|
+|**2026-04-09**|**Latent Anomaly Knowledge Excavation: Unveiling Sparse Sensitive Neurons in Vision-Language Models**|Tat-Seng Chua Team|[2604.07802](http://arxiv.org/abs/2604.07802)|null|
+|**2026-04-09**|**RoboAgent: Chaining Basic Capabilities for Embodied Task Planning**|Yadong Mu Team|[2604.07774](http://arxiv.org/abs/2604.07774)|null|
+|**2026-04-09**|**Towards Knowledgeable Deep Research: Framework and Benchmark**|Xueqi Cheng Team|[2604.07720](http://arxiv.org/abs/2604.07720)|null|
+|**2026-04-09**|**Vision-Language Navigation for Aerial Robots: Towards the Era of Large Language Models**|Wen Yao Team|[2604.07705](http://arxiv.org/abs/2604.07705)|null|
 |**2026-04-08**|**Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images**|Sophia Ananiadou Team|[2604.07338](http://arxiv.org/abs/2604.07338)|null|
 |**2026-04-08**|**Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering**|Haoqian Wang Team|[2604.07146](http://arxiv.org/abs/2604.07146)|null|
 |**2026-04-08**|**A Utility-preserving De-identification Pipeline for Cross-hospital Radiology Data Sharing**|Yue Yao Team|[2604.07128](http://arxiv.org/abs/2604.07128)|null|
@@ -6137,6 +6160,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Orion-Lite: Distilling LLM Reasoning into Efficient Vision-Only Driving Models**|Gijs Dubbelman Team|[2604.08266](http://arxiv.org/abs/2604.08266)|null|
+|**2026-04-09**|**ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**|Guan Huang Team|[2604.08168](http://arxiv.org/abs/2604.08168)|null|
+|**2026-04-09**|**HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation**|Badong Chen Team|[2604.07993](http://arxiv.org/abs/2604.07993)|**[link](https://hex-humanoid.github.io/)**|
+|**2026-04-09**|**How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace**|Xinlei Chen Team|[2604.07973](http://arxiv.org/abs/2604.07973)|null|
+|**2026-04-08**|**HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents**|Shunyu Yao Team|[2604.07430](http://arxiv.org/abs/2604.07430)|null|
 |**2026-04-08**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Xiaodan Liang Team|[2604.05672](http://arxiv.org/abs/2604.05672)|null|
 |**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Rui Ma Team|[2604.05656](http://arxiv.org/abs/2604.05656)|null|
 |**2026-04-07**|**Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment**|Angelo Cangelosi Team|[2604.05614](http://arxiv.org/abs/2604.05614)|null|
@@ -7113,6 +7141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation**|Badong Chen Team|[2604.07993](http://arxiv.org/abs/2604.07993)|**[link](https://hex-humanoid.github.io/)**|
 |**2026-04-07**|**Beyond Tools and Persons: Who Are They? Classifying Robots and AI Agents for Proportional Governance**|Jianguo Ding Team|[2604.05568](http://arxiv.org/abs/2604.05568)|null|
 |**2026-04-05**|**Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach**|Yao Su Team|[2604.03999](http://arxiv.org/abs/2604.03999)|null|
 |**2026-04-03**|**A Rapid Instrument Exchange System for Humanoid Robots in Minimally Invasive Surgery**|Lizhi Pan Team|[2604.02707](http://arxiv.org/abs/2604.02707)|null|
