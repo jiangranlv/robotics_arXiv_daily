@@ -1,4 +1,4 @@
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-12**|**AnySlot: Goal-Conditioned Vision-Language-Action Policies for Zero-Shot Slot-Level Placement**|Ci-Jyun Liang Team|[2604.10432](http://arxiv.org/abs/2604.10432)|null|
+|**2026-04-11**|**Device-Conditioned Neural Architecture Search for Efficient Robotic Manipulation**|Dong Xu Team|[2604.10170](http://arxiv.org/abs/2604.10170)|null|
+|**2026-04-11**|**MoRI: Mixture of RL and IL Experts for Long-Horizon Manipulation Tasks**|Lijun Zhu Team|[2604.10165](http://arxiv.org/abs/2604.10165)|null|
+|**2026-04-11**|**Vision-Language-Action Model, Robustness, Multi-modal Learning, Robot Manipulation**|Yaochu Jin Team|[2604.10055](http://arxiv.org/abs/2604.10055)|null|
+|**2026-04-10**|**Text-Guided 6D Object Pose Rearrangement via Closed-Loop VLM Agents**|Hanbyul Joo Team|[2604.09781](http://arxiv.org/abs/2604.09781)|null|
 |**2026-04-10**|**V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation**|Nanyang Ye Team|[2604.09036](http://arxiv.org/abs/2604.09036)|null|
 |**2026-04-10**|**TouchAnything: Diffusion-Guided 3D Reconstruction from Sparse Robot Touches**|Wenzhen Yuan Team|[2604.08945](http://arxiv.org/abs/2604.08945)|**[link](https://grange007.github.io/touchanything)**|
 |**2026-04-10**|**HTNav: A Hybrid Navigation Framework with Tiered Structure for Urban Aerial Vision-and-Language Navigation**|Jie Qin Team|[2604.08883](http://arxiv.org/abs/2604.08883)|null|
@@ -2304,12 +2309,32 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-12**|**BareBones: Benchmarking Zero-Shot Geometric Comprehension in VLMs**|Abhishek Rajora Team|[2604.10528](http://arxiv.org/abs/2604.10528)|null|
+|**2026-04-12**|**From Perception to Planning: Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning**|Zhou Zhao Team|[2604.10517](http://arxiv.org/abs/2604.10517)|null|
+|**2026-04-12**|**A Progressive Training Strategy for Vision-Language Models to Counteract Spatio-Temporal Hallucinations in Embodied Reasoning**|Zhou Zhao Team|[2604.10506](http://arxiv.org/abs/2604.10506)|null|
+|**2026-04-12**|**Enhancing Fine-Grained Spatial Grounding in 3D CT Report Generation via Discriminative Guidance**|Kayhan Batmanghelich Team|[2604.10437](http://arxiv.org/abs/2604.10437)|null|
+|**2026-04-12**|**SignReasoner: Compositional Reasoning for Complex Traffic Sign Understanding via Functional Structure Units**|Xinhai Zhao Team|[2604.10436](http://arxiv.org/abs/2604.10436)|null|
+|**2026-04-12**|**DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain**|Rui Yan Team|[2604.10425](http://arxiv.org/abs/2604.10425)|null|
+|**2026-04-11**|**Seeing No Evil: Blinding Large Vision-Language Models to Safety Instructions via Adversarial Attention Hijacking**|Tianqing Zhu Team|[2604.10299](http://arxiv.org/abs/2604.10299)|**[link](https://github.com/Landsayy/AttentionJailbreak)**|
+|**2026-04-11**|**SVSR: A Self-Verification and Self-Rectification Paradigm for Multimodal Reasoning**|Yanbiao Ma Team|[2604.10228](http://arxiv.org/abs/2604.10228)|null|
+|**2026-04-11**|**Edu-MMBias: A Three-Tier Multimodal Benchmark for Auditing Social Bias in Vision-Language Models under Educational Contexts**|Bo Jiang Team|[2604.10200](http://arxiv.org/abs/2604.10200)|null|
+|**2026-04-11**|**Radiology Report Generation for Low-Quality X-Ray Images**|Yefeng Zheng Team|[2604.10188](http://arxiv.org/abs/2604.10188)|null|
+|**2026-04-11**|**JARVIS: A Just-in-Time AR Visual Instruction System for Cross-Reality Task Guidance**|Chenfanfu Jiang Team|[2604.10108](http://arxiv.org/abs/2604.10108)|null|
+|**2026-04-11**|**On The Application of Linear Attention in Multimodal Transformers**|Ramani Duraiswami Team|[2604.10064](http://arxiv.org/abs/2604.10064)|null|
+|**2026-04-11**|**Mosaic: Cross-Modal Clustering for Efficient Video Understanding**|Ju Ren Team|[2604.10060](http://arxiv.org/abs/2604.10060)|null|
+|**2026-04-11**|**Counting to Four is still a Chore for VLMs**|Tuan Van Vo Team|[2604.10039](http://arxiv.org/abs/2604.10039)|null|
+|**2026-04-10**|**Cross-Cultural Value Awareness in Large Vision-Language Models**|Kathleen C. Fraser Team|[2604.09945](http://arxiv.org/abs/2604.09945)|null|
+|**2026-04-10**|**BLPR: Robust License Plate Recognition under Viewpoint and Illumination Variations via Confidence-Driven VLM Fallback**|Edwin Salcedo Team|[2604.09927](http://arxiv.org/abs/2604.09927)|null|
+|**2026-04-10**|**From UAV Imagery to Agronomic Reasoning: A Multimodal LLM Benchmark for Plant Phenotyping**|Xiaolei Huang Team|[2604.09907](http://arxiv.org/abs/2604.09907)|null|
+|**2026-04-10**|**What do your logits know? (The answer may surprise you!)**|Sinead Williamson Team|[2604.09885](http://arxiv.org/abs/2604.09885)|null|
+|**2026-04-10**|**Is There Knowledge Left to Extract? Evidence of Fragility in Medically Fine-Tuned Vision-Language Models**|Michal Golovanevsky Team|[2604.09841](http://arxiv.org/abs/2604.09841)|null|
+|**2026-04-10**|**Text-Guided 6D Object Pose Rearrangement via Closed-Loop VLM Agents**|Hanbyul Joo Team|[2604.09781](http://arxiv.org/abs/2604.09781)|null|
 |**2026-04-10**|**Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise**|Min Liu Team|[2604.09532](http://arxiv.org/abs/2604.09532)|null|
 |**2026-04-10**|**VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images**|Zhuang Liu Team|[2604.09531](http://arxiv.org/abs/2604.09531)|**[link](https://zlab-princeton.github.io/VisionFoundry/)**|
 |**2026-04-10**|**VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning**|Leilei Gan Team|[2604.09529](http://arxiv.org/abs/2604.09529)|**[link](https://github.com/Mr-Loevan/VL-Calibration)**|
@@ -6201,12 +6226,16 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-12**|**AnySlot: Goal-Conditioned Vision-Language-Action Policies for Zero-Shot Slot-Level Placement**|Ci-Jyun Liang Team|[2604.10432](http://arxiv.org/abs/2604.10432)|null|
+|**2026-04-11**|**ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents**|Mu Xu Team|[2604.10096](http://arxiv.org/abs/2604.10096)|null|
+|**2026-04-11**|**Vision-Language-Action Model, Robustness, Multi-modal Learning, Robot Manipulation**|Yaochu Jin Team|[2604.10055](http://arxiv.org/abs/2604.10055)|null|
+|**2026-04-10**|**ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models**|Amit Ranjan Trivedi Team|[2604.09824](http://arxiv.org/abs/2604.09824)|null|
 |**2026-04-10**|**2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness**|Xiang Chen Team|[2604.09244](http://arxiv.org/abs/2604.09244)|null|
 |**2026-04-10**|**Learning Vision-Language-Action World Models for Autonomous Driving**|Chao Ma Team|[2604.09059](http://arxiv.org/abs/2604.09059)|null|
 |**2026-04-10**|**V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation**|Nanyang Ye Team|[2604.09036](http://arxiv.org/abs/2604.09036)|null|
@@ -7188,7 +7217,7 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## Humanoid
 
@@ -7640,7 +7669,7 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## Dexterous
 
@@ -7960,5 +7989,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
