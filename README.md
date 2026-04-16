@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Ping Luo Team|[2604.14125](http://arxiv.org/abs/2604.14125)|**[link](https://tianshuoy.github.io/HiVLA-page/)**|
 |**2026-04-15**|**Failure Identification in Imitation Learning Via Statistical and Semantic Filtering**|Jean-Baptiste Mouret Team|[2604.13788](http://arxiv.org/abs/2604.13788)|null|
 |**2026-04-15**|**Jump-Start Reinforcement Learning with Vision-Language-Action Regularization**|Loris Roveda Team|[2604.13733](http://arxiv.org/abs/2604.13733)|null|
 |**2026-04-15**|**Doc-V*:Coarse-to-Fine Interactive Visual Reasoning for Multi-Page Document VQA**|Xiang Bai Team|[2604.13731](http://arxiv.org/abs/2604.13731)|null|
@@ -2335,6 +2336,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Yu-Xiong Wang Team|[2604.14149](http://arxiv.org/abs/2604.14149)|null|
+|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Ping Luo Team|[2604.14125](http://arxiv.org/abs/2604.14125)|**[link](https://tianshuoy.github.io/HiVLA-page/)**|
+|**2026-04-15**|**Training-Free Semantic Multi-Object Tracking with Vision-Language Models**|Lorenzo Vaquero Team|[2604.14074](http://arxiv.org/abs/2604.14074)|null|
 |**2026-04-15**|**Reward Design for Physical Reasoning in Vision-Language Models**|Sameera Horawalavithana Team|[2604.13993](http://arxiv.org/abs/2604.13993)|null|
 |**2026-04-15**|**MApLe: Multi-instance Alignment of Diagnostic Reports and Large Medical Images**|Georg Langs Team|[2604.13970](http://arxiv.org/abs/2604.13970)|**[link](https://openreview.net/forum?id=M8OO3CRbL9#discussion)**|
 |**2026-04-15**|**GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis**|Wentao Yang Team|[2604.13888](http://arxiv.org/abs/2604.13888)|null|
@@ -6306,6 +6310,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Ping Luo Team|[2604.14125](http://arxiv.org/abs/2604.14125)|**[link](https://tianshuoy.github.io/HiVLA-page/)**|
 |**2026-04-15**|**Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection**|Zhongzhu Pu Team|[2604.13942](http://arxiv.org/abs/2604.13942)|null|
 |**2026-04-15**|**Jump-Start Reinforcement Learning with Vision-Language-Action Regularization**|Loris Roveda Team|[2604.13733](http://arxiv.org/abs/2604.13733)|null|
 |**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Ji Pei Team|[2604.13654](http://arxiv.org/abs/2604.13654)|null|
