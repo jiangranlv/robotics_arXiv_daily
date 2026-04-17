@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework**|Xinggang Wang Team|[2604.15308](http://arxiv.org/abs/2604.15308)|**[link](https://hgao-cv.github.io/RAD-2)**|
+|**2026-04-16**|**R3D: Revisiting 3D Policy Learning**|Jiayuan Gu Team|[2604.15281](http://arxiv.org/abs/2604.15281)|null|
+|**2026-04-16**|**A Hierarchical Spatiotemporal Action Tokenizer for In-Context Imitation Learning in Robotics**|Quoc-Huy Tran Team|[2604.15215](http://arxiv.org/abs/2604.15215)|null|
 |**2026-04-16**|**OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis**|Dahua Lin Team|[2604.15093](http://arxiv.org/abs/2604.15093)|null|
 |**2026-04-15**|**Scouting By Reward: VLM-TO-IRL-Driven Player Selection For Esports**|Anton Dahbura Team|[2604.14474](http://arxiv.org/abs/2604.14474)|null|
 |**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Ping Luo Team|[2604.14125](http://arxiv.org/abs/2604.14125)|**[link](https://tianshuoy.github.io/HiVLA-page/)**|
@@ -25,7 +28,7 @@
 |**2026-04-15**|**A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies**|Yuke Zhu Team|[2604.13645](http://arxiv.org/abs/2604.13645)|**[link](https://science-of-co-training.github.io/)**|
 |**2026-04-15**|**Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization**|Xulong Zhang Team|[2604.13533](http://arxiv.org/abs/2604.13533)|null|
 |**2026-04-14**|**Utilizing Inpainting for Keypoint Detection for Vision-Based Control of Robotic Manipulators**|Berk Calli Team|[2604.13309](http://arxiv.org/abs/2604.13309)|null|
-|**2026-04-14**|**XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios**|Hao Wang Team|[2604.13001](http://arxiv.org/abs/2604.13001)|null|
+|**2026-04-16**|**XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios**|Hao Wang Team|[2604.13001](http://arxiv.org/abs/2604.13001)|null|
 |**2026-04-14**|**Robotic Manipulation is Vision-to-Geometry Mapping ( $f(v) \rightarrow G$ ): Vision-Geometry Backbones over Language and Video Models**|Guangrun Wang Team|[2604.12908](http://arxiv.org/abs/2604.12908)|null|
 |**2026-04-14**|**Detecting Precise Hand Touch Moments in Egocentric Video**|Minh Hoai Team|[2604.12343](http://arxiv.org/abs/2604.12343)|null|
 |**2026-04-13**|**Active Imitation Learning for Thermal- and Kernel-Aware LFM Inference on 3D S-NUCA Many-Cores**|Anuj Pathania Team|[2604.11948](http://arxiv.org/abs/2604.11948)|null|
@@ -2338,6 +2341,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**Why Do Vision Language Models Struggle To Recognize Human Emotions?**|Steven McDonagh Team|[2604.15280](http://arxiv.org/abs/2604.15280)|null|
+|**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Michael Moor Team|[2604.15231](http://arxiv.org/abs/2604.15231)|null|
+|**2026-04-16**|**UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos**|Jorge Poco Team|[2604.15225](http://arxiv.org/abs/2604.15225)|null|
+|**2026-04-16**|**VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models**|Xinbing Wang Team|[2604.15188](http://arxiv.org/abs/2604.15188)|null|
 |**2026-04-16**|**OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis**|Dahua Lin Team|[2604.15093](http://arxiv.org/abs/2604.15093)|null|
 |**2026-04-16**|**Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID**|Zhihang Li Team|[2604.15090](http://arxiv.org/abs/2604.15090)|null|
 |**2026-04-16**|**UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards**|Cewu Lu Team|[2604.14967](http://arxiv.org/abs/2604.14967)|null|
