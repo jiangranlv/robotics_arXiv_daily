@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**VADF: Vision-Adaptive Diffusion Policy Framework for Efficient Robotic Manipulation**|Yanwei Fu Team|[2604.15938](http://arxiv.org/abs/2604.15938)|null|
+|**2026-04-17**|**Continual Hand-Eye Calibration for Open-world Robotic Manipulation**|Yang Cong Team|[2604.15814](http://arxiv.org/abs/2604.15814)|null|
+|**2026-04-17**|**From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation**|Ruihai Wu Team|[2604.15805](http://arxiv.org/abs/2604.15805)|null|
+|**2026-04-17**|**Fed3D: Federated 3D Object Detection**|Peican Lin Team|[2604.15795](http://arxiv.org/abs/2604.15795)|null|
+|**2026-04-17**|**Zero-Shot Scalable Resilience in UAV Swarms: A Decentralized Imitation Learning Framework with Physics-Informed Graph Interactions**|Lianghui Ding Team|[2604.15762](http://arxiv.org/abs/2604.15762)|null|
 |**2026-04-16**|**RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework**|Xinggang Wang Team|[2604.15308](http://arxiv.org/abs/2604.15308)|**[link](https://hgao-cv.github.io/RAD-2)**|
 |**2026-04-16**|**R3D: Revisiting 3D Policy Learning**|Jiayuan Gu Team|[2604.15281](http://arxiv.org/abs/2604.15281)|null|
 |**2026-04-16**|**A Hierarchical Spatiotemporal Action Tokenizer for In-Context Imitation Learning in Robotics**|Quoc-Huy Tran Team|[2604.15215](http://arxiv.org/abs/2604.15215)|null|
@@ -2332,6 +2337,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation**|Yifan Peng Team|[2604.16175](http://arxiv.org/abs/2604.16175)|null|
+|**2026-04-17**|**DenTab: A Dataset for Table Recognition and Visual QA on Real-World Dental Estimates**|Thierry Paquet Team|[2604.16099](http://arxiv.org/abs/2604.16099)|null|
+|**2026-04-17**|**AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning**|Guransh Singh Team|[2604.16067](http://arxiv.org/abs/2604.16067)|null|
+|**2026-04-17**|**AstroVLM: Expert Multi-agent Collaborative Reasoning for Astronomical Imaging Quality Diagnosis**|Tsung-Yi Ho Team|[2604.16024](http://arxiv.org/abs/2604.16024)|null|
+|**2026-04-17**|**SENSE: Stereo OpEN Vocabulary SEmantic Segmentation**|Gaétan Bahl Team|[2604.15946](http://arxiv.org/abs/2604.15946)|null|
+|**2026-04-17**|**Aligning What Vision-Language Models See and Perceive with Adaptive Information Flow**|Tae-Hyun Oh Team|[2604.15809](http://arxiv.org/abs/2604.15809)|**[link](https://cxliu0.github.io/AIF/)**|
+|**2026-04-17**|**Beyond a Single Frame: Multi-Frame Spatially Grounded Reasoning Across Volumetric MRI**|Yongxin Chen Team|[2604.15808](http://arxiv.org/abs/2604.15808)|null|
+|**2026-04-17**|**TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models**|Ruixuan Wang Team|[2604.15756](http://arxiv.org/abs/2604.15756)|null|
+|**2026-04-17**|**Concept-wise Attention for Fine-grained Concept Bottleneck Models**|Ruixuan Wang Team|[2604.15748](http://arxiv.org/abs/2604.15748)|null|
+|**2026-04-17**|**P3T: Prototypical Point-level Prompt Tuning with Enhanced Generalization for 3D Vision-Language Models**|Jiyoung Jung Team|[2604.15703](http://arxiv.org/abs/2604.15703)|null|
+|**2026-04-17**|**HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning**|YoungBin Kim Team|[2604.15678](http://arxiv.org/abs/2604.15678)|null|
+|**2026-04-17**|**HyperGVL: Benchmarking and Improving Large Vision-Language Models in Hypergraph Understanding and Reasoning**|James Kwok Team|[2604.15648](http://arxiv.org/abs/2604.15648)|null|
+|**2026-04-16**|**GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology**|Bradley Hayes Team|[2604.15495](http://arxiv.org/abs/2604.15495)|null|
+|**2026-04-16**|**ProtoTTA: Prototype-Guided Test-Time Adaptation**|Evan Shelhamer Team|[2604.15494](http://arxiv.org/abs/2604.15494)|null|
 |**2026-04-16**|**Why Do Vision Language Models Struggle To Recognize Human Emotions?**|Steven McDonagh Team|[2604.15280](http://arxiv.org/abs/2604.15280)|null|
 |**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Michael Moor Team|[2604.15231](http://arxiv.org/abs/2604.15231)|null|
 |**2026-04-16**|**UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos**|Jorge Poco Team|[2604.15225](http://arxiv.org/abs/2604.15225)|null|
@@ -6325,6 +6344,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning**|Guransh Singh Team|[2604.16067](http://arxiv.org/abs/2604.16067)|null|
+|**2026-04-17**|**Long-Term Memory for VLA-based Agents in Open-World Task Execution**|Jiabao Zhao Team|[2604.15671](http://arxiv.org/abs/2604.15671)|null|
 |**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Donglin Wang Team|[2604.14732](http://arxiv.org/abs/2604.14732)|null|
 |**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Ping Luo Team|[2604.14125](http://arxiv.org/abs/2604.14125)|**[link](https://tianshuoy.github.io/HiVLA-page/)**|
 |**2026-04-15**|**Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection**|Zhongzhu Pu Team|[2604.13942](http://arxiv.org/abs/2604.13942)|null|
@@ -6335,7 +6356,7 @@ layout: default
 |**2026-04-13**|**LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment**|Xunliang Cai Team|[2604.11689](http://arxiv.org/abs/2604.11689)|**[link](https://meituan-longcat.github.io/LARYBench)**|
 |**2026-04-13**|**DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models**|Heng Tao Shen Team|[2604.11572](http://arxiv.org/abs/2604.11572)|null|
 |**2026-04-14**|**AnySlot: Goal-Conditioned Vision-Language-Action Policies for Zero-Shot Slot-Level Placement**|Ci-Jyun Liang Team|[2604.10432](http://arxiv.org/abs/2604.10432)|null|
-|**2026-04-11**|**ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents**|Mu Xu Team|[2604.10096](http://arxiv.org/abs/2604.10096)|null|
+|**2026-04-17**|**ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents**|Mu Xu Team|[2604.10096](http://arxiv.org/abs/2604.10096)|null|
 |**2026-04-14**|**STRONG-VLA: Decoupled Robustness Learning for Vision-Language-Action Models under Multimodal Perturbations**|Yaochu Jin Team|[2604.10055](http://arxiv.org/abs/2604.10055)|null|
 |**2026-04-10**|**ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models**|Amit Ranjan Trivedi Team|[2604.09824](http://arxiv.org/abs/2604.09824)|null|
 |**2026-04-10**|**2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness**|Xiang Chen Team|[2604.09244](http://arxiv.org/abs/2604.09244)|null|
@@ -7328,7 +7349,7 @@ layout: default
 |**2026-04-14**|**Learning Versatile Humanoid Manipulation with Touch Dreaming**|Ding Zhao Team|[2604.13015](http://arxiv.org/abs/2604.13015)|null|
 |**2026-04-14**|**Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots**|Linqi Ye Team|[2604.12909](http://arxiv.org/abs/2604.12909)|null|
 |**2026-04-13**|**Safe Human-to-Humanoid Motion Imitation Using Control Barrier Functions**|Anthony Tzes Team|[2604.11447](http://arxiv.org/abs/2604.11447)|null|
-|**2026-04-14**|**CLAW: Composable Language-Annotated Whole-body Motion Generation**|Masayoshi Tomizuka Team|[2604.11251](http://arxiv.org/abs/2604.11251)|null|
+|**2026-04-17**|**CLAW: Composable Language-Annotated Whole-body Motion Generation**|Masayoshi Tomizuka Team|[2604.11251](http://arxiv.org/abs/2604.11251)|null|
 |**2026-04-10**|**Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch**|Lorenzo Natale Team|[2604.09100](http://arxiv.org/abs/2604.09100)|null|
 |**2026-04-09**|**HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation**|Badong Chen Team|[2604.07993](http://arxiv.org/abs/2604.07993)|**[link](https://hex-humanoid.github.io/)**|
 |**2026-04-07**|**Beyond Tools and Persons: Who Are They? Classifying Robots and AI Agents for Proportional Governance**|Jianguo Ding Team|[2604.05568](http://arxiv.org/abs/2604.05568)|null|
