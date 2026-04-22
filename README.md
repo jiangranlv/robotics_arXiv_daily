@@ -2366,6 +2366,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Gerard Pons-Moll Team|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
+|**2026-04-21**|**A Gesture-Based Visual Learning Model for Acoustophoretic Interactions using a Swarm of AcoustoBots**|Sriram Subramanian Team|[2604.19643](http://arxiv.org/abs/2604.19643)|null|
+|**2026-04-21**|**CreatiParser: Generative Image Parsing of Raster Graphic Designs into Editable Layers**|Yongdong Zhang Team|[2604.19632](http://arxiv.org/abs/2604.19632)|null|
+|**2026-04-21**|**Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic**|Qifeng Chen Team|[2604.19567](http://arxiv.org/abs/2604.19567)|null|
+|**2026-04-21**|**FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**|Ruosong Yang Team|[2604.19541](http://arxiv.org/abs/2604.19541)|null|
+|**2026-04-21**|**GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation**|Dzmitry Tsetserukou Team|[2604.19522](http://arxiv.org/abs/2604.19522)|null|
+|**2026-04-21**|**Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies**|Sabine Hauert Team|[2604.19509](http://arxiv.org/abs/2604.19509)|null|
 |**2026-04-21**|**VCE: A zero-cost hallucination mitigation method of LVLMs via visual contrastive editing**|Xuelong Li Team|[2604.19412](http://arxiv.org/abs/2604.19412)|null|
 |**2026-04-21**|**Lost in Translation: Do LVLM Judges Generalize Across Languages?**|Jimmy Huang Team|[2604.19405](http://arxiv.org/abs/2604.19405)|null|
 |**2026-04-21**|**PLaMo 2.1-VL Technical Report**|Yoshihiro Yamada Team|[2604.19324](http://arxiv.org/abs/2604.19324)|null|
@@ -6423,6 +6430,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**VLA Foundry: A Unified Framework for Training Vision-Language-Action Models**|Katherine Liu Team|[2604.19728](http://arxiv.org/abs/2604.19728)|null|
+|**2026-04-21**|**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**|Jiaqi Ma Team|[2604.19710](http://arxiv.org/abs/2604.19710)|**[link](https://spanvla.github.io/)**|
 |**2026-04-20**|**HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation**|Xianwei Li Team|[2604.18791](http://arxiv.org/abs/2604.18791)|null|
 |**2026-04-20**|**XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments**|Diange Yang Team|[2604.18484](http://arxiv.org/abs/2604.18484)|null|
 |**2026-04-20**|**Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models**|Jiangmeng Li Team|[2604.18107](http://arxiv.org/abs/2604.18107)|null|
@@ -7436,6 +7445,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies**|Sabine Hauert Team|[2604.19509](http://arxiv.org/abs/2604.19509)|null|
 |**2026-04-21**|**Multi-Gait Learning for Humanoid Robots Using Reinforcement Learning with Selective Adversarial Motion Prior**|Boyang Xing Team|[2604.19102](http://arxiv.org/abs/2604.19102)|null|
 |**2026-04-19**|**Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking**|Marco Hutter Team|[2604.17335](http://arxiv.org/abs/2604.17335)|null|
 |**2026-04-19**|**A Rapid Deployment Pipeline for Autonomous Humanoid Grasping Based on Foundation Models**|Linqi Ye Team|[2604.17258](http://arxiv.org/abs/2604.17258)|null|
