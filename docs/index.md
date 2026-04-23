@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.04.22
+## Updated on 2026.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Lin Shao Team|[2604.20689](http://arxiv.org/abs/2604.20689)|null|
+|**2026-04-22**|**Passive Variable Impedance For Shared Control**|Alin Albu-Schäffer Team|[2604.20557](http://arxiv.org/abs/2604.20557)|null|
+|**2026-04-22**|**Bimanual Robot Manipulation via Multi-Agent In-Context Learning**|Fabio Galasso Team|[2604.20348](http://arxiv.org/abs/2604.20348)|null|
+|**2026-04-22**|**ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation**|Chenxi Xiao Team|[2604.20295](http://arxiv.org/abs/2604.20295)|null|
+|**2026-04-22**|**Cortex 2.0: Grounding World Models in Real-World Industrial Deployment**|Pavan Upputuri Team|[2604.20246](http://arxiv.org/abs/2604.20246)|null|
+|**2026-04-22**|**JoyAI-RA 0.1: A Foundation Model for Robotic Autonomy**|Chen Zhou Team|[2604.20100](http://arxiv.org/abs/2604.20100)|null|
+|**2026-04-21**|**EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training**|Chenyan Xiong Team|[2604.20012](http://arxiv.org/abs/2604.20012)|null|
 |**2026-04-21**|**Wrench-Aware Admittance Control for Unknown-Payload Manipulation**|Logan E. Beaver Team|[2604.19469](http://arxiv.org/abs/2604.19469)|null|
 |**2026-04-21**|**RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation**|Ruihai Wu Team|[2604.19092](http://arxiv.org/abs/2604.19092)|null|
 |**2026-04-21**|**Accelerating trajectory optimization with Sobolev-trained diffusion policies**|Justin Carpentier Team|[2604.19011](http://arxiv.org/abs/2604.19011)|null|
@@ -2357,6 +2364,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm**|Dikshant Kukreja Team|[2604.20665](http://arxiv.org/abs/2604.20665)|null|
+|**2026-04-22**|**Evian: Towards Explainable Visual Instruction-tuning Data Auditing**|Jiaheng Wei Team|[2604.20544](http://arxiv.org/abs/2604.20544)|null|
+|**2026-04-22**|**Fast-then-Fine: A Two-Stage Framework with Multi-Granular Representation for Cross-Modal Retrieval in Remote Sensing**|Wei Wang Team|[2604.20429](http://arxiv.org/abs/2604.20429)|null|
+|**2026-04-22**|**Mitigating Hallucinations in Large Vision-Language Models without Performance Degradation**|Xiangnan He Team|[2604.20366](http://arxiv.org/abs/2604.20366)|null|
+|**2026-04-22**|**Object Referring-Guided Scanpath Prediction with Perception-Enhanced Vision-Language Models**|Jie Qin Team|[2604.20361](http://arxiv.org/abs/2604.20361)|null|
+|**2026-04-22**|**From Scene to Object: Text-Guided Dual-Gaze Prediction**|Jianqiang Wang Team|[2604.20191](http://arxiv.org/abs/2604.20191)|null|
+|**2026-04-21**|**EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training**|Chenyan Xiong Team|[2604.20012](http://arxiv.org/abs/2604.20012)|null|
+|**2026-04-21**|**DistortBench: Benchmarking Vision Language Models on Image Distortion Identification**|Vanya Bannihatti Kumar Team|[2604.19966](http://arxiv.org/abs/2604.19966)|null|
+|**2026-04-21**|**Infection-Reasoner: A Compact Vision-Language Model for Wound Infection Classification with Evidence-Grounded Clinical Reasoning**|Diane Strong Team|[2604.19937](http://arxiv.org/abs/2604.19937)|null|
+|**2026-04-21**|**ViBR: Automated Bug Replay from Video-based Reports using Vision-Language Models**|Chunyang Chen Team|[2604.19905](http://arxiv.org/abs/2604.19905)|null|
+|**2026-04-21**|**MMCORE: MultiModal COnnection with Representation Aligned Latent Embeddings**|Peng Wang Team|[2604.19902](http://arxiv.org/abs/2604.19902)|null|
+|**2026-04-21**|**Rethinking Reinforcement Fine-Tuning in LVLM: Convergence, Reward Decomposition, and Generalization**|Sofia Torres Team|[2604.19857](http://arxiv.org/abs/2604.19857)|null|
 |**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Gerard Pons-Moll Team|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
 |**2026-04-21**|**A Gesture-Based Visual Learning Model for Acoustophoretic Interactions using a Swarm of AcoustoBots**|Sriram Subramanian Team|[2604.19643](http://arxiv.org/abs/2604.19643)|null|
 |**2026-04-21**|**CreatiParser: Generative Image Parsing of Raster Graphic Designs into Editable Layers**|Yongdong Zhang Team|[2604.19632](http://arxiv.org/abs/2604.19632)|null|
@@ -6419,6 +6438,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models**|Aviv Tamar Team|[2604.20472](http://arxiv.org/abs/2604.20472)|null|
+|**2026-04-22**|**A Vision-Language-Action Model for Adaptive Ultrasound-Guided Needle Insertion and Needle Tracking**|Shing Shin Cheng Team|[2604.20347](http://arxiv.org/abs/2604.20347)|null|
+|**2026-04-22**|**Cortex 2.0: Grounding World Models in Real-World Industrial Deployment**|Pavan Upputuri Team|[2604.20246](http://arxiv.org/abs/2604.20246)|null|
+|**2026-04-22**|**JoyAI-RA 0.1: A Foundation Model for Robotic Autonomy**|Chen Zhou Team|[2604.20100](http://arxiv.org/abs/2604.20100)|null|
+|**2026-04-21**|**EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training**|Chenyan Xiong Team|[2604.20012](http://arxiv.org/abs/2604.20012)|null|
 |**2026-04-21**|**VLA Foundry: A Unified Framework for Training Vision-Language-Action Models**|Katherine Liu Team|[2604.19728](http://arxiv.org/abs/2604.19728)|null|
 |**2026-04-21**|**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**|Jiaqi Ma Team|[2604.19710](http://arxiv.org/abs/2604.19710)|**[link](https://spanvla.github.io/)**|
 |**2026-04-20**|**HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation**|Xianwei Li Team|[2604.18791](http://arxiv.org/abs/2604.18791)|null|
@@ -7894,6 +7918,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Lin Shao Team|[2604.20689](http://arxiv.org/abs/2604.20689)|null|
+|**2026-04-22**|**ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation**|Chenxi Xiao Team|[2604.20295](http://arxiv.org/abs/2604.20295)|null|
 |**2026-04-20**|**SpaceDex: Generalizable Dexterous Grasping in Tiered Workspaces**|Ning Tan Team|[2604.17888](http://arxiv.org/abs/2604.17888)|null|
 |**2026-04-19**|**MM-Hand: A 21-DOF Multi-modal Modular Dexterous Robotic Hand with Remote Actuation**|Ping Luo Team|[2604.17245](http://arxiv.org/abs/2604.17245)|null|
 |**2026-04-16**|**DEX-Mouse: A Low-cost Portable and Universal Interface with Force Feedback for Data Collection of Dexterous Robotic Hands**|Changjoo Nam Team|[2604.15013](http://arxiv.org/abs/2604.15013)|null|
