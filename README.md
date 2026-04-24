@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Wenchao Ding Team|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Shangxin Guo Team|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
 |**2026-04-23**|**RPG: Robust Policy Gating for Smooth Multi-Skill Transitions in Humanoid Fighting**|Dong Wang Team|[2604.21355](http://arxiv.org/abs/2604.21355)|null|
 |**2026-04-23**|**Full-Body Dynamic Safety for Robot Manipulators: 3D Poisson Safety Functions for CBF-Based Safety Filters**|Aaron D. Ames Team|[2604.21189](http://arxiv.org/abs/2604.21189)|null|
 |**2026-04-22**|**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**|Axel Krieger Team|[2604.21017](http://arxiv.org/abs/2604.21017)|**[link](https://open-h.github.io/open-h-embodiment/)**|
@@ -2379,6 +2381,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Matthieu Cord Team|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
 |**2026-04-23**|**From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media**|Margret Keuper Team|[2604.21786](http://arxiv.org/abs/2604.21786)|null|
 |**2026-04-23**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Jingrui He Team|[2604.21728](http://arxiv.org/abs/2604.21728)|null|
 |**2026-04-23**|**Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models**|Mitesh M. Khapra Team|[2604.21523](http://arxiv.org/abs/2604.21523)|null|
@@ -6472,6 +6475,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Sifei Liu Team|[2604.21924](http://arxiv.org/abs/2604.21924)|**[link](https://www.liuisabella.com/LoHoManip)**|
 |**2026-04-23**|**CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors**|Jianqiang Li Team|[2604.21241](http://arxiv.org/abs/2604.21241)|null|
 |**2026-04-23**|**ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures**|Hao Wang Team|[2604.21232](http://arxiv.org/abs/2604.21232)|null|
 |**2026-04-23**|**How VLAs (Really) Work In Open-World Environments**|Sajjad Pakdamansavoji Team|[2604.21192](http://arxiv.org/abs/2604.21192)|null|
