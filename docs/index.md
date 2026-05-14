@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data**|Ying-Cong Chen Team|[2605.13775](http://arxiv.org/abs/2605.13775)|null|
+|**2026-05-13**|**SID: Sliding into Distribution for Robust Few-Demonstration Manipulation**|Huixu Dong Team|[2605.13428](http://arxiv.org/abs/2605.13428)|**[link](https://sliding-into-distribution.github.io/)**|
+|**2026-05-13**|**Teacher-Guided Policy Optimization for LLM Distillation**|JingBo Zhu Team|[2605.13230](http://arxiv.org/abs/2605.13230)|null|
+|**2026-05-13**|**SECOND-Grasp: Semantic Contact-guided Dexterous Grasping**|Sangpil Kim Team|[2605.13117](http://arxiv.org/abs/2605.13117)|null|
+|**2026-05-13**|**What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models**|Rui Wang Team|[2605.13105](http://arxiv.org/abs/2605.13105)|null|
 |**2026-05-12**|**Aligning Flow Map Policies with Optimal Q-Guidance**|Avishek Joey Bose Team|[2605.12416](http://arxiv.org/abs/2605.12416)|null|
 |**2026-05-12**|**SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation**|Lu Feng Team|[2605.12386](http://arxiv.org/abs/2605.12386)|null|
 |**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Yu-Gang Jiang Team|[2605.12369](http://arxiv.org/abs/2605.12369)|**[link](https://guidedvla.github.io/project_page/)**|
@@ -2486,6 +2491,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning**|Da-Wei Zhou Team|[2605.13835](http://arxiv.org/abs/2605.13835)|null|
+|**2026-05-13**|**Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context**|Yangqiu Song Team|[2605.13831](http://arxiv.org/abs/2605.13831)|null|
+|**2026-05-13**|**RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data**|Ying-Cong Chen Team|[2605.13775](http://arxiv.org/abs/2605.13775)|null|
+|**2026-05-13**|**SceneGraphVLM: Dynamic Scene Graph Generation from Video with Vision-Language Models**|Dmitry Yudin Team|[2605.13667](http://arxiv.org/abs/2605.13667)|null|
+|**2026-05-13**|**ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections**|Bernard Ghanem Team|[2605.13631](http://arxiv.org/abs/2605.13631)|null|
+|**2026-05-13**|**GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models**|Ting Cao Team|[2605.13375](http://arxiv.org/abs/2605.13375)|null|
+|**2026-05-13**|**GeoFlowVLM: Geometry-Aware Joint Uncertainty for Frozen Vision-Language Embedding**|Prashant Singh Team|[2605.13352](http://arxiv.org/abs/2605.13352)|null|
+|**2026-05-13**|**KamonBench: A Grammar-Based Dataset for Evaluating Compositional Factor Recovery in Vision-Language Models**|Stefano Peluchetti Team|[2605.13322](http://arxiv.org/abs/2605.13322)|null|
+|**2026-05-13**|**HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation**|Haoang Li Team|[2605.13321](http://arxiv.org/abs/2605.13321)|null|
+|**2026-05-13**|**STAR: Semantic-Temporal Adaptive Representation Learning for Few-Shot Action Recognition**|Shengjie Zhao Team|[2605.13202](http://arxiv.org/abs/2605.13202)|null|
+|**2026-05-13**|**CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large VIsion-Language Models**|Yukyung Choi Team|[2605.13178](http://arxiv.org/abs/2605.13178)|null|
+|**2026-05-13**|**A $_3$B$_2$ : Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning**|Jingyuan Chen Team|[2605.13161](http://arxiv.org/abs/2605.13161)|null|
+|**2026-05-13**|**Dual-Pathway Circuits of Object Hallucination in Vision-Language Models**|Aofan Liu Team|[2605.13156](http://arxiv.org/abs/2605.13156)|null|
+|**2026-05-13**|**Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models**|Siheng Chen Team|[2605.13119](http://arxiv.org/abs/2605.13119)|null|
+|**2026-05-13**|**Revealing the Gap in Human and VLM Scene Perception through Counterfactual Semantic Saliency**|Miguel P. Eckstein Team|[2605.13047](http://arxiv.org/abs/2605.13047)|null|
+|**2026-05-12**|**Lifelong Learning in Vision-Language Models: Enhanced EWC with Cross-Modal Knowledge Retention**|Rafay Suleman Durrani Team|[2605.12789](http://arxiv.org/abs/2605.12789)|null|
+|**2026-05-12**|**Revealing Interpretable Failure Modes of VLMs**|Gagandeep Singh Team|[2605.12674](http://arxiv.org/abs/2605.12674)|null|
+|**2026-05-12**|**CRAFT: Clinical Reward-Aligned Finetuning for Medical Image Synthesis**|Jihun Hamm Team|[2605.12650](http://arxiv.org/abs/2605.12650)|null|
+|**2026-05-12**|**3D Primitives are a Spatial Language for VLMs**|Tian Wang Team|[2605.12586](http://arxiv.org/abs/2605.12586)|null|
 |**2026-05-12**|**SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture**|Dahua Lin Team|[2605.12500](http://arxiv.org/abs/2605.12500)|**[link](https://github.com/OpenSenseNova/SenseNova-U1)**|
 |**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Yu-Gang Jiang Team|[2605.12369](http://arxiv.org/abs/2605.12369)|**[link](https://guidedvla.github.io/project_page/)**|
 |**2026-05-12**|**Reinforcing VLAs in Task-Agnostic World Models**|Li Zhao Team|[2605.12334](http://arxiv.org/abs/2605.12334)|null|
@@ -6787,6 +6811,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs**|Huawei Li Team|[2605.13778](http://arxiv.org/abs/2605.13778)|null|
+|**2026-05-13**|**FrameSkip: Learning from Fewer but More Informative Frames in VLA Training**|Kai Chen Team|[2605.13757](http://arxiv.org/abs/2605.13757)|**[link](https://github.com/ZGC-EmbodyAI/FrameSkip)**|
+|**2026-05-13**|**Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models**|Lei Zhang Team|[2605.13632](http://arxiv.org/abs/2605.13632)|null|
+|**2026-05-13**|**AttenA+: Rectifying Action Inequality in Robotic Foundation Models**|Jun Ma Team|[2605.13548](http://arxiv.org/abs/2605.13548)|null|
+|**2026-05-13**|**RotVLA: Rotational Latent Action for Vision-Language-Action Model**|Yadong Mu Team|[2605.13403](http://arxiv.org/abs/2605.13403)|null|
+|**2026-05-13**|**BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning**|Xiangyu Xu Team|[2605.13382](http://arxiv.org/abs/2605.13382)|null|
+|**2026-05-13**|**What Limits Vision-and-Language Navigation ?**|Renjing Xu Team|[2605.13328](http://arxiv.org/abs/2605.13328)|null|
+|**2026-05-13**|**D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models**|Yicheng Gong Team|[2605.13276](http://arxiv.org/abs/2605.13276)|null|
+|**2026-05-13**|**Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models**|Siheng Chen Team|[2605.13119](http://arxiv.org/abs/2605.13119)|null|
+|**2026-05-13**|**What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models**|Rui Wang Team|[2605.13105](http://arxiv.org/abs/2605.13105)|null|
+|**2026-05-12**|**Driving Intents Amplify Planning-Oriented Reinforcement Learning**|Benjin Zhu Team|[2605.12625](http://arxiv.org/abs/2605.12625)|**[link](https://mind-omni.github.io/)**|
+|**2026-05-12**|**MindVLA-U1: VLA Beats VA with Unified Streaming Architecture for Autonomous Driving**|Hongsheng Li Team|[2605.12624](http://arxiv.org/abs/2605.12624)|**[link](https://mind-omni.github.io/)**|
 |**2026-05-12**|**SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture**|Dahua Lin Team|[2605.12500](http://arxiv.org/abs/2605.12500)|**[link](https://github.com/OpenSenseNova/SenseNova-U1)**|
 |**2026-05-12**|**SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation**|Lu Feng Team|[2605.12386](http://arxiv.org/abs/2605.12386)|null|
 |**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Yu-Gang Jiang Team|[2605.12369](http://arxiv.org/abs/2605.12369)|**[link](https://guidedvla.github.io/project_page/)**|
