@@ -9,6 +9,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**X4Val: Learning Neural Surrogates for Variance-Reduced Policy Evaluation**|Marco Pavone Team|[2606.05159](http://arxiv.org/abs/2606.05159)|null|
+|**2026-06-03**|**Reinforcement Learning from Rich Feedback with Distributional DAgger**|Paria Rashidinejad Team|[2606.05152](http://arxiv.org/abs/2606.05152)|null|
+|**2026-06-03**|**Generalization of World Models under Environmental Variability for Vision-based Quadrotor Navigation**|Kostas Alexis Team|[2606.05015](http://arxiv.org/abs/2606.05015)|null|
+|**2026-06-03**|**HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning**|Shan Luo Team|[2606.04825](http://arxiv.org/abs/2606.04825)|null|
+|**2026-06-03**|**Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?**|Mike Zheng Shou Team|[2606.04811](http://arxiv.org/abs/2606.04811)|null|
+|**2026-06-03**|**A model-free approach to control barrier functions for higher-order systems**|Karl Worthmann Team|[2606.04790](http://arxiv.org/abs/2606.04790)|null|
+|**2026-06-02**|**Instant-Fold: In-Context Imitation Learning for Deformable Object Manipulation**|Edward Johns Team|[2606.04269](http://arxiv.org/abs/2606.04269)|null|
+|**2026-06-02**|**What Are We Actually Benchmarking in Robot Manipulation?**|Matthew Walter Team|[2606.04233](http://arxiv.org/abs/2606.04233)|null|
+|**2026-06-02**|**CoPark: Learning Reactive Parking via Self-Play**|Abhinav Valada Team|[2606.04149](http://arxiv.org/abs/2606.04149)|null|
+|**2026-06-02**|**CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization**|Matthew R. Walter Team|[2606.04130](http://arxiv.org/abs/2606.04130)|null|
+|**2026-06-02**|**SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image**|Hanbyul Joo Team|[2606.03994](http://arxiv.org/abs/2606.03994)|**[link](https://snuvclab.github.io/SimuScene/)**|
+|**2026-06-02**|**Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories**|Vahab Mirrokni Team|[2606.03979](http://arxiv.org/abs/2606.03979)|null|
+|**2026-06-02**|**Preference-Calibrated Human-in-the-Loop Reinforcement Learning for Robotic Manipulation**|Ziwei Wang Team|[2606.03949](http://arxiv.org/abs/2606.03949)|null|
+|**2026-06-02**|**PointAction: 3D Points as Universal Action Representations for Robot Control**|Jiatao Gu Team|[2606.03943](http://arxiv.org/abs/2606.03943)|**[link](https://oriontmt.github.io/pointaction/)**|
+|**2026-06-02**|**Let the Dynamics Flow: Stable Flow Matching Dynamical Systems**|Noémie Jaquier Team|[2606.03834](http://arxiv.org/abs/2606.03834)|null|
+|**2026-06-03**|**Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation**|Huaping Liu Team|[2606.03784](http://arxiv.org/abs/2606.03784)|null|
+|**2026-06-03**|**PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models**|Yandong Guo Team|[2606.03598](http://arxiv.org/abs/2606.03598)|null|
+|**2026-06-02**|**NVIDIA Isaac Sim: Enabling Scalable, GPU-Accelerated Simulation for Robotics**|Yang Song Team|[2606.03551](http://arxiv.org/abs/2606.03551)|null|
+|**2026-06-02**|**Static and Dynamic Representations for Tactile Contact-Angle Estimation with Event-Based Sensors**|Benjamin Ward-Cherrier Team|[2606.03545](http://arxiv.org/abs/2606.03545)|null|
+|**2026-06-02**|**SPADE: Sketch-guided Path Planning Augmented with Diffusion Experts**|Anthony Rizk Team|[2606.03512](http://arxiv.org/abs/2606.03512)|null|
 |**2026-05-14**|**Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction**|Ruoshi Wen Team|[2605.15157](http://arxiv.org/abs/2605.15157)|null|
 |**2026-05-14**|**Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model**|Bo Zhao Team|[2605.14950](http://arxiv.org/abs/2605.14950)|null|
 |**2026-05-14**|**Slot-MPC: Goal-Conditioned Model Predictive Control with Object-Centric Representations**|Sven Behnke Team|[2605.14937](http://arxiv.org/abs/2605.14937)|null|
