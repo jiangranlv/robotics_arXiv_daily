@@ -17,6 +17,14 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
+# Shared arxiv client. A generous delay and many retries make the job robust
+# against arxiv's HTTP 429 rate limiting (which is aggressive for CI runners).
+arxiv_client = arxiv.Client(
+    page_size=100,
+    delay_seconds=10.0,
+    num_retries=10,
+)
+
 def load_config(config_file:str) -> dict:
     '''
     config_file: input config file path
@@ -102,7 +110,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    for result in arxiv_client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -381,10 +389,15 @@ def demo(**config):
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
-            data_collector.append(data)
-            data_collector_web.append(data_web)
+            try:
+                data, data_web = get_daily_papers(topic, query = keyword,
+                                                max_results = max_results)
+                data_collector.append(data)
+                data_collector_web.append(data_web)
+            except Exception as e:
+                # Don't let a transient arxiv failure (e.g. HTTP 429 rate limit)
+                # abort the whole run; skip this keyword and keep going.
+                logging.error(f"Failed to fetch papers for '{topic}': {e}")
             print("\n")
         logging.info(f"GET daily papers end")
 
