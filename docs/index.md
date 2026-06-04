@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.16
+## Updated on 2026.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -8453,6 +8453,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**Unified Video-Action Joint Denoising for Dexterous Action and Data Generation**|Johannes Betz Team|[2606.03868](http://arxiv.org/abs/2606.03868)|null|
+|**2026-06-02**|**EaDex: A Cross-Embodiment Dexterous Manipulation Framework from Low-Cost Demonstrations**|Yingtian Li Team|[2606.03268](http://arxiv.org/abs/2606.03268)|null|
+|**2026-06-02**|**ConTrack: Constrained Hand Motion Tracking with Adaptive Trade-off Control**|Xiaolong Wang Team|[2606.03177](http://arxiv.org/abs/2606.03177)|null|
+|**2026-06-01**|**Coherent Off-Policy Improvement of Large Behavior Models with Learned Rewards**|Jan Peters Team|[2606.02194](http://arxiv.org/abs/2606.02194)|null|
+|**2026-05-31**|**Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies**|Ozgur S. Oguz Team|[2606.01151](http://arxiv.org/abs/2606.01151)|null|
+|**2026-05-29**|**Surface Constraint Policy for Learning Surface-Constrained and Dynamically Feasible Robot Skills**|Han Ding Team|[2605.31321](http://arxiv.org/abs/2605.31321)|null|
+|**2026-05-28**|**BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models**|Wenzhao Lian Team|[2605.30226](http://arxiv.org/abs/2605.30226)|null|
+|**2026-05-27**|**Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation**|Toru Lin Team|[2605.28812](http://arxiv.org/abs/2605.28812)|**[link](https://mpan31415.github.io/tactile_rep/)**|
+|**2026-05-28**|**VR-DAgger: Immersive VR for Dexterous Data Collection and Uncertainty-Guided On-Policy Correction**|Marco Hutter Team|[2605.27114](http://arxiv.org/abs/2605.27114)|null|
+|**2026-05-26**|**Efficient On-policy Visual-RL via Stochastic Decoupled Policy Gradient**|Ian Abraham Team|[2605.26478](http://arxiv.org/abs/2605.26478)|null|
+|**2026-05-24**|**X-DiffVLA: X-Embodied Diffusion Action Heads for Vision-Language-Action Models**|Zongqing Lu Team|[2605.25044](http://arxiv.org/abs/2605.25044)|null|
+|**2026-05-23**|**DexSIM: Real-time Dexterous Simulation with Unified Causal Video Diffusion**|Adam Lee Team|[2605.24630](http://arxiv.org/abs/2605.24630)|null|
+|**2026-05-23**|**IsaacIPC: Coupling High-Fidelity Simulation and Realistic Rendering for Contact-Rich Robotic Systems**|Zhongqing Han Team|[2605.24339](http://arxiv.org/abs/2605.24339)|null|
+|**2026-05-20**|**Safe and Steerable Geometric Motion Policies for Robotic Dexterous Manipulation**|C. Karen Liu Team|[2605.21811](http://arxiv.org/abs/2605.21811)|**[link](https://tml.stanford.edu/safe-pbds)**|
+|**2026-05-20**|**Learning Robust Dexterous In-Hand Manipulation from Joint Sensors with Proprioceptive Transformer**|Robert K. Katzschmann Team|[2605.21330](http://arxiv.org/abs/2605.21330)|null|
+|**2026-05-18**|**Neural Operators for Design-Space Surrogate Modeling of Tendon-Actuated Continuum Robots**|Varun Shankar Team|[2605.19104](http://arxiv.org/abs/2605.19104)|null|
+|**2026-05-18**|**DexHoldem: Playing Texas Hold'em with Dexterous Embodied System**|Yi Ma Team|[2605.18727](http://arxiv.org/abs/2605.18727)|null|
+|**2026-05-18**|**Dexora: Open-source VLA for High-DoF Bimanual Dexterity**|Hao Zhao Team|[2605.18722](http://arxiv.org/abs/2605.18722)|null|
+|**2026-05-18**|**A Dexterous and Compliant Gripper With Soft Hydraulic Actuation for Microgravity Manipulation**|Jianshu Zhou Team|[2605.17851](http://arxiv.org/abs/2605.17851)|null|
+|**2026-05-17**|**Visual Sculpting: Visually-Aligned Planning Representations for Long-Horizon Robot Clay Sculpting**|Jean Oh Team|[2605.17556](http://arxiv.org/abs/2605.17556)|null|
 |**2026-05-14**|**Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction**|Ruoshi Wen Team|[2605.15157](http://arxiv.org/abs/2605.15157)|null|
 |**2026-05-13**|**Towards Robotic Dexterous Hand Intelligence: A Survey**|Kaizhu Huang Team|[2605.13925](http://arxiv.org/abs/2605.13925)|null|
 |**2026-05-12**|**DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Reality-based Teleoperation**|Dongheui Lee Team|[2605.12182](http://arxiv.org/abs/2605.12182)|null|
