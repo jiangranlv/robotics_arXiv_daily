@@ -2,13 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.06.07
+## Updated on 2026.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping**|Xianta Jiang Team|[2606.07389](http://arxiv.org/abs/2606.07389)|null|
+|**2026-06-05**|**Spline Policy: A Structured Representation for Robot Policies**|Sylvain Calinon Team|[2606.07386](http://arxiv.org/abs/2606.07386)|null|
+|**2026-06-05**|**RhinoVLA Technical Report**|Yuxi Liu Team|[2606.07383](http://arxiv.org/abs/2606.07383)|null|
+|**2026-06-05**|**Robotic Policy Adaptation via Weight-Space Meta-Learning**|Luca Franco Team|[2606.07217](http://arxiv.org/abs/2606.07217)|null|
+|**2026-06-05**|**QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation**|Jin Xie Team|[2606.07118](http://arxiv.org/abs/2606.07118)|null|
+|**2026-06-05**|**LARA: Latent Action Representation Alignment for Vision-Language-Action Models**|Siyuan Huang Team|[2606.07100](http://arxiv.org/abs/2606.07100)|null|
+|**2026-06-05**|**Task Editing for Generalizable 3D Visuomotor Policy Learning**|Wei-Shi Zheng Team|[2606.07012](http://arxiv.org/abs/2606.07012)|null|
+|**2026-06-05**|**GenPO++: Generative Policy Optimization with Jacobian-free Likelihood Ratios**|Ye Shi Team|[2606.06967](http://arxiv.org/abs/2606.06967)|null|
+|**2026-06-05**|**Blockchain Infrastructure for Intelligent Cyber--Physical--Social Systems:Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI**|Luyao Zhang Team|[2606.06895](http://arxiv.org/abs/2606.06895)|null|
+|**2026-06-04**|**AEGIS: A Backup Reflex for Physical AI**|Josef Chen Team|[2606.06660](http://arxiv.org/abs/2606.06660)|null|
+|**2026-06-04**|**What Matters When Cotraining Robot Manipulation Policies on Everyday Human Videos?**|Pulkit Agrawal Team|[2606.06627](http://arxiv.org/abs/2606.06627)|**[link](https://richardrl.github.io/what-matters-cotraining-human-videos/index.html)**|
+|**2026-06-04**|**PhyRoGen: Synthetic Generation of Physical Robot Manipulation Puzzles Using Procedural Content Generation**|Marc Toussaint Team|[2606.06569](http://arxiv.org/abs/2606.06569)|null|
 |**2026-06-04**|**TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies**|Mingyu Ding Team|[2606.06491](http://arxiv.org/abs/2606.06491)|null|
 |**2026-06-04**|**VOLT: Vision and Language Trajectory Segmentation for Faster-than-Demonstration Policies**|Siddarth Jain Team|[2606.06323](http://arxiv.org/abs/2606.06323)|null|
 |**2026-06-04**|**Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation**|Atal Anil Kumar Team|[2606.06292](http://arxiv.org/abs/2606.06292)|null|
@@ -2537,6 +2549,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Chunhua Shen Team|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
+|**2026-06-05**|**TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment**|Bernt Schiele Team|[2606.07451](http://arxiv.org/abs/2606.07451)|null|
+|**2026-06-05**|**Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics**|Leo Yu Zhang Team|[2606.07335](http://arxiv.org/abs/2606.07335)|**[link](https://github.com/Rookie143/mtk)**|
+|**2026-06-05**|**Textual Supervision Enhances Geospatial Representations in Vision-Language Models**|Meeyoung Cha Team|[2606.07172](http://arxiv.org/abs/2606.07172)|null|
+|**2026-06-05**|**TraRA: Trajectory-level Recognition Aggregation for Video Text Spotting in Urban Surveillance**|Yasutomo Kawanishi Team|[2606.07161](http://arxiv.org/abs/2606.07161)|null|
+|**2026-06-05**|**GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection**|Takafumi Hiroi Team|[2606.07102](http://arxiv.org/abs/2606.07102)|null|
+|**2026-06-05**|**Teaching the Way, Not the Answer: Privileged Tutoring Distillation for Multimodal Policy Optimization**|Qilong Wang Team|[2606.07000](http://arxiv.org/abs/2606.07000)|null|
+|**2026-06-05**|**SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models**|Daeho Um Team|[2606.06943](http://arxiv.org/abs/2606.06943)|null|
+|**2026-06-05**|**When CLIP Sees More, It Fights Back Harder: Multi-View Guided Adaptive Counterattacks for Test-Time Adversarial Robustness**|Daeho Um Team|[2606.06938](http://arxiv.org/abs/2606.06938)|null|
+|**2026-06-05**|**Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors**|Dong Yu Team|[2606.06891](http://arxiv.org/abs/2606.06891)|**[link](https://stream3d-vlm.github.io/)**|
+|**2026-06-05**|**Diagnosing Visual Ignorance in Vision-Language Models**|Yisen Wang Team|[2606.06890](http://arxiv.org/abs/2606.06890)|null|
+|**2026-06-05**|**MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models**|Zhipeng Chen Team|[2606.06853](http://arxiv.org/abs/2606.06853)|null|
+|**2026-06-05**|**Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation**|Si Liu Team|[2606.06836](http://arxiv.org/abs/2606.06836)|null|
+|**2026-06-04**|**MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models**|Cao Xiao Team|[2606.06760](http://arxiv.org/abs/2606.06760)|null|
+|**2026-06-04**|**Anchored, Not Graded: Vision-Language Models Fail at Slant-from-Texture Perception**|James Tompkin Team|[2606.06714](http://arxiv.org/abs/2606.06714)|null|
+|**2026-06-04**|**MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models**|Serena Yeung-Levy Team|[2606.06696](http://arxiv.org/abs/2606.06696)|null|
 |**2026-06-04**|**Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators**|Xihui Liu Team|[2606.06476](http://arxiv.org/abs/2606.06476)|**[link](https://zcmax.github.io/projects/Thinking-With-Imagination)**|
 |**2026-06-04**|**EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models**|Lei Bi Team|[2606.06379](http://arxiv.org/abs/2606.06379)|null|
 |**2026-06-04**|**Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models**|Tianzhu Zhang Team|[2606.06186](http://arxiv.org/abs/2606.06186)|null|
@@ -6897,6 +6925,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Spline Policy: A Structured Representation for Robot Policies**|Sylvain Calinon Team|[2606.07386](http://arxiv.org/abs/2606.07386)|null|
+|**2026-06-05**|**RhinoVLA Technical Report**|Yuxi Liu Team|[2606.07383](http://arxiv.org/abs/2606.07383)|null|
+|**2026-06-05**|**Robotic Policy Adaptation via Weight-Space Meta-Learning**|Luca Franco Team|[2606.07217](http://arxiv.org/abs/2606.07217)|null|
+|**2026-06-05**|**Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models**|Yu-Gang Jiang Team|[2606.07107](http://arxiv.org/abs/2606.07107)|null|
+|**2026-06-05**|**LARA: Latent Action Representation Alignment for Vision-Language-Action Models**|Siyuan Huang Team|[2606.07100](http://arxiv.org/abs/2606.07100)|null|
+|**2026-06-05**|**ActionMap: Robot Policy Learning via Voxel Action Heatmap**|Mike Zheng Shou Team|[2606.06904](http://arxiv.org/abs/2606.06904)|null|
+|**2026-06-05**|**Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation**|Si Liu Team|[2606.06836](http://arxiv.org/abs/2606.06836)|null|
+|**2026-06-04**|**Robots Need More than VLA and World Models**|Haitham Bou-Ammar Team|[2606.06556](http://arxiv.org/abs/2606.06556)|null|
 |**2026-06-04**|**TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies**|Mingyu Ding Team|[2606.06491](http://arxiv.org/abs/2606.06491)|null|
 |**2026-06-04**|**MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action**|Lianlei Shan Team|[2606.06245](http://arxiv.org/abs/2606.06245)|null|
 |**2026-06-04**|**AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding**|Yingcong Chen Team|[2606.06155](http://arxiv.org/abs/2606.06155)|**[link](https://github.com/Skywalker-yqz/AffordanceVLA)**|
@@ -8548,6 +8584,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Spline Policy: A Structured Representation for Robot Policies**|Sylvain Calinon Team|[2606.07386](http://arxiv.org/abs/2606.07386)|null|
 |**2026-06-04**|**RealDexUMI: A Wearable Universal Manipulation Interface for Dexterous Robot Learning**|Zongqing Lu Team|[2606.06033](http://arxiv.org/abs/2606.06033)|null|
 |**2026-06-03**|**MoDex: A Diffusion Policy for Sequential Multi-Object Dexterous Grasping**|Danica Kragic Team|[2606.05407](http://arxiv.org/abs/2606.05407)|null|
 |**2026-06-02**|**Unified Video-Action Joint Denoising for Dexterous Action and Data Generation**|Johannes Betz Team|[2606.03868](http://arxiv.org/abs/2606.03868)|null|
