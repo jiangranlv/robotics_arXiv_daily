@@ -5110,7 +5110,7 @@
 |**2025-10-22**|**XBench: A Comprehensive Benchmark for Visual-Language Explanations in Chest Radiography**|Mauricio Reyes Team|[2510.19599](http://arxiv.org/abs/2510.19599)|null|
 |**2025-10-22**|**Can You Trust What You See? Alpha Channel No-Box Attacks on Video Object Detection**|Qiben Yan Team|[2510.19574](http://arxiv.org/abs/2510.19574)|null|
 |**2025-10-22**|**A Matter of Time: Revealing the Structure of Time in Vision-Language Models**|Matthias Zeppelzauer Team|[2510.19559](http://arxiv.org/abs/2510.19559)|null|
-|**2025-10-22**|**[De|Re]constructing VLMs' Reasoning in Counting**|Giuseppe Riccardi Team|[2510.19555](http://arxiv.org/abs/2510.19555)|null|
+|**2025-10-22**|**[De|Re]constructing VLMs' Reasoning in Counting**|Giuseppe Riccardi Team|[2510.19555](http://arxiv.org/abs/2510.19555)|
 |**2025-10-22**|**CARES: Context-Aware Resolution Selector for VLMs**|Eli Schwartz Team|[2510.19496](http://arxiv.org/abs/2510.19496)|null|
 |**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Baining Guo Team|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
 |**2025-10-22**|**A Training-Free Framework for Open-Vocabulary Image Segmentation and Recognition with EfficientNet and CLIP**|Wei Yu Chen Team|[2510.19333](http://arxiv.org/abs/2510.19333)|null|
