@@ -1,4 +1,4 @@
-## Updated on 2026.06.08
+## Updated on 2026.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2552,7 +2552,7 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 ## VLM
 
@@ -6930,12 +6930,31 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies**|Toshiaki Koike-Akino Team|[2606.09630](http://arxiv.org/abs/2606.09630)|null|
+|**2026-06-08**|**CT-VAM: A Cerebello-Thalamic-Inspired Vision-Action Model for Efficient Visuomotor Control**|Jiahu Qin Team|[2606.09572](http://arxiv.org/abs/2606.09572)|null|
+|**2026-06-08**|**Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer**|Kyung-Joon Park Team|[2606.09416](http://arxiv.org/abs/2606.09416)|null|
+|**2026-06-08**|**TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation**|Baoxu Liu Team|[2606.09337](http://arxiv.org/abs/2606.09337)|null|
+|**2026-06-08**|**Back to the Familiar Future: Failure Recovery for VLA Policies via Pre-Imagined Milestone Selection**|Byoung-Tak Zhang Team|[2606.09258](http://arxiv.org/abs/2606.09258)|null|
+|**2026-06-08**|**MotionWAM: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation**|Junwei Liang Team|[2606.09215](http://arxiv.org/abs/2606.09215)|null|
+|**2026-06-08**|**Scaling by Diversified Experience for Vision-Language-Action Models**|Nanyang Ye Team|[2606.09009](http://arxiv.org/abs/2606.09009)|null|
+|**2026-06-08**|**C $^3$ ache: Accelerating World Action Models with Cross Inference Chunk Cache**|Yuzhang Shang Team|[2606.08962](http://arxiv.org/abs/2606.08962)|null|
+|**2026-06-07**|**Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis**|Xinchuan Qiu Team|[2606.08881](http://arxiv.org/abs/2606.08881)|null|
+|**2026-06-07**|**BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving**|Zhongzhan Huang Team|[2606.08684](http://arxiv.org/abs/2606.08684)|null|
+|**2026-06-07**|**FiberTune: Preserving Action-Fiber Visual Residuals in Vision-Language-Action Fine-Tuning**|Jiahui Du Team|[2606.08653](http://arxiv.org/abs/2606.08653)|**[link](https://fibertune.github.io/)**|
+|**2026-06-07**|**GEAR-VLA: Learning Geometry-Aware Action Representations for Generalizable Robotic Manipulation**|Jia Pan Team|[2606.08530](http://arxiv.org/abs/2606.08530)|null|
+|**2026-06-07**|**EgoPriMo: Egocentric Motion Generation for Interactive Humanoid Control**|Kai Chen Team|[2606.08495](http://arxiv.org/abs/2606.08495)|null|
+|**2026-06-06**|**MotionVLA: Injecting Geometric Motion into Vision-Language-Action Model**|Xinggang Wang Team|[2606.08288](http://arxiv.org/abs/2606.08288)|null|
+|**2026-06-06**|**SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation**|Yue Wang Team|[2606.08278](http://arxiv.org/abs/2606.08278)|null|
+|**2026-06-06**|**CLASP: Language-Driven Robot Skill Selection and Composition using Task-Parameterized Learning**|João Silvério Team|[2606.08169](http://arxiv.org/abs/2606.08169)|null|
+|**2026-06-06**|**vla.cpp: A Unified Inference Runtime for Vision-Language-Action Models**|An T. Le Team|[2606.08094](http://arxiv.org/abs/2606.08094)|null|
+|**2026-06-06**|**Q-VGM: Q-Guided Value-Gradient Matching for Flow-Matching VLA Policies**|Yao Mu Team|[2606.08015](http://arxiv.org/abs/2606.08015)|null|
+|**2026-06-05**|**TBD-VLA: Temporal Block Diffusion Vision Language Action Model**|Yen-Ling Kuo Team|[2606.07895](http://arxiv.org/abs/2606.07895)|null|
 |**2026-06-05**|**Spline Policy: A Structured Representation for Robot Policies**|Sylvain Calinon Team|[2606.07386](http://arxiv.org/abs/2606.07386)|null|
 |**2026-06-05**|**RhinoVLA Technical Report**|Yuxi Liu Team|[2606.07383](http://arxiv.org/abs/2606.07383)|null|
 |**2026-06-05**|**Robotic Policy Adaptation via Weight-Space Meta-Learning**|Luca Franco Team|[2606.07217](http://arxiv.org/abs/2606.07217)|null|
@@ -8089,13 +8108,22 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-04**|**HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**|Aaron Ames Team|[2606.06493](http://arxiv.org/abs/2606.06493)|null|
+|**2026-06-08**|**VAIC: Vision-Guided Humanoid Agile Object Interaction Control via Decoupled Commands**|Jianzhu Ma Team|[2606.09286](http://arxiv.org/abs/2606.09286)|**[link](https://vaic-humanoid.github.io/)**|
+|**2026-06-08**|**PTDL:Multi-Terrain Fall Recovery via Phase-Terrain Decoupled Learning**|Wei Zhang Team|[2606.08922](http://arxiv.org/abs/2606.08922)|null|
+|**2026-06-07**|**OASIS: From Simulation Data Collection to Real-World Humanoid Loco-Manipulation**|Xuelong Li Team|[2606.08548](http://arxiv.org/abs/2606.08548)|**[link](https://oasis-humanoid.github.io/)**|
+|**2026-06-07**|**EgoPriMo: Egocentric Motion Generation for Interactive Humanoid Control**|Kai Chen Team|[2606.08495](http://arxiv.org/abs/2606.08495)|null|
+|**2026-06-06**|**SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation**|Yue Wang Team|[2606.08278](http://arxiv.org/abs/2606.08278)|null|
+|**2026-06-06**|**Mind Your Steps: A General Learning Framework for Accurate Humanoid Foothold Tracking**|Jan Peters Team|[2606.08253](http://arxiv.org/abs/2606.08253)|null|
+|**2026-06-06**|**Vision-Guided Dual-Arm Humanoid Robotic Disassembly of End-of-Life 18650 Lithium-ion Battery Packs**|Lihui Wang Team|[2606.08152](http://arxiv.org/abs/2606.08152)|null|
+|**2026-06-06**|**Cooperative Long Rope Skipping via Multi-Agent Reinforcement Learning**|Yang Yu Team|[2606.08064](http://arxiv.org/abs/2606.08064)|null|
+|**2026-06-06**|**IntentNav: Learning Spatial-Visual Object Navigation from Human Demonstrations**|Chen Lv Team|[2606.08029](http://arxiv.org/abs/2606.08029)|null|
+|**2026-06-08**|**HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**|Aaron Ames Team|[2606.06493](http://arxiv.org/abs/2606.06493)|null|
 |**2026-06-04**|**MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation**|Majid Khadiv Team|[2606.06139](http://arxiv.org/abs/2606.06139)|null|
 |**2026-06-04**|**LadderMan: Learning Humanoid Perceptive Ladder Climbing**|Guanya Shi Team|[2606.05873](http://arxiv.org/abs/2606.05873)|null|
 |**2026-06-03**|**Flash-WAM: Modality-Aware Distillation for World Action Models**|Yanzhi Wang Team|[2606.05254](http://arxiv.org/abs/2606.05254)|null|
@@ -8593,14 +8621,18 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**DexPIE: Stable Dexterous Policy Improvement from Real-World Experience**|Yaonan Wang Team|[2606.09615](http://arxiv.org/abs/2606.09615)|**[link](https://siiuuuuuu.github.io/DexPIE)**|
+|**2026-06-08**|**Dense Force Estimation with an Event-based Optical Tactile Sensor**|Valentina Cavinato Team|[2606.09451](http://arxiv.org/abs/2606.09451)|null|
+|**2026-06-07**|**RGB-S: Image-Aligned Tactile Saliency for Robust Dexterous Manipulation**|Chenxi Xiao Team|[2606.08765](http://arxiv.org/abs/2606.08765)|null|
+|**2026-06-06**|**EgoAERO: Learning Dexterous Manipulation from a Single Egocentric Video without Object Assets**|Jianxing Liu Team|[2606.08057](http://arxiv.org/abs/2606.08057)|null|
 |**2026-06-05**|**Spline Policy: A Structured Representation for Robot Policies**|Sylvain Calinon Team|[2606.07386](http://arxiv.org/abs/2606.07386)|null|
-|**2026-06-04**|**RealDexUMI: A Wearable Universal Manipulation Interface for Dexterous Robot Learning**|Zongqing Lu Team|[2606.06033](http://arxiv.org/abs/2606.06033)|null|
+|**2026-06-06**|**RealDexUMI: A Wearable Universal Manipulation Interface for Dexterous Robot Learning**|Zongqing Lu Team|[2606.06033](http://arxiv.org/abs/2606.06033)|null|
 |**2026-06-03**|**MoDex: A Diffusion Policy for Sequential Multi-Object Dexterous Grasping**|Danica Kragic Team|[2606.05407](http://arxiv.org/abs/2606.05407)|null|
 |**2026-06-02**|**Unified Video-Action Joint Denoising for Dexterous Action and Data Generation**|Johannes Betz Team|[2606.03868](http://arxiv.org/abs/2606.03868)|null|
 |**2026-06-02**|**EaDex: A Cross-Embodiment Dexterous Manipulation Framework from Low-Cost Demonstrations**|Yingtian Li Team|[2606.03268](http://arxiv.org/abs/2606.03268)|null|
@@ -8608,7 +8640,7 @@
 |**2026-06-01**|**Coherent Off-Policy Improvement of Large Behavior Models with Learned Rewards**|Jan Peters Team|[2606.02194](http://arxiv.org/abs/2606.02194)|null|
 |**2026-05-31**|**Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies**|Ozgur S. Oguz Team|[2606.01151](http://arxiv.org/abs/2606.01151)|null|
 |**2026-05-29**|**Surface Constraint Policy for Learning Surface-Constrained and Dynamically Feasible Robot Skills**|Han Ding Team|[2605.31321](http://arxiv.org/abs/2605.31321)|null|
-|**2026-05-28**|**BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models**|Wenzhao Lian Team|[2605.30226](http://arxiv.org/abs/2605.30226)|null|
+|**2026-06-06**|**BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models**|Wenzhao Lian Team|[2605.30226](http://arxiv.org/abs/2605.30226)|null|
 |**2026-05-27**|**Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation**|Toru Lin Team|[2605.28812](http://arxiv.org/abs/2605.28812)|**[link](https://mpan31415.github.io/tactile_rep/)**|
 |**2026-05-28**|**VR-DAgger: Immersive VR for Dexterous Data Collection and Uncertainty-Guided On-Policy Correction**|Marco Hutter Team|[2605.27114](http://arxiv.org/abs/2605.27114)|null|
 |**2026-05-26**|**Efficient On-policy Visual-RL via Stochastic Decoupled Policy Gradient**|Ian Abraham Team|[2605.26478](http://arxiv.org/abs/2605.26478)|null|
@@ -8964,5 +8996,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
