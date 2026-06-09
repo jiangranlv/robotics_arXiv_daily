@@ -16,6 +16,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models**|Gao Huang Team|[2606.09827](http://arxiv.org/abs/2606.09827)|**[link](https://shihao1895.github.io/MemoryVLA-PP-Web)**|
+|**2026-06-08**|**AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing**|Yao Mu Team|[2606.09811](http://arxiv.org/abs/2606.09811)|**[link](https://serene-sivy.github.io/aha-wam/)**|
+|**2026-06-08**|**AetheRock: An Arm-Worn Robot Teaching System for Force-Guided Vision-Tactile Learning**|Yong-Lu Li Team|[2606.09777](http://arxiv.org/abs/2606.09777)|null|
+|**2026-06-08**|**Difference-Aware Retrieval Policies for Imitation Learning**|Abhishek Gupta Team|[2606.09758](http://arxiv.org/abs/2606.09758)|**[link](https://weirdlabuw.github.io/darp-site/)**|
+|**2026-06-08**|**Your Model Already Knows: Attention-Guided Safety Filter for Vision-Language-Action Models**|Nader Sehatbakhsh Team|[2606.09749](http://arxiv.org/abs/2606.09749)|null|
+|**2026-06-08**|**ProbeAct: Probe-Guided Training-Free Failure Recovery in Vision-Language-Action Models**|Nader Sehatbakhsh Team|[2606.09740](http://arxiv.org/abs/2606.09740)|null|
+|**2026-06-08**|**DexPIE: Stable Dexterous Policy Improvement from Real-World Experience**|Yaonan Wang Team|[2606.09615](http://arxiv.org/abs/2606.09615)|**[link](https://siiuuuuuu.github.io/DexPIE)**|
+|**2026-06-08**|**CT-VAM: A Cerebello-Thalamic-Inspired Vision-Action Model for Efficient Visuomotor Control**|Jiahu Qin Team|[2606.09572](http://arxiv.org/abs/2606.09572)|null|
+|**2026-06-08**|**Targeting World Models to Compromise Robot Learning Pipelines**|Eugene Bagdasarian Team|[2606.09499](http://arxiv.org/abs/2606.09499)|null|
+|**2026-06-08**|**Goal Sets, Not Goal States: Queryable Robot Goals through Goal-Set Hindsight Relabeling**|Jorge Pomares Team|[2606.09476](http://arxiv.org/abs/2606.09476)|null|
+|**2026-06-08**|**ReGIL: Retrieval-Guided Imitation Learning from a Single Demonstration**|Ville Kyrki Team|[2606.09381](http://arxiv.org/abs/2606.09381)|null|
+|**2026-06-08**|**TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation**|Baoxu Liu Team|[2606.09337](http://arxiv.org/abs/2606.09337)|null|
+|**2026-06-08**|**EgoTactile: Learning Grasp Pressure for Everyday Objects from Egocentric Video**|Qingmin Liao Team|[2606.09243](http://arxiv.org/abs/2606.09243)|null|
+|**2026-06-08**|**EPS3D: End-to-End Feed-Forward 3D Panoptic Segmentation**|Chi-Wing Fu Team|[2606.08980](http://arxiv.org/abs/2606.08980)|**[link](https://github.com/Runsong123/EPS3D}{https://github.com/Runsong123/EPS3D})**|
+|**2026-06-07**|**Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis**|Xinchuan Qiu Team|[2606.08881](http://arxiv.org/abs/2606.08881)|null|
+|**2026-06-07**|**Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video**|Harish Ravichandar Team|[2606.08828](http://arxiv.org/abs/2606.08828)|**[link](https://video2sim2real.github.io/)**|
+|**2026-06-07**|**Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks**|Farshad Khorrami Team|[2606.08775](http://arxiv.org/abs/2606.08775)|null|
+|**2026-06-07**|**Dream-Tac: A Unified Tactile World Action Model for Contact-Rich Robot Manipulation**|Shanghang Zhang Team|[2606.08737](http://arxiv.org/abs/2606.08737)|null|
+|**2026-06-07**|**IR-SIM: A Lightweight Skill-Native Simulator for Navigation, Learning, and Benchmarking**|Hengshuang Zhao Team|[2606.08729](http://arxiv.org/abs/2606.08729)|**[link](https://github.com/hanruihua/ir-sim)**|
+|**2026-06-07**|**Latent Diffusion Policy: Shaping Latent Spaces for Diffusion-Based Robotic Manipulation**|Jie Mei Team|[2606.08657](http://arxiv.org/abs/2606.08657)|null|
 |**2026-06-05**|**Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping**|Xianta Jiang Team|[2606.07389](http://arxiv.org/abs/2606.07389)|null|
 |**2026-06-05**|**Spline Policy: A Structured Representation for Robot Policies**|Sylvain Calinon Team|[2606.07386](http://arxiv.org/abs/2606.07386)|null|
 |**2026-06-05**|**RhinoVLA Technical Report**|Yuxi Liu Team|[2606.07383](http://arxiv.org/abs/2606.07383)|null|
@@ -2558,6 +2578,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics**|Xiaojuan Qi Team|[2606.09826](http://arxiv.org/abs/2606.09826)|null|
+|**2026-06-08**|**Your Model Already Knows: Attention-Guided Safety Filter for Vision-Language-Action Models**|Nader Sehatbakhsh Team|[2606.09749](http://arxiv.org/abs/2606.09749)|null|
+|**2026-06-08**|**ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies**|Toshiaki Koike-Akino Team|[2606.09630](http://arxiv.org/abs/2606.09630)|null|
+|**2026-06-08**|**Popcorn: A Configurable Benchmark for Visual Evidence in Multimodal Movie Recommendation**|Tommaso Di Noia Team|[2606.09595](http://arxiv.org/abs/2606.09595)|null|
+|**2026-06-08**|**TABVERSE: Benchmarking Cross-Format Table Understanding in LLMs and VLMs**|Preslav Nakov Team|[2606.09578](http://arxiv.org/abs/2606.09578)|null|
+|**2026-06-08**|**LangRetrieval: Language-Guided Self-Evolving Satellite-to-Radar Retrieval via CSI-Driven Reward**|Dan Niu Team|[2606.09486](http://arxiv.org/abs/2606.09486)|null|
+|**2026-06-08**|**MUDIDI: A Two-Stage Framework for Multilingual Dictionary Digitization with Language Models**|Ekaterina Vylomova Team|[2606.09435](http://arxiv.org/abs/2606.09435)|null|
+|**2026-06-08**|**Guide Me Out: A Framework to Benchmark VLM Operators Communication in Crisis Scenarios**|Marco Guerini Team|[2606.09428](http://arxiv.org/abs/2606.09428)|null|
+|**2026-06-08**|**CapRL++: Unified Reinforcement Learning with Verifiable Rewards for Dense Image and Video Captioning**|Dahua Lin Team|[2606.09393](http://arxiv.org/abs/2606.09393)|**[link](https://github.com/InternLM/CapRL.)**|
+|**2026-06-08**|**Zero-Shot Semantic Re-Identification for Autonomous Driving: A VLM Baseline Study**|Urbano J. Nunes Team|[2606.09362](http://arxiv.org/abs/2606.09362)|null|
+|**2026-06-08**|**ExDet: Open-Domain Open-Vocabulary Detection with Cross-modal Extrapolation and Rectification**|Liang Wan Team|[2606.09360](http://arxiv.org/abs/2606.09360)|null|
+|**2026-06-08**|**MAGIS: Evidence-Based Multi-Agent Reasoning for Interpretable Strabismus Clinical Decision-Making**|Zhun Fan Team|[2606.09249](http://arxiv.org/abs/2606.09249)|null|
+|**2026-06-08**|**Explicit Representation Alignment for Multimodal Sentiment Analysis**|Biao Wu Team|[2606.09148](http://arxiv.org/abs/2606.09148)|null|
+|**2026-06-08**|**Decoding Pedestrian Crossing Intention from Egocentric Vision via Vision Language Models**|Rico Krueger Team|[2606.09142](http://arxiv.org/abs/2606.09142)|null|
+|**2026-06-08**|**Vision Language Model Helps Private Information De-Identification in Vision Data**|Hua Wei Team|[2606.09132](http://arxiv.org/abs/2606.09132)|null|
+|**2026-06-08**|**Stage-1 Controls the Entropy Regime, Not the Outcome**|Jianxiong Shen Team|[2606.09059](http://arxiv.org/abs/2606.09059)|null|
+|**2026-06-08**|**An Effective Router for Vision-Language Model Selection**|Dianhui Chu Team|[2606.08970](http://arxiv.org/abs/2606.08970)|null|
+|**2026-06-08**|**ChinaHeritaQA: A Culturally-Grounded Visual Question Answering Dataset for World Heritage Sites in China**|Anna-Carolina Haensch Team|[2606.08959](http://arxiv.org/abs/2606.08959)|null|
+|**2026-06-08**|**NutriMLLM: Multimodal Large Language Models for Dietary Micronutrient Analysis**|Hanqi Luo Team|[2606.08948](http://arxiv.org/abs/2606.08948)|null|
+|**2026-06-08**|**Failure-Aware Refinement of Vision-Language Model for Lithography Defect Detection**|Kyung-Tae Kang Team|[2606.08908](http://arxiv.org/abs/2606.08908)|null|
 |**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Chunhua Shen Team|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
 |**2026-06-05**|**TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment**|Bernt Schiele Team|[2606.07451](http://arxiv.org/abs/2606.07451)|null|
 |**2026-06-05**|**Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics**|Leo Yu Zhang Team|[2606.07335](http://arxiv.org/abs/2606.07335)|**[link](https://github.com/Rookie143/mtk)**|
@@ -6936,6 +6976,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models**|Gao Huang Team|[2606.09827](http://arxiv.org/abs/2606.09827)|**[link](https://shihao1895.github.io/MemoryVLA-PP-Web)**|
+|**2026-06-08**|**Your Model Already Knows: Attention-Guided Safety Filter for Vision-Language-Action Models**|Nader Sehatbakhsh Team|[2606.09749](http://arxiv.org/abs/2606.09749)|null|
+|**2026-06-08**|**ProbeAct: Probe-Guided Training-Free Failure Recovery in Vision-Language-Action Models**|Nader Sehatbakhsh Team|[2606.09740](http://arxiv.org/abs/2606.09740)|null|
 |**2026-06-08**|**ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies**|Toshiaki Koike-Akino Team|[2606.09630](http://arxiv.org/abs/2606.09630)|null|
 |**2026-06-08**|**CT-VAM: A Cerebello-Thalamic-Inspired Vision-Action Model for Efficient Visuomotor Control**|Jiahu Qin Team|[2606.09572](http://arxiv.org/abs/2606.09572)|null|
 |**2026-06-08**|**Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer**|Kyung-Joon Park Team|[2606.09416](http://arxiv.org/abs/2606.09416)|null|
