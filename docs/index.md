@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Ken Goldberg Team|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
+|**2026-06-26**|**Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots**|Xihui Liu Team|[2606.28133](http://arxiv.org/abs/2606.28133)|**[link](https://translation-as-a-bridging-action.github.io/)**|
+|**2026-06-26**|**PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation**|Daquan Zhou Team|[2606.28128](http://arxiv.org/abs/2606.28128)|**[link](https://github.com/DAGroup-PKU/PhysisForcing)**|
+|**2026-06-26**|**S $^2$ -VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation**|Jing Zhao Team|[2606.27872](http://arxiv.org/abs/2606.27872)|null|
+|**2026-06-26**|**Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?**|Ang Li Team|[2606.27755](http://arxiv.org/abs/2606.27755)|null|
+|**2026-06-26**|**DIM-WAM: World-Action Modeling with Diverse Historical Event Memory**|Liang Wang Team|[2606.27677](http://arxiv.org/abs/2606.27677)|null|
+|**2026-06-26**|**Direct Action-Head Injection of A Grounded 3D Point Unlocks Spatial and Task Generalization**|Yi-Ting Chen Team|[2606.27663](http://arxiv.org/abs/2606.27663)|null|
+|**2026-06-25**|**Support-Constrained RL Enables Real-World Policy Improvement without Real-World Experience**|Abhishek Gupta Team|[2606.27475](http://arxiv.org/abs/2606.27475)|null|
 |**2026-06-25**|**World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays**|Srijan Das Team|[2606.27374](http://arxiv.org/abs/2606.27374)|null|
 |**2026-06-25**|**E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation**|Liang Wang Team|[2606.27268](http://arxiv.org/abs/2606.27268)|**[link](https://27yw.github.io/E-TTS-Web/)**|
 |**2026-06-25**|**PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies**|Qiang Shen Team|[2606.27146](http://arxiv.org/abs/2606.27146)|null|
@@ -2761,6 +2769,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models**|Michal Golovanevsky Team|[2606.28273](http://arxiv.org/abs/2606.28273)|null|
+|**2026-06-26**|**RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning**|Zitong Yu Team|[2606.28266](http://arxiv.org/abs/2606.28266)|null|
+|**2026-06-26**|**EchoSonar-R: A Multi-View Reasoning-Enabled Model for Disease Classification and Report Generation in Echocardiography**|Mohammad Yaqub Team|[2606.28164](http://arxiv.org/abs/2606.28164)|null|
+|**2026-06-26**|**ReScene: Structured Indoor Scene Reconstruction from Multi-View Captures**|Xin Tan Team|[2606.28060](http://arxiv.org/abs/2606.28060)|null|
+|**2026-06-26**|**Phase Matters: Characterizing Heterogeneous Vision-Language Inference on a Mobile SoC**|Priyesh Shukla Team|[2606.27906](http://arxiv.org/abs/2606.27906)|null|
+|**2026-06-26**|**SpatialUAV: Benchmarking Spatial Intelligence for Low-Altitude UAV Perception, Collaboration, and Motion**|Liqiang Nie Team|[2606.27876](http://arxiv.org/abs/2606.27876)|null|
+|**2026-06-26**|**LocalNav: Distilling Frontier VLMs and Embodied RL for On-Device Object Goal Navigation**|Michele Magno Team|[2606.27871](http://arxiv.org/abs/2606.27871)|null|
+|**2026-06-26**|**MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving**|Xiangmo Zhao Team|[2606.27660](http://arxiv.org/abs/2606.27660)|null|
+|**2026-06-26**|**VLM-Aware Meta-Optic Front-End Design for Frozen Vision-Language Models**|Haejun Chung Team|[2606.27646](http://arxiv.org/abs/2606.27646)|null|
+|**2026-06-25**|**Qwen-Image-2.0-RL Technical Report**|Chenfei Wu Team|[2606.27608](http://arxiv.org/abs/2606.27608)|null|
+|**2026-06-25**|**Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding**|Gillian Dobbie Team|[2606.27596](http://arxiv.org/abs/2606.27596)|null|
+|**2026-06-25**|**Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge**|Yong Jae Lee Team|[2606.27527](http://arxiv.org/abs/2606.27527)|null|
+|**2026-06-25**|**Aloe-Vision: Robust Vision-Language Models for Healthcare**|Dario Garcia-Gasulla Team|[2606.27500](http://arxiv.org/abs/2606.27500)|null|
 |**2026-06-25**|**HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models**|Guancheng Wan Team|[2606.27187](http://arxiv.org/abs/2606.27187)|null|
 |**2026-06-25**|**Automating Potential-based Reward Shaping with Vision Language Model Guidance**|Daniel Kudenko Team|[2606.27180](http://arxiv.org/abs/2606.27180)|null|
 |**2026-06-25**|**GAVEL: Grounded Caption Error Verification and Localization**|Kuniaki Saito Team|[2606.26923](http://arxiv.org/abs/2606.26923)|null|
@@ -7376,9 +7397,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots**|Xihui Liu Team|[2606.28133](http://arxiv.org/abs/2606.28133)|**[link](https://translation-as-a-bridging-action.github.io/)**|
+|**2026-06-26**|**S $^2$ -VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation**|Jing Zhao Team|[2606.27872](http://arxiv.org/abs/2606.27872)|null|
+|**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Long Chen Team|[2606.27807](http://arxiv.org/abs/2606.27807)|null|
+|**2026-06-26**|**Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?**|Ang Li Team|[2606.27755](http://arxiv.org/abs/2606.27755)|null|
+|**2026-06-26**|**Direct Action-Head Injection of A Grounded 3D Point Unlocks Spatial and Task Generalization**|Yi-Ting Chen Team|[2606.27663](http://arxiv.org/abs/2606.27663)|null|
 |**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Angjoo Kanazawa Team|[2606.27375](http://arxiv.org/abs/2606.27375)|**[link](https://abc.bot)**|
 |**2026-06-25**|**RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection**|Youran Sun Team|[2606.27355](http://arxiv.org/abs/2606.27355)|null|
-|**2026-06-25**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Bo Zhao Team|[2606.27295](http://arxiv.org/abs/2606.27295)|**[link](https://github.com/MINT-SJTU/LA4VLA)**|
+|**2026-06-26**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Bo Zhao Team|[2606.27295](http://arxiv.org/abs/2606.27295)|**[link](https://github.com/MINT-SJTU/LA4VLA)**|
 |**2026-06-25**|**E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation**|Liang Wang Team|[2606.27268](http://arxiv.org/abs/2606.27268)|**[link](https://27yw.github.io/E-TTS-Web/)**|
 |**2026-06-25**|**Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)**|Ilia Larchenko Team|[2606.27163](http://arxiv.org/abs/2606.27163)|null|
 |**2026-06-25**|**PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies**|Qiang Shen Team|[2606.27146](http://arxiv.org/abs/2606.27146)|null|
@@ -8692,6 +8718,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**Booster Lab: A Data-Centric Pipeline for Learning Deployable Humanoid Locomotion Policies**|Mingguo Zhao Team|[2606.27813](http://arxiv.org/abs/2606.27813)|null|
+|**2026-06-26**|**CWI: Composite Humanoid Whole-Body Imitation System for Loco-manipulation**|Hua Chen Team|[2606.27676](http://arxiv.org/abs/2606.27676)|null|
 |**2026-06-25**|**HumanoidUMI: Bridging Robot-Free Demonstrations and Humanoid Whole-Body Manipulation**|Shaqi Luo Team|[2606.27239](http://arxiv.org/abs/2606.27239)|null|
 |**2026-06-25**|**Identifying the Unknown: Prompt-Free Open Vocabulary Anomaly Recognition for Robot-Object Interaction**|Stefan Wermter Team|[2606.26829](http://arxiv.org/abs/2606.26829)|null|
 |**2026-06-25**|**PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation**|Xun Cao Team|[2606.26741](http://arxiv.org/abs/2606.26741)|null|
@@ -9237,6 +9265,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand**|Mingyu Ding Team|[2606.28323](http://arxiv.org/abs/2606.28323)|**[link](https://devon018.github.io/DexCompose-Webpage/)**|
+|**2026-06-26**|**Learning Stable In-Grasp Manipulation in a Non-Dropping Action Space**|Kenji Tahara Team|[2606.28196](http://arxiv.org/abs/2606.28196)|null|
 |**2026-06-25**|**VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity**|Jeffrey Ichnowski Team|[2606.27344](http://arxiv.org/abs/2606.27344)|null|
 |**2026-06-24**|**Self Capacitive Tactile Sensor System designed for Companion Robots**|Shuhei Ikemoto Team|[2606.25348](http://arxiv.org/abs/2606.25348)|null|
 |**2026-06-23**|**NoContactNoWorries: Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation**|Spandan Roy Team|[2606.24450](http://arxiv.org/abs/2606.24450)|null|
