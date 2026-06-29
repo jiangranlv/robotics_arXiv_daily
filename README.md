@@ -2848,7 +2848,7 @@
 |**2026-06-22**|**FlowTrain: Flow-Based Decoupled Training for Industrial-Grade Vision-Language Models**|Ke Zhang Team|[2606.23087](http://arxiv.org/abs/2606.23087)|null|
 |**2026-06-22**|**Black-Box Continual Learning for Vision-Language Models**|Weiran Huang Team|[2606.22999](http://arxiv.org/abs/2606.22999)|null|
 |**2026-06-22**|**Each Judge Its Own Yardstick: Discovering Per-VLM Taxonomies for Physical Video Evaluation**|Jifei Song Team|[2606.22918](http://arxiv.org/abs/2606.22918)|null|
-|**2026-06-22**|**SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning**| SingGuard Team Team|[2606.22873](http://arxiv.org/abs/2606.22873)|null|
+|**2026-06-22**|**SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning**|SingGuard Team Team|[2606.22873](http://arxiv.org/abs/2606.22873)|null|
 |**2026-06-22**|**When AUC 0.998 Is Not Enough: A Candidate Evaluation Protocol for Hidden-State Probes of Indirect Prompt Injection in Multimodal Computer-Use Agents**|Zexin Zhuang Team|[2606.22864](http://arxiv.org/abs/2606.22864)|null|
 |**2026-06-22**|**Chains That See, Answers That Don't: A Multi-Aspect Evaluation Recipe for Forced Chain-of-Thought on Video-MME**|Zexin Zhuang Team|[2606.22862](http://arxiv.org/abs/2606.22862)|null|
 |**2026-06-22**|**UniFS: Unified Fast-to-Slow Hierarchical Architecture for Vision-Language-Action Models**|Lige Liu Team|[2606.22794](http://arxiv.org/abs/2606.22794)|**[link](https://github.com/linsun449/UniFS)**|
