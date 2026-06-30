@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**When Does Online Imitation Learning Help in LLM Post-Training? The Role of (Non-)Realizability Beyond Horizon**|Andrej Risteski Team|[2606.30445](http://arxiv.org/abs/2606.30445)|null|
 |**2026-06-29**|**Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning**|Hermann de Meer Team|[2606.30316](http://arxiv.org/abs/2606.30316)|null|
 |**2026-06-29**|**X-Morph: Human Motion Priors for Scalable Robot Learning Across Morphologies**|Guillaume Sartoretti Team|[2606.30290](http://arxiv.org/abs/2606.30290)|null|
 |**2026-06-29**|**ConCent: Contact-Centric Real-to-Sim-to-Real Learning from One Demonstration**|Yasuyuki Matsushita Team|[2606.30268](http://arxiv.org/abs/2606.30268)|null|
@@ -2787,6 +2788,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**GROW $^2$ : Grounding Which and Where for Robot Tool Use**|David Hsu Team|[2606.30632](http://arxiv.org/abs/2606.30632)|null|
+|**2026-06-29**|**DOPD: Dual On-policy Distillation**|Shuicheng Yan Team|[2606.30626](http://arxiv.org/abs/2606.30626)|null|
+|**2026-06-29**|**Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision**|Jing Zhang Team|[2606.30552](http://arxiv.org/abs/2606.30552)|null|
+|**2026-06-29**|**On the Faithfulness of Post-Hoc Concept Bottleneck Models**|Joachim Denzler Team|[2606.30498](http://arxiv.org/abs/2606.30498)|null|
+|**2026-06-29**|**SADL: What to Ignore? A Benchmark for Subject-Aware Distractor Localization**|Minh-Triet Tran Team|[2606.30393](http://arxiv.org/abs/2606.30393)|null|
+|**2026-06-29**|**FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation**|Wenbo Ding Team|[2606.30367](http://arxiv.org/abs/2606.30367)|null|
 |**2026-06-29**|**ManimAgent: Self-Evolving Multimodal Agents for Visual Education**|Zhou Yang Team|[2606.30296](http://arxiv.org/abs/2606.30296)|**[link](https://manimagent.github.io/.)**|
 |**2026-06-29**|**VisReflect: Latent Visual Reflection for Fine-Grained Perception in Long Visual Context**|Mohamed Elhoseiny Team|[2606.30288](http://arxiv.org/abs/2606.30288)|**[link](https://xiaoqian-shen.github.io/VisReflect)**|
 |**2026-06-29**|**From Accuracy to Visual Dependence: Auditing and Filtering Modality Collapse in Traffic VideoQA**|Zeynep Akata Team|[2606.30220](http://arxiv.org/abs/2606.30220)|null|
@@ -7435,6 +7442,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Sequential Planning via Anchored Robotic Keypoints**|Peng Wang Team|[2606.30613](http://arxiv.org/abs/2606.30613)|null|
+|**2026-06-29**|**Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision**|Jing Zhang Team|[2606.30552](http://arxiv.org/abs/2606.30552)|null|
+|**2026-06-29**|**Vision-Language-Action Models: Experimental Insights from a Real-World UR5 Platform**|Marc Lalonde Team|[2606.30456](http://arxiv.org/abs/2606.30456)|null|
 |**2026-06-29**|**SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance**|Yao Mu Team|[2606.30113](http://arxiv.org/abs/2606.30113)|null|
 |**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Zhidong Deng Team|[2606.29936](http://arxiv.org/abs/2606.29936)|null|
 |**2026-06-29**|**Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models**|Tao Chen Team|[2606.29892](http://arxiv.org/abs/2606.29892)|null|
@@ -9327,7 +9337,7 @@ layout: default
 |**2026-06-22**|**LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation**|Shanghang Zhang Team|[2606.23685](http://arxiv.org/abs/2606.23685)|null|
 |**2026-06-22**|**CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation**|Mingyu Ding Team|[2606.23680](http://arxiv.org/abs/2606.23680)|**[link](https://skevinci.github.io/coordex/)**|
 |**2026-06-22**|**DexTeleop-0: Force-Aware Bimanual Dexterous Teleoperation with Ego-Centric Perception towards Shared Autonomy**|Ziwei Wang Team|[2606.23431](http://arxiv.org/abs/2606.23431)|null|
-|**2026-06-21**|**Scalable Multi-Task Data Generation via Reinforcement Learning for Language-Conditioned Bimanual Dexterous Manipulation**|Georgia Chalvatzaki Team|[2606.22471](http://arxiv.org/abs/2606.22471)|null|
+|**2026-06-29**|**Scalable Multi-Task Data Generation via Reinforcement Learning for Language-Conditioned Bimanual Dexterous Manipulation**|Georgia Chalvatzaki Team|[2606.22471](http://arxiv.org/abs/2606.22471)|null|
 |**2026-06-21**|**Tactile Genesis: Exploring Tactile Sensors at Scale for Learning Dexterous Tasks**|Aran Nayebi Team|[2606.22332](http://arxiv.org/abs/2606.22332)|null|
 |**2026-06-23**|**Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data**|Yang Gao Team|[2606.22136](http://arxiv.org/abs/2606.22136)|null|
 |**2026-06-20**|**KITE: Decoupling Kinematics and Interaction for Zero-Shot Cross-Embodiment Manipulation**|Kuan Fang Team|[2606.22113](http://arxiv.org/abs/2606.22113)|null|
