@@ -16,6 +16,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**WorldSample: Closed-loop Real-robot RL with World Modelling**|Ziwei Wang Team|[2607.02431](http://arxiv.org/abs/2607.02431)|null|
+|**2026-07-02**|**The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection**|Jiaxing Zhang Team|[2607.02322](http://arxiv.org/abs/2607.02322)|null|
+|**2026-07-02**|**Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning**|Jun Morimoto Team|[2607.02205](http://arxiv.org/abs/2607.02205)|null|
+|**2026-07-02**|**Influence of Radial Basis Activation Functions on Intelligent Controller for Robotic Manipulators**|Wallace Moreira Bessa Team|[2607.02167](http://arxiv.org/abs/2607.02167)|**[link](https://eurodiname.sciencesconf.org/))**|
+|**2026-07-02**|**ComplexMimic: Human-Scene Interaction Imitation in Complex 3D Environments**|Hongwei Zhao Team|[2607.02034](http://arxiv.org/abs/2607.02034)|null|
+|**2026-07-02**|**VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon**|Wenqi Zhang Team|[2607.01804](http://arxiv.org/abs/2607.01804)|null|
+|**2026-07-02**|**CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning**|Yinghao Cai Team|[2607.01721](http://arxiv.org/abs/2607.01721)|null|
+|**2026-07-02**|**Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations**|Yu She Team|[2607.01684](http://arxiv.org/abs/2607.01684)|**[link](https://tacimag.github.io/)**|
+|**2026-07-02**|**One Demonstration Is Enough for Real-World Robotic Reinforcement Learning**|Ceyao Zhang Team|[2607.01651](http://arxiv.org/abs/2607.01651)|null|
+|**2026-07-02**|**VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment**|Yan Xie Team|[2607.01586](http://arxiv.org/abs/2607.01586)|null|
+|**2026-07-01**|**Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching**|Rickard Ewetz Team|[2607.01378](http://arxiv.org/abs/2607.01378)|null|
 |**2026-07-01**|**Language-Critique Imitation Learning from Suboptimal Demonstrations**|Shao-Hua Sun Team|[2607.01225](http://arxiv.org/abs/2607.01225)|null|
 |**2026-07-01**|**Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation**|Zongqing Lu Team|[2607.01067](http://arxiv.org/abs/2607.01067)|null|
 |**2026-07-01**|**AutoSpeed: Annotation-Free Stage-Adaptive Motion Speed Learning for Robot Manipulation**|Wenchao Ding Team|[2607.01051](http://arxiv.org/abs/2607.01051)|null|
@@ -2826,6 +2837,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**Seek to Segment: Active Perception for Panoramic Referring Segmentation**|Yu-Gang Jiang Team|[2607.02497](http://arxiv.org/abs/2607.02497)|**[link](https://henghuiding.com/APRS/)**|
+|**2026-07-02**|**Towards Robustness against Typographic Attack with Training-free Concept Localization**|Aidong Zhang Team|[2607.02494](http://arxiv.org/abs/2607.02494)|null|
+|**2026-07-02**|**Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning**|Greg Durrett Team|[2607.02490](http://arxiv.org/abs/2607.02490)|null|
+|**2026-07-02**|**Show Me Examples: Inferring Visual Concepts from Image Sets**|Björn Ommer Team|[2607.02402](http://arxiv.org/abs/2607.02402)|**[link](https://github.com/CompVis/set-learner)**|
+|**2026-07-02**|**Search-based Testing of Vision Language Models for In-Car Scene Understanding**|Andrea Stocco Team|[2607.02300](http://arxiv.org/abs/2607.02300)|null|
+|**2026-07-02**|**AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models**|Ryo Hachiuma Team|[2607.02269](http://arxiv.org/abs/2607.02269)|null|
+|**2026-07-02**|**Efficient PEFT Methods with Adaptive Checkpointing for Vision Models and VLMs on Resource Constrained Consumer-GPUs**|Jurn-Gyu Park Team|[2607.02158](http://arxiv.org/abs/2607.02158)|null|
+|**2026-07-02**|**LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension**|Chenhui Chu Team|[2607.02096](http://arxiv.org/abs/2607.02096)|**[link](https://github.com/shunya-kato/LongEgoRefer)**|
+|**2026-07-02**|**DeepGaze3.5-VL: Modeling Scanpaths via Autoregressive Token Prediction**|Matthias Kümmerer Team|[2607.02083](http://arxiv.org/abs/2607.02083)|null|
+|**2026-07-02**|**Evaluating Vision-Language Models as a Zero-Shot Learning Alternative to You Only Look Once and Optical Character Recognition for Nigerian License Plate Recognition**|Muhammad Bashir Aliyu Team|[2607.02025](http://arxiv.org/abs/2607.02025)|null|
+|**2026-07-02**|**MolSight: A Graph-Aware Vision-Language Model for Unified Chemical Image Understanding**|Zhewei Wei Team|[2607.01982](http://arxiv.org/abs/2607.01982)|null|
+|**2026-07-02**|**Assessing VLM Reliability for Medical Image Quality Evaluation Under Corruption and Bias**|Nico Pfeifer Team|[2607.01973](http://arxiv.org/abs/2607.01973)|null|
+|**2026-07-02**|**Towards Real-World Ultrasound Understanding: Large Vision-Language Models from Multi-Image Examinations with Long-Form Reports**|Lichao Mou Team|[2607.01908](http://arxiv.org/abs/2607.01908)|**[link](https://medai-t.github.io/LUMI/)**|
+|**2026-07-02**|**Rank-Then-Act: Reward-Free Control from Frame-Order Progress**|Daniil Gavrilov Team|[2607.01897](http://arxiv.org/abs/2607.01897)|null|
+|**2026-07-02**|**SAB-LVLM: Significance-Aware Binarization for Large Vision-Language Models**|Zhi Han Team|[2607.01876](http://arxiv.org/abs/2607.01876)|null|
+|**2026-07-02**|**MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models**|Zhanyu Ma Team|[2607.01813](http://arxiv.org/abs/2607.01813)|null|
+|**2026-07-02**|**SpaceEra++: A Unified Framework Towards 3D Spatial Reasoning in Video**|Liqiang Nie Team|[2607.01784](http://arxiv.org/abs/2607.01784)|null|
+|**2026-07-02**|**MedStreamBench: A Time-Aware Benchmark for Streaming and Proactive Medical Video Understanding**|Zuozhu Liu Team|[2607.01751](http://arxiv.org/abs/2607.01751)|null|
+|**2026-07-02**|**RTE-FM-Dehazer: Radiative Transfer Equation Inspired Flow Matching for Real-World Image Dehazing**|Chenguang Yang Team|[2607.01748](http://arxiv.org/abs/2607.01748)|null|
+|**2026-07-02**|**CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning**|Yinghao Cai Team|[2607.01721](http://arxiv.org/abs/2607.01721)|null|
 |**2026-07-01**|**Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning**|Yongliang Shen Team|[2607.01191](http://arxiv.org/abs/2607.01191)|**[link](https://github.com/ZJU-REAL/Perceive-to-Reason)**|
 |**2026-07-01**|**Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach**|Abdullah Al Shafi Team|[2607.01115](http://arxiv.org/abs/2607.01115)|null|
 |**2026-07-01**|**LongVQUBench: Benchmarking Long-Term Video Quality Understanding of Vision-Language Models**|Weisi Lin Team|[2607.01086](http://arxiv.org/abs/2607.01086)|null|
@@ -7522,6 +7553,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots**|Shuai Wang Team|[2607.02501](http://arxiv.org/abs/2607.02501)|**[link](https://github.com/SEU-PAISys/Embodied.cpp)**|
+|**2026-07-02**|**Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs**|Xipeng Qiu Team|[2607.02466](http://arxiv.org/abs/2607.02466)|null|
+|**2026-07-02**|**LIME: Learning Intent-aware Camera Motion from Egocentric Video**|Hermann Blum Team|[2607.02417](http://arxiv.org/abs/2607.02417)|null|
+|**2026-07-02**|**The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection**|Jiaxing Zhang Team|[2607.02322](http://arxiv.org/abs/2607.02322)|null|
+|**2026-07-02**|**CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation**|Moju Zhao Team|[2607.02222](http://arxiv.org/abs/2607.02222)|null|
+|**2026-07-02**|**Bridge-WA: Predicting Where and How the World Changes for Robotic Action**|Liang Lin Team|[2607.02195](http://arxiv.org/abs/2607.02195)|**[link](https://hcplab-sysu.github.io/BRIDGE-WA)**|
+|**2026-07-02**|**Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies**|Zezhi Tang Team|[2607.02092](http://arxiv.org/abs/2607.02092)|null|
+|**2026-07-02**|**VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon**|Wenqi Zhang Team|[2607.01804](http://arxiv.org/abs/2607.01804)|null|
+|**2026-07-02**|**Teaching Vision-Language-Action Models What to See and Where to Look**|Xianbin Cao Team|[2607.01658](http://arxiv.org/abs/2607.01658)|null|
+|**2026-07-02**|**VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment**|Yan Xie Team|[2607.01586](http://arxiv.org/abs/2607.01586)|null|
+|**2026-07-01**|**Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching**|Rickard Ewetz Team|[2607.01378](http://arxiv.org/abs/2607.01378)|null|
 |**2026-07-01**|**FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model**|Diego Romeres Team|[2607.01212](http://arxiv.org/abs/2607.01212)|**[link](https://dannymcy.github.io/furniturevla/)**|
 |**2026-07-01**|**Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation**|Zongqing Lu Team|[2607.01067](http://arxiv.org/abs/2607.01067)|null|
 |**2026-07-01**|**Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts**|Jonghyun Choi Team|[2607.00666](http://arxiv.org/abs/2607.00666)|**[link](https://twkang43.github.io/projects/dart)**|
