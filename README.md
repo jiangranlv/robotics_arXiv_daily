@@ -1,4 +1,4 @@
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**KAM-WM: Kinematic Affordance Maps from Latent World Models for Robot Manipulation**|Xiu Li Team|[2607.04652](http://arxiv.org/abs/2607.04652)|null|
+|**2026-07-06**|**SILO: Simulation-in-the-Loop Sim-to-Real Transfer for Multi-Stage Cable Routing**|Iretiayo Akinola Team|[2607.04616](http://arxiv.org/abs/2607.04616)|**[link](https://silo-cable-routing.github.io/)**|
+|**2026-07-06**|**Simple-to-Complex Structured Demonstrations for Vision-Language-Action Learning**|Yi Yu Team|[2607.04591](http://arxiv.org/abs/2607.04591)|null|
+|**2026-07-05**|**RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies**|Masayoshi Tomizuka Team|[2607.04434](http://arxiv.org/abs/2607.04434)|**[link](https://robodojo-benchmark.com/)**|
+|**2026-07-05**|**Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling**|Kun Zhang Team|[2607.04409](http://arxiv.org/abs/2607.04409)|null|
+|**2026-07-05**|**HALO-WA: Hybrid-Attention Latent-Guided Online Reinforcement Learning for World-Action Models**|Dapeng Zhang Team|[2607.04265](http://arxiv.org/abs/2607.04265)|null|
+|**2026-07-05**|**SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects**|Haibao Yu Team|[2607.04234](http://arxiv.org/abs/2607.04234)|null|
+|**2026-07-05**|**XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control**|Zhidong Deng Team|[2607.04171](http://arxiv.org/abs/2607.04171)|null|
+|**2026-07-05**|**ACE: Agentic Control for Embodied Manipulation via Zero-shot Workflow Reasoning**|Zhidong Deng Team|[2607.04162](http://arxiv.org/abs/2607.04162)|null|
+|**2026-07-04**|**Worldscape-MoE: A Unified Mixture-of-Experts World Model for Scalable Heterogeneous Action Control**|Yong Li Team|[2607.03964](http://arxiv.org/abs/2607.03964)|null|
+|**2026-07-04**|**WSA $_1$ : a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control**|Heng Tao Shen Team|[2607.03941](http://arxiv.org/abs/2607.03941)|null|
+|**2026-07-04**|**Occluding the Solution Space: Planner-Agnostic Adversarial Attacks on Tolerance-Aware Manipulation**|Zhihong Tian Team|[2607.03758](http://arxiv.org/abs/2607.03758)|null|
+|**2026-07-04**|**CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts**|Xipeng Qiu Team|[2607.03693](http://arxiv.org/abs/2607.03693)|null|
+|**2026-07-03**|**ROBOCYCLE: Autonomous Dual-Arm Robotic Manipulation and Coordination for Recycling Applications**|Arturo E. Cerón-López Team|[2607.03616](http://arxiv.org/abs/2607.03616)|null|
+|**2026-07-03**|**Cross-Embodiment Robot Manipulation via a Unified Hand Action Space**|Yu Xiang Team|[2607.03570](http://arxiv.org/abs/2607.03570)|null|
+|**2026-07-03**|**WorldBagel: Uncovering the Power of Unified Multimodal Models for Vision-Language-Action-World Modeling**|Yongxin Chen Team|[2607.03461](http://arxiv.org/abs/2607.03461)|null|
+|**2026-07-03**|**HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control**|Xipeng Qiu Team|[2607.03449](http://arxiv.org/abs/2607.03449)|null|
+|**2026-07-03**|**Beyond Point-Attached Semantics: Object-Centric Semantic Fields for Generalizable Manipulation**|Fei Chen Team|[2607.03163](http://arxiv.org/abs/2607.03163)|null|
+|**2026-07-03**|**Differential Amplifier-Inspired AmpAttention for Multi-View Robotic Manipulation**|Nanning Zheng Team|[2607.02845](http://arxiv.org/abs/2607.02845)|null|
+|**2026-07-03**|**CLEAR: Closed-Loop Reinforcement Learning at Scale for End-to-End Autonomous Driving**|Fatih Porikli Team|[2607.02841](http://arxiv.org/abs/2607.02841)|null|
 |**2026-07-02**|**WorldSample: Closed-loop Real-robot RL with World Modelling**|Ziwei Wang Team|[2607.02431](http://arxiv.org/abs/2607.02431)|null|
 |**2026-07-02**|**The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection**|Jiaxing Zhang Team|[2607.02322](http://arxiv.org/abs/2607.02322)|null|
 |**2026-07-02**|**Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning**|Jun Morimoto Team|[2607.02205](http://arxiv.org/abs/2607.02205)|null|
@@ -2831,7 +2851,7 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 ## VLM
 
@@ -7547,7 +7567,7 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 ## VLA
 
@@ -8910,7 +8930,7 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 ## Humanoid
 
@@ -9466,7 +9486,7 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 ## Dexterous
 
@@ -9890,5 +9910,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
