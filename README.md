@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation**|Shanghang Zhang Team|[2607.06564](http://arxiv.org/abs/2607.06564)|**[link](https://lift3dvla.github.io/)**|
+|**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Zhongyu Li Team|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io)**|
+|**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Zhongyu Li Team|[2607.06558](http://arxiv.org/abs/2607.06558)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io)**|
 |**2026-07-07**|**SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models**|Kai Chen Team|[2607.06442](http://arxiv.org/abs/2607.06442)|**[link](https://github.com/ChangtiWu/SIEVE}{SIEVE})**|
 |**2026-07-07**|**Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement**|Daichi Fujiki Team|[2607.06370](http://arxiv.org/abs/2607.06370)|null|
 |**2026-07-07**|**OrchardBench: A Physically-Grounded, GPU-Parallel Apple-Orchard Simulation Benchmark for Agricultural Robotics**|Humphrey Munn Team|[2607.06337](http://arxiv.org/abs/2607.06337)|null|
@@ -31,7 +34,7 @@
 |**2026-07-06**|**KAM-WM: Kinematic Affordance Maps from Latent World Models for Robot Manipulation**|Xiu Li Team|[2607.04652](http://arxiv.org/abs/2607.04652)|null|
 |**2026-07-06**|**SILO: Simulation-in-the-Loop Sim-to-Real Transfer for Multi-Stage Cable Routing**|Iretiayo Akinola Team|[2607.04616](http://arxiv.org/abs/2607.04616)|**[link](https://silo-cable-routing.github.io/)**|
 |**2026-07-06**|**Simple-to-Complex Structured Demonstrations for Vision-Language-Action Learning**|Yi Yu Team|[2607.04591](http://arxiv.org/abs/2607.04591)|null|
-|**2026-07-05**|**RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies**|Masayoshi Tomizuka Team|[2607.04434](http://arxiv.org/abs/2607.04434)|**[link](https://robodojo-benchmark.com/)**|
+|**2026-07-07**|**RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies**|Masayoshi Tomizuka Team|[2607.04434](http://arxiv.org/abs/2607.04434)|**[link](https://robodojo-benchmark.com/)**|
 |**2026-07-05**|**Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling**|Kun Zhang Team|[2607.04409](http://arxiv.org/abs/2607.04409)|null|
 |**2026-07-05**|**HALO-WA: Hybrid-Attention Latent-Guided Online Reinforcement Learning for World-Action Models**|Dapeng Zhang Team|[2607.04265](http://arxiv.org/abs/2607.04265)|null|
 |**2026-07-05**|**SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects**|Haibao Yu Team|[2607.04234](http://arxiv.org/abs/2607.04234)|null|
@@ -2869,6 +2872,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment**|Yu-Chiang Frank Wang Team|[2607.06522](http://arxiv.org/abs/2607.06522)|null|
+|**2026-07-07**|**AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models**|Jiahuan Long Team|[2607.06485](http://arxiv.org/abs/2607.06485)|null|
+|**2026-07-07**|**A VLM-Enhanced Framework for Comprehensive Traffic Sign Condition Assessment Integrating Daytime Visual Performance and Nighttime Retroreflectivity Evaluation**|Yaw Adu-Gyamfi Team|[2607.06478](http://arxiv.org/abs/2607.06478)|null|
 |**2026-07-07**|**Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders**|Or Patashnik Team|[2607.06445](http://arxiv.org/abs/2607.06445)|null|
 |**2026-07-07**|**What Images Cannot Say: Language-Guided Olfactory Representation Learning**|Vicky Kalogeiton Team|[2607.06402](http://arxiv.org/abs/2607.06402)|**[link](https://www.lix.polytechnique.fr/vista/projects/2026_scent_tsonis/)**|
 |**2026-07-07**|**VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery**|Hao Tang Team|[2607.06374](http://arxiv.org/abs/2607.06374)|**[link](https://github.com/AIGeeksGroup/VaseMuseum.)**|
@@ -7625,6 +7631,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation**|Shanghang Zhang Team|[2607.06564](http://arxiv.org/abs/2607.06564)|**[link](https://lift3dvla.github.io/)**|
 |**2026-07-07**|**SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models**|Kai Chen Team|[2607.06442](http://arxiv.org/abs/2607.06442)|**[link](https://github.com/ChangtiWu/SIEVE}{SIEVE})**|
 |**2026-07-07**|**Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement**|Daichi Fujiki Team|[2607.06370](http://arxiv.org/abs/2607.06370)|null|
 |**2026-07-07**|**Optimal Transport Q-Learning for Flow Policy Steering and Acceleration**|Sethu Vijayakumar Team|[2607.06262](http://arxiv.org/abs/2607.06262)|null|
