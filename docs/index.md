@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies**|Hongyang Li Team|[2607.12892](http://arxiv.org/abs/2607.12892)|null|
+|**2026-07-14**|**Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences**|Jongeun Choi Team|[2607.12466](http://arxiv.org/abs/2607.12466)|null|
+|**2026-07-14**|**VistaVLA: Geometry- and Semantic-Aware 3D Gaussian-Grounded VLA for Robotic Manipulation**|Lin Wang Team|[2607.12356](http://arxiv.org/abs/2607.12356)|null|
+|**2026-07-14**|**Reducing Temporal Redundancy for Efficient Vision-Language-Action Inference**|Chuan Wen Team|[2607.12287](http://arxiv.org/abs/2607.12287)|null|
+|**2026-07-13**|**More than a Manipulator: Planning Propellant-Free Attitude Maneuvers for Free-Floating Spacecraft**|Keenan Albee Team|[2607.12130](http://arxiv.org/abs/2607.12130)|null|
 |**2026-07-13**|**Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation**|Jeannette Bohg Team|[2607.11884](http://arxiv.org/abs/2607.11884)|null|
 |**2026-07-13**|**Trajectory Planning and Certification for 3-DOF Robot Manipulators Using Real Quantifier Elimination Based on Comprehensive Gröbner Systems**|Masahiko Mikawa Team|[2607.11657](http://arxiv.org/abs/2607.11657)|null|
 |**2026-07-13**|**EDAR: Learning Environment-Dependent Action Representations for Robotic Manipulation**|Wenqiang Zhang Team|[2607.11427](http://arxiv.org/abs/2607.11427)|null|
@@ -2903,6 +2908,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Shoaib Ehsan Team|[2607.12818](http://arxiv.org/abs/2607.12818)|null|
+|**2026-07-14**|**Visual Access Boundaries in Vision-Language Model Reasoning**|Yutaka Matsuo Team|[2607.12815](http://arxiv.org/abs/2607.12815)|null|
+|**2026-07-14**|**CoRe: A Comprehensive Framework for Cross-Image Comparative Reasoning in Vision-Language Models**|Yihong Gong Team|[2607.12786](http://arxiv.org/abs/2607.12786)|null|
+|**2026-07-14**|**VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression**|Nenghai Yu Team|[2607.12756](http://arxiv.org/abs/2607.12756)|null|
+|**2026-07-14**|**MaxSAT-Based Feedback for Guiding Vision-Language Models in Sudoku**|Felip Manyà Team|[2607.12711](http://arxiv.org/abs/2607.12711)|null|
+|**2026-07-14**|**A Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism**|Qinghao Zhang Team|[2607.12640](http://arxiv.org/abs/2607.12640)|null|
+|**2026-07-14**|**Gaussian Mixture Modeling for Event-Aware Visual Allocation in Long Video Understanding**|Weiming Hu Team|[2607.12557](http://arxiv.org/abs/2607.12557)|null|
+|**2026-07-14**|**MQAdapter: Multi-Modal Quantum Adapter for Coarse-to-Fine VLM Fine-tuning**|Jin Tang Team|[2607.12418](http://arxiv.org/abs/2607.12418)|null|
+|**2026-07-14**|**DM-KG: A Novel Method for Boosting Spatial Cognition of Vision-Language Models in Street View Imagery**|Yi Cheng Team|[2607.12319](http://arxiv.org/abs/2607.12319)|null|
+|**2026-07-14**|**Auditing Data Leakage in Whole-Slide Image Multimodal Benchmarks**|Sheng Li Team|[2607.12278](http://arxiv.org/abs/2607.12278)|null|
+|**2026-07-13**|**The Emerging Paradigm of Geospatial Foundation Models: From Pre-Training to Agentic Reasoning**|Shelley Cazares Team|[2607.12177](http://arxiv.org/abs/2607.12177)|null|
+|**2026-07-13**|**An Empirical Analysis of Continual Learning for Heterogeneous Medical Visual Question Answering**|Mohammad Yaqub Team|[2607.12048](http://arxiv.org/abs/2607.12048)|null|
 |**2026-07-13**|**Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues**|Yoshiki Ohira Team|[2607.11633](http://arxiv.org/abs/2607.11633)|null|
 |**2026-07-13**|**Interaction Scaling: Grounding the Third Axis of Test-Time Compute**|Noah Shi Team|[2607.11598](http://arxiv.org/abs/2607.11598)|null|
 |**2026-07-13**|**The Ebb and Flow of Multimodal Focus: Scheduling Visual Relay Windows for Grounded VLM Reasoning**|Heng Tao Shen Team|[2607.11436](http://arxiv.org/abs/2607.11436)|null|
@@ -7716,6 +7733,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference**|Meng Li Team|[2607.12659](http://arxiv.org/abs/2607.12659)|null|
+|**2026-07-14**|**TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors**|Mang Ye Team|[2607.12571](http://arxiv.org/abs/2607.12571)|null|
+|**2026-07-14**|**VistaVLA: Geometry- and Semantic-Aware 3D Gaussian-Grounded VLA for Robotic Manipulation**|Lin Wang Team|[2607.12356](http://arxiv.org/abs/2607.12356)|null|
+|**2026-07-14**|**Reducing Temporal Redundancy for Efficient Vision-Language-Action Inference**|Chuan Wen Team|[2607.12287](http://arxiv.org/abs/2607.12287)|null|
 |**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Xuelong Li Team|[2607.11689](http://arxiv.org/abs/2607.11689)|null|
 |**2026-07-13**|**See like a Robot: Robot-Centric Pointmaps for Vision-Language-Action Models**|Jaegul Choo Team|[2607.11498](http://arxiv.org/abs/2607.11498)|**[link](https://davian-robotics.github.io/pointmap/)**|
 |**2026-07-13**|**Towards Predictive, Aligned, and Scalable Robot Learning**|Jianan Wang Team|[2607.11270](http://arxiv.org/abs/2607.11270)|null|
@@ -7731,7 +7752,7 @@ layout: default
 |**2026-07-09**|**CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding**|Mai Nishimura Team|[2607.08974](http://arxiv.org/abs/2607.08974)|**[link](https://omron-sinicx.github.io/clap/)**|
 |**2026-07-09**|**Prompt-Driven Exploration**|Zhang-Wei Hong Team|[2607.08837](http://arxiv.org/abs/2607.08837)|null|
 |**2026-07-10**|**FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation**|Qingbiao Li Team|[2607.08575](http://arxiv.org/abs/2607.08575)|null|
-|**2026-07-09**|**Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents**|Chao Yu Team|[2607.08448](http://arxiv.org/abs/2607.08448)|null|
+|**2026-07-14**|**Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents**|Chao Yu Team|[2607.08448](http://arxiv.org/abs/2607.08448)|null|
 |**2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Binyang Song Team|[2607.08375](http://arxiv.org/abs/2607.08375)|null|
 |**2026-07-09**|**TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning**|Shenji Wan Team|[2607.08283](http://arxiv.org/abs/2607.08283)|null|
 |**2026-07-09**|**LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action**|Zhi Han Team|[2607.08182](http://arxiv.org/abs/2607.08182)|null|
@@ -9128,8 +9149,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**Vision-Based Dribbling for Humanoid Soccer via Privileged Representation Learning**|Luca Iocchi Team|[2607.12702](http://arxiv.org/abs/2607.12702)|null|
 |**2026-07-13**|**Requirement-Driven Design of Whole-Body Social Tactile Sensing via Virtual Human-Robot Interaction**|Wenzhen Yuan Team|[2607.11690](http://arxiv.org/abs/2607.11690)|null|
-|**2026-07-13**|**DA-Nav: Direction-Aware City-Scale Vision-Language Navigation**|Zhulin An Team|[2607.11638](http://arxiv.org/abs/2607.11638)|null|
+|**2026-07-14**|**DA-Nav: Direction-Aware City-Scale Vision-Language Navigation**|Zhulin An Team|[2607.11638](http://arxiv.org/abs/2607.11638)|null|
 |**2026-07-13**|**Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues**|Yoshiki Ohira Team|[2607.11633](http://arxiv.org/abs/2607.11633)|null|
 |**2026-07-13**|**WarpMPC: Large-Batch MPC on GPU via ADMM with Unrolled $LDL^\top$ Factorization**|Sebastian Trimpe Team|[2607.11603](http://arxiv.org/abs/2607.11603)|null|
 |**2026-07-12**|**Learning Roller-Skating Motions of Humanoid Robots Based on Adversarial Motion Priors**|Mingguo Zhao Team|[2607.10815](http://arxiv.org/abs/2607.10815)|null|
@@ -9699,7 +9721,7 @@ layout: default
 |**2026-07-09**|**DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation**|Mingyu Ding Team|[2607.08751](http://arxiv.org/abs/2607.08751)|null|
 |**2026-07-09**|**AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot Human Guidance**|Cewu Lu Team|[2607.08341](http://arxiv.org/abs/2607.08341)|null|
 |**2026-07-08**|**Soft Robotic Exogloves for Dexterous Mobility -- Towards Personalized Rehabilitation**|Jacqueline Libby Team|[2607.07968](http://arxiv.org/abs/2607.07968)|null|
-|**2026-07-08**|**Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting**|Benedek Forrai Team|[2607.07491](http://arxiv.org/abs/2607.07491)|null|
+|**2026-07-13**|**Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting**|Benedek Forrai Team|[2607.07491](http://arxiv.org/abs/2607.07491)|null|
 |**2026-07-08**|**Immersive Social Interaction with VR and LLM-Assisted Humanoids**|Yi Fang Team|[2607.07430](http://arxiv.org/abs/2607.07430)|null|
 |**2026-07-09**|**TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation**|Shuo Yang Team|[2607.07287](http://arxiv.org/abs/2607.07287)|null|
 |**2026-07-07**|**From Foundation to Application: Improving VLA Models in Practice**|Kecheng Zheng Team|[2607.06403](http://arxiv.org/abs/2607.06403)|**[link](https://technology.robbyant.com/lingbot-vla-v2)**|
