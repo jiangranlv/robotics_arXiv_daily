@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation**|Mingyu Ding Team|[2607.13033](http://arxiv.org/abs/2607.13033)|**[link](https://dense-reward.github.io/)**|
+|**2026-07-14**|**ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning**|Dacheng Tao Team|[2607.12931](http://arxiv.org/abs/2607.12931)|null|
 |**2026-07-14**|**UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies**|Hongyang Li Team|[2607.12892](http://arxiv.org/abs/2607.12892)|null|
 |**2026-07-14**|**Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences**|Jongeun Choi Team|[2607.12466](http://arxiv.org/abs/2607.12466)|null|
 |**2026-07-14**|**VistaVLA: Geometry- and Semantic-Aware 3D Gaussian-Grounded VLA for Robotic Manipulation**|Lin Wang Team|[2607.12356](http://arxiv.org/abs/2607.12356)|null|
@@ -7733,6 +7735,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning**|Longjun Liu Team|[2607.12992](http://arxiv.org/abs/2607.12992)|null|
+|**2026-07-14**|**ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning**|Dacheng Tao Team|[2607.12931](http://arxiv.org/abs/2607.12931)|null|
 |**2026-07-14**|**Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference**|Meng Li Team|[2607.12659](http://arxiv.org/abs/2607.12659)|null|
 |**2026-07-14**|**TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors**|Mang Ye Team|[2607.12571](http://arxiv.org/abs/2607.12571)|null|
 |**2026-07-14**|**VistaVLA: Geometry- and Semantic-Aware 3D Gaussian-Grounded VLA for Robotic Manipulation**|Lin Wang Team|[2607.12356](http://arxiv.org/abs/2607.12356)|null|
