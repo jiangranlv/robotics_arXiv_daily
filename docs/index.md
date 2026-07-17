@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**RoboTTT: Context Scaling for Robot Policies**|Linxi "Jim" Fan Team|[2607.15275](http://arxiv.org/abs/2607.15275)|**[link](http://research.nvidia.com/labs/gear/robottt/)**|
 |**2026-07-16**|**DriftWorld: Fast World Modeling through Drifting**|Yilun Du Team|[2607.15065](http://arxiv.org/abs/2607.15065)|**[link](https://susie-lu.github.io/driftworld/)**|
 |**2026-07-16**|**Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation**|Yang Cong Team|[2607.14852](http://arxiv.org/abs/2607.14852)|null|
 |**2026-07-16**|**Lights, Camera, Malfunction: When Illumination Robustness Leaves VLA Models Blind to Color**|Kentaro Yoshioka Team|[2607.14698](http://arxiv.org/abs/2607.14698)|null|
@@ -2929,6 +2930,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning**|Wynne Hsu Team|[2607.15255](http://arxiv.org/abs/2607.15255)|null|
+|**2026-07-16**|**ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors**|Konstantinos N. Plataniotis Team|[2607.15246](http://arxiv.org/abs/2607.15246)|null|
 |**2026-07-16**|**U-shaped Multi-granularity Learning for Vision-Language Models**|Lin Zuo Team|[2607.14966](http://arxiv.org/abs/2607.14966)|null|
 |**2026-07-16**|**AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery**|Stephen Law Team|[2607.14756](http://arxiv.org/abs/2607.14756)|null|
 |**2026-07-16**|**WorkDrive: Roadwork Chain of Causation for Autonomous Driving**|Wentao Zhang Team|[2607.14727](http://arxiv.org/abs/2607.14727)|null|
@@ -7780,6 +7783,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**RoboTTT: Context Scaling for Robot Policies**|Linxi "Jim" Fan Team|[2607.15275](http://arxiv.org/abs/2607.15275)|**[link](http://research.nvidia.com/labs/gear/robottt/)**|
 |**2026-07-16**|**Video = World + Event Stream**|Zoubin Bi Team|[2607.15038](http://arxiv.org/abs/2607.15038)|**[link](https://wan-streamer.com/)**|
 |**2026-07-16**|**CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking**|Kangli Wang Team|[2607.15004](http://arxiv.org/abs/2607.15004)|null|
 |**2026-07-16**|**AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight**|Gang Wang Team|[2607.14997](http://arxiv.org/abs/2607.14997)|null|
