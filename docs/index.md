@@ -2,15 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments**|Gregory J. Stein Team|[2607.20289](http://arxiv.org/abs/2607.20289)|null|
+|**2026-07-22**|**EA-Nav: Learning Safe Visual Navigation Policies with Embodiment Awareness**|Jituo Li Team|[2607.19880](http://arxiv.org/abs/2607.19880)|null|
+|**2026-07-22**|**LENS: LLM-guided Environment Simplification for Planning and Control in Clutter**|Michael Posa Team|[2607.19633](http://arxiv.org/abs/2607.19633)|null|
 |**2026-07-21**|**WorldScape Policy 2.0: Empowering Steerable World Action Modeling with Reasoning-Augmented Memory**|Wei Wu Team|[2607.18840](http://arxiv.org/abs/2607.18840)|null|
-|**2026-07-21**|**RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation**|Si Liu Team|[2607.18709](http://arxiv.org/abs/2607.18709)|null|
+|**2026-07-22**|**RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation**|Si Liu Team|[2607.18709](http://arxiv.org/abs/2607.18709)|null|
 |**2026-07-21**|**End-to-end Conditional Diffusion for Realistic and Controllable Visual Traffic Scenario Generation**|Philip S Yu Team|[2607.18637](http://arxiv.org/abs/2607.18637)|null|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Lerrel Pinto Team|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
 |**2026-07-20**|**FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation**|Baining Guo Team|[2607.18231](http://arxiv.org/abs/2607.18231)|null|
@@ -2958,9 +2961,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Test-Time Training for Modality Order Consistency in Vision-Language Models**|Yossi Gandelsman Team|[2607.20351](http://arxiv.org/abs/2607.20351)|null|
+|**2026-07-22**|**SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments**|Igor Gilitschenski Team|[2607.20207](http://arxiv.org/abs/2607.20207)|null|
+|**2026-07-22**|**ENTRAP-VL: A Taxonomic Probe for Dual Contextual Entrainment in Vision-Language Models**|Vishal Bhutani Team|[2607.20092](http://arxiv.org/abs/2607.20092)|null|
+|**2026-07-22**|**LAVIFT: Latent-Action-Guided Vision Fine-Tuning for Surgical Interaction Recognition**|Shan Lin Team|[2607.19889](http://arxiv.org/abs/2607.19889)|null|
+|**2026-07-22**|**SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation**|Ling Xiao Team|[2607.19850](http://arxiv.org/abs/2607.19850)|null|
+|**2026-07-22**|**Using Hierarchical Controlled Vocabularies to Understand CLIP Retrieval Failures in Historical Photo Collections**|Ralph Ewerth Team|[2607.19836](http://arxiv.org/abs/2607.19836)|null|
+|**2026-07-22**|**Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning**|Md Tanvirul Alam Team|[2607.19790](http://arxiv.org/abs/2607.19790)|null|
+|**2026-07-22**|**GhostPrompt: Cross-Image Adversarial Prompt for Vision-Language Models**|Zhetao Li Team|[2607.19683](http://arxiv.org/abs/2607.19683)|**[link](https://github.com/Ye-ze-yu/GhostPrompt)**|
+|**2026-07-21**|**ChronoStitch: Training-Free Composition of Visual KV Memories for Long-Horizon Temporal Reasoning**|Kunal Kislay Team|[2607.19547](http://arxiv.org/abs/2607.19547)|null|
+|**2026-07-21**|**BLUE: Semantics-Preserving Video Compression for Efficient Vision-Language Surveillance Analytics**|Kunal Kislay Team|[2607.19515](http://arxiv.org/abs/2607.19515)|null|
+|**2026-07-21**|**Detect Early, Escalate Rarely: Anytime Detection of AI-Generated Video from the Compressed Bitstream**|Hasan Kurban Team|[2607.19476](http://arxiv.org/abs/2607.19476)|null|
 |**2026-07-21**|**No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation**|Yue Yao Team|[2607.19288](http://arxiv.org/abs/2607.19288)|null|
 |**2026-07-21**|**PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image**|Yueming Jin Team|[2607.19261](http://arxiv.org/abs/2607.19261)|null|
-|**2026-07-21**|**Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency**|Jinrui Nan Team|[2607.19194](http://arxiv.org/abs/2607.19194)|null|
+|**2026-07-22**|**Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency**|Jinrui Nan Team|[2607.19194](http://arxiv.org/abs/2607.19194)|null|
 |**2026-07-21**|**One Model, Many Graphs: Learning over Attributed Graphs across Heterogeneous Modalities with Vision-Language Models**|Qiaoyu Tan Team|[2607.19128](http://arxiv.org/abs/2607.19128)|null|
 |**2026-07-21**|**Context-structured Video Anomaly Detection with Large Vision-Language Models**|Jeonghoon Mo Team|[2607.19077](http://arxiv.org/abs/2607.19077)|null|
 |**2026-07-21**|**Mitigating Modality and Language-Style Gaps for Zero-Shot Video Moment Retrieval**|Jae-Pil Heo Team|[2607.19027](http://arxiv.org/abs/2607.19027)|null|
@@ -7861,6 +7875,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids**|Tran Nguyen Le Team|[2607.20345](http://arxiv.org/abs/2607.20345)|null|
+|**2026-07-22**|**ReferTrack: Referring Then Tracking for Embodied Visual Tracking**|Hong Zhang Team|[2607.20061](http://arxiv.org/abs/2607.20061)|null|
+|**2026-07-22**|**LENS: LLM-guided Environment Simplification for Planning and Control in Clutter**|Michael Posa Team|[2607.19633](http://arxiv.org/abs/2607.19633)|null|
 |**2026-07-20**|**STeP: Signal Temporal Logic for Precise Specifications for Action Generation with Vision Language Models**|Pratap Tokekar Team|[2607.18580](http://arxiv.org/abs/2607.18580)|null|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Lerrel Pinto Team|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
 |**2026-07-20**|**FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation**|Baining Guo Team|[2607.18231](http://arxiv.org/abs/2607.18231)|null|
@@ -7873,7 +7890,7 @@ layout: default
 |**2026-07-17**|**AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning**|Xiaobo Wang Team|[2607.15714](http://arxiv.org/abs/2607.15714)|null|
 |**2026-07-17**|**IMBench: A Benchmark for Intuitive Robotic Manipulation**|Devesh K. Jha Team|[2607.15641](http://arxiv.org/abs/2607.15641)|**[link](https://imbench.org/)**|
 |**2026-07-17**|**Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving**|Manabu Tsukada Team|[2607.15621](http://arxiv.org/abs/2607.15621)|null|
-|**2026-07-16**|**Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories**|Quanyun Zhou Team|[2607.15330](http://arxiv.org/abs/2607.15330)|**[link](https://robotics.xiaomi.com/xiaomi-robotics-1.html)**|
+|**2026-07-22**|**Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories**|Quanyun Zhou Team|[2607.15330](http://arxiv.org/abs/2607.15330)|**[link](https://robotics.xiaomi.com/xiaomi-robotics-1.html)**|
 |**2026-07-16**|**RoboTTT: Context Scaling for Robot Policies**|Linxi "Jim" Fan Team|[2607.15275](http://arxiv.org/abs/2607.15275)|**[link](http://research.nvidia.com/labs/gear/robottt/)**|
 |**2026-07-17**|**Video = World + Event Stream**|Zoubin Bi Team|[2607.15038](http://arxiv.org/abs/2607.15038)|**[link](https://wan-streamer.com/v0.3/)**|
 |**2026-07-16**|**CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking**|Kangli Wang Team|[2607.15004](http://arxiv.org/abs/2607.15004)|null|
@@ -9309,6 +9326,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning**|Jean Chagas Vaz Team|[2607.20399](http://arxiv.org/abs/2607.20399)|null|
+|**2026-07-22**|**Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids**|Tran Nguyen Le Team|[2607.20345](http://arxiv.org/abs/2607.20345)|null|
+|**2026-07-22**|**ReferTrack: Referring Then Tracking for Embodied Visual Tracking**|Hong Zhang Team|[2607.20061](http://arxiv.org/abs/2607.20061)|null|
 |**2026-07-21**|**Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition**|Igor Farkaš Team|[2607.18737](http://arxiv.org/abs/2607.18737)|null|
 |**2026-07-20**|**Optimization of sim-to-real transfer in the humanoid robot NICO**|Igor Farkaš Team|[2607.18210](http://arxiv.org/abs/2607.18210)|null|
 |**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Igor Farkaš Team|[2607.18197](http://arxiv.org/abs/2607.18197)|null|
