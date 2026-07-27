@@ -3002,7 +3002,7 @@ layout: default
 |**2026-07-21**|**DobicVLM: Aligning Chest X-Ray Report Generation with Clinically-Grounded Programmatic Rewards via Group Relative Policy Optimization**|Abiodun Adereni Team|[2607.18988](http://arxiv.org/abs/2607.18988)|null|
 |**2026-07-21**|**Dual Adversarial Fine-tuning for Enhancing Robustness of Large Vision Language Model**|Wen Gao Team|[2607.18958](http://arxiv.org/abs/2607.18958)|null|
 |**2026-07-21**|**OPD-IAD: From Language Judgment to Industrial Anomaly Detection via On-Policy Self-Distillation**|Guijin Wang Team|[2607.18850](http://arxiv.org/abs/2607.18850)|null|
-|**2026-07-21**|**HPD-Parsing: Hierarchical Parallel Document Parsing**| YY Team|[2607.18839](http://arxiv.org/abs/2607.18839)|null|
+|**2026-07-21**|**HPD-Parsing: Hierarchical Parallel Document Parsing**|YY Team|[2607.18839](http://arxiv.org/abs/2607.18839)|null|
 |**2026-07-21**|**ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting**|Xiangtian Si Team|[2607.18801](http://arxiv.org/abs/2607.18801)|null|
 |**2026-07-21**|**Attributes Should Come from Images, Not Class Names: Distribution-Conditioned Attribute Selection for Vision-Language Models**|Deva Ramanan Team|[2607.18695](http://arxiv.org/abs/2607.18695)|null|
 |**2026-07-21**|**MissingBench-Verified: Probing Vision-Language Models' Inability to Detect Missing Object Parts**|Shan Du Team|[2607.18673](http://arxiv.org/abs/2607.18673)|null|
