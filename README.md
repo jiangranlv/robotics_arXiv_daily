@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM**|Han Ding Team|[2607.27205](http://arxiv.org/abs/2607.27205)|**[link](https://github.com/H-EmbodVis/TurboVLA)**|
 |**2026-07-29**|**RL $^2$ -VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models**|Guillaume Sartoretti Team|[2607.26991](http://arxiv.org/abs/2607.26991)|**[link](https://rl2-vla.github.io)**|
 |**2026-07-29**|**SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception**|Juan Rojas Team|[2607.26985](http://arxiv.org/abs/2607.26985)|null|
 |**2026-07-29**|**Beyond Action Imitation: Learning a Decision-Aware User Simulator for Online Advertising**|Jie Jiang Team|[2607.26893](http://arxiv.org/abs/2607.26893)|null|
@@ -3008,6 +3009,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**HumanCLAW: Can Vision-Language Models Act Through a Body?**|Chuan Guo Team|[2607.27180](http://arxiv.org/abs/2607.27180)|**[link](https://human-claw.github.io/)**|
+|**2026-07-29**|**Towards Grounded GI Endoscopy VQA via Multi-Task Learning on Small VLMs**|Muhammad Atif Tahir Team|[2607.27122](http://arxiv.org/abs/2607.27122)|null|
 |**2026-07-29**|**Prior Directions: Why GUI Grounding Gets Locked in the Past**|Weibei Fan Team|[2607.26913](http://arxiv.org/abs/2607.26913)|**[link](https://github.com/phare111/prior-directions)**|
 |**2026-07-29**|**Hearsay: Vision-Language Medical Diagnoses Without an Image**|Siddharth Vohra Team|[2607.26886](http://arxiv.org/abs/2607.26886)|null|
 |**2026-07-29**|**Dual Inversion for Text-to-Image Diffusion Models: From Both Prompt and Noise Perspectives**|Huan Huo Team|[2607.26735](http://arxiv.org/abs/2607.26735)|null|
@@ -7991,6 +7994,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM**|Han Ding Team|[2607.27205](http://arxiv.org/abs/2607.27205)|**[link](https://github.com/H-EmbodVis/TurboVLA)**|
+|**2026-07-29**|**DLAM: Distributional Latent Actions with Temporal Constraints**|Zhiheng Ma Team|[2607.27138](http://arxiv.org/abs/2607.27138)|null|
 |**2026-07-29**|**RL $^2$ -VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models**|Guillaume Sartoretti Team|[2607.26991](http://arxiv.org/abs/2607.26991)|**[link](https://rl2-vla.github.io)**|
 |**2026-07-29**|**CheckVLA: Execution-Time Verification with Action-Conditioned World Model for Long-Horizon Mobile Manipulation**|Wenbo Ding Team|[2607.26789](http://arxiv.org/abs/2607.26789)|null|
 |**2026-07-29**|**Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models**|Jianhua Sun Team|[2607.26513](http://arxiv.org/abs/2607.26513)|null|
