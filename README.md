@@ -1,4 +1,4 @@
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,11 +16,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**RL $^2$ -VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models**|Guillaume Sartoretti Team|[2607.26991](http://arxiv.org/abs/2607.26991)|**[link](https://rl2-vla.github.io)**|
+|**2026-07-29**|**SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception**|Juan Rojas Team|[2607.26985](http://arxiv.org/abs/2607.26985)|null|
+|**2026-07-29**|**Beyond Action Imitation: Learning a Decision-Aware User Simulator for Online Advertising**|Jie Jiang Team|[2607.26893](http://arxiv.org/abs/2607.26893)|null|
+|**2026-07-29**|**Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations**|Wenzhao Lian Team|[2607.26809](http://arxiv.org/abs/2607.26809)|null|
+|**2026-07-29**|**Fully distributed singularity-free prescribed-time stabilization of the continuous-time generalized adaptive Bellman-Ford algorithm**|Soura Dasgupta Team|[2607.26424](http://arxiv.org/abs/2607.26424)|null|
+|**2026-07-28**|**MoMo: Dial Motion Mode in Robot Manipulation with Spatiotemporal Action Tokenization**|Arto Kivila Team|[2607.26315](http://arxiv.org/abs/2607.26315)|null|
 |**2026-07-28**|**S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information**|Ryosuke Kojima Team|[2607.26047](http://arxiv.org/abs/2607.26047)|**[link](https://azuma413.github.io/projects/s2a2)**|
 |**2026-07-28**|**SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models**|Jiayu Chen Team|[2607.25912](http://arxiv.org/abs/2607.25912)|null|
 |**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Xiaofei Li Team|[2607.25895](http://arxiv.org/abs/2607.25895)|**[link](https://cloud.simpleai.tech/simple-world-lab/hifi-umi/)**|
 |**2026-07-28**|**Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design**|Shuran Song Team|[2607.25798](http://arxiv.org/abs/2607.25798)|**[link](https://transformer-transformer.github.io)**|
-|**2026-07-28**|**Tri-Manual Visuomotor Imitation Learning of Robot Policies**|Weiming Zhi Team|[2607.25731](http://arxiv.org/abs/2607.25731)|null|
+|**2026-07-29**|**Tri-Manual Visuomotor Imitation Learning of Robot Policies**|Weiming Zhi Team|[2607.25731](http://arxiv.org/abs/2607.25731)|null|
 |**2026-07-28**|**When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning**|Yang Gao Team|[2607.25593](http://arxiv.org/abs/2607.25593)|null|
 |**2026-07-28**|**P3: Probabilistic Policy Propagation for Stable VAE-Based Robot Learning**|Yue Gao Team|[2607.25541](http://arxiv.org/abs/2607.25541)|null|
 |**2026-07-28**|**A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models**|Fan Li Team|[2607.25516](http://arxiv.org/abs/2607.25516)|null|
@@ -2996,12 +3002,23 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**Prior Directions: Why GUI Grounding Gets Locked in the Past**|Weibei Fan Team|[2607.26913](http://arxiv.org/abs/2607.26913)|**[link](https://github.com/phare111/prior-directions)**|
+|**2026-07-29**|**Hearsay: Vision-Language Medical Diagnoses Without an Image**|Siddharth Vohra Team|[2607.26886](http://arxiv.org/abs/2607.26886)|null|
+|**2026-07-29**|**Dual Inversion for Text-to-Image Diffusion Models: From Both Prompt and Noise Perspectives**|Huan Huo Team|[2607.26735](http://arxiv.org/abs/2607.26735)|null|
+|**2026-07-29**|**Level, Sharpness, and Corpus: Why Zero-Shot OOD Detector Rankings Do Not Transfer**|Damith Ranasinghe Team|[2607.26582](http://arxiv.org/abs/2607.26582)|null|
+|**2026-07-29**|**ContactFlow: A video action conditioning that transfers across embodiments**|Hermann Blum Team|[2607.26579](http://arxiv.org/abs/2607.26579)|null|
+|**2026-07-29**|**Recover, Decode, Reguard: Guard-Agnostic Defense Amplification againstEncoded VLM Jailbreaks**|Shanu Sushmita Team|[2607.26574](http://arxiv.org/abs/2607.26574)|null|
+|**2026-07-29**|**Speech2Grasp: Data-Efficient Transfer of Text-Conditioned Grasp Detection to Speech in Humanoid Robots**|Quan Nguyen Team|[2607.26567](http://arxiv.org/abs/2607.26567)|null|
+|**2026-07-29**|**MedARC: Training-Free Adaptive Redundancy Compression of Visual Tokens for 3D Medical Vision-Language Models**|Anqi Qiu Team|[2607.26554](http://arxiv.org/abs/2607.26554)|null|
+|**2026-07-29**|**TPCD: Tone-Pressure Contrastive Decoding and the Label-Free Gating Bottleneck in Vision-Language Models**|Wenjun Wu Team|[2607.26536](http://arxiv.org/abs/2607.26536)|null|
+|**2026-07-29**|**EgoSafe: A First-Person Mobile-Captured Benchmark for Visual Safety Understanding**|Ziqian Zeng Team|[2607.26518](http://arxiv.org/abs/2607.26518)|null|
+|**2026-07-28**|**Rethinking Clinical Relevance in Chest X-ray Machine Learning: How Evaluation References Define Performance**|Anna Breger Team|[2607.26333](http://arxiv.org/abs/2607.26333)|null|
 |**2026-07-28**|**VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening**|Abdur R. Shahid Team|[2607.26042](http://arxiv.org/abs/2607.26042)|null|
 |**2026-07-28**|**MODUS: Decoder-Only Any-to-Any Modeling of Diverse Modalities**|Amir Zamir Team|[2607.25948](http://arxiv.org/abs/2607.25948)|**[link](https://modus-multimodal.epfl.ch)**|
 |**2026-07-28**|**Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA**|Nabajeet Barman Team|[2607.25921](http://arxiv.org/abs/2607.25921)|null|
@@ -7968,12 +7985,16 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**RL $^2$ -VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models**|Guillaume Sartoretti Team|[2607.26991](http://arxiv.org/abs/2607.26991)|**[link](https://rl2-vla.github.io)**|
+|**2026-07-29**|**CheckVLA: Execution-Time Verification with Action-Conditioned World Model for Long-Horizon Mobile Manipulation**|Wenbo Ding Team|[2607.26789](http://arxiv.org/abs/2607.26789)|null|
+|**2026-07-29**|**Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models**|Jianhua Sun Team|[2607.26513](http://arxiv.org/abs/2607.26513)|null|
+|**2026-07-29**|**CG-World: A Large-Scale World-State Dataset and Protocol for World Models**|Yong Guo Team|[2607.26452](http://arxiv.org/abs/2607.26452)|null|
 |**2026-07-28**|**SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models**|Jiayu Chen Team|[2607.25912](http://arxiv.org/abs/2607.25912)|null|
 |**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Xiaofei Li Team|[2607.25895](http://arxiv.org/abs/2607.25895)|**[link](https://cloud.simpleai.tech/simple-world-lab/hifi-umi/)**|
 |**2026-07-28**|**A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models**|Fan Li Team|[2607.25516](http://arxiv.org/abs/2607.25516)|null|
@@ -9437,12 +9458,13 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**Speech2Grasp: Data-Efficient Transfer of Text-Conditioned Grasp Detection to Speech in Humanoid Robots**|Quan Nguyen Team|[2607.26567](http://arxiv.org/abs/2607.26567)|null|
 |**2026-07-27**|**Not Forgotten: Implementation and Evaluation of a Personalized Episodic Memory for the Humanoid Robot Head Kim**|Christian Becker-Asano Team|[2607.24190](http://arxiv.org/abs/2607.24190)|null|
 |**2026-07-27**|**A Case Study on the Acceptance of a Humanoid Robotic Head Employed in Three Public Spaces**|Christian Becker-Asano Team|[2607.24113](http://arxiv.org/abs/2607.24113)|null|
 |**2026-07-22**|**Learning Diverse Humanoid Tasks via Synthetic Video Scenarios without Real World Data**|Yen-Chen Liu Team|[2607.21648](http://arxiv.org/abs/2607.21648)|null|
@@ -10023,7 +10045,7 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
 
 ## Dexterous
 
@@ -10472,5 +10494,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
 
