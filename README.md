@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent**|Feng Zhao Team|[2608.03979](http://arxiv.org/abs/2608.03979)|null|
+|**2026-08-04**|**Bimanual Manipulation Within an 8 GB Budget: Zero-Copy Sensing and Quantized ACT on an Entry-Level Jetson**|Yashvi Gandhi Team|[2608.03938](http://arxiv.org/abs/2608.03938)|null|
 |**2026-08-04**|**LiLa-WAM: Lightweight Latent Reasoning World-Action Model for Robotic Manipulation**|Peiguang Jing Team|[2608.03701](http://arxiv.org/abs/2608.03701)|null|
 |**2026-08-04**|**Structure-Aware Robust Fine-Tuning: Defending Vision-Language-Action Robots Against Physical Attention Hijacking**|F. Richard Yu Team|[2608.03231](http://arxiv.org/abs/2608.03231)|null|
 |**2026-08-04**|**Accelerating Human-Aware Robot Trajectory Generation via Diffusion and Consistency Distillation**|Kyung-Soo Kim Team|[2608.03159](http://arxiv.org/abs/2608.03159)|null|
@@ -3049,6 +3051,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding**|Xiang Chen Team|[2608.03918](http://arxiv.org/abs/2608.03918)|null|
+|**2026-08-04**|**UniEvo-RS: Omni-Prompt Unified Remote Sensing Segmentation with Representative Exemplar-Driven Prototype Evolution**|Runmin Dong Team|[2608.03911](http://arxiv.org/abs/2608.03911)|null|
+|**2026-08-04**|**CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement**|Tanuja Ganu Team|[2608.03890](http://arxiv.org/abs/2608.03890)|null|
+|**2026-08-04**|**MuRA: Multi-Rank Adaptation for Efficient and Effective Test-Time Vision-Language Generalization**|Xiangyang Ji Team|[2608.03885](http://arxiv.org/abs/2608.03885)|null|
+|**2026-08-04**|**BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models**|Eshat Tanzeem Team|[2608.03884](http://arxiv.org/abs/2608.03884)|null|
+|**2026-08-04**|**Enhancing VLM Reward Models Through Structure-Aware Fine-Tuning**|Andreas Krause Team|[2608.03875](http://arxiv.org/abs/2608.03875)|null|
+|**2026-08-04**|**UHP Detection: LVLMs have their Unique Hallucination Pattern in the Consistency Space**|Mohammad Hossein Rohban Team|[2608.03817](http://arxiv.org/abs/2608.03817)|null|
+|**2026-08-04**|**Does Forgetting Transfer Across Modalities? A Real-World Benchmark for Cross-Modal Knowledge Unlearning Evaluation**|Yuntao Du Team|[2608.03791](http://arxiv.org/abs/2608.03791)|null|
 |**2026-08-04**|**Attention is Case-Sensitive**|Michael Auerbach Team|[2608.03711](http://arxiv.org/abs/2608.03711)|null|
 |**2026-08-04**|**When Teachers Mislead: Spurious-Signal-Aware On-Policy Distillation**|Tiankai Li Team|[2608.03632](http://arxiv.org/abs/2608.03632)|null|
 |**2026-08-04**|**SlimVLM: Sensitivity-aware Dynamic Structured Pruning with Adaptive Visual Token Selection for Efficient Vision-Language Models**|Xinghao Chen Team|[2608.03580](http://arxiv.org/abs/2608.03580)|null|
