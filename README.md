@@ -16,9 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-07**|**AutoIntervene: Calibrated Intervention for Action-Chunking Imitation Learning Policies**|Weiming Zhi Team|[2608.07065](http://arxiv.org/abs/2608.07065)|null|
+|**2026-08-07**|**C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video**|Xun Cao Team|[2608.07045](http://arxiv.org/abs/2608.07045)|**[link](https://k-jie.github.io/C2Dex/)**|
+|**2026-08-07**|**Decoupling Intention from Trajectory: A Representational Deduction Framework for World Action Models**|Zhihao Yuan Team|[2608.06994](http://arxiv.org/abs/2608.06994)|null|
 |**2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Shanghang Zhang Team|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
 |**2026-08-06**|**DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation**|Haoang Li Team|[2608.06374](http://arxiv.org/abs/2608.06374)|null|
-|**2026-08-06**|**A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber**|Tsu-Chin Tsao Team|[2608.06354](http://arxiv.org/abs/2608.06354)|null|
+|**2026-08-07**|**A Master-Slave Robot Manipulator for Needle-Based Teleoperation in MRI Chamber**|Tsu-Chin Tsao Team|[2608.06354](http://arxiv.org/abs/2608.06354)|null|
 |**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Zhi Wang Team|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
 |**2026-08-06**|**Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation**|Manuel Giuliani Team|[2608.06221](http://arxiv.org/abs/2608.06221)|null|
 |**2026-08-06**|**Design and Evaluation of a Touchscreen-Based Teleoperation Interface for Robotic Manipulators**|Adriana Tapus Team|[2608.06219](http://arxiv.org/abs/2608.06219)|null|
@@ -3075,6 +3078,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-07**|**SABRE: Scalable and Automated Benchmarking of VLMs under Stress**|Jiawei Zhou Team|[2608.07435](http://arxiv.org/abs/2608.07435)|**[link](https://zesearch.github.io/vlm-SABRE/)**|
+|**2026-08-07**|**A Picture is Worth a Thousand Tokens: How Vision Language Models Cut AI Energy Costs While Improving Accuracy**|Jayanta Choudhury Team|[2608.07427](http://arxiv.org/abs/2608.07427)|null|
+|**2026-08-07**|**Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination**|Jing Dong Team|[2608.07302](http://arxiv.org/abs/2608.07302)|null|
+|**2026-08-07**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Xuelong Li Team|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
+|**2026-08-07**|**Human-AI Perceptual Alignment by Playing Hues and Cues**|Jesús Malo Team|[2608.07141](http://arxiv.org/abs/2608.07141)|null|
+|**2026-08-07**|**Beyond Fluency: A Clinical Benchmark and Anomaly-Enhanced Baseline for Spine MRI Report Generation**|Catherine R. Jutzeler Team|[2608.07117](http://arxiv.org/abs/2608.07117)|null|
+|**2026-08-07**|**Summarize First, Download Later: Onboard VLMs for Bandwidth-Efficient Earth Observation**|Darongsae Kwon Team|[2608.06959](http://arxiv.org/abs/2608.06959)|null|
+|**2026-08-07**|**Degradation-Aware Prompt Learning with Cross-Modal Compensation for Adverse Weather Removal**|Jinshan Pan Team|[2608.06939](http://arxiv.org/abs/2608.06939)|**[link](https://github.com/fanamber831/DCMPC-Net)**|
+|**2026-08-07**|**MuST-VAD: Mutual Structured Learning for Video Anomaly Detection**|Mori Kurokawa Team|[2608.06913](http://arxiv.org/abs/2608.06913)|null|
+|**2026-08-07**|**Prune Once: Retraining-Free Task-Agnostic Pruning for Vision-Language Models**|Dahuin Jung Team|[2608.06901](http://arxiv.org/abs/2608.06901)|null|
+|**2026-08-07**|**FedVAR: Prototype-Aligned Federated Framework for Video Anomaly Recognition**|Taehong Kim Team|[2608.06876](http://arxiv.org/abs/2608.06876)|null|
+|**2026-08-07**|**Gated-BEPO: Confidence-Gated Bellman Credit Assignment for Large Language Model Agents**|Qingjie Liu Team|[2608.06861](http://arxiv.org/abs/2608.06861)|null|
+|**2026-08-07**|**Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence**|Jie Chen Team|[2608.06756](http://arxiv.org/abs/2608.06756)|null|
+|**2026-08-07**|**When Semantics Saturate or Emerge: Adaptation-Conditional Semantic Utility in Source-Free Cross-Domain Few-Shot Learning**|Haijian Shao Team|[2608.06673](http://arxiv.org/abs/2608.06673)|null|
+|**2026-08-06**|**Model Confidence Under Answer-Preserving Attacks: An Informativeness-Manipulability Frontier**|Mohammad M. Ghassemi Team|[2608.06571](http://arxiv.org/abs/2608.06571)|null|
+|**2026-08-06**|**Confidence Estimation for Financial Vision-Language Models in Chart and Document Understanding**|Mohammad M. Ghassemi Team|[2608.06532](http://arxiv.org/abs/2608.06532)|null|
+|**2026-08-06**|**Test-Time Adaptation with Online Personalized Energy-Based Cache for Fine-Grained Video Expression Recognition**|Eric Granger Team|[2608.06467](http://arxiv.org/abs/2608.06467)|null|
 |**2026-08-06**|**DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation**|Haoang Li Team|[2608.06374](http://arxiv.org/abs/2608.06374)|null|
 |**2026-08-06**|**Visual Grounding in Zero-Shot Vision-Language Control**|I. de Zarzà Team|[2608.06154](http://arxiv.org/abs/2608.06154)|null|
 |**2026-08-06**|**Domain-Grounded Candidate Selection for Agentic Image Editing: A Shadow Removal Case**|Hieu Le Team|[2608.06075](http://arxiv.org/abs/2608.06075)|null|
@@ -10336,6 +10356,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-07**|**C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video**|Xun Cao Team|[2608.07045](http://arxiv.org/abs/2608.07045)|**[link](https://k-jie.github.io/C2Dex/)**|
+|**2026-08-07**|**A Haptic Robot Finger Designed for Guqin Instrument Playing**|Yang Yang. Ziya Wang Team|[2608.07002](http://arxiv.org/abs/2608.07002)|null|
 |**2026-08-05**|**RORA: Realistic Object Reconstruction with Articulation**|Yongseok Lee Team|[2608.04842](http://arxiv.org/abs/2608.04842)|null|
 |**2026-08-04**|**SiMDex: Mining Similar Egocentric Videos for Cross-Embodiment Dexterous Manipulation**|Yoichi Sato Team|[2608.04196](http://arxiv.org/abs/2608.04196)|**[link](https://lin-nie.github.io/SiMDex/)**|
 |**2026-08-05**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Guiliang Liu Team|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
