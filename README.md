@@ -66,7 +66,7 @@
 |**2026-07-31**|**Safe Vision Language Action Models via Barrier Enhanced Flow Matching**|Donald Ebeigbe Team|[2607.29569](http://arxiv.org/abs/2607.29569)|null|
 |**2026-07-31**|**STAGE: STyle-controllable Action GEneration for personalized autonomous driving**|Panfeng Huang Team|[2607.29517](http://arxiv.org/abs/2607.29517)|null|
 |**2026-07-31**|**Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration**|Martin Jagersand Team|[2607.29482](http://arxiv.org/abs/2607.29482)|null|
-|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**| BWM Team Team|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
+|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**|BWM Team Team|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
 |**2026-07-31**|**TRACT: Temporally Routed Action Chunks with Chronological Phase Authority for Contact-Rich Manipulation**|Kei Okada Team|[2607.29285](http://arxiv.org/abs/2607.29285)|null|
 |**2026-07-31**|**ActFovea: Runtime Safeguarding for VLA Policies via Spatiotemporal Visual-Action Consistency**|Lei Zhu Team|[2607.29169](http://arxiv.org/abs/2607.29169)|**[link](https://github.com/SunnyYWD/ActFovea.git)**|
 |**2026-07-30**|**Mirror Learning**|Frank Wood Team|[2607.28737](http://arxiv.org/abs/2607.28737)|null|
