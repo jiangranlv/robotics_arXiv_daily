@@ -16,13 +16,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning**|Yuzhang Shang Team|[2608.11204](http://arxiv.org/abs/2608.11204)|null|
+|**2026-08-11**|**Enabling Scalable Kinesthetic Teaching via Observer-based Hand-guiding with Active Support**|Niels Dehio Team|[2608.10847](http://arxiv.org/abs/2608.10847)|null|
+|**2026-08-11**|**JEPA-WAM: Stage-Level Joint-Embedding Prediction for World-Action Models in Robot Manipulation**|Yan Wang Team|[2608.10780](http://arxiv.org/abs/2608.10780)|null|
+|**2026-08-11**|**Precise Top-Layer Fabric Segmentation for Fabric Destacking with Edge- and Shape-Aware Deep Networks**|Kazuhiro Kosuge Team|[2608.10648](http://arxiv.org/abs/2608.10648)|**[link](https://github.com/bhattner143/top-layer-fab-seg)**|
+|**2026-08-11**|**BooST: Bridging Semantics and Motions for Efficient Skill Transfer**|H. Jin Kim Team|[2608.10600](http://arxiv.org/abs/2608.10600)|**[link](https://boost-robots.github.io/)**|
+|**2026-08-11**|**Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations**|Ning Wang Team|[2608.10383](http://arxiv.org/abs/2608.10383)|null|
+|**2026-08-10**|**Chain of Spatial Thoughts: Modality-Agnostic Spatial Grounding for Vision Language Models**|Dongfeng Bai Team|[2608.10278](http://arxiv.org/abs/2608.10278)|null|
 |**2026-08-10**|**RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance**|Xin Li Team|[2608.09853](http://arxiv.org/abs/2608.09853)|null|
 |**2026-08-10**|**RoboSeg: Online Part-Level Semantic Reconstruction for Robotic Manipulation via a Single Eye-in-Hand Camera**|Mengxiang Lin Team|[2608.09778](http://arxiv.org/abs/2608.09778)|null|
 |**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Dejing Dou Team|[2608.09771](http://arxiv.org/abs/2608.09771)|**[link](https://kzz1031.github.io/slim-project-page/)**|
 |**2026-08-10**|**Efficient Real-World Online Reinforcement Learning for Robot Manipulation via Centralized Training and Critic Decomposition**|Nikos Tsagarakis Team|[2608.09762](http://arxiv.org/abs/2608.09762)|null|
 |**2026-08-10**|**Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation**|Qi Zhu Team|[2608.09410](http://arxiv.org/abs/2608.09410)|null|
 |**2026-08-10**|**SAFE-CHEM: Uncertainty-Aware Policy Switching for Robust Robotic Chemistry**|Gabriella Pizzuto Team|[2608.09303](http://arxiv.org/abs/2608.09303)|null|
-|**2026-08-10**|**SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning**|Chelsea Finn Team|[2608.09138](http://arxiv.org/abs/2608.09138)|null|
+|**2026-08-11**|**SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning**|Chelsea Finn Team|[2608.09138](http://arxiv.org/abs/2608.09138)|null|
 |**2026-08-10**|**Trajectory Divergence Horizon Decision for Reliable Dual-Arm Surgical Subtask Manipulation**|Hongliang Ren Team|[2608.09125](http://arxiv.org/abs/2608.09125)|null|
 |**2026-08-09**|**SG-WAM: Text-Grounded and Spatial-aware Semantic Guidance for World-Action Models**|Haoang Li Team|[2608.08839](http://arxiv.org/abs/2608.08839)|null|
 |**2026-08-09**|**PEEL: Parallel Extraction for Long-Horizon Disassembly Planning via Scale-Invariant Sampling**|Marc Toussaint Team|[2608.08773](http://arxiv.org/abs/2608.08773)|**[link](https://peel-disassembly.surge.sh/)**|
@@ -3094,6 +3101,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting**|Ge Li Team|[2608.11150](http://arxiv.org/abs/2608.11150)|null|
+|**2026-08-11**|**CapProbe: Evaluating Detailed Image Captions via Full-Scene Dense Question Answering**|Han Shu Team|[2608.11074](http://arxiv.org/abs/2608.11074)|null|
+|**2026-08-11**|**When Visual Signals Mislead: A Mechanistic Study of Attribute Hallucination in Vision-Language Models**|Hongwei Wang Team|[2608.11024](http://arxiv.org/abs/2608.11024)|null|
+|**2026-08-11**|**ThinkAfford: Affordance-Centric Reasoning for Fine-Grained 3D Grounding in Cluttered Scenes**|Yanyong Zhang Team|[2608.10981](http://arxiv.org/abs/2608.10981)|null|
+|**2026-08-11**|**Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs**|Lijia Yu Team|[2608.10959](http://arxiv.org/abs/2608.10959)|null|
+|**2026-08-11**|**Order Matters: LVLMs as Judges for Temporal Reasoning in Image Sequences**|Joao Magalhaes Team|[2608.10908](http://arxiv.org/abs/2608.10908)|null|
+|**2026-08-11**|**NullEdit: Stealthy Image Protection via VLM Condition Redirection**|Wei Lu Team|[2608.10870](http://arxiv.org/abs/2608.10870)|null|
+|**2026-08-11**|**Multi-View Relational Distillation for Spatial Reasoning with Vision-Language Models**|Seunghoon Hong Team|[2608.10864](http://arxiv.org/abs/2608.10864)|null|
+|**2026-08-11**|**PolyLayout: Hierarchical VLM-Guided Layout Generation Beyond Rectangular Rooms**|Shahin Shahkarami Team|[2608.10838](http://arxiv.org/abs/2608.10838)|null|
+|**2026-08-11**|**UniProbe: A Learnable Token-Level Hallucination Detector for Large VLMs using Multi-Structural Internal Representations**|Haggai Maron Team|[2608.10835](http://arxiv.org/abs/2608.10835)|**[link](https://research.nvidia.com/labs/par/uniprobe/)**|
+|**2026-08-11**|**Where To Look? : Causal Tracing of Vision Encoders in VLM**|Mayank Singh Team|[2608.10758](http://arxiv.org/abs/2608.10758)|null|
+|**2026-08-11**|**MMArt A Multi-Perspective Multimodal Dataset for Visual Art Understanding**|Marcel Worring Team|[2608.10706](http://arxiv.org/abs/2608.10706)|null|
+|**2026-08-11**|**MedUP: Awakening Unified Understanding and Perception in Medical Vision-Language Models**|Zuozhu Liu Team|[2608.10635](http://arxiv.org/abs/2608.10635)|null|
+|**2026-08-11**|**Dynamic Context Adapters: Efficiently Infusing History into Vision-and-Language Models**|Chun-Yi Lee Team|[2608.10525](http://arxiv.org/abs/2608.10525)|null|
+|**2026-08-11**|**Unlocking the Power of Medical Tabular Data via Semantic-Aware Multimodal Pre-training**|Zhen Yu Team|[2608.10522](http://arxiv.org/abs/2608.10522)|null|
+|**2026-08-11**|**SafeCap: Improving LVLM Safety with Image Captioning Reinforcement Learning**|Yinqiang Zheng Team|[2608.10513](http://arxiv.org/abs/2608.10513)|**[link](https://safe-vlm.github.io/SafeCap/)**|
+|**2026-08-11**|**When Vision Becomes Text: Visual Token Pruning via Cross-Modal Residual Guidance in VLMs**|Zhenbo Luo Team|[2608.10489](http://arxiv.org/abs/2608.10489)|null|
+|**2026-08-11**|**Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models**|Yonatan Bisk Team|[2608.10484](http://arxiv.org/abs/2608.10484)|null|
+|**2026-08-11**|**VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback?**|Enamul Hoque Prince Team|[2608.10408](http://arxiv.org/abs/2608.10408)|null|
+|**2026-08-10**|**From Detection to Understanding: TAR and TAR-Bench for Multi-Task Traffic Anomaly Reasoning**|Tomasz Kornuta Team|[2608.10317](http://arxiv.org/abs/2608.10317)|null|
 |**2026-08-10**|**MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation**|Yankai Jiang Team|[2608.09818](http://arxiv.org/abs/2608.09818)|null|
 |**2026-08-10**|**Hierarchical Fast--Slow ReAct Agent for Zero-Shot Object-Goal Navigation**|Mengxiang Lin Team|[2608.09816](http://arxiv.org/abs/2608.09816)|null|
 |**2026-08-10**|**RoboSeg: Online Part-Level Semantic Reconstruction for Robotic Manipulation via a Single Eye-in-Hand Camera**|Mengxiang Lin Team|[2608.09778](http://arxiv.org/abs/2608.09778)|null|
