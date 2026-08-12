@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.11
+## Updated on 2026.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -8251,6 +8251,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|XPeng Inc Team|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
+|**2026-08-11**|**Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models**|Kei Okada Team|[2608.10824](http://arxiv.org/abs/2608.10824)|**[link](https://zjw4321.github.io/neural-introspection-gating-page/)**|
+|**2026-08-11**|**Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting**|Yiding Ji Team|[2608.10756](http://arxiv.org/abs/2608.10756)|null|
+|**2026-08-11**|**Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models**|Yonatan Bisk Team|[2608.10484](http://arxiv.org/abs/2608.10484)|null|
+|**2026-08-11**|**DriveVLA-M0: Failure-Aware Memory Augmentation for Autonomous Driving**|Dongbin Zhao Team|[2608.10413](http://arxiv.org/abs/2608.10413)|null|
+|**2026-08-11**|**Hidden in Plain Sight: Diffusion-Based Unrestricted Robotic Attacks on Vision-Language-Action Models**|Xia Hu Team|[2608.10393](http://arxiv.org/abs/2608.10393)|null|
 |**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Dejing Dou Team|[2608.09771](http://arxiv.org/abs/2608.09771)|**[link](https://kzz1031.github.io/slim-project-page/)**|
 |**2026-08-10**|**World Tokens: Enhancing Embodied Policies with Training-Time World Modeling**|Junlan Feng Team|[2608.09730](http://arxiv.org/abs/2608.09730)|null|
 |**2026-08-10**|**RecoverFly: A Failure-Aware Reinforcement Learning Post-Training Framework for Aerial Vision-Language Navigation**|Daxin Tian Team|[2608.09467](http://arxiv.org/abs/2608.09467)|null|
