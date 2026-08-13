@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Redistribution-based Cost Inference Improves Sparse Safe Offline RL**|Benjamin Rosman Team|[2608.12306](http://arxiv.org/abs/2608.12306)|null|
+|**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
+|**2026-08-12**|**Enhancing Visual Domain Robustness in Behaviour Cloning via Saliency-Guided Augmentation**|Danica Kragic Team|[2608.11870](http://arxiv.org/abs/2608.11870)|null|
+|**2026-08-12**|**Motion-as-Prompt: Enhancing Motion Reasoning in Multimodal Large Language Models via Motion-Guided Cross-Frame Visual Prompting**|Yunhao Liu Team|[2608.11655](http://arxiv.org/abs/2608.11655)|null|
+|**2026-08-11**|**Adaptation of Generalist Robot Policies with Minimal Data**|Aviral Kumar Team|[2608.11363](http://arxiv.org/abs/2608.11363)|null|
 |**2026-08-11**|**Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning**|Yuzhang Shang Team|[2608.11204](http://arxiv.org/abs/2608.11204)|null|
 |**2026-08-11**|**Enabling Scalable Kinesthetic Teaching via Observer-based Hand-guiding with Active Support**|Niels Dehio Team|[2608.10847](http://arxiv.org/abs/2608.10847)|null|
 |**2026-08-11**|**JEPA-WAM: Stage-Level Joint-Embedding Prediction for World-Action Models in Robot Manipulation**|Yan Wang Team|[2608.10780](http://arxiv.org/abs/2608.10780)|null|
@@ -3092,7 +3097,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-11**|**CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting**|Ge Li Team|[2608.11150](http://arxiv.org/abs/2608.11150)|null|
+|**2026-08-12**|**SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward**|Xiao-ping Zhang Team|[2608.12220](http://arxiv.org/abs/2608.12220)|null|
+|**2026-08-12**|**Look What the Probes Dragged In! Real-World Chest X-ray Shortcuts in MedCLIP**|Théo Sourget Team|[2608.12086](http://arxiv.org/abs/2608.12086)|null|
+|**2026-08-12**|**Do You See What You Draw? A Semantic Closed-Loop Framework for Holistic Evaluation of Unified Multimodal Models**|Jianqiang Huang Team|[2608.11907](http://arxiv.org/abs/2608.11907)|null|
+|**2026-08-12**|**LookBack: Where and How to Score LVLM Responses via Visual Reference Usage**|Jaehyung Kim Team|[2608.11847](http://arxiv.org/abs/2608.11847)|**[link](https://github.com/bscho333/LookBack)**|
+|**2026-08-12**|**How China-Origin Vision-Language Models Move from Refusal to Reframing in State Alignment**|Amir Ghasemian Team|[2608.11816](http://arxiv.org/abs/2608.11816)|null|
+|**2026-08-12**|**HUGIN: Enhancing Vision-Language Planning for Autonomous Logistics Sorting**|Yunhao Liu Team|[2608.11692](http://arxiv.org/abs/2608.11692)|null|
+|**2026-08-12**|**Learning from Multimodal Pseudo-Labels for Robust Open-Vocabulary Instance and Panoptic Segmentation**|Byeongkeun Kang Team|[2608.11681](http://arxiv.org/abs/2608.11681)|null|
+|**2026-08-12**|**Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads**|Sen Li Team|[2608.11661](http://arxiv.org/abs/2608.11661)|null|
+|**2026-08-12**|**Video2Track: From Real-World Interaction Videos to Steerable Adversarial Closed-Track Testing for Automated Driving Systems**|Lu Xiong Team|[2608.11592](http://arxiv.org/abs/2608.11592)|null|
+|**2026-08-12**|**CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications**| Chen Team|[2608.11588](http://arxiv.org/abs/2608.11588)|null|
+|**2026-08-12**|**CT- $Δ$ Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models**|Zihao Wang Team|[2608.11534](http://arxiv.org/abs/2608.11534)|null|
+|**2026-08-11**|**Test-Time Hallucination Control in Large Vision-Language Models**|Hossein Rahmani Team|[2608.11474](http://arxiv.org/abs/2608.11474)|null|
+|**2026-08-11**|**VLMs Win a Systematic Evaluation of Underwater Image Reconstruction**|David Forsyth Team|[2608.11425](http://arxiv.org/abs/2608.11425)|null|
+|**2026-08-11**|**Click2Poly: A VLM for vector mapping buildings and walls**|Sacha Lepretre Team|[2608.11424](http://arxiv.org/abs/2608.11424)|null|
+|**2026-08-11**|**Qwen-MusicAVQA-7B: A Multimodal Model for Music Audio-Visual QA**|Maryam Dehdashti Team|[2608.11329](http://arxiv.org/abs/2608.11329)|**[link](https://github.com/MKDehdashti/Qwen2-vl-audio)**|
+|**2026-08-12**|**CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting**|Ge Li Team|[2608.11150](http://arxiv.org/abs/2608.11150)|null|
 |**2026-08-11**|**CapProbe: Evaluating Detailed Image Captions via Full-Scene Dense Question Answering**|Han Shu Team|[2608.11074](http://arxiv.org/abs/2608.11074)|null|
 |**2026-08-11**|**When Visual Signals Mislead: A Mechanistic Study of Attribute Hallucination in Vision-Language Models**|Hongwei Wang Team|[2608.11024](http://arxiv.org/abs/2608.11024)|null|
 |**2026-08-11**|**ThinkAfford: Affordance-Centric Reasoning for Fine-Grained 3D Grounding in Cluttered Scenes**|Yanyong Zhang Team|[2608.10981](http://arxiv.org/abs/2608.10981)|null|
@@ -8278,6 +8298,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Policy-Induced Hand Priors in Humanoid Dual-Arm Manipulation: Diagnosing and Mitigating Initial-Pose Dependence**|Juyoun Park Team|[2608.11769](http://arxiv.org/abs/2608.11769)|null|
+|**2026-08-12**|**G0.5: One Autoregressive Stream for Robot Reasoning and Action**|Hang Zhao Team|[2608.11739](http://arxiv.org/abs/2608.11739)|null|
+|**2026-08-12**|**StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models**|Chang Xu Team|[2608.11671](http://arxiv.org/abs/2608.11671)|null|
 |**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|XPeng Inc Team|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
 |**2026-08-11**|**Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models**|Kei Okada Team|[2608.10824](http://arxiv.org/abs/2608.10824)|**[link](https://zjw4321.github.io/neural-introspection-gating-page/)**|
 |**2026-08-11**|**Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting**|Yiding Ji Team|[2608.10756](http://arxiv.org/abs/2608.10756)|null|
@@ -8287,7 +8310,7 @@ layout: default
 |**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Dejing Dou Team|[2608.09771](http://arxiv.org/abs/2608.09771)|**[link](https://kzz1031.github.io/slim-project-page/)**|
 |**2026-08-10**|**World Tokens: Enhancing Embodied Policies with Training-Time World Modeling**|Junlan Feng Team|[2608.09730](http://arxiv.org/abs/2608.09730)|null|
 |**2026-08-10**|**RecoverFly: A Failure-Aware Reinforcement Learning Post-Training Framework for Aerial Vision-Language Navigation**|Daxin Tian Team|[2608.09467](http://arxiv.org/abs/2608.09467)|null|
-|**2026-08-10**|**VANE: Reliable Test-Time Training for Vision-Language-Action Models via Future Visual Representation Prediction**|Lei Ren Team|[2608.09448](http://arxiv.org/abs/2608.09448)|null|
+|**2026-08-12**|**VANE: Reliable Test-Time Training for Vision-Language-Action Models via Future Visual Representation Prediction**|Lei Ren Team|[2608.09448](http://arxiv.org/abs/2608.09448)|null|
 |**2026-08-10**|**Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation**|Qi Zhu Team|[2608.09410](http://arxiv.org/abs/2608.09410)|null|
 |**2026-08-10**|**JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling**|Jing Zhang Team|[2608.09381](http://arxiv.org/abs/2608.09381)|**[link](https://spritewithoutice.github.io/JEPA_WAM/)**|
 |**2026-08-10**|**Trajectory Divergence Horizon Decision for Reliable Dual-Arm Surgical Subtask Manipulation**|Hongliang Ren Team|[2608.09125](http://arxiv.org/abs/2608.09125)|null|
@@ -10423,6 +10446,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
 |**2026-08-07**|**C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video**|Xun Cao Team|[2608.07045](http://arxiv.org/abs/2608.07045)|**[link](https://k-jie.github.io/C2Dex/)**|
 |**2026-08-07**|**A Haptic Robot Finger Designed for Guqin Instrument Playing**|Yang Yang. Ziya Wang Team|[2608.07002](http://arxiv.org/abs/2608.07002)|null|
 |**2026-08-05**|**RORA: Realistic Object Reconstruction with Articulation**|Yongseok Lee Team|[2608.04842](http://arxiv.org/abs/2608.04842)|null|
