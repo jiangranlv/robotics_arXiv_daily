@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation**|Pengfei Zhang Team|[2608.13489](http://arxiv.org/abs/2608.13489)|**[link](https://github.com/AMAP-ML/DreamX-Phi)**|
+|**2026-08-13**|**Predictive Relative-Velocity Steering for Safe Robotic Manipulator Teleoperation in Dynamic Environments**|Xiao He Team|[2608.13284](http://arxiv.org/abs/2608.13284)|null|
+|**2026-08-13**|**S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation**|Qiong Wang Team|[2608.13103](http://arxiv.org/abs/2608.13103)|null|
+|**2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Ning Liu Team|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
+|**2026-08-12**|**RoboSynChallenge: Mastering Real-World Dexterity via Generalizing Synthesized Manipulation Skills**|Guiliang Liu Team|[2608.12416](http://arxiv.org/abs/2608.12416)|null|
 |**2026-08-12**|**Redistribution-based Cost Inference Improves Sparse Safe Offline RL**|Benjamin Rosman Team|[2608.12306](http://arxiv.org/abs/2608.12306)|null|
 |**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
 |**2026-08-12**|**Enhancing Visual Domain Robustness in Behaviour Cloning via Saliency-Guided Augmentation**|Danica Kragic Team|[2608.11870](http://arxiv.org/abs/2608.11870)|null|
@@ -16,10 +21,10 @@ layout: default
 |**2026-08-11**|**Adaptation of Generalist Robot Policies with Minimal Data**|Aviral Kumar Team|[2608.11363](http://arxiv.org/abs/2608.11363)|null|
 |**2026-08-11**|**Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning**|Yuzhang Shang Team|[2608.11204](http://arxiv.org/abs/2608.11204)|null|
 |**2026-08-11**|**Enabling Scalable Kinesthetic Teaching via Observer-based Hand-guiding with Active Support**|Niels Dehio Team|[2608.10847](http://arxiv.org/abs/2608.10847)|null|
-|**2026-08-11**|**JEPA-WAM: Stage-Level Joint-Embedding Prediction for World-Action Models in Robot Manipulation**|Yan Wang Team|[2608.10780](http://arxiv.org/abs/2608.10780)|null|
+|**2026-08-13**|**JEPA-WAM: Stage-Level Joint-Embedding Prediction for World-Action Models in Robot Manipulation**|Yan Wang Team|[2608.10780](http://arxiv.org/abs/2608.10780)|null|
 |**2026-08-11**|**Precise Top-Layer Fabric Segmentation for Fabric Destacking with Edge- and Shape-Aware Deep Networks**|Kazuhiro Kosuge Team|[2608.10648](http://arxiv.org/abs/2608.10648)|**[link](https://github.com/bhattner143/top-layer-fab-seg)**|
 |**2026-08-11**|**BooST: Bridging Semantics and Motions for Efficient Skill Transfer**|H. Jin Kim Team|[2608.10600](http://arxiv.org/abs/2608.10600)|**[link](https://boost-robots.github.io/)**|
-|**2026-08-11**|**Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations**|Ning Wang Team|[2608.10383](http://arxiv.org/abs/2608.10383)|null|
+|**2026-08-13**|**Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations**|Ning Wang Team|[2608.10383](http://arxiv.org/abs/2608.10383)|null|
 |**2026-08-10**|**Chain of Spatial Thoughts: Modality-Agnostic Spatial Grounding for Vision Language Models**|Dongfeng Bai Team|[2608.10278](http://arxiv.org/abs/2608.10278)|null|
 |**2026-08-10**|**RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance**|Xin Li Team|[2608.09853](http://arxiv.org/abs/2608.09853)|null|
 |**2026-08-10**|**RoboSeg: Online Part-Level Semantic Reconstruction for Robotic Manipulation via a Single Eye-in-Hand Camera**|Mengxiang Lin Team|[2608.09778](http://arxiv.org/abs/2608.09778)|null|
@@ -3097,6 +3102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification**|Linda Ungerboeck Team|[2608.13463](http://arxiv.org/abs/2608.13463)|null|
+|**2026-08-13**|**LongEarth-R1: Benchmarking and Aligning Vision-Language Models for Long-Horizon Earth Observation Reasoning**|Mi Wang Team|[2608.13344](http://arxiv.org/abs/2608.13344)|null|
+|**2026-08-13**|**AmalthAI: An Open-Source Computer Vision Platform for Cultural Heritage**|George Ioannakis Team|[2608.13343](http://arxiv.org/abs/2608.13343)|null|
+|**2026-08-13**|**How Good are Foundation Models in Longitudinal MRI Disease Progression Reasoning?**|Fahad Shahbaz Khan Team|[2608.13309](http://arxiv.org/abs/2608.13309)|null|
+|**2026-08-13**|**How Do VLMs Behave When Blind or Misled? Behavioral Evaluation of VLMs on Scientific Figures**|Wei Zhao Team|[2608.13267](http://arxiv.org/abs/2608.13267)|**[link](https://scifigbench.nlp4sci.com)**|
+|**2026-08-13**|**CoverPrune: Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport**|Wenming Yang Team|[2608.13226](http://arxiv.org/abs/2608.13226)|null|
+|**2026-08-13**|**TRAPSBench: Vision-Language Models Encode but Fail to Express Epistemic Restraint**|Sourabh Kulkarni Team|[2608.13167](http://arxiv.org/abs/2608.13167)|null|
+|**2026-08-13**|**QuISE: Defense against Typographic Attacks on VLMs via Query-Irrelevant Semantic Editing**|Yihao Huang Team|[2608.13119](http://arxiv.org/abs/2608.13119)|null|
+|**2026-08-13**|**Polish Medical Visual Question Answering: Vision-Language Models Underutilize Visual Evidence**|Wojciech Kusa Team|[2608.12928](http://arxiv.org/abs/2608.12928)|null|
+|**2026-08-13**|**NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents**|Hao Sun Team|[2608.12898](http://arxiv.org/abs/2608.12898)|null|
+|**2026-08-13**|**The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis**|Asim Bhatti Team|[2608.12677](http://arxiv.org/abs/2608.12677)|null|
+|**2026-08-12**|**StrAD: A Streaming Method and Benchmark for Audio Description Generation for Long-form Videos**|Sven Behnke Team|[2608.12549](http://arxiv.org/abs/2608.12549)|null|
+|**2026-08-12**|**MASCOT: Model-Aware Submodular Coverage for Composite-Attribute Text-to-Image Retrieval**|Ganesh Ramakrishnan Team|[2608.12532](http://arxiv.org/abs/2608.12532)|null|
+|**2026-08-12**|**Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?**|Dmytro Kuzmenko Team|[2608.12515](http://arxiv.org/abs/2608.12515)|null|
 |**2026-08-12**|**SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward**|Xiao-ping Zhang Team|[2608.12220](http://arxiv.org/abs/2608.12220)|null|
 |**2026-08-12**|**Look What the Probes Dragged In! Real-World Chest X-ray Shortcuts in MedCLIP**|Théo Sourget Team|[2608.12086](http://arxiv.org/abs/2608.12086)|null|
 |**2026-08-12**|**Do You See What You Draw? A Semantic Closed-Loop Framework for Holistic Evaluation of Unified Multimodal Models**|Jianqiang Huang Team|[2608.11907](http://arxiv.org/abs/2608.11907)|null|
@@ -8298,6 +8317,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Decoding Task Progress from VLA Representations**|Preston Culbertson Team|[2608.13474](http://arxiv.org/abs/2608.13474)|null|
+|**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Lei Zhu Team|[2608.13453](http://arxiv.org/abs/2608.13453)|null|
+|**2026-08-13**|**FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving**|Hao Dou Team|[2608.13395](http://arxiv.org/abs/2608.13395)|null|
+|**2026-08-13**|**Temporal GRPO: Beyond Trajectory-Level Credit in Vision-Language-Action Reinforcement Learning**|Wenwen Qiang Team|[2608.13026](http://arxiv.org/abs/2608.13026)|null|
+|**2026-08-13**|**FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving**|Zhijian Liu Team|[2608.12932](http://arxiv.org/abs/2608.12932)|null|
+|**2026-08-13**|**BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving**|Zhaoxiang Zhang Team|[2608.12854](http://arxiv.org/abs/2608.12854)|null|
+|**2026-08-13**|**ARIES-Mission2: A Zero-Shot Vision-Language-Action Framework for Fast Large-Scale Aerial Mission Generation**|Xu Yang Team|[2608.12763](http://arxiv.org/abs/2608.12763)|null|
+|**2026-08-12**|**RoboSynChallenge: Mastering Real-World Dexterity via Generalizing Synthesized Manipulation Skills**|Guiliang Liu Team|[2608.12416](http://arxiv.org/abs/2608.12416)|null|
 |**2026-08-12**|**Policy-Induced Hand Priors in Humanoid Dual-Arm Manipulation: Diagnosing and Mitigating Initial-Pose Dependence**|Juyoun Park Team|[2608.11769](http://arxiv.org/abs/2608.11769)|null|
 |**2026-08-12**|**G0.5: One Autoregressive Stream for Robot Reasoning and Action**|Hang Zhao Team|[2608.11739](http://arxiv.org/abs/2608.11739)|null|
 |**2026-08-12**|**StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models**|Chang Xu Team|[2608.11671](http://arxiv.org/abs/2608.11671)|null|
@@ -10447,6 +10474,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**NestDex: Nested Policy Learning with Copilot Assisted Teleoperation for Dexterous Manipulation**|Weiming Zhi Team|[2608.13362](http://arxiv.org/abs/2608.13362)|**[link](https://aus.bot/research/nestdex)**|
 |**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
 |**2026-08-07**|**C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video**|Xun Cao Team|[2608.07045](http://arxiv.org/abs/2608.07045)|**[link](https://k-jie.github.io/C2Dex/)**|
 |**2026-08-07**|**A Haptic Robot Finger Designed for Guqin Instrument Playing**|Yang Yang. Ziya Wang Team|[2608.07002](http://arxiv.org/abs/2608.07002)|null|
