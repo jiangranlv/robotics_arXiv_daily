@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Reflex: Enabling Fast and Predictive Vision-Language-Action Models for Reaction-Critical Manipulation**|Xiao Li Team|[2608.14379](http://arxiv.org/abs/2608.14379)|null|
+|**2026-08-14**|**PILOT: Privileged Imitation Learning for End-to-End Motion Planning of Autonomous UAVs under Partial Observability**|Chenghao Yu Team|[2608.14082](http://arxiv.org/abs/2608.14082)|null|
+|**2026-08-14**|**FlatLab: A Unified Methodology Framework and Simulation-Based Benchmark for Robotic Manipulation of Flat Objects**|Yixing Gao Team|[2608.14049](http://arxiv.org/abs/2608.14049)|null|
+|**2026-08-13**|**hint $^2$ : Hierarchical World Models for Inference-Time Temporal Logic Guidance**|Rohan Paleja Team|[2608.13678](http://arxiv.org/abs/2608.13678)|**[link](https://anonymous-hint2.github.io/)**|
 |**2026-08-13**|**DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation**|Pengfei Zhang Team|[2608.13489](http://arxiv.org/abs/2608.13489)|**[link](https://github.com/AMAP-ML/DreamX-Phi)**|
 |**2026-08-13**|**Predictive Relative-Velocity Steering for Safe Robotic Manipulator Teleoperation in Dynamic Environments**|Xiao He Team|[2608.13284](http://arxiv.org/abs/2608.13284)|null|
 |**2026-08-13**|**S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation**|Qiong Wang Team|[2608.13103](http://arxiv.org/abs/2608.13103)|null|
@@ -28,7 +32,7 @@
 |**2026-08-11**|**Adaptation of Generalist Robot Policies with Minimal Data**|Aviral Kumar Team|[2608.11363](http://arxiv.org/abs/2608.11363)|null|
 |**2026-08-11**|**Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning**|Yuzhang Shang Team|[2608.11204](http://arxiv.org/abs/2608.11204)|null|
 |**2026-08-11**|**Enabling Scalable Kinesthetic Teaching via Observer-based Hand-guiding with Active Support**|Niels Dehio Team|[2608.10847](http://arxiv.org/abs/2608.10847)|null|
-|**2026-08-13**|**JEPA-WAM: Stage-Level Joint-Embedding Prediction for World-Action Models in Robot Manipulation**|Yan Wang Team|[2608.10780](http://arxiv.org/abs/2608.10780)|null|
+|**2026-08-14**|**StageWAM: Joint-Embedding Stage Prediction for World-Action Models in Robot Manipulation**|Yan Wang Team|[2608.10780](http://arxiv.org/abs/2608.10780)|null|
 |**2026-08-11**|**Precise Top-Layer Fabric Segmentation for Fabric Destacking with Edge- and Shape-Aware Deep Networks**|Kazuhiro Kosuge Team|[2608.10648](http://arxiv.org/abs/2608.10648)|**[link](https://github.com/bhattner143/top-layer-fab-seg)**|
 |**2026-08-11**|**BooST: Bridging Semantics and Motions for Efficient Skill Transfer**|H. Jin Kim Team|[2608.10600](http://arxiv.org/abs/2608.10600)|**[link](https://boost-robots.github.io/)**|
 |**2026-08-13**|**Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations**|Ning Wang Team|[2608.10383](http://arxiv.org/abs/2608.10383)|null|
@@ -3111,6 +3115,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training**|Wei Wang Team|[2608.14498](http://arxiv.org/abs/2608.14498)|null|
+|**2026-08-14**|**Seeing Red, Thinking Bad: Color Bias in Vision Language Models**|Yutaka Satoh Team|[2608.14286](http://arxiv.org/abs/2608.14286)|null|
+|**2026-08-14**|**On the Robustness of Temporal Vision-Language Models for Surgical Endoscopy Videos**|Yutong Xie Team|[2608.14262](http://arxiv.org/abs/2608.14262)|null|
+|**2026-08-14**|**Personalized Digital Semantic Communication for Image Transmission with Vision-Language Models**|Jibo Wei Team|[2608.14260](http://arxiv.org/abs/2608.14260)|null|
+|**2026-08-14**|**RankT2I: A Submodular Framework for Discovering Interpretable and Diverse Semantics in Text-to-Image Models**|Pinar Yanardag Team|[2608.14226](http://arxiv.org/abs/2608.14226)|null|
+|**2026-08-14**|**Can Language Models Understand mmWave Data? Benchmarking Large Language Models for mmWave Radar-Based Human Understanding**|Jaeho Choi Team|[2608.14179](http://arxiv.org/abs/2608.14179)|null|
+|**2026-08-14**|**Content Based Video Narration of Gameplay with Vision Language Models**|Mathew Varghese Team|[2608.14016](http://arxiv.org/abs/2608.14016)|**[link](https://mathewvarghese.space/ai-powered-game-commentary-auto-narrating-gameplay-videos-with-gpt-4o/)**|
+|**2026-08-14**|**MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning**|Yan Wang Team|[2608.14015](http://arxiv.org/abs/2608.14015)|null|
+|**2026-08-14**|**PPOM: Marginalizing Patch-Grid Phase for CLIP-Based Generalizable Vision-Language Prompt Tuning**|Yan Peng Team|[2608.13969](http://arxiv.org/abs/2608.13969)|null|
+|**2026-08-13**|**VLM- and LLM-Driven Multi-Agent System for PET Image Denoising**|Kuang Gong Team|[2608.13791](http://arxiv.org/abs/2608.13791)|null|
+|**2026-08-13**|**ChartProbe: A Diagnostic Study on Visual Reasoning through Perception, Grounding, and Simple Reasoning**|Sarah Adel Bargal Team|[2608.13766](http://arxiv.org/abs/2608.13766)|null|
+|**2026-08-13**|**MedPlex: Deep Vision-Language Co-Adaptation for Clinically Grounded Medical Segmentation**|Dongxiao Zhu Team|[2608.13690](http://arxiv.org/abs/2608.13690)|null|
 |**2026-08-13**|**MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification**|Linda Ungerboeck Team|[2608.13463](http://arxiv.org/abs/2608.13463)|null|
 |**2026-08-13**|**LongEarth-R1: Benchmarking and Aligning Vision-Language Models for Long-Horizon Earth Observation Reasoning**|Mi Wang Team|[2608.13344](http://arxiv.org/abs/2608.13344)|null|
 |**2026-08-13**|**AmalthAI: An Open-Source Computer Vision Platform for Cultural Heritage**|George Ioannakis Team|[2608.13343](http://arxiv.org/abs/2608.13343)|null|
@@ -8328,6 +8344,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Reflex: Enabling Fast and Predictive Vision-Language-Action Models for Reaction-Critical Manipulation**|Xiao Li Team|[2608.14379](http://arxiv.org/abs/2608.14379)|null|
+|**2026-08-14**|**Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use**|Jianan Wang Team|[2608.14047](http://arxiv.org/abs/2608.14047)|null|
+|**2026-08-14**|**AdvDex: Learning Dexterous Manipulation from Human Demonstrations via Joint-Aligned Actions and Adversarial Learning**|Zhengxue Cheng Team|[2608.14028](http://arxiv.org/abs/2608.14028)|null|
+|**2026-08-14**|**SSP: An Event-Matched Syn2Sim2Phy Cross-Domain Evaluation Framework for Autonomous Driving VLA Models**|Lu Xiong Team|[2608.14024](http://arxiv.org/abs/2608.14024)|null|
+|**2026-08-14**|**BICPO-VLA: Behavior-Identified Continuation Preference Optimization for Smooth Asynchronous Vision-Language-Action Control**|Fuchun Sun Team|[2608.13924](http://arxiv.org/abs/2608.13924)|null|
 |**2026-08-13**|**Decoding Task Progress from VLA Representations**|Preston Culbertson Team|[2608.13474](http://arxiv.org/abs/2608.13474)|null|
 |**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Lei Zhu Team|[2608.13453](http://arxiv.org/abs/2608.13453)|null|
 |**2026-08-13**|**FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving**|Hao Dou Team|[2608.13395](http://arxiv.org/abs/2608.13395)|null|
@@ -9891,12 +9912,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**THRIVE: Therapeutic Humanoid Robot In Virtual Environment**|Ayanna Howard Team|[2608.14462](http://arxiv.org/abs/2608.14462)|null|
 |**2026-08-13**|**HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments**|Quan Nguyen Team|[2608.12860](http://arxiv.org/abs/2608.12860)|null|
 |**2026-08-10**|**Efficient Real-World Online Reinforcement Learning for Robot Manipulation via Centralized Training and Critic Decomposition**|Nikos Tsagarakis Team|[2608.09762](http://arxiv.org/abs/2608.09762)|null|
 |**2026-08-07**|**A Haptic Robot Finger Designed for Guqin Instrument Playing**|Yang Yang. Ziya Wang Team|[2608.07002](http://arxiv.org/abs/2608.07002)|null|
 |**2026-08-06**|**KILVO: Kinematic-Inertial-LiDAR-Visual Odometry with Robust Multimodal Adaptation for Humanoid Robots**|Fusheng Zha Team|[2608.05647](http://arxiv.org/abs/2608.05647)|null|
 |**2026-08-05**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Guiliang Liu Team|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
-|**2026-08-04**|**PFM-HR: Pose Flow Matching for Humanoid Robots**|Renjing Xu Team|[2608.03227](http://arxiv.org/abs/2608.03227)|null|
+|**2026-08-14**|**PFM-HR: Pose Flow Matching for Humanoid Robots**|Renjing Xu Team|[2608.03227](http://arxiv.org/abs/2608.03227)|null|
 |**2026-08-03**|**Toward Certified Functional Safety for Industrial Humanoid Robots: The Fail-Passive Gap and a Feasibility Study**|Chengtao Wen Team|[2608.02809](http://arxiv.org/abs/2608.02809)|null|
 |**2026-08-03**|**Perception-and-action system for humanoid robot task execution in construction**|Yizhi Liu Team|[2608.01600](http://arxiv.org/abs/2608.01600)|null|
 |**2026-08-01**|**ORCESTRA: VLM-driven Visual Robot programming in Mixed Reality**|Dzmitry Tsetserukou Team|[2608.00775](http://arxiv.org/abs/2608.00775)|null|
@@ -10489,6 +10511,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**AdvDex: Learning Dexterous Manipulation from Human Demonstrations via Joint-Aligned Actions and Adversarial Learning**|Zhengxue Cheng Team|[2608.14028](http://arxiv.org/abs/2608.14028)|null|
 |**2026-08-13**|**NestDex: Nested Policy Learning with Copilot Assisted Teleoperation for Dexterous Manipulation**|Weiming Zhi Team|[2608.13362](http://arxiv.org/abs/2608.13362)|**[link](https://aus.bot/research/nestdex)**|
 |**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
 |**2026-08-07**|**C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video**|Xun Cao Team|[2608.07045](http://arxiv.org/abs/2608.07045)|**[link](https://k-jie.github.io/C2Dex/)**|
