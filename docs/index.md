@@ -3125,7 +3125,7 @@ layout: default
 |**2026-08-12**|**Learning from Multimodal Pseudo-Labels for Robust Open-Vocabulary Instance and Panoptic Segmentation**|Byeongkeun Kang Team|[2608.11681](http://arxiv.org/abs/2608.11681)|null|
 |**2026-08-12**|**Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads**|Sen Li Team|[2608.11661](http://arxiv.org/abs/2608.11661)|null|
 |**2026-08-12**|**Video2Track: From Real-World Interaction Videos to Steerable Adversarial Closed-Track Testing for Automated Driving Systems**|Lu Xiong Team|[2608.11592](http://arxiv.org/abs/2608.11592)|null|
-|**2026-08-12**|**CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications**| Chen Team|[2608.11588](http://arxiv.org/abs/2608.11588)|null|
+|**2026-08-12**|**CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications**|Chen Team|[2608.11588](http://arxiv.org/abs/2608.11588)|null|
 |**2026-08-12**|**CT- $Δ$ Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models**|Zihao Wang Team|[2608.11534](http://arxiv.org/abs/2608.11534)|null|
 |**2026-08-11**|**Test-Time Hallucination Control in Large Vision-Language Models**|Hossein Rahmani Team|[2608.11474](http://arxiv.org/abs/2608.11474)|null|
 |**2026-08-11**|**VLMs Win a Systematic Evaluation of Underwater Image Reconstruction**|David Forsyth Team|[2608.11425](http://arxiv.org/abs/2608.11425)|null|
