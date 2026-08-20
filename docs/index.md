@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.19
+## Updated on 2026.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
