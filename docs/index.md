@@ -9,6 +9,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**One-Shot Learning from Demonstration of Contact-Rich Robotic Manipulation by Identifying Physical Interactions**|M. Vlutters Team|[2608.24741](http://arxiv.org/abs/2608.24741)|null|
+|**2026-08-25**|**GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models**|Haibao Yu Team|[2608.24714](http://arxiv.org/abs/2608.24714)|null|
+|**2026-08-25**|**RoG-DAgger: Rollout-Guided Post-Training for End-to-End Driving**|Hanno Gottschalk Team|[2608.24525](http://arxiv.org/abs/2608.24525)|null|
+|**2026-08-25**|**A Durable Vision-Based Tactile Fingertip for Robotic Manipulation**|Edward H. Adelson Team|[2608.24242](http://arxiv.org/abs/2608.24242)|null|
+|**2026-08-25**|**Robust Slip Detection and Material Classification via Spatiotemporal Transformers on a Uniformly-Illuminated Visuo-Tactile Sensor**|Bin Fang Team|[2608.24162](http://arxiv.org/abs/2608.24162)|null|
+|**2026-08-25**|**Trajectory-Level Continuous Action Representation for Robotic Manipulation**|Wenqiang Zhang Team|[2608.24111](http://arxiv.org/abs/2608.24111)|null|
+|**2026-08-25**|**Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models**|Jeffrey Ichnowski Team|[2608.24042](http://arxiv.org/abs/2608.24042)|**[link](https://hoar012.github.io/HSR-Project)**|
+|**2026-08-25**|**NeurRAFT: Robot Motion Planning via Anchor-Level Flow Matching with Clearance-Aware Preference Tuning**|Xiao Liang Team|[2608.24026](http://arxiv.org/abs/2608.24026)|null|
+|**2026-08-25**|**Bridging Teacher Expectations and Robot Learning via Coupling Dynamics**|Wing-Yue Geoffrey Louie Team|[2608.23994](http://arxiv.org/abs/2608.23994)|null|
+|**2026-08-25**|**GlanceWAM: Sparse Test-Time Imagination for World-Action Models**|Chang-Tien Lu Team|[2608.23927](http://arxiv.org/abs/2608.23927)|null|
+|**2026-08-25**|**Dynamical System-Based Imitation Learning and Neuroadaptive Control for Trajectory Recovery in Autonomous Ships**|José Ángel Acosta Team|[2608.23924](http://arxiv.org/abs/2608.23924)|null|
 |**2026-08-24**|**InstructMove: A Text-Indispensable Benchmark for Instruction-Following Manipulation**|Zhizhong Su Team|[2608.22990](http://arxiv.org/abs/2608.22990)|null|
 |**2026-08-24**|**CSymPlan: Certified Symbolic Planning and Control for High-DOF Manipulators**|Abdalla Swikir Team|[2608.22983](http://arxiv.org/abs/2608.22983)|null|
 |**2026-08-24**|**Triplet2Track: A Hierarchical System with Object-Centric Representations for Reliable Long-Horizon Manipulation**|Wenzhao Lian Team|[2608.22800](http://arxiv.org/abs/2608.22800)|null|
@@ -3175,6 +3186,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**X-MULTI: VLM-based Imaging Factor Disentanglement for Factor-Aware Image Synthesis**|Danda Pani Paudel Team|[2608.24563](http://arxiv.org/abs/2608.24563)|null|
+|**2026-08-25**|**DoublesEval: Diagnosing Multi-Agent Tactical Reasoning in Vision-Language Models via Professional Doubles Badminton**|Weibin Li Team|[2608.24439](http://arxiv.org/abs/2608.24439)|null|
+|**2026-08-25**|**Vision Language Model Fusion for Explainable Face Recognition**|Christian Rathgeb Team|[2608.24430](http://arxiv.org/abs/2608.24430)|null|
+|**2026-08-25**|**VideoHarness-RSI: Recursive Harness Self-Improvement for Long-Video Understanding with Frozen Vision-Language Models**|Hao Chen Team|[2608.24302](http://arxiv.org/abs/2608.24302)|null|
+|**2026-08-25**|**Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing**|Gui-Song Xia Team|[2608.24263](http://arxiv.org/abs/2608.24263)|null|
+|**2026-08-25**|**Beyond Accuracy: A Dual-Judge Evaluation Protocol for Vision-Language Models in Legally Grounded Tasks**|Ken Satoh Team|[2608.24258](http://arxiv.org/abs/2608.24258)|null|
+|**2026-08-25**|**What Does Prompt Learning Change? -A Natural-Language Concept Analysis of Vision-Language Models**|Kazuhiko Kawamoto Team|[2608.24142](http://arxiv.org/abs/2608.24142)|null|
+|**2026-08-25**|**Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation**|Lijuan Wang Team|[2608.24138](http://arxiv.org/abs/2608.24138)|null|
+|**2026-08-25**|**PlaceSeek: Human-Centered Geospatial Retrieval of Urban Outdoor Places via Semantic Grounding and Affective Alignment**|Shangyu Lou Team|[2608.24133](http://arxiv.org/abs/2608.24133)|null|
+|**2026-08-25**|**MC-CXR: A Multi-Context Chest X-ray Benchmark for Context-Induced Disruption in Vision-Language Models**|Kyu Sung Choi Team|[2608.24118](http://arxiv.org/abs/2608.24118)|null|
+|**2026-08-25**|**SIREN-Bench: Behavior-Driven Generation and Evaluation of Emergency-Vehicle Interactions**|Zilin Bian Team|[2608.24094](http://arxiv.org/abs/2608.24094)|null|
+|**2026-08-25**|**ConsensusTAS: Self-Supervised Temporal Action Segmentation for Long-Horizon Construction Videos**|Yafei Sun Team|[2608.24043](http://arxiv.org/abs/2608.24043)|null|
+|**2026-08-25**|**PinSieve: Production Selective VLM Serving and a Governed Memory Flywheel for Enterprise Content-Quality Triage**|Andrey Gusev Team|[2608.24040](http://arxiv.org/abs/2608.24040)|null|
+|**2026-08-25**|**SAGE: From Direct Answering to Evidence-Grounded Inference for Chinese Ancient Document Understanding**|Bin Li Team|[2608.24011](http://arxiv.org/abs/2608.24011)|null|
+|**2026-08-25**|**When Seeing Is Not Enough: Benchmarking Interactive Visual Grounding in LVLMs**|Owen Rambow Team|[2608.23978](http://arxiv.org/abs/2608.23978)|null|
+|**2026-08-25**|**RefineRank: Joint Box Refinement and Ranking for Surgical Spatio-Temporal Grounding**|Mobarak I. Hoque Team|[2608.23928](http://arxiv.org/abs/2608.23928)|null|
+|**2026-08-24**|**HAP: Head-Adaptive Visual Token Pruning via Cross-Modal Alignment**|Xinbing Wang Team|[2608.23921](http://arxiv.org/abs/2608.23921)|null|
+|**2026-08-24**|**LG-GER: Language-Guided Group Emotion Recognition via Multimodal Evidence Distillation**|Yan Tong Team|[2608.23880](http://arxiv.org/abs/2608.23880)|null|
+|**2026-08-24**|**Gen2Physics: Grounding Generated 3D Meshes in Physics via Multi-View Material Decomposition**|Manuel Sanchez Team|[2608.23869](http://arxiv.org/abs/2608.23869)|null|
+|**2026-08-24**|**LUX: A Lesion-Aware Graph-Conditioned Visual - Language Architecture for Explainable Endoscopic Captioning**|Sharib Ali Team|[2608.23853](http://arxiv.org/abs/2608.23853)|null|
 |**2026-08-24**|**EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings**|Moazzem Hossain Team|[2608.23563](http://arxiv.org/abs/2608.23563)|null|
 |**2026-08-24**|**Investigating Relational Reasoning in VLMs**|Xander Yap Team|[2608.23518](http://arxiv.org/abs/2608.23518)|null|
 |**2026-08-24**|**Action-Aligned Retrieval with Pairwise Multimodal Reranking for Text-Based Person Anomaly Search**|Minh-Triet Tran Team|[2608.23503](http://arxiv.org/abs/2608.23503)|null|
@@ -8507,6 +8538,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**Gripper-aware Vision Language Action Models**|Baoru Huang Team|[2608.24603](http://arxiv.org/abs/2608.24603)|null|
+|**2026-08-25**|**PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control**|Youngjae Yu Team|[2608.24115](http://arxiv.org/abs/2608.24115)|**[link](https://worv-ai.github.io/ponderpounce/)**|
+|**2026-08-25**|**TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks**|Huang Huang Team|[2608.24101](http://arxiv.org/abs/2608.24101)|null|
+|**2026-08-25**|**Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models**|Jeffrey Ichnowski Team|[2608.24042](http://arxiv.org/abs/2608.24042)|**[link](https://hoar012.github.io/HSR-Project)**|
 |**2026-08-24**|**Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models**|Wook-Shin Han Team|[2608.23478](http://arxiv.org/abs/2608.23478)|**[link](https://leesangoh.github.io/indi-project-page/)**|
 |**2026-08-24**|**ROS2SmolVLA: Enabling Small Vision-Language-Action Models for Integration into Industrial-Grade Lightweight Robots**|Lars Mikelsons Team|[2608.23320](http://arxiv.org/abs/2608.23320)|null|
 |**2026-08-24**|**Think Only When Needed: Prompt-Authority Control for Selective Slow-Path Intervention in Vision-Language-Action Manipulation**|Xiaojun Zhu Team|[2608.23224](http://arxiv.org/abs/2608.23224)|null|
@@ -10733,6 +10768,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**Fiber Optic Sensing Glove for High Performance Dexterous Manipulation Capture**|Ergys Ristani Team|[2608.24572](http://arxiv.org/abs/2608.24572)|null|
 |**2026-08-23**|**EMPIRE: Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting**|Xilin Chen Team|[2608.22449](http://arxiv.org/abs/2608.22449)|null|
 |**2026-08-23**|**LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models**|Ruihai Wu Team|[2608.22403](http://arxiv.org/abs/2608.22403)|null|
 |**2026-08-24**|**GhostTac: Manipulating Tactile Sensors without Physical Contact**|Wenyuan Xu Team|[2608.20817](http://arxiv.org/abs/2608.20817)|null|
