@@ -2,16 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos**|Noémie Jaquier Team|[2608.28570](http://arxiv.org/abs/2608.28570)|null|
+|**2026-08-27**|**Coordinated Motion Planning for Multi-Arm Systems via Iterative LQ Games**|Ahmed H. Qureshi Team|[2608.27726](http://arxiv.org/abs/2608.27726)|null|
+|**2026-08-27**|**PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models**|Minghui Zheng Team|[2608.27609](http://arxiv.org/abs/2608.27609)|null|
+|**2026-08-27**|**Remote Human and Robot Interaction for Greenhouse Gardening Using Virtual Reality**|Hasan Seyyedhasani Team|[2608.27545](http://arxiv.org/abs/2608.27545)|null|
+|**2026-08-27**|**Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics**|Zhongliang Qiao Team|[2608.27497](http://arxiv.org/abs/2608.27497)|null|
 |**2026-08-27**|**FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference**|Zhijian Liu Team|[2608.27384](http://arxiv.org/abs/2608.27384)|null|
 |**2026-08-27**|**Active sensing to characterize the heterogeneity of plant stress**|David Colliaux Team|[2608.27088](http://arxiv.org/abs/2608.27088)|null|
-|**2026-08-27**|**GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation**|Mingzhai Sun Team|[2608.27079](http://arxiv.org/abs/2608.27079)|null|
+|**2026-08-28**|**GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation**|Mingzhai Sun Team|[2608.27079](http://arxiv.org/abs/2608.27079)|null|
 |**2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Yangguang Li Team|[2608.27033](http://arxiv.org/abs/2608.27033)|null|
 |**2026-08-27**|**TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation**|Enyu Li Team|[2608.26821](http://arxiv.org/abs/2608.26821)|null|
 |**2026-08-27**|**Rapid On-Robot Learning for Dynamic Manipulation Skills: Robot Juggling**|Nicolas Rojas Team|[2608.26800](http://arxiv.org/abs/2608.26800)|null|
