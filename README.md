@@ -1,4 +1,4 @@
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -3235,7 +3235,7 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## VLM
 
@@ -8688,7 +8688,7 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## VLA
 
@@ -10349,7 +10349,7 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## Humanoid
 
@@ -10964,12 +10964,15 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation**|He Wang Team|[2609.02546](http://arxiv.org/abs/2609.02546)|null|
+|**2026-09-01**|**One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry**|Jeannette Bohg Team|[2609.01938](http://arxiv.org/abs/2609.01938)|null|
+|**2026-09-01**|**Does Imitation Learning Preserve Temporal Robustness in Dexterous Manipulation? An Expert-Learner Comparison Across Task Execution Speeds**|Calin Belta Team|[2609.01453](http://arxiv.org/abs/2609.01453)|**[link](https://github.com/coenwerem/parcelstow)**|
 |**2026-08-31**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Jun Zhu Team|[2608.30237](http://arxiv.org/abs/2608.30237)|null|
 |**2026-08-30**|**Blind Dexterity: Whole-Body Humanoid Manipulation via Pure Proprioception**|Jan Peters Team|[2608.29487](http://arxiv.org/abs/2608.29487)|**[link](https://aditya.bhatts.org/BlindDexterity/)**|
 |**2026-08-28**|**Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning**|Yiwei Tao Team|[2608.28578](http://arxiv.org/abs/2608.28578)|**[link](https://tetheria.github.io/aero-hand-open/)**|
@@ -11445,5 +11448,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 

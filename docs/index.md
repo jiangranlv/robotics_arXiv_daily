@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -10955,6 +10955,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation**|He Wang Team|[2609.02546](http://arxiv.org/abs/2609.02546)|null|
+|**2026-09-01**|**One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry**|Jeannette Bohg Team|[2609.01938](http://arxiv.org/abs/2609.01938)|null|
+|**2026-09-01**|**Does Imitation Learning Preserve Temporal Robustness in Dexterous Manipulation? An Expert-Learner Comparison Across Task Execution Speeds**|Calin Belta Team|[2609.01453](http://arxiv.org/abs/2609.01453)|**[link](https://github.com/coenwerem/parcelstow)**|
 |**2026-08-31**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Jun Zhu Team|[2608.30237](http://arxiv.org/abs/2608.30237)|null|
 |**2026-08-30**|**Blind Dexterity: Whole-Body Humanoid Manipulation via Pure Proprioception**|Jan Peters Team|[2608.29487](http://arxiv.org/abs/2608.29487)|**[link](https://aditya.bhatts.org/BlindDexterity/)**|
 |**2026-08-28**|**Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning**|Yiwei Tao Team|[2608.28578](http://arxiv.org/abs/2608.28578)|**[link](https://tetheria.github.io/aero-hand-open/)**|
