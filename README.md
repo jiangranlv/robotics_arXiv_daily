@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation**|Dongbin Zhao Team|[2609.04193](http://arxiv.org/abs/2609.04193)|null|
+|**2026-09-03**|**A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle**|Gabriel George Zipperer Team|[2609.04147](http://arxiv.org/abs/2609.04147)|null|
 |**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Kanata Suzuki Team|[2609.03927](http://arxiv.org/abs/2609.03927)|null|
 |**2026-09-03**|**Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment**|Yue Wang Team|[2609.03906](http://arxiv.org/abs/2609.03906)|null|
 |**2026-09-03**|**WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models**|Long Zeng Team|[2609.03681](http://arxiv.org/abs/2609.03681)|null|
@@ -3253,6 +3255,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**Principia: Relational Physics Tests for Video Models**|Anand Bhattad Team|[2609.04200](http://arxiv.org/abs/2609.04200)|**[link](https://principiabench.github.io/)**|
+|**2026-09-03**|**Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving**|Jun Ma Team|[2609.04070](http://arxiv.org/abs/2609.04070)|null|
+|**2026-09-03**|**IchthyoNoma: Nomenclature and Context Sensitivity of Zero-Shot Biological Vision--Language Models for Bangladeshi Freshwater Fish Recognition**|Md Kishor Morol Team|[2609.03985](http://arxiv.org/abs/2609.03985)|null|
+|**2026-09-03**|**WorldReward: Reward Modeling for Camera-Conditioned World Models**|Tianyu Pang Team|[2609.03952](http://arxiv.org/abs/2609.03952)|**[link](https://codegoat24.github.io/WorldReward)**|
 |**2026-09-03**|**When Vision Meets Graphs: A Survey on Graph Reasoning and Learning**|Tianshu Yu Team|[2609.03816](http://arxiv.org/abs/2609.03816)|null|
 |**2026-09-03**|**SVG-Score: Human-Aligned Evaluation of Text-to-SVG Generation**|Gerard de Melo Team|[2609.03806](http://arxiv.org/abs/2609.03806)|null|
 |**2026-09-03**|**A Reverse Sign Language Dictionary: Open-Vocabulary Sign Recognition from Continuous Signing via Video Captioning and Description Retrieval**|Mayumi Bono Team|[2609.03788](http://arxiv.org/abs/2609.03788)|null|
@@ -8742,6 +8748,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation**|Dongbin Zhao Team|[2609.04193](http://arxiv.org/abs/2609.04193)|null|
+|**2026-09-03**|**Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving**|Jun Ma Team|[2609.04070](http://arxiv.org/abs/2609.04070)|null|
 |**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Kanata Suzuki Team|[2609.03927](http://arxiv.org/abs/2609.03927)|null|
 |**2026-09-03**|**FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation**|Dibo Hou Team|[2609.03889](http://arxiv.org/abs/2609.03889)|null|
 |**2026-09-03**|**MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO?**|Yusuke Iwasawa Team|[2609.03715](http://arxiv.org/abs/2609.03715)|null|
@@ -10417,6 +10425,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**BRIDGE: An Open-Source Humanoid Platform via Morphology-Control Co-Design for Physical AI**|Deepak Pathak Team|[2609.03497](http://arxiv.org/abs/2609.03497)|null|
+|**2026-09-03**|**Establishing a Dynamic Multimodal HRI Dataset for Engagement Analysis with a Humanoid Robot**|Wonse Jo Team|[2609.03255](http://arxiv.org/abs/2609.03255)|null|
 |**2026-09-02**|**Humanoid Safe Stop via Learned Stoppability Value**|C. Karen Liu Team|[2609.02358](http://arxiv.org/abs/2609.02358)|null|
 |**2026-09-02**|**Contact-Constrained Lower-Limb Joint-Offset Calibration for Humanoid Robots**|Chuang Wang Team|[2609.02306](http://arxiv.org/abs/2609.02306)|null|
 |**2026-09-02**|**Unified Motion Retargeting for Humanoids with Learned Point Cloud Correspondence**|Renjing Xu Team|[2609.02134](http://arxiv.org/abs/2609.02134)|null|
