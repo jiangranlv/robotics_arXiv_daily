@@ -2,18 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.09.03
+## Updated on 2026.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Kanata Suzuki Team|[2609.03927](http://arxiv.org/abs/2609.03927)|null|
+|**2026-09-03**|**Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment**|Yue Wang Team|[2609.03906](http://arxiv.org/abs/2609.03906)|null|
+|**2026-09-03**|**WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models**|Long Zeng Team|[2609.03681](http://arxiv.org/abs/2609.03681)|null|
+|**2026-09-03**|**FailBench: How Reliable are VLMs at Judging Robot Task Success?**|Hrant Davtyan Team|[2609.03611](http://arxiv.org/abs/2609.03611)|null|
+|**2026-09-03**|**Scaling Bimanual Household Manipulation from 1,500 hours of Demonstrations to On-Policy Corrections**|Hao Dong Team|[2609.03591](http://arxiv.org/abs/2609.03591)|null|
+|**2026-09-03**|**R2S-Eval: Robot Evaluation with Real-to-Sim Calibration via Vision-Language Models**|Kaifeng Zhang Team|[2609.03276](http://arxiv.org/abs/2609.03276)|null|
+|**2026-09-02**|**RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning**|Kaiyu Hang Team|[2609.03199](http://arxiv.org/abs/2609.03199)|null|
 |**2026-09-02**|**HINT: Human-Intent Inception for Long-Horizon Robot Manipulation**|Zaixing He Team|[2609.02653](http://arxiv.org/abs/2609.02653)|**[link](https://robot-hint.github.io/)**|
 |**2026-09-02**|**Towards Zero-Shot Transfer Across Embodiments For Driving VLAs**|Fabien Moutarde Team|[2609.02341](http://arxiv.org/abs/2609.02341)|null|
 |**2026-09-02**|**Real-Time Dynamics-Based Torque-Sampling MPPI for Compliant and Force Aware Manipulation**|Yisoo Lee Team|[2609.02020](http://arxiv.org/abs/2609.02020)|null|
 |**2026-09-01**|**Does Imitation Learning Preserve Temporal Robustness in Dexterous Manipulation? An Expert-Learner Comparison Across Task Execution Speeds**|Calin Belta Team|[2609.01453](http://arxiv.org/abs/2609.01453)|**[link](https://github.com/coenwerem/parcelstow)**|
-|**2026-09-01**|**On Global Regulatability of Robot Manipulators by Classical PID**|Lei Guo Team|[2609.01207](http://arxiv.org/abs/2609.01207)|null|
+|**2026-09-03**|**On Global Regulatability of Robot Manipulators by Classical PID**|Lei Guo Team|[2609.01207](http://arxiv.org/abs/2609.01207)|null|
 |**2026-09-01**|**Peg-in-Bench: A Modular Benchmark for High-Precision Robotic Insertion**|Yukiyasu Domae Team|[2609.00906](http://arxiv.org/abs/2609.00906)|null|
 |**2026-09-01**|**Towards Generalizable Visually Grounded Exploration of Household Devices**|Yuhang Guo Team|[2609.00845](http://arxiv.org/abs/2609.00845)|null|
 |**2026-09-01**|**AM-Bench: A Modular Simulation Suite and Benchmark for Aerial Manipulation Policy Learning**|Guanya Shi Team|[2609.00641](http://arxiv.org/abs/2609.00641)|null|
@@ -3237,9 +3244,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**When Vision Meets Graphs: A Survey on Graph Reasoning and Learning**|Tianshu Yu Team|[2609.03816](http://arxiv.org/abs/2609.03816)|null|
+|**2026-09-03**|**SVG-Score: Human-Aligned Evaluation of Text-to-SVG Generation**|Gerard de Melo Team|[2609.03806](http://arxiv.org/abs/2609.03806)|null|
+|**2026-09-03**|**A Reverse Sign Language Dictionary: Open-Vocabulary Sign Recognition from Continuous Signing via Video Captioning and Description Retrieval**|Mayumi Bono Team|[2609.03788](http://arxiv.org/abs/2609.03788)|null|
+|**2026-09-03**|**Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning**|Lei Zhu Team|[2609.03729](http://arxiv.org/abs/2609.03729)|null|
+|**2026-09-03**|**MetaStructAtlas: A Grounded 3D Vision-Language Dataset and Benchmark for Functional and Structural Reasoning in Whole-Body PET/CT**|Mei Tian Team|[2609.03690](http://arxiv.org/abs/2609.03690)|null|
+|**2026-09-03**|**CoFiE: Coarse-to-Fine Evidence Selection for Efficient Streaming Video Understanding**|Jie Liu Team|[2609.03675](http://arxiv.org/abs/2609.03675)|null|
+|**2026-09-03**|**FailBench: How Reliable are VLMs at Judging Robot Task Success?**|Hrant Davtyan Team|[2609.03611](http://arxiv.org/abs/2609.03611)|null|
+|**2026-09-03**|**SafeRI: Recognition and Intervention for Token-Level Safety Intervention in Large Vision Language Models**|Yinqiang Zheng Team|[2609.03544](http://arxiv.org/abs/2609.03544)|null|
+|**2026-09-03**|**Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models**|Pei Fu Team|[2609.03493](http://arxiv.org/abs/2609.03493)|null|
+|**2026-09-03**|**Lngram v2: Latent N-Gram Memory with Interpretable Discrete Representations**|Xiaojie Wang Team|[2609.03426](http://arxiv.org/abs/2609.03426)|null|
+|**2026-09-03**|**Exploring the Potential of Contrastive Language-Image Pre-training for Multi-Source Remote Sensing Data**|Chao Li Team|[2609.03391](http://arxiv.org/abs/2609.03391)|null|
+|**2026-09-03**|**FPCO-Dialog: A Multi-Turn False-Premise Benchmark for Correction and Cooperation in Vision-Language Models**|Jing Li Team|[2609.03331](http://arxiv.org/abs/2609.03331)|**[link](https://github.com/lab-klc/FPCO-Dialog)**|
+|**2026-09-03**|**R2S-Eval: Robot Evaluation with Real-to-Sim Calibration via Vision-Language Models**|Kaifeng Zhang Team|[2609.03276](http://arxiv.org/abs/2609.03276)|null|
+|**2026-09-02**|**Who Speaks for the Pruned? Visual Token Pruning as Coverage Optimization**|Geng Yuan Team|[2609.03158](http://arxiv.org/abs/2609.03158)|null|
+|**2026-09-02**|**Solving the Needle-in-a-Haystack Problem in Mammography Vision-Language Model with Differentiable Subset Sampling**|Hari Trivedi Team|[2609.03085](http://arxiv.org/abs/2609.03085)|null|
+|**2026-09-02**|**Sparse concept attribution for histomorphological hypothesis generation from whole-slide classifiers**|Stephanie Hyland Team|[2609.02985](http://arxiv.org/abs/2609.02985)|null|
 |**2026-09-02**|**RVSD: Retrieval Vision Sparse Decoding for Mitigating Visual Hallucinations in Large Vision-Language Models**|Zishao Zhong Team|[2609.02731](http://arxiv.org/abs/2609.02731)|null|
 |**2026-09-02**|**Characterizing Text Branch Sensitivity in Medical Vision-Language Segmentation via Evidence Decoupling**|Xuyang Shi Team|[2609.02663](http://arxiv.org/abs/2609.02663)|null|
-|**2026-09-02**|**ViSAR: Training-Free Adaptive- $k$ Retrieval for Visual Document Question Answering**|Céline Robardet Team|[2609.02486](http://arxiv.org/abs/2609.02486)|null|
+|**2026-09-03**|**ViSAR: Training-Free Adaptive- $k$ Retrieval for Visual Document Question Answering**|Céline Robardet Team|[2609.02486](http://arxiv.org/abs/2609.02486)|null|
 |**2026-09-02**|**CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction**|Fanyi Wang Team|[2609.02401](http://arxiv.org/abs/2609.02401)|null|
 |**2026-09-02**|**CAPTCHAs in the Agentic Era: Solvers That Learn from Every Encounter**|Kemal Bicakci Team|[2609.02393](http://arxiv.org/abs/2609.02393)|null|
 |**2026-09-02**|**TempoGround: State-Aware Streaming Visual Grounding with Vision-Language Models**|Fei Wang Team|[2609.02359](http://arxiv.org/abs/2609.02359)|null|
@@ -8708,6 +8731,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Kanata Suzuki Team|[2609.03927](http://arxiv.org/abs/2609.03927)|null|
+|**2026-09-03**|**FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation**|Dibo Hou Team|[2609.03889](http://arxiv.org/abs/2609.03889)|null|
+|**2026-09-03**|**MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO?**|Yusuke Iwasawa Team|[2609.03715](http://arxiv.org/abs/2609.03715)|null|
+|**2026-09-03**|**WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models**|Long Zeng Team|[2609.03681](http://arxiv.org/abs/2609.03681)|null|
+|**2026-09-03**|**Scaling Bimanual Household Manipulation from 1,500 hours of Demonstrations to On-Policy Corrections**|Hao Dong Team|[2609.03591](http://arxiv.org/abs/2609.03591)|null|
+|**2026-09-03**|**R2S-Eval: Robot Evaluation with Real-to-Sim Calibration via Vision-Language Models**|Kaifeng Zhang Team|[2609.03276](http://arxiv.org/abs/2609.03276)|null|
+|**2026-09-02**|**Sensing Which Modality Matters: Evidence-Gated Regularization for Robust VLA Policies**|Siddarth Jain Team|[2609.03142](http://arxiv.org/abs/2609.03142)|null|
 |**2026-09-02**|**HINT: Human-Intent Inception for Long-Horizon Robot Manipulation**|Zaixing He Team|[2609.02653](http://arxiv.org/abs/2609.02653)|**[link](https://robot-hint.github.io/)**|
 |**2026-09-02**|**Latent Cluster Analysis for Vision-Language-Action Models**|Igor Farkas Team|[2609.02634](http://arxiv.org/abs/2609.02634)|null|
 |**2026-09-02**|**ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation**|He Wang Team|[2609.02546](http://arxiv.org/abs/2609.02546)|null|
@@ -10991,8 +11021,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning**|Kaiyu Hang Team|[2609.03199](http://arxiv.org/abs/2609.03199)|null|
 |**2026-09-02**|**ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation**|He Wang Team|[2609.02546](http://arxiv.org/abs/2609.02546)|null|
-|**2026-09-01**|**One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry**|Jeannette Bohg Team|[2609.01938](http://arxiv.org/abs/2609.01938)|null|
+|**2026-09-03**|**One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry**|Jeannette Bohg Team|[2609.01938](http://arxiv.org/abs/2609.01938)|null|
 |**2026-09-01**|**Does Imitation Learning Preserve Temporal Robustness in Dexterous Manipulation? An Expert-Learner Comparison Across Task Execution Speeds**|Calin Belta Team|[2609.01453](http://arxiv.org/abs/2609.01453)|**[link](https://github.com/coenwerem/parcelstow)**|
 |**2026-08-31**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Jun Zhu Team|[2608.30237](http://arxiv.org/abs/2608.30237)|null|
 |**2026-08-30**|**Blind Dexterity: Whole-Body Humanoid Manipulation via Pure Proprioception**|Jan Peters Team|[2608.29487](http://arxiv.org/abs/2608.29487)|**[link](https://aditya.bhatts.org/BlindDexterity/)**|
