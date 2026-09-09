@@ -2,13 +2,30 @@
 layout: default
 ---
 
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-07**|**Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction**|Mengdi Xu Team|[2609.07747](http://arxiv.org/abs/2609.07747)|**[link](https://dexx-code.github.io/dexx-code/)**|
+|**2026-09-07**|**CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements**|Xiaoguang Han Team|[2609.07498](http://arxiv.org/abs/2609.07498)|**[link](https://cosmoh2g.github.io)**|
+|**2026-09-07**|**Observer-Based Robust Control for an Aerial Manipulator System under Unknown External Disturbances**|Sneha Gajbhiye Team|[2609.07114](http://arxiv.org/abs/2609.07114)|null|
+|**2026-09-07**|**Large Discrete Policy: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring**|Jose M. Alvarez Team|[2609.07049](http://arxiv.org/abs/2609.07049)|null|
+|**2026-09-07**|**MEMOBench: A Process Level Memory Benchmark for Robotic Manipulation**|Zhou Zhao Team|[2609.07047](http://arxiv.org/abs/2609.07047)|null|
+|**2026-09-07**|**Mind the Phase: Effective Rank and Representation Health in Legged Locomotion**|Marcelo Becker Team|[2609.06958](http://arxiv.org/abs/2609.06958)|null|
+|**2026-09-06**|**ContextFlow: In-Context Flow Matching for Robot Manipulation**|Mohamed Elhoseiny Team|[2609.06852](http://arxiv.org/abs/2609.06852)|null|
+|**2026-09-06**|**Unsound Search with Policy and Value Networks in Legends of Code and Magic**|Dustin Rubin Team|[2609.06816](http://arxiv.org/abs/2609.06816)|null|
+|**2026-09-06**|**VLA-Corrector: Stage-Aware Observable State Understanding for Prompt-Based Closed-Loop Recovery of Vision-Language-Action Policies**|Zhijie Song Team|[2609.06508](http://arxiv.org/abs/2609.06508)|null|
+|**2026-09-05**|**IM-ENGINE: Image Editing for Embodied Data Generation**|Chuang Gan Team|[2609.06279](http://arxiv.org/abs/2609.06279)|null|
+|**2026-09-05**|**GloVLA: Let Geometry Move and Local VLA Interact for Robust Object-Centric Manipulation in Unstructured Environments**|Ngan Le Team|[2609.06256](http://arxiv.org/abs/2609.06256)|null|
+|**2026-09-05**|**RefGuard: Identity-Aware Language-Guided Robot Manipulation via Joint Target-Anchor-Frame Grounding**|Dandan Zhang Team|[2609.06221](http://arxiv.org/abs/2609.06221)|null|
+|**2026-09-05**|**Where Success Breaks: Failure-Boundary Learning for Robust Vision-Language-Action Models**|Mike Zheng Shou Team|[2609.06114](http://arxiv.org/abs/2609.06114)|null|
+|**2026-09-05**|**FALCON-S: Fixed-wing ground-effect Aerodynamics Simulator and Flight Control Learning Suite**|Miguel Olivares-Mendez Team|[2609.06046](http://arxiv.org/abs/2609.06046)|null|
+|**2026-09-05**|**GIF: Agentic Generation of Interactive and Functional Object Compositions for Robot Learning**|He Wang Team|[2609.05927](http://arxiv.org/abs/2609.05927)|null|
+|**2026-09-05**|**CR-VLA-Force: Learning Control-aware Compliance VLA Model for Robust Contact-rich Robotic Manipulation**|Chenguang Yang Team|[2609.05832](http://arxiv.org/abs/2609.05832)|null|
+|**2026-09-04**|**GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation**|Maoqing Yao Team|[2609.05588](http://arxiv.org/abs/2609.05588)|**[link](https://ge-act-v2.github.io/)**|
 |**2026-09-04**|**Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models**|Albert No Team|[2609.05401](http://arxiv.org/abs/2609.05401)|null|
 |**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Yueting Zhuang Team|[2609.05324](http://arxiv.org/abs/2609.05324)|null|
 |**2026-09-04**|**LIBERO-RECOVER: Beyond Task Success Towards Failure Recovery in Robotic Manipulation Models**|Huchuan Lu Team|[2609.05178](http://arxiv.org/abs/2609.05178)|null|
@@ -3252,6 +3269,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-07**|**VoT: Vision-of-Thought for Unified Multimodal Representation Alignment**|Weilin Huang Team|[2609.07815](http://arxiv.org/abs/2609.07815)|null|
+|**2026-09-07**|**DroneGround: Open-Vocabulary Drone Payload Characterization Using Synthetic Data and Grounded Vision-Language Models**|Rohit Shukla Team|[2609.07780](http://arxiv.org/abs/2609.07780)|null|
+|**2026-09-07**|**I Don't Miss You, but I Do: Self-Explanation Faithfulness of Modality Missingness in Vision-Language Models**|Florian von Wangenheim Team|[2609.07596](http://arxiv.org/abs/2609.07596)|null|
+|**2026-09-07**|**CrACK: Adversarial Attacks on Cross-Model Consistency in Collaborative Vision Foundation Models**|Xiaoyu Tang Team|[2609.07499](http://arxiv.org/abs/2609.07499)|null|
+|**2026-09-07**|**Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition**|Peng Xie Team|[2609.07474](http://arxiv.org/abs/2609.07474)|null|
+|**2026-09-07**|**Parser-Free VLM Verification for Federated Weakly Supervised Video Anomaly Detection**|Rachid Chelouah Team|[2609.07455](http://arxiv.org/abs/2609.07455)|null|
+|**2026-09-07**|**Federated Binary Gating with Server-Side Vision-Language Inference for Surveillance Anomaly Classification**|Rachid Chelouah Team|[2609.07403](http://arxiv.org/abs/2609.07403)|null|
+|**2026-09-07**|**Social Intuition vs. Machine Reasoning: Anticipating Human-Robot Interaction from multiple modalities**|Serena Ivaldi Team|[2609.07394](http://arxiv.org/abs/2609.07394)|null|
+|**2026-09-07**|**Can Agents Win the Video Browser Showdown?**|Jakub Lokoč Team|[2609.07311](http://arxiv.org/abs/2609.07311)|null|
+|**2026-09-07**|**Proximity-CLIP: Text-Guided Semantic Proximity Learning for Zero-Shot Anomaly Detection**|Fei Wang Team|[2609.07229](http://arxiv.org/abs/2609.07229)|null|
+|**2026-09-07**|**Phase-and-First-Arrival VLM Feedback for Sparse-Reward Reinforcement Learning in Surgical Manipulation**|David Navarro-Alarcon Team|[2609.07211](http://arxiv.org/abs/2609.07211)|**[link](https://surgphase.verloge.space)**|
+|**2026-09-07**|**PhysMAS: Physics-Grounded Multi-Agent Synthesis of Compositional 4D Gaussians**|Changsheng Li Team|[2609.07174](http://arxiv.org/abs/2609.07174)|null|
+|**2026-09-07**|**Ambient @ EgoLongQA 2026: Distilling Long-Video perception into a Sub-2B Model**|Logesh Kumar Umapathi Team|[2609.07154](http://arxiv.org/abs/2609.07154)|null|
+|**2026-09-07**|**NutriBench-Kitchen: Benchmarking Embodied AI for Nutrition Management**|Feng Zheng Team|[2609.07135](http://arxiv.org/abs/2609.07135)|null|
+|**2026-09-07**|**SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem**|Eunho Yang Team|[2609.07064](http://arxiv.org/abs/2609.07064)|null|
+|**2026-09-07**|**FreqDoor: A Hidden Trojan in the Frequency Domain for Backdoor Attacks on Vision-Language Models**|Mohammed Imamul Hassan Bhuiyan Team|[2609.07048](http://arxiv.org/abs/2609.07048)|null|
+|**2026-09-07**|**Re-calibrated Contrastive Loss for Transformation-Aware Prompt Conditioning in Vision-Language Models**|Jongbin Ryu Team|[2609.06967](http://arxiv.org/abs/2609.06967)|null|
+|**2026-09-07**|**CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary Angiography Interpretation**|Shih-Sheng Chang Team|[2609.06931](http://arxiv.org/abs/2609.06931)|**[link](https://huggingface.co/benbayibaurba/cardea-v0.)**|
+|**2026-09-07**|**BEFORE THE FLIP: Measuring Hidden Score Shifts In Quantized Vision Language Models Before The Answer Changes for Visual Question Answering**|Yuxuan Jiang Team|[2609.06922](http://arxiv.org/abs/2609.06922)|null|
+|**2026-09-07**|**Contextual Observer Grounding: Evaluating Situated Spatial Reasoning in Vision-Language Models**|Yonatan Bisk Team|[2609.06880](http://arxiv.org/abs/2609.06880)|null|
 |**2026-09-04**|**Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models**|Albert No Team|[2609.05401](http://arxiv.org/abs/2609.05401)|null|
 |**2026-09-04**|**Think-Verify-Revise: Neuro-Symbolic Visual Reasoning with Vision-Language Models and Dynamic Logic Tensor Networks**|Lia Morra Team|[2609.05388](http://arxiv.org/abs/2609.05388)|null|
 |**2026-09-04**|**Cross-Domain Tracker Adaptation Without Target-Domain Labels via Vision-Language Agents**|Mike Cochran Team|[2609.05239](http://arxiv.org/abs/2609.05239)|null|
@@ -8758,6 +8795,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-07**|**ComVLA: Communication-Aware Split Inference for VLA Models in 6G-Connected Robotics**|Giuseppe Caire Team|[2609.07838](http://arxiv.org/abs/2609.07838)|null|
+|**2026-09-07**|**ICI-VLA: In-Context Imitation with Spatiotemporally Aligned Demonstrations for Vision-Language-Action Models**|Miao Li Team|[2609.07581](http://arxiv.org/abs/2609.07581)|null|
+|**2026-09-07**|**Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-Language-Action Policy**|Christos Petrocheilos Team|[2609.07470](http://arxiv.org/abs/2609.07470)|**[link](https://huggingface.co/KIEFERSA/Sophea-Nano-Policy-LIBERO-Greek-v1)**|
+|**2026-09-07**|**Large Discrete Policy: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring**|Jose M. Alvarez Team|[2609.07049](http://arxiv.org/abs/2609.07049)|null|
+|**2026-09-07**|**MEMOBench: A Process Level Memory Benchmark for Robotic Manipulation**|Zhou Zhao Team|[2609.07047](http://arxiv.org/abs/2609.07047)|null|
+|**2026-09-07**|**GIFT: Goal-Injected Fine-Tuning for Efficient Manipulation Policy Adaptation**|Piji Li Team|[2609.07006](http://arxiv.org/abs/2609.07006)|null|
+|**2026-09-06**|**Learning to Use Imagination: Progress-Conditioned Future Utilization for World Action Models**|Liqiang Nie Team|[2609.06578](http://arxiv.org/abs/2609.06578)|**[link](https://github.com/JiuTian-VL/ProWAM)**|
+|**2026-09-06**|**VLA-Corrector: Stage-Aware Observable State Understanding for Prompt-Based Closed-Loop Recovery of Vision-Language-Action Policies**|Zhijie Song Team|[2609.06508](http://arxiv.org/abs/2609.06508)|null|
+|**2026-09-05**|**GloVLA: Let Geometry Move and Local VLA Interact for Robust Object-Centric Manipulation in Unstructured Environments**|Ngan Le Team|[2609.06256](http://arxiv.org/abs/2609.06256)|null|
+|**2026-09-05**|**MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control**|Hao Tang Team|[2609.06251](http://arxiv.org/abs/2609.06251)|**[link](https://github.com/AIGeeksGroup/MobileVLA-R1-2.0.)**|
+|**2026-09-05**|**RefGuard: Identity-Aware Language-Guided Robot Manipulation via Joint Target-Anchor-Frame Grounding**|Dandan Zhang Team|[2609.06221](http://arxiv.org/abs/2609.06221)|null|
+|**2026-09-05**|**Where Success Breaks: Failure-Boundary Learning for Robust Vision-Language-Action Models**|Mike Zheng Shou Team|[2609.06114](http://arxiv.org/abs/2609.06114)|null|
+|**2026-09-05**|**LayerRoute: Action-Conditioned Mixture-of-Layers Routing for Vision-Language-Action Policies**|Yiming Li Team|[2609.06079](http://arxiv.org/abs/2609.06079)|null|
+|**2026-09-05**|**A Brain-inspired Hierarchical Framework for Zero-Shot Robot Task Reasoning and Execution**|Brian Sheil Team|[2609.05985](http://arxiv.org/abs/2609.05985)|null|
+|**2026-09-05**|**CR-VLA-Force: Learning Control-aware Compliance VLA Model for Robust Contact-rich Robotic Manipulation**|Chenguang Yang Team|[2609.05832](http://arxiv.org/abs/2609.05832)|null|
 |**2026-09-04**|**What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies**|Jörg Krüger Team|[2609.05376](http://arxiv.org/abs/2609.05376)|null|
 |**2026-09-04**|**Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation**|Jörg Krüger Team|[2609.05369](http://arxiv.org/abs/2609.05369)|null|
 |**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Yueting Zhuang Team|[2609.05324](http://arxiv.org/abs/2609.05324)|null|
