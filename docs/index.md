@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.09.13
+## Updated on 2026.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-11**|**UniPart: Towards Zero-shot Language-Grounded 3D Part Segmentation for Embodied Interaction**|He Wang Team|[2609.12898](http://arxiv.org/abs/2609.12898)|null|
+|**2026-09-11**|**Before the Tipping Point: Force-Guided Active Perception for Shape-Agnostic Estimation of 3D Centers of Mass**|Cagdas D. Onal Team|[2609.12894](http://arxiv.org/abs/2609.12894)|**[link](https://stevenmhyland.com/assets/videos/IROS2026.mp4)**|
+|**2026-09-11**|**SCQ: Stabilizing Conservative Q-Learning with Sigmoid-Bounded Entropy**|Mingyu Hu Team|[2609.12749](http://arxiv.org/abs/2609.12749)|null|
+|**2026-09-11**|**Improving Imitation Learning Efficiency for Manipulation through Geometric Prior Pretraining**|Yukiyasu Domae Team|[2609.12721](http://arxiv.org/abs/2609.12721)|null|
+|**2026-09-11**|**Online Material Estimation for Conditioned Diffusion Policy in Shaping Deformable Linear Objects**|Tokuo Tsuji Team|[2609.12634](http://arxiv.org/abs/2609.12634)|null|
+|**2026-09-11**|**Agent as Policy for Robotic Manipulation**|Meng Jiang Team|[2609.12541](http://arxiv.org/abs/2609.12541)|null|
+|**2026-09-10**|**DIA: Denoising Intermediate Advantage for Diffusion Policy Optimization**|Alan Aspuru-Guzik Team|[2609.12245](http://arxiv.org/abs/2609.12245)|null|
+|**2026-09-10**|**GLARE: Generative Learning via Adversarial Reward Estimation For Social Dynamics Forecasting**|Sihao Chen Team|[2609.12165](http://arxiv.org/abs/2609.12165)|null|
+|**2026-09-10**|**Efficient Vision-Language-Action Management and Serving for Robot Factories**|Christina Giannoula Team|[2609.12075](http://arxiv.org/abs/2609.12075)|null|
 |**2026-09-10**|**UniMPA: A Unified Memory-Prediction-Action Model via Action-Grounded Transition Modeling**|Liqiang Nie Team|[2609.11875](http://arxiv.org/abs/2609.11875)|**[link](https://JiuTian-VL.github.io/UniMPA-page/)**|
 |**2026-09-10**|**Predefined-Time Resilient Integral Reinforcement Learning for Input-Constrained Unknown Nonlinear Systems Under FDI Attacks and Disturbances: A Fully Data-Driven Approach**|Minh Doan Team|[2609.11815](http://arxiv.org/abs/2609.11815)|null|
 |**2026-09-10**|**Rapid Learning of Dexterous In-Hand Pen Writing through Real-Time Jacobian Estimation**|Robert K. Katzschmann Team|[2609.11775](http://arxiv.org/abs/2609.11775)|**[link](https://srl-ethz.github.io/rapid-dexterous-writing/)**|
