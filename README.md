@@ -3331,6 +3331,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-14**|**Beyond Accuracy: Robustness, Cost, and Governance Trade-offs for Vision-Language Models in Templated Document Extraction**|Junlin Jiang Team|[2609.15706](http://arxiv.org/abs/2609.15706)|null|
+|**2026-09-14**|**NoteVQA: Benchmarking VLMs on Real-Life Questions from Human Communities**|Chuan Mu Team|[2609.15695](http://arxiv.org/abs/2609.15695)|null|
+|**2026-09-14**|**Don't Send What You Don't Need: Question-Guided Token Pruning as a Privacy Defense for Vision-Language Models**|Alvi Ataur Khalil Team|[2609.15671](http://arxiv.org/abs/2609.15671)|null|
+|**2026-09-14**|**From Model Patterns to Abstract Semantics in Compositional Zero-Shot Learning**|Fei Su Team|[2609.15649](http://arxiv.org/abs/2609.15649)|null|
+|**2026-09-14**|**Human-Grounded Calibration for Long-Text Image-Text Congruence in Vision-Language Models**|Qiwei Han Team|[2609.15640](http://arxiv.org/abs/2609.15640)|null|
+|**2026-09-14**|**ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs**|Leo Anthony Celi Team|[2609.15635](http://arxiv.org/abs/2609.15635)|null|
+|**2026-09-14**|**A Unified Vision-Language Model for PSMA PET/CT Report Generation, Visual Question Answering, and Lesion Segmentation**|Kuang Gong Team|[2609.15603](http://arxiv.org/abs/2609.15603)|null|
 |**2026-09-14**|**AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation**|Zhiwu Lu Team|[2609.15457](http://arxiv.org/abs/2609.15457)|null|
 |**2026-09-14**|**A Conservative OCR-Enabled Workflow for R214 Sodium Screening of South African Packaged Foods**|Clement Nyirenda Team|[2609.15427](http://arxiv.org/abs/2609.15427)|null|
 |**2026-09-14**|**Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs**|Yadong Shao Team|[2609.15322](http://arxiv.org/abs/2609.15322)|null|
