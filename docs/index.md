@@ -2,19 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.09.14
+## Updated on 2026.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-14**|**Low Clearance Hinge Joint Mechanism Based on 3D Printing on Sheet Fabrication Methodology**|Jee-Hwan Ryu Team|[2609.15276](http://arxiv.org/abs/2609.15276)|null|
+|**2026-09-14**|**LieSpline-DP: Lie-Group B-Spline Diffusion Policy for Smooth Robot Manipulation**|Bo Zhang Team|[2609.15162](http://arxiv.org/abs/2609.15162)|null|
+|**2026-09-14**|**IMPACT-VLA: Interaction-aware Multimodal Propagation Attribution via Counterfactual Trajectories for Vision-Language-Action Policies**|Sangjin Park Team|[2609.15005](http://arxiv.org/abs/2609.15005)|null|
+|**2026-09-13**|**REVOLVE: An Automated Closed-Loop Framework for Evolving Robot Manipulation with Minimal Human Intervention**|Zhigong Song Team|[2609.14633](http://arxiv.org/abs/2609.14633)|null|
+|**2026-09-13**|**VLBiMan++: Expanding the Generalization Boundary of Vision-Language Anchored One-Shot Bimanual Manipulation**|Hui Huang Team|[2609.14310](http://arxiv.org/abs/2609.14310)|**[link](https://arxiv.org/abs/2509.21723.)**|
+|**2026-09-13**|**VGFM: Expressive Robot Policies via Dense Value Guidance in Flow Matching**|Mark Campbell Team|[2609.14261](http://arxiv.org/abs/2609.14261)|null|
+|**2026-09-12**|**DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction**|Richard Linares Team|[2609.14183](http://arxiv.org/abs/2609.14183)|null|
+|**2026-09-12**|**Visible Touch: Rendering Contact for Visuomotor Policies**|Yuchen Cui Team|[2609.14156](http://arxiv.org/abs/2609.14156)|**[link](https://visibletouch.github.io/)**|
+|**2026-09-12**|**Vision-Force Admittance Learning for Peg Insertion into a Movable Hole**|Chen Feng Team|[2609.14133](http://arxiv.org/abs/2609.14133)|**[link](https://ai4ce.github.io/VFAL/)**|
+|**2026-09-12**|**Rethinking the Implications of Human Feedback for Preference Learning in Human-Robot Collaboration**|Marynel Vázquez Team|[2609.13982](http://arxiv.org/abs/2609.13982)|null|
+|**2026-09-12**|**ReWeight: Leveraging Human Data for VLA Post-Training via Demonstration Retrieval and Sample Weighting**|Zhongliang Jiang Team|[2609.13851](http://arxiv.org/abs/2609.13851)|null|
+|**2026-09-12**|**JumpStart Your Policy Learning with Lessons from 160,000 Training Runs**|Ali Farhadi Team|[2609.13730](http://arxiv.org/abs/2609.13730)|null|
+|**2026-09-12**|**How to Better Train VLAs: Lessons Learned From the REAL-I Challenge at ICRA 2026**|Harold Soh Team|[2609.13679](http://arxiv.org/abs/2609.13679)|null|
+|**2026-09-11**|**Runtime-Incremental Transformer for Reinforcement-Learning-Based Adaptive Control**|Adriano Fagiolini Team|[2609.13545](http://arxiv.org/abs/2609.13545)|null|
 |**2026-09-11**|**UniPart: Towards Zero-shot Language-Grounded 3D Part Segmentation for Embodied Interaction**|He Wang Team|[2609.12898](http://arxiv.org/abs/2609.12898)|null|
 |**2026-09-11**|**Before the Tipping Point: Force-Guided Active Perception for Shape-Agnostic Estimation of 3D Centers of Mass**|Cagdas D. Onal Team|[2609.12894](http://arxiv.org/abs/2609.12894)|**[link](https://stevenmhyland.com/assets/videos/IROS2026.mp4)**|
 |**2026-09-11**|**SCQ: Stabilizing Conservative Q-Learning with Sigmoid-Bounded Entropy**|Mingyu Hu Team|[2609.12749](http://arxiv.org/abs/2609.12749)|null|
 |**2026-09-11**|**Improving Imitation Learning Efficiency for Manipulation through Geometric Prior Pretraining**|Yukiyasu Domae Team|[2609.12721](http://arxiv.org/abs/2609.12721)|null|
 |**2026-09-11**|**Online Material Estimation for Conditioned Diffusion Policy in Shaping Deformable Linear Objects**|Tokuo Tsuji Team|[2609.12634](http://arxiv.org/abs/2609.12634)|null|
-|**2026-09-11**|**Agent as Policy for Robotic Manipulation**|Meng Jiang Team|[2609.12541](http://arxiv.org/abs/2609.12541)|null|
+|**2026-09-14**|**Agent as Policy for Robotic Manipulation**|Meng Jiang Team|[2609.12541](http://arxiv.org/abs/2609.12541)|null|
 |**2026-09-10**|**DIA: Denoising Intermediate Advantage for Diffusion Policy Optimization**|Alan Aspuru-Guzik Team|[2609.12245](http://arxiv.org/abs/2609.12245)|null|
 |**2026-09-10**|**GLARE: Generative Learning via Adversarial Reward Estimation For Social Dynamics Forecasting**|Sihao Chen Team|[2609.12165](http://arxiv.org/abs/2609.12165)|null|
 |**2026-09-10**|**Efficient Vision-Language-Action Management and Serving for Robot Factories**|Christina Giannoula Team|[2609.12075](http://arxiv.org/abs/2609.12075)|null|
@@ -3308,6 +3322,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-14**|**AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation**|Zhiwu Lu Team|[2609.15457](http://arxiv.org/abs/2609.15457)|null|
+|**2026-09-14**|**A Conservative OCR-Enabled Workflow for R214 Sodium Screening of South African Packaged Foods**|Clement Nyirenda Team|[2609.15427](http://arxiv.org/abs/2609.15427)|null|
+|**2026-09-14**|**Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs**|Yadong Shao Team|[2609.15322](http://arxiv.org/abs/2609.15322)|null|
+|**2026-09-14**|**Pre-PEFT Probing: Weight Statistics and Perturbation Robustness for Layer Selection in VLM Vision Encoders**|Jie Liu Team|[2609.15229](http://arxiv.org/abs/2609.15229)|null|
+|**2026-09-14**|**Rethinking Correctness for Uncertainty Estimation in Clinical Prediction with Vision-Language Models**|Tingting Zhu Team|[2609.15180](http://arxiv.org/abs/2609.15180)|null|
+|**2026-09-14**|**C $^2$ Nav: Compare Before You Commit for Zero-Shot Vision-and-Language Navigation**|Ying Liu Team|[2609.15142](http://arxiv.org/abs/2609.15142)|null|
+|**2026-09-14**|**PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models**|Zishen Zhuang Team|[2609.14973](http://arxiv.org/abs/2609.14973)|**[link](https://deepcybo-physai.github.io/PhysBrain-1.5/)**|
+|**2026-09-13**|**ViTeGate: Visual-Textual Triggered Knowledge Poisoning for Vision-Language Retrieval-Augmented Generation**|Jun Dai Team|[2609.14685](http://arxiv.org/abs/2609.14685)|null|
+|**2026-09-13**|**Compositional SVG Generation via VLM-Driven Hierarchical Semantic Parsing**|Paul Hongsuck Seo Team|[2609.14657](http://arxiv.org/abs/2609.14657)|null|
+|**2026-09-13**|**NavPatch: Evidence-Guided Object-Level Costmap Correction with Vision-Language Models**|Zhengyi Chen Team|[2609.14543](http://arxiv.org/abs/2609.14543)|null|
+|**2026-09-13**|**Selective Tool Use for Agentic Change Visual Question Answering in Remote Sensing**|Mansour Zuair Team|[2609.14523](http://arxiv.org/abs/2609.14523)|null|
+|**2026-09-13**|**Vision Language Models for Radiation Patterns to Antenna Parameters**|Chandra Mohan Bhuma Team|[2609.14447](http://arxiv.org/abs/2609.14447)|null|
+|**2026-09-13**|**A Generative AI Integrated Multimodal Framework for Low-Latency Multi-Camera Person Re-Identification**|Rashmika Nawaratne Team|[2609.14419](http://arxiv.org/abs/2609.14419)|null|
+|**2026-09-13**|**Two-Stage Mixture-of-LoRA for Multi-Task Medical Vision-Language Learning**|Yikun Zhang Team|[2609.14350](http://arxiv.org/abs/2609.14350)|null|
+|**2026-09-13**|**E2A-Bench: Benchmarking Evidence-to-Action Reliability in Financial Chart Reasoning**|Junjie Wang Team|[2609.14302](http://arxiv.org/abs/2609.14302)|null|
+|**2026-09-13**|**Vision-Language Models for Criterion-Level Grading of Handwritten Examinations in Outcome-Based Education**|S. M. Jahangir Alam Team|[2609.14284](http://arxiv.org/abs/2609.14284)|null|
+|**2026-09-13**|**SPARK: Representation-Level KV Memory Alignment for Safer Vision-Language Models**|Izhar Dad Khan Team|[2609.14258](http://arxiv.org/abs/2609.14258)|null|
+|**2026-09-13**|**Learning to Refer from Estimated Listener Gaze**|Alane Suhr Team|[2609.14207](http://arxiv.org/abs/2609.14207)|null|
+|**2026-09-12**|**RA-CoA: Training-free Fashion Image Captioning via Retrieval-Augmented Chain-of-Attributes**|Anand Mishra Team|[2609.14100](http://arxiv.org/abs/2609.14100)|null|
+|**2026-09-12**|**A Low-Latency Interactive System for Real-Time Video Understanding Based on VLMs**|Li Song Team|[2609.13986](http://arxiv.org/abs/2609.13986)|null|
 |**2026-09-10**|**Can Edge-Deployable Vision-Language Models Identify Species?**|Yi Ding Team|[2609.11916](http://arxiv.org/abs/2609.11916)|null|
 |**2026-09-10**|**Combining Synthetic and Real Data for Low-Resource Historical OCR: A Manchu Case Study**|Hanlin Wang Team|[2609.11495](http://arxiv.org/abs/2609.11495)|null|
 |**2026-09-10**|**Routing by Reasoning Need: Trajectory-Aware Decoding Control for Diffusion Vision-Language Models**|Xiaoying Tang Team|[2609.11315](http://arxiv.org/abs/2609.11315)|null|
