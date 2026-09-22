@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Learning Beyond What Humans Can Demonstrate**|Unnat Jain Team|[2609.24996](http://arxiv.org/abs/2609.24996)|**[link](http://guardrail-policy.github.io/)**|
+|**2026-09-21**|**H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer**|David Held Team|[2609.24778](http://arxiv.org/abs/2609.24778)|null|
+|**2026-09-21**|**Feasibility Distance Fields for Heterogeneous Constraints in Robot Configuration Space**|Gang Wang Team|[2609.24632](http://arxiv.org/abs/2609.24632)|null|
+|**2026-09-21**|**Learning tactile perception from high-bandwidth single-point sensing**|Caroline Pascal Team|[2609.24621](http://arxiv.org/abs/2609.24621)|null|
 |**2026-09-21**|**Bridge3D: Enabling Vision-Language-Action Models to See and Act in 3D**|Xinggang Wang Team|[2609.24525](http://arxiv.org/abs/2609.24525)|null|
 |**2026-09-21**|**Zeva-Ego: Egocentric Mid-Training with In-Context Causal Learning for Robot Manipulation**|Ting Cao Team|[2609.24411](http://arxiv.org/abs/2609.24411)|null|
 |**2026-09-21**|**Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors**|Semen Budennyy Team|[2609.24385](http://arxiv.org/abs/2609.24385)|null|
@@ -3419,6 +3423,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**MIGU: Multimodal Instruction Grounding under Uncertainty for Manipulation Planning**|David Hsu Team|[2609.24995](http://arxiv.org/abs/2609.24995)|null|
+|**2026-09-21**|**SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models**|Yulun Zhang Team|[2609.24875](http://arxiv.org/abs/2609.24875)|**[link](https://github.com/Pushazf/SPHQuant)**|
+|**2026-09-21**|**INTCORT: Training-Free Spatial Reasoning Enhancement for Vision-Language Models via Input Transformations and Confidence Routing**|Yanwei Liu Team|[2609.24813](http://arxiv.org/abs/2609.24813)|null|
+|**2026-09-21**|**PrismGPT: Proxy-Guided Learning for Region-Aware Photo Editing with Self-Synthesized Reasoning**|Michael S. Brown Team|[2609.24768](http://arxiv.org/abs/2609.24768)|null|
+|**2026-09-21**|**What do VLM-Based Vision-Language Navigation Models Rely on: Interpreting and Steering Policy Behavior**|Wolfram Burgard Team|[2609.24576](http://arxiv.org/abs/2609.24576)|null|
+|**2026-09-21**|**HyperCLIP++: Fine-tuning CLIP forOpen-vocabulary Semantic Segmentation in Hyperbolic Space**|Wei Shen Team|[2609.24564](http://arxiv.org/abs/2609.24564)|null|
 |**2026-09-21**|**ME-VLM:A Unified VLM for Embodied Cognition and Agent Coordination**|Li Auto Inc Team|[2609.24526](http://arxiv.org/abs/2609.24526)|null|
 |**2026-09-21**|**AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos**|Nur Muhammad "Mahi'' Shafiullah Team|[2609.24487](http://arxiv.org/abs/2609.24487)|null|
 |**2026-09-21**|**VPRune: Efficient Training-free Pre-LLM Visual Token Pruning**|Dingjie FU Team|[2609.24485](http://arxiv.org/abs/2609.24485)|null|
@@ -9108,6 +9118,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies**|Yong Jae Lee Team|[2609.24682](http://arxiv.org/abs/2609.24682)|null|
 |**2026-09-21**|**Bridge3D: Enabling Vision-Language-Action Models to See and Act in 3D**|Xinggang Wang Team|[2609.24525](http://arxiv.org/abs/2609.24525)|null|
 |**2026-09-21**|**FoldQuantVLA: Native Low-Bit Quantization of Vision-Language-Action Models via Consistent Folding**|An T. Le Team|[2609.24433](http://arxiv.org/abs/2609.24433)|**[link](https://github.com/cair-vinuni/FoldQuantVLA)**|
 |**2026-09-21**|**LIBERO-VPro: Benchmarking Closed-Loop Visual Robustness of Robotic Foundation Models**|Bin Zhu Team|[2609.24350](http://arxiv.org/abs/2609.24350)|**[link](https://huiqiongli.github.io/LIBERO-VPro/)**|
@@ -10906,6 +10917,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot**|Hanxiao Chen Team|[2609.24742](http://arxiv.org/abs/2609.24742)|null|
+|**2026-09-21**|**Smoothness as a Constraint for Stable Humanoid Locomotion**|Amy Loutfi Team|[2609.24552](http://arxiv.org/abs/2609.24552)|null|
+|**2026-09-21**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Yu Li Team|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
+|**2026-09-21**|**Phrase-Level Robotic Guqin Performance: Bimanual Motion Planning and Audio-Tactile Interaction Monitoring**|Tianwei Zhang Team|[2609.24133](http://arxiv.org/abs/2609.24133)|null|
+|**2026-09-21**|**Opt2VLA: Force-Aware Vision-Language-Action for Contact-Rich Humanoid Whole-Body Manipulation**|Ye Zhao Team|[2609.23968](http://arxiv.org/abs/2609.23968)|null|
+|**2026-09-20**|**UniPoint: Unified Point-Level Sensor Fusion for Humanoid Locomotion Across Challenging Terrains**|Jun Wu Team|[2609.23666](http://arxiv.org/abs/2609.23666)|**[link](https://youtu.be/Rd9YyfOxvmY)**|
+|**2026-09-20**|**PRIMO: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots**|Haiyu Lan Team|[2609.23610](http://arxiv.org/abs/2609.23610)|null|
+|**2026-09-20**|**STRIDER: Stepping-Enabled Multi-Gait Hierarchical 3D Loco-Manipulation Framework for Humanoid Robots**|Yijie Guo Team|[2609.23483](http://arxiv.org/abs/2609.23483)|**[link](https://youtu.be/gf5RWjCZXtA)**|
+|**2026-09-20**|**EmoPose: Vision-Language Model Guided Emotion-Aware Gesture Generation for Humanoid Robots**|Jun Ma Team|[2609.23414](http://arxiv.org/abs/2609.23414)|null|
+|**2026-09-18**|**HIGenNTO: Scalable Humanoid Interaction Generation via Noise-Space Trajectory Optimization**|Katerina Fragkiadaki Team|[2609.22611](http://arxiv.org/abs/2609.22611)|null|
 |**2026-09-17**|**SAGE: Safety-Aligned Gradient Enforcement for Human--Robot Collaboration**|H. Eric Tseng Team|[2609.21130](http://arxiv.org/abs/2609.21130)|null|
 |**2026-09-17**|**Learning Slope-Adaptive Whole-Body Locomotion for Humanoid Robots in Roofing Construction**|Shuai Li Team|[2609.20558](http://arxiv.org/abs/2609.20558)|null|
 |**2026-09-18**|**OmniCalib: Target-Free, Task-Structured Self-Calibration for Humanoid Robots**|Chuang Wang Team|[2609.19582](http://arxiv.org/abs/2609.19582)|null|
@@ -11546,6 +11567,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation**|Wei Zhan Team|[2609.24976](http://arxiv.org/abs/2609.24976)|**[link](https://dextacwam.github.io/)**|
 |**2026-09-21**|**TACIT: Tactile Contact Supervision for Spatial Attention in Dexterous Manipulation**|Koichi Hashimoto Team|[2609.24507](http://arxiv.org/abs/2609.24507)|null|
 |**2026-09-21**|**Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors**|Semen Budennyy Team|[2609.24385](http://arxiv.org/abs/2609.24385)|null|
 |**2026-09-21**|**Dexterous Robot Manipulation from Human Demonstrations via Contact-Anchored Retargeting and Residual Policy Learning**|JieQ Sun Team|[2609.24093](http://arxiv.org/abs/2609.24093)|**[link](https://github.com/DexGEM-Lab/real2sim2real)**|
