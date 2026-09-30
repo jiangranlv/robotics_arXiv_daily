@@ -11249,6 +11249,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**Learning Expressive and Compositional Motion Representation via Spectral Skills**|Anqi Wu Team|[2609.37677](http://arxiv.org/abs/2609.37677)|null|
+|**2026-09-29**|**OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport**|Ajay Suresha Sathya Team|[2609.36602](http://arxiv.org/abs/2609.36602)|null|
+|**2026-09-29**|**A robust single-sensing-element tactile sensor for concurrent pressure and tackiness detection with real-time signal decoupling capability**|Jin Ge Team|[2609.36558](http://arxiv.org/abs/2609.36558)|null|
 |**2026-09-28**|**HOI-Retarget: Contact-Centric Retargeting for Human-Object Interaction**|Marco Hutter Team|[2609.34674](http://arxiv.org/abs/2609.34674)|**[link](http://shinben0327.github.io/hoi-retarget)**|
 |**2026-09-28**|**Model-Informed Safe Reinforcement Learning for Bipedal Locomotion via Step-to-Step Prediction**|Ayonga Hereid Team|[2609.34486](http://arxiv.org/abs/2609.34486)|null|
 |**2026-09-27**|**SocialHumanoid: Towards Expressive Humanoid Behavior via One-Step Co-Speech Motion Generation**|Yichao Yan Team|[2609.33311](http://arxiv.org/abs/2609.33311)|null|
