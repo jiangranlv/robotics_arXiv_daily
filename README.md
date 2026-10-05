@@ -1,4 +1,4 @@
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -3579,7 +3579,7 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## VLM
 
@@ -9434,12 +9434,24 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models**|Taiki Miyanishi Team|[2610.03498](http://arxiv.org/abs/2610.03498)|null|
+|**2026-10-02**|**MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation**|Xiaojuan Qi Team|[2610.03476](http://arxiv.org/abs/2610.03476)|**[link](https://kaiknower.github.io/mobiagent)**|
+|**2026-10-02**|**MixVLA: Adaptive Mixing of Non-Invariant Information for Generalizable Vision-Language-Action Models**|Xuelong Li Team|[2610.02898](http://arxiv.org/abs/2610.02898)|null|
+|**2026-10-02**|**FastOPD: On-Policy Distillation for Lightweight VLA Deployment**|Jong Chul Ye Team|[2610.02832](http://arxiv.org/abs/2610.02832)|**[link](https://fastopd.github.io/)**|
+|**2026-10-02**|**SARI: Phase-Split Sim-Real Co-Training for Contact-Rich Manipulation**|Ziqi Wang Team|[2610.02804](http://arxiv.org/abs/2610.02804)|null|
+|**2026-10-02**|**ManiPhysicsBench: Physics-Based Assessment of Object Preservation in VLA Manipulation**|Chanyoung Park Team|[2610.02802](http://arxiv.org/abs/2610.02802)|null|
+|**2026-10-02**|**SimpleTouch: Can Vision-Language-Action Models Master Contact-Rich Manipulation Without Tactile Policy Pretraining?**|Chen Wang Team|[2610.02784](http://arxiv.org/abs/2610.02784)|null|
+|**2026-10-02**|**RoboBridge: A Self-Evolving Embodied Agent Framework for Sim-to-Real Transfer**|Dongzhan Zhou Team|[2610.02717](http://arxiv.org/abs/2610.02717)|null|
+|**2026-10-02**|**CHASE-VLA: Post-Training Quantization Framework for Vision-Language-Action Models with Chunk-Aware Scale Estimation**|Youngjoo Lee Team|[2610.02666](http://arxiv.org/abs/2610.02666)|null|
+|**2026-10-02**|**Imagine the Future, Internalize the Gist: Efficient VLA Reasoning via Internalized Spatiotemporal Imagination**|Shaoyi Huang Team|[2610.02626](http://arxiv.org/abs/2610.02626)|null|
+|**2026-10-01**|**SocialVLA: A Social Perception Gateway for Human-Reaction-Based Failure Detection and Recovery in VLA Manipulation**|Dzmitry Tsetserukou Team|[2610.02360](http://arxiv.org/abs/2610.02360)|null|
+|**2026-10-01**|**World-Calibrated Proposal-to-Action Flow for Vision-Language-Action Models**|Liqiang Nie Team|[2610.02323](http://arxiv.org/abs/2610.02323)|**[link](https://github.com/JiuTian-VL/ProAct-page)**|
 |**2026-10-01**|**DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication**|Junshan Zhang Team|[2610.02161](http://arxiv.org/abs/2610.02161)|null|
 |**2026-10-01**|**UniWAM: Unified World-Action Model**|Haoang Li Team|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
 |**2026-10-01**|**Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens**|Daquan Zhou Team|[2610.01939](http://arxiv.org/abs/2610.01939)|null|
@@ -11361,7 +11373,7 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## Humanoid
 
@@ -12043,7 +12055,7 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## Dexterous
 
@@ -12593,5 +12605,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 

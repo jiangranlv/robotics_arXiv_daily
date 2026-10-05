@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -9429,6 +9429,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models**|Taiki Miyanishi Team|[2610.03498](http://arxiv.org/abs/2610.03498)|null|
+|**2026-10-02**|**MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation**|Xiaojuan Qi Team|[2610.03476](http://arxiv.org/abs/2610.03476)|**[link](https://kaiknower.github.io/mobiagent)**|
+|**2026-10-02**|**MixVLA: Adaptive Mixing of Non-Invariant Information for Generalizable Vision-Language-Action Models**|Xuelong Li Team|[2610.02898](http://arxiv.org/abs/2610.02898)|null|
+|**2026-10-02**|**FastOPD: On-Policy Distillation for Lightweight VLA Deployment**|Jong Chul Ye Team|[2610.02832](http://arxiv.org/abs/2610.02832)|**[link](https://fastopd.github.io/)**|
+|**2026-10-02**|**SARI: Phase-Split Sim-Real Co-Training for Contact-Rich Manipulation**|Ziqi Wang Team|[2610.02804](http://arxiv.org/abs/2610.02804)|null|
+|**2026-10-02**|**ManiPhysicsBench: Physics-Based Assessment of Object Preservation in VLA Manipulation**|Chanyoung Park Team|[2610.02802](http://arxiv.org/abs/2610.02802)|null|
+|**2026-10-02**|**SimpleTouch: Can Vision-Language-Action Models Master Contact-Rich Manipulation Without Tactile Policy Pretraining?**|Chen Wang Team|[2610.02784](http://arxiv.org/abs/2610.02784)|null|
+|**2026-10-02**|**RoboBridge: A Self-Evolving Embodied Agent Framework for Sim-to-Real Transfer**|Dongzhan Zhou Team|[2610.02717](http://arxiv.org/abs/2610.02717)|null|
+|**2026-10-02**|**CHASE-VLA: Post-Training Quantization Framework for Vision-Language-Action Models with Chunk-Aware Scale Estimation**|Youngjoo Lee Team|[2610.02666](http://arxiv.org/abs/2610.02666)|null|
+|**2026-10-02**|**Imagine the Future, Internalize the Gist: Efficient VLA Reasoning via Internalized Spatiotemporal Imagination**|Shaoyi Huang Team|[2610.02626](http://arxiv.org/abs/2610.02626)|null|
+|**2026-10-01**|**SocialVLA: A Social Perception Gateway for Human-Reaction-Based Failure Detection and Recovery in VLA Manipulation**|Dzmitry Tsetserukou Team|[2610.02360](http://arxiv.org/abs/2610.02360)|null|
+|**2026-10-01**|**World-Calibrated Proposal-to-Action Flow for Vision-Language-Action Models**|Liqiang Nie Team|[2610.02323](http://arxiv.org/abs/2610.02323)|**[link](https://github.com/JiuTian-VL/ProAct-page)**|
 |**2026-10-01**|**DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication**|Junshan Zhang Team|[2610.02161](http://arxiv.org/abs/2610.02161)|null|
 |**2026-10-01**|**UniWAM: Unified World-Action Model**|Haoang Li Team|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
 |**2026-10-01**|**Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens**|Daquan Zhou Team|[2610.01939](http://arxiv.org/abs/2610.01939)|null|
