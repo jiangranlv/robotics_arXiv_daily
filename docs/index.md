@@ -11426,6 +11426,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Liang-Yan Gui Team|[2610.06850](http://arxiv.org/abs/2610.06850)|**[link](https://sirui-xu.github.io/InterMimicGen)**|
+|**2026-10-05**|**Talk, Render, Act: Integrating Social Gesture and Digital Face with Synchronized Speech for Conversational Humanoid Robot**|Shengcai Liao Team|[2610.06153](http://arxiv.org/abs/2610.06153)|null|
+|**2026-10-05**|**From Social Reasoning to Embodied Interaction: An Agentic Framework for Social Robots**|Jingya Wang Team|[2610.05964](http://arxiv.org/abs/2610.05964)|null|
+|**2026-10-05**|**DASH: A da Vinci Adapter for Serial-link and Humanoid Robots as an Accessible Platform for Surgical Robotics Research**|Michael C. Yip Team|[2610.05792](http://arxiv.org/abs/2610.05792)|null|
+|**2026-10-05**|**Virtual model control for compliant reaching under uncertainties**|Fulvio Forni Team|[2610.05695](http://arxiv.org/abs/2610.05695)|null|
+|**2026-10-03**|**Real-Time Conformal-Seeded Hybrid Inverse Kinematics for Offset Redundant Manipulators**|Minh Nhat Vu Team|[2610.04266](http://arxiv.org/abs/2610.04266)|null|
+|**2026-10-03**|**Humanoid Rickshaw Pulling: Whole-Body Locomotion under Coupled Wheeled Loads**|Xiaobin Xiong Team|[2610.04238](http://arxiv.org/abs/2610.04238)|null|
+|**2026-10-02**|**KungfuAthleteBot: learning high-dynamic humanoid motion from video with unified robust recovery**|Xuesong Li Team|[2610.03388](http://arxiv.org/abs/2610.03388)|null|
+|**2026-10-01**|**Filter-Aware Fine-Tuning for Safe Humanoid Whole-Body Tracking**|Marco Pavone Team|[2610.02341](http://arxiv.org/abs/2610.02341)|null|
 |**2026-09-30**|**Toward Humanoid Robots in Construction: A Teleoperation Feasibility Study**|Mohammad Abdullah Al Faruque Team|[2610.00718](http://arxiv.org/abs/2610.00718)|null|
 |**2026-09-30**|**StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry**|Yue Wang Team|[2609.40244](http://arxiv.org/abs/2609.40244)|**[link](https://github.com/WeiYuFei0217/StreamRig)**|
 |**2026-09-30**|**ECHO-G: Embodied Co-speech Humanoid mOtion Generation**|Hao Xu Team|[2609.39575](http://arxiv.org/abs/2609.39575)|**[link](https://echo-g-project.github.io/)**|
@@ -12106,8 +12115,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-01**|**FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting**|Hojoon Lee Team|[2610.01849](http://arxiv.org/abs/2610.01849)|null|
-|**2026-09-30**|**DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention**|Jiajun Wu Team|[2610.00781](http://arxiv.org/abs/2610.00781)|null|
+|**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Liang-Yan Gui Team|[2610.06850](http://arxiv.org/abs/2610.06850)|**[link](https://sirui-xu.github.io/InterMimicGen)**|
+|**2026-10-05**|**DexForge: High-Fidelity Physics-Informed Dexterous Retargeting**|Yiguang Hong Team|[2610.06331](http://arxiv.org/abs/2610.06331)|null|
+|**2026-10-04**|**VICON: Visual-Inertial-Contact based Hand-Object Tracking for Manipulation Datasets**|Yongseok Lee Team|[2610.05180](http://arxiv.org/abs/2610.05180)|null|
+|**2026-10-04**|**Now You Feel It, Now You See Me: Digital-Twin-based Teleoperation Interface for Dexterous Manipulation**|Yongseok Lee Team|[2610.05081](http://arxiv.org/abs/2610.05081)|null|
+|**2026-10-03**|**PatternDex: Learning Interaction Patterns to Guide Reinforcement Learning of Bimanual Dexterous Manipulation of Articulated Objects**|Truong Nguyen Team|[2610.04765](http://arxiv.org/abs/2610.04765)|**[link](https://patterndex.github.io/PatternDex/)**|
+|**2026-10-03**|**AgenticTactileVLA: Contact-Guided Execution-Time Supervision for Generalizable Dexterous Manipulation without VLA Retraining**|Dzmitry Tsetserukou Team|[2610.04391](http://arxiv.org/abs/2610.04391)|null|
+|**2026-10-03**|**TacOT: Learning Contact-Rich Dexterous Manipulation from Human Demonstrations via Tactile-Guided Optimal Transport**|Wenbo Ding Team|[2610.04363](http://arxiv.org/abs/2610.04363)|null|
+|**2026-10-02**|**GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive**|Haozhi Qi Team|[2610.03861](http://arxiv.org/abs/2610.03861)|**[link](https://dex-gott.github.io/)**|
+|**2026-10-02**|**DexJoCo-X: Benchmarking Action Representations for Multi-Hand Dexterous Manipulation**|Wen Li Team|[2610.03278](http://arxiv.org/abs/2610.03278)|**[link](https://darenrenjian.github.io/DexJoCo-X-website/)**|
+|**2026-10-02**|**PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation**|Minsu Cho Team|[2610.02840](http://arxiv.org/abs/2610.02840)|**[link](https://chrockey.github.io/PointWAM)**|
+|**2026-10-01**|**SoTa: Soft Tactile Skins for Dexterous Manipulation**|Jeannette Bohg Team|[2610.02338](http://arxiv.org/abs/2610.02338)|**[link](https://sota-skin.github.io)**|
+|**2026-10-04**|**FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting**|Hojoon Lee Team|[2610.01849](http://arxiv.org/abs/2610.01849)|null|
+|**2026-10-05**|**DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention**|Jiajun Wu Team|[2610.00781](http://arxiv.org/abs/2610.00781)|null|
 |**2026-09-30**|**Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining**|Steven C. H. Hoi Team|[2610.00438](http://arxiv.org/abs/2610.00438)|null|
 |**2026-09-30**|**DexPolicy: Scheduled Exploration for Trajectory-Guided Dexterous Manipulation**|Hao Tang Team|[2610.00360](http://arxiv.org/abs/2610.00360)|null|
 |**2026-09-30**|**IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining**|Chenyi Chen Team|[2609.39403](http://arxiv.org/abs/2609.39403)|**[link](https://xpeng-robotics.github.io/ironmind/)**|
