@@ -12189,6 +12189,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation**|Haoang Li Team|[2610.07969](http://arxiv.org/abs/2610.07969)|null|
+|**2026-10-06**|**EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors**|Shuran Song Team|[2610.07681](http://arxiv.org/abs/2610.07681)|**[link](https://eigendexplore.github.io/)**|
+|**2026-10-05**|**ReDex: Repairing Sim-to-Real Dexterous Policies by Finger-Level Compliant Interaction**|Xianyi Cheng Team|[2610.07525](http://arxiv.org/abs/2610.07525)|null|
+|**2026-10-05**|**MobileVISTA: Generative Data Augmentation for Pose Generalization in Mobile Manipulation**|Jiajun Wu Team|[2610.07511](http://arxiv.org/abs/2610.07511)|null|
 |**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Liang-Yan Gui Team|[2610.06850](http://arxiv.org/abs/2610.06850)|**[link](https://sirui-xu.github.io/InterMimicGen)**|
 |**2026-10-05**|**DexForge: High-Fidelity Physics-Informed Dexterous Retargeting**|Yiguang Hong Team|[2610.06331](http://arxiv.org/abs/2610.06331)|null|
 |**2026-10-04**|**VICON: Visual-Inertial-Contact based Hand-Object Tracking for Manipulation Datasets**|Yongseok Lee Team|[2610.05180](http://arxiv.org/abs/2610.05180)|null|
