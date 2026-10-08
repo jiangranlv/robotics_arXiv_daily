@@ -12247,6 +12247,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**Temporal Visuo-Tactile Learning for Dexterous Grasp Stability**|Roberto Calandra Team|[2610.10283](http://arxiv.org/abs/2610.10283)|**[link](https://lasr-lab.github.io/dexterous-grasp-stability/)**|
+|**2026-10-07**|**Co ${}^{2}$ Skill: Whole-Body Control via Skill Composition for Long-Horizon Human-Environment Interaction**|Hanbyul Joo Team|[2610.09291](http://arxiv.org/abs/2610.09291)|null|
 |**2026-10-06**|**EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation**|Haoang Li Team|[2610.07969](http://arxiv.org/abs/2610.07969)|null|
 |**2026-10-06**|**EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors**|Shuran Song Team|[2610.07681](http://arxiv.org/abs/2610.07681)|**[link](https://eigendexplore.github.io/)**|
 |**2026-10-05**|**ReDex: Repairing Sim-to-Real Dexterous Policies by Finger-Level Compliant Interaction**|Xianyi Cheng Team|[2610.07525](http://arxiv.org/abs/2610.07525)|null|
