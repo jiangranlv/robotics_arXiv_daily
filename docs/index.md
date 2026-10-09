@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation**|Jingjing Chen Team|[2610.12457](http://arxiv.org/abs/2610.12457)|null|
+|**2026-10-08**|**VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation**|Li Jiang Team|[2610.12451](http://arxiv.org/abs/2610.12451)|**[link](https://boyaohan.github.io/VersaCamVLA.github.io/)**|
+|**2026-10-08**|**Control-Ready Uncertainty for Trajectory Diffusion**|Harold Soh Team|[2610.12431](http://arxiv.org/abs/2610.12431)|null|
+|**2026-10-08**|**SplitJEPA: Learning Invariant and Variant Latent Worlds without Reconstruction**|Yujia Zheng Team|[2610.12349](http://arxiv.org/abs/2610.12349)|null|
+|**2026-10-08**|**PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies**|Xuan Song Team|[2610.12285](http://arxiv.org/abs/2610.12285)|null|
+|**2026-10-08**|**Residual Modeling Closes the Regression and Generative Policy Gap in Robot Learning**|Jiayuan Mao Team|[2610.12231](http://arxiv.org/abs/2610.12231)|null|
+|**2026-10-08**|**RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control**|Jiaya Jia Team|[2610.12185](http://arxiv.org/abs/2610.12185)|null|
+|**2026-10-08**|**Leveraging Human-In-The-Loop Demonstrations in Reinforcement Learning for Digital Twin-Driven Robot Flexibility**|Sean McLoone Team|[2610.12140](http://arxiv.org/abs/2610.12140)|null|
+|**2026-10-08**|**PIER: An Evidence-Gated Execution Interface for Robotic Manipulation**|Jingran Hu Team|[2610.12123](http://arxiv.org/abs/2610.12123)|null|
+|**2026-10-08**|**A Minimal Optical-Flow Representation for Vision-Based Tactile Rotation Classification in Robotic Manipulation Across Gravity Domains**|Carol Martinez Team|[2610.12073](http://arxiv.org/abs/2610.12073)|null|
+|**2026-10-08**|**Reliability-Aware Future Conditioning for Temporally Robust Robot Manipulation**|Michael Beetz Team|[2610.11956](http://arxiv.org/abs/2610.11956)|null|
+|**2026-10-08**|**TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning**|Jiayu Chen Team|[2610.11945](http://arxiv.org/abs/2610.11945)|null|
+|**2026-10-08**|**Fast Pose Tracking of Rigid Objects with Compact Pose Graph Optimization**|Eddy Ilg Team|[2610.11815](http://arxiv.org/abs/2610.11815)|null|
+|**2026-10-08**|**WARP-VLA: Wrist-Camera Adaptation for View-Robust Policy Execution in Vision-Language-Action Models**|Hae-Gon Jeon Team|[2610.11508](http://arxiv.org/abs/2610.11508)|null|
+|**2026-10-08**|**Rewiring Semantics, Dynamics, and Control: A Simple yet Effective Action-Centric Tri-Stream Transformer**|Dacheng Tao Team|[2610.11416](http://arxiv.org/abs/2610.11416)|null|
+|**2026-10-08**|**WAM-Cache: Staleness-Bounded KV Reuse for Efficient World Action Models**|Yi Yang Team|[2610.11401](http://arxiv.org/abs/2610.11401)|**[link](https://dingkai0302.github.io/wam-cache/)**|
+|**2026-10-08**|**USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation**|Ziwei Wang Team|[2610.11322](http://arxiv.org/abs/2610.11322)|**[link](https://xingyoujun.github.io/usdcraft)**|
+|**2026-10-08**|**Higher-Order Action Supervision Makes A Strong Policy Class**|Xianyuan Zhan Team|[2610.11175](http://arxiv.org/abs/2610.11175)|null|
+|**2026-10-08**|**PMTRM: Pseudo-Memory Temporal Re-encoding Module for Embodied Policy Learning**|Guanzhong Tian Team|[2610.11168](http://arxiv.org/abs/2610.11168)|null|
+|**2026-10-08**|**FOCUS: From Privileged States to RGB-D with Controlled Modality Switching and Representation Alignment**|Nandita Vijaykumar Team|[2610.11119](http://arxiv.org/abs/2610.11119)|null|
 |**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Chuan Wen Team|[2610.10534](http://arxiv.org/abs/2610.10534)|null|
 |**2026-10-07**|**EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution**|Shilong Liu Team|[2610.10498](http://arxiv.org/abs/2610.10498)|null|
 |**2026-10-07**|**Robotic Boomerang Throwing via Model-Based Release Design**|Aude Billard Team|[2610.10472](http://arxiv.org/abs/2610.10472)|**[link](https://robot-boomerang.github.io)**|
@@ -3633,6 +3653,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|Yu-Lun Liu Team|[2610.12461](http://arxiv.org/abs/2610.12461)|**[link](https://ouroworld.userwei.com)**|
+|**2026-10-08**|**SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models**|Yongliang Shen Team|[2610.12402](http://arxiv.org/abs/2610.12402)|**[link](https://github.com/ZJU-REAL/SpaceCast-Bench)**|
+|**2026-10-08**|**WorldAlign: Decoupled 4D Reward for World-Consistent Video Generation**|Ying-Cong Chen Team|[2610.12382](http://arxiv.org/abs/2610.12382)|**[link](https://worldalign.github.io/)**|
+|**2026-10-08**|**Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models**|Yongliang Shen Team|[2610.12355](http://arxiv.org/abs/2610.12355)|**[link](https://github.com/ZJU-REAL/GPD)**|
+|**2026-10-08**|**Instance-anchored interaction evidence: Grounding robot plans in human pointing and handling**|Wei Zhou Team|[2610.12157](http://arxiv.org/abs/2610.12157)|null|
+|**2026-10-08**|**Healthy Counterfactual Generation via Diffusion Inpainting for Mammography Classification**|Jacinto Nascimento Team|[2610.12147](http://arxiv.org/abs/2610.12147)|null|
+|**2026-10-08**|**Instruction-Conditioned Electromagnetic Spectrum Understanding via Budget-Adaptive Signal Tokenization**|Zhixi Feng Team|[2610.12142](http://arxiv.org/abs/2610.12142)|null|
+|**2026-10-08**|**FearCaut-Qwen: Affective Steering in a Vision-Language Model Shifts the Decision Criterion for Hazard Assessment**|Xiaoshan Zhou Team|[2610.11986](http://arxiv.org/abs/2610.11986)|null|
+|**2026-10-08**|**Look Where You Can: Active View Selection for CAD Reconstruction under Occlusion**|Roland Aydin Team|[2610.11954](http://arxiv.org/abs/2610.11954)|null|
+|**2026-10-08**|**Does Target Alignment Mean Target Recovery? An Evidence-Ladder Study of Adversarial Claims on Contrastive Encoders**|Jianying Zhou Team|[2610.11938](http://arxiv.org/abs/2610.11938)|null|
+|**2026-10-08**|**Beyond Visual Enhancement: Adaptive Multi-Context Steering to Mitigate LVLM Hallucinations**|Xue Yang Team|[2610.11907](http://arxiv.org/abs/2610.11907)|null|
+|**2026-10-08**|**From Suppression to Repair: Mitigating Object Hallucination in Large Vision-Language Models via Localized Distribution Alignment**|Bo Du Team|[2610.11826](http://arxiv.org/abs/2610.11826)|null|
+|**2026-10-08**|**From Pixels to Structure: Lightweight Vision-Language Models for Document OCR and Structured JSON Extraction**|Mathias Zinnen Team|[2610.11818](http://arxiv.org/abs/2610.11818)|**[link](https://github.com/uddipan77/Analysis-of-Lightweight-Vision-Language-Models-for-Document-OCR-and-Structured-Output-Generation)**|
+|**2026-10-08**|**Seek-and-View Reasoning for Multi-View Spatial Understanding**|Jingwen Ye Team|[2610.11810](http://arxiv.org/abs/2610.11810)|**[link](https://seekandview2026.github.io)**|
+|**2026-10-08**|**VESSI - VLM-Enhanced Support for Surveillance and Investigations**|Mauro Conti Team|[2610.11674](http://arxiv.org/abs/2610.11674)|null|
+|**2026-10-08**|**Learning Language-Conditioned Traversability Representations for Adaptive Visual Navigation**|Wuyue Zhao Team|[2610.11622](http://arxiv.org/abs/2610.11622)|null|
+|**2026-10-08**|**EVIE: Evidence-Vector-Informed Embeddings for Visual Document Retrieval**|Xing Sun Team|[2610.11553](http://arxiv.org/abs/2610.11553)|null|
+|**2026-10-08**|**SAGE: Sink-Aware Guided Emphasis for Visual Grounding in Vision-Language Decoders**|YoungJoon Yoo Team|[2610.11469](http://arxiv.org/abs/2610.11469)|null|
+|**2026-10-08**|**Rewiring Semantics, Dynamics, and Control: A Simple yet Effective Action-Centric Tri-Stream Transformer**|Dacheng Tao Team|[2610.11416](http://arxiv.org/abs/2610.11416)|null|
+|**2026-10-08**|**Rethinking Contrastive Loss in CLIP Post-training: A Complementary Framework with Frozen Text Encoder**|Hanpeng Liu Team|[2610.11374](http://arxiv.org/abs/2610.11374)|null|
 |**2026-10-07**|**Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models**|Yuchen Cui Team|[2610.10526](http://arxiv.org/abs/2610.10526)|**[link](https://sttawm.github.io/rephrase-before-you-act)**|
 |**2026-10-07**|**Detecting Adversarial Images through Response Profiles of Vision-Language Models**|Roozbeh Razavi-Far Team|[2610.10436](http://arxiv.org/abs/2610.10436)|null|
 |**2026-10-07**|**$Δ$ Representation: Geometry Supervised Representation Learning of Phenotypes via Counterfactual Reasoning for Medical VLMs**|Lei Bi Team|[2610.10286](http://arxiv.org/abs/2610.10286)|null|
@@ -9546,6 +9586,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation**|Li Jiang Team|[2610.12451](http://arxiv.org/abs/2610.12451)|**[link](https://boyaohan.github.io/VersaCamVLA.github.io/)**|
+|**2026-10-08**|**PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies**|Xuan Song Team|[2610.12285](http://arxiv.org/abs/2610.12285)|null|
+|**2026-10-08**|**Residual Modeling Closes the Regression and Generative Policy Gap in Robot Learning**|Jiayuan Mao Team|[2610.12231](http://arxiv.org/abs/2610.12231)|null|
+|**2026-10-08**|**ContourVLA: A Closed-Loop Perception-Action Contour Policy for Generalized Referring Expression Segmentation**|Shen Zhao Team|[2610.12107](http://arxiv.org/abs/2610.12107)|null|
+|**2026-10-08**|**Recompose and Refine Latent Reasoning Flows for Vision-Language-Action Models**|Qinghua Zhang Team|[2610.12090](http://arxiv.org/abs/2610.12090)|null|
+|**2026-10-08**|**ManiUnit: A Manipulation Skill Dataset and Benchmark for Long-Horizon Tasks**|Rong Xiao Team|[2610.12089](http://arxiv.org/abs/2610.12089)|null|
+|**2026-10-08**|**Humanoid World Action Model With Joint State--Action Generation**|Hua Chen Team|[2610.12026](http://arxiv.org/abs/2610.12026)|null|
+|**2026-10-08**|**REACT: Rolling Denoising and Dual Decoupling for Reactive Robot Control with VLA Models**|Qian Zhu Team|[2610.12007](http://arxiv.org/abs/2610.12007)|**[link](https://react-vla.github.io)**|
+|**2026-10-08**|**CAPABLE: Capability-Aware Policy Adaptation via Behavioral Latent Encoding**|Michael Beetz Team|[2610.11971](http://arxiv.org/abs/2610.11971)|null|
+|**2026-10-08**|**Tell Robot What Not to Do: A Negation Understanding Perspective**|Yang Cong Team|[2610.11952](http://arxiv.org/abs/2610.11952)|null|
+|**2026-10-08**|**PathTime-VLA: Path-Time Decoupling for Factorized Post-Training of Vision-Language-Action Policies**|Yue Wang Team|[2610.11771](http://arxiv.org/abs/2610.11771)|null|
+|**2026-10-08**|**WARP-VLA: Wrist-Camera Adaptation for View-Robust Policy Execution in Vision-Language-Action Models**|Hae-Gon Jeon Team|[2610.11508](http://arxiv.org/abs/2610.11508)|null|
+|**2026-10-08**|**Experience-Guided Initiation Search for Learned Skills in Skill Composition**|Jincheng Yu Team|[2610.11418](http://arxiv.org/abs/2610.11418)|null|
+|**2026-10-08**|**Rewiring Semantics, Dynamics, and Control: A Simple yet Effective Action-Centric Tri-Stream Transformer**|Dacheng Tao Team|[2610.11416](http://arxiv.org/abs/2610.11416)|null|
+|**2026-10-07**|**When Listening Becomes Easier: Scrubbing Visual Cues for Shortcut-Free VLAs**|Igor Gilitschenski Team|[2610.10912](http://arxiv.org/abs/2610.10912)|null|
 |**2026-10-07**|**Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models**|Yuchen Cui Team|[2610.10526](http://arxiv.org/abs/2610.10526)|**[link](https://sttawm.github.io/rephrase-before-you-act)**|
 |**2026-10-07**|**Q-Learning with Scalar Adjoint Matching**|Jinwoo Shin Team|[2610.10437](http://arxiv.org/abs/2610.10437)|null|
 |**2026-10-07**|**Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving**|Jianbing Shen Team|[2610.10390](http://arxiv.org/abs/2610.10390)|**[link](https://github.com/TabGuigui/GeoCoTDrive)**|
