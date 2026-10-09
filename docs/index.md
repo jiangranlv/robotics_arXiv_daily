@@ -11589,6 +11589,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Humanoid World Action Model With Joint State--Action Generation**|Hua Chen Team|[2610.12026](http://arxiv.org/abs/2610.12026)|null|
+|**2026-10-08**|**DAMP: Humanoid Locomotion via Denoised Belief Learning and Adversarial Motion Priors**|Guoteng Zhang Team|[2610.11505](http://arxiv.org/abs/2610.11505)|null|
+|**2026-10-08**|**Being-M0.7: A Latent World-Action Model for Humanoid Robots**|Zongqing Lu Team|[2610.11283](http://arxiv.org/abs/2610.11283)|null|
+|**2026-10-07**|**TAPNAV: Humanoid Navigation through Tactile Active Perception**|Ye Zhao Team|[2610.10748](http://arxiv.org/abs/2610.10748)|null|
 |**2026-10-07**|**HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion**|Farbod Farshidian Team|[2610.10489](http://arxiv.org/abs/2610.10489)|null|
 |**2026-10-06**|**Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data**|Koushil Sreenath Team|[2610.09117](http://arxiv.org/abs/2610.09117)|**[link](https://hsb0508.github.io/workhorse/)**|
 |**2026-10-06**|**PhoneBot: A Low-Cost Open Humanoid Robot Platform Reusing Smartphones**|Dennis W. Hong Team|[2610.08737](http://arxiv.org/abs/2610.08737)|null|
@@ -12287,6 +12291,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Seungjae Lee Team|[2610.12470](http://arxiv.org/abs/2610.12470)|**[link](https://dex-one2many.github.io/)**|
+|**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Byron Boots Team|[2610.12465](http://arxiv.org/abs/2610.12465)|**[link](https://sgs-rl.github.io/)**|
+|**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Eric Whitmire Team|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
+|**2026-10-08**|**SkillWeave: Weaving Heterogeneous Demonstrations into Long-Horizon Manipulation Skills**|Jeffrey Ichnowski Team|[2610.12046](http://arxiv.org/abs/2610.12046)|null|
+|**2026-10-08**|**OmniDex: Scaling Dexterous Hand Grasping to Diverse Cluttered Scenes**|Hongsheng Li Team|[2610.11194](http://arxiv.org/abs/2610.11194)|null|
+|**2026-10-07**|**OmniHOI: Dexterous Hand-Object Interaction from Monocular Human Video**|Yao Mu Team|[2610.10855](http://arxiv.org/abs/2610.10855)|**[link](https://hydrofoooil.github.io/OmniHOI/)**|
+|**2026-10-07**|**Cross-Embodiment Robot Foundation World Models with Latent Actions**|Franziska Meier Team|[2610.10846](http://arxiv.org/abs/2610.10846)|null|
 |**2026-10-07**|**Temporal Visuo-Tactile Learning for Dexterous Grasp Stability**|Roberto Calandra Team|[2610.10283](http://arxiv.org/abs/2610.10283)|**[link](https://lasr-lab.github.io/dexterous-grasp-stability/)**|
 |**2026-10-07**|**Co ${}^{2}$ Skill: Whole-Body Control via Skill Composition for Long-Horizon Human-Environment Interaction**|Hanbyul Joo Team|[2610.09291](http://arxiv.org/abs/2610.09291)|null|
 |**2026-10-06**|**EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation**|Haoang Li Team|[2610.07969](http://arxiv.org/abs/2610.07969)|null|
