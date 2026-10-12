@@ -11653,12 +11653,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**ATHLETE: Learning Reactive Humanoid Tennis via Trajectory-Guided Motion Matching**|Junwei Liang Team|[2610.13572](http://arxiv.org/abs/2610.13572)|**[link](https://hazintihoa.github.io/athlete.github.io/#overview)**|
+|**2026-10-09**|**PATACON: GPU-Parallel Tangent-Bundle RRT-Connect for Constrained Motion Planning**|Suhan Park Team|[2610.13195](http://arxiv.org/abs/2610.13195)|null|
+|**2026-10-09**|**Adaptive Whole-Body MPC with Optimal Posture Planning for Humanoid Robots under Unknown Payloads**|Minh Nhat Vu Team|[2610.12972](http://arxiv.org/abs/2610.12972)|null|
+|**2026-10-08**|**PriMoRetarget: Humanoid Motion Transfer Through Prioritized Motion Retargeting**|Xue Bin Peng Team|[2610.12642](http://arxiv.org/abs/2610.12642)|null|
+|**2026-10-08**|**PanTact: Teaching Whole-Body Dexterity with a Wearable Contact Interface**|Guanya Shi Team|[2610.12558](http://arxiv.org/abs/2610.12558)|null|
 |**2026-10-08**|**Humanoid World Action Model With Joint State--Action Generation**|Hua Chen Team|[2610.12026](http://arxiv.org/abs/2610.12026)|null|
 |**2026-10-08**|**DAMP: Humanoid Locomotion via Denoised Belief Learning and Adversarial Motion Priors**|Guoteng Zhang Team|[2610.11505](http://arxiv.org/abs/2610.11505)|null|
 |**2026-10-08**|**Being-M0.7: A Latent World-Action Model for Humanoid Robots**|Zongqing Lu Team|[2610.11283](http://arxiv.org/abs/2610.11283)|null|
 |**2026-10-07**|**TAPNAV: Humanoid Navigation through Tactile Active Perception**|Ye Zhao Team|[2610.10748](http://arxiv.org/abs/2610.10748)|null|
 |**2026-10-07**|**HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion**|Farbod Farshidian Team|[2610.10489](http://arxiv.org/abs/2610.10489)|null|
-|**2026-10-06**|**Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data**|Koushil Sreenath Team|[2610.09117](http://arxiv.org/abs/2610.09117)|**[link](https://hsb0508.github.io/workhorse/)**|
+|**2026-10-08**|**Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data**|Koushil Sreenath Team|[2610.09117](http://arxiv.org/abs/2610.09117)|**[link](https://hybridrobotics.github.io/workhorse/)**|
 |**2026-10-06**|**PhoneBot: A Low-Cost Open Humanoid Robot Platform Reusing Smartphones**|Dennis W. Hong Team|[2610.08737](http://arxiv.org/abs/2610.08737)|null|
 |**2026-10-06**|**Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating**|Wei Pan Team|[2610.08320](http://arxiv.org/abs/2610.08320)|**[link](https://haozhuo-zhang.github.io/Humanoid-Horizon-project-page/)**|
 |**2026-10-06**|**iGPC: Generative Motion Priors for Object-Aware Humanoid Interaction**|Ivan Laptev Team|[2610.08120](http://arxiv.org/abs/2610.08120)|null|
@@ -11667,7 +11672,7 @@
 |**2026-10-05**|**R2RI: A Multi-View Event and RGB Dataset for Robot-to-Robot Interaction**|Lorenzo Seidenari Team|[2610.07117](http://arxiv.org/abs/2610.07117)|null|
 |**2026-10-05**|**BRACE: Adapting Whole-Body References for Force and Terrain Aware Humanoid Motion Tracking**|Jiuguang Wang Team|[2610.07052](http://arxiv.org/abs/2610.07052)|null|
 |**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Liang-Yan Gui Team|[2610.06850](http://arxiv.org/abs/2610.06850)|**[link](https://sirui-xu.github.io/InterMimicGen)**|
-|**2026-10-05**|**Talk, Render, Act: Integrating Social Gesture and Digital Face with Synchronized Speech for Conversational Humanoid Robot**|Shengcai Liao Team|[2610.06153](http://arxiv.org/abs/2610.06153)|null|
+|**2026-10-09**|**Talk, Render, Act: Integrating Social Gesture and Digital Face with Synchronized Speech for Conversational Humanoid Robot**|Shengcai Liao Team|[2610.06153](http://arxiv.org/abs/2610.06153)|null|
 |**2026-10-05**|**From Social Reasoning to Embodied Interaction: An Agentic Framework for Social Robots**|Jingya Wang Team|[2610.05964](http://arxiv.org/abs/2610.05964)|null|
 |**2026-10-05**|**DASH: A da Vinci Adapter for Serial-link and Humanoid Robots as an Accessible Platform for Surgical Robotics Research**|Michael C. Yip Team|[2610.05792](http://arxiv.org/abs/2610.05792)|null|
 |**2026-10-05**|**Virtual model control for compliant reaching under uncertainties**|Fulvio Forni Team|[2610.05695](http://arxiv.org/abs/2610.05695)|null|
@@ -12357,6 +12362,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Guangtao Zhai Team|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
+|**2026-10-09**|**Beyond Actions: Learning Future Operation Targets for Vision-Language-Action Models**|Xiaodan Liang Team|[2610.13212](http://arxiv.org/abs/2610.13212)|null|
+|**2026-10-09**|**Human2Dex: Dexterous Robot Learning from Wrist-Centric Human Demonstrations**|Shaqi Luo Team|[2610.13119](http://arxiv.org/abs/2610.13119)|**[link](https://human2dex.pages.dev/)**|
 |**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Seungjae Lee Team|[2610.12470](http://arxiv.org/abs/2610.12470)|**[link](https://dex-one2many.github.io/)**|
 |**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Byron Boots Team|[2610.12465](http://arxiv.org/abs/2610.12465)|**[link](https://sgs-rl.github.io/)**|
 |**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Eric Whitmire Team|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
