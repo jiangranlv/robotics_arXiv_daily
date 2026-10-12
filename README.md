@@ -86,7 +86,7 @@
 |**2026-10-06**|**BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation**|Stephen James Team|[2610.07594](http://arxiv.org/abs/2610.07594)|null|
 |**2026-10-05**|**Task-Space Imitation Guidance for Efficient Reinforcement Learning**|Mani Ranjbar Team|[2610.07527](http://arxiv.org/abs/2610.07527)|null|
 |**2026-10-05**|**SharedKV-BT: Node-Local Typed Decisions for Behavior-Tree Agents**|Justin Wagle Team|[2610.07327](http://arxiv.org/abs/2610.07327)|null|
-|**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**| BitRobot Team|[2610.07217](http://arxiv.org/abs/2610.07217)|null|
+|**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**|BitRobot Team|[2610.07217](http://arxiv.org/abs/2610.07217)|null|
 |**2026-10-05**|**Interleaved Projected Gradient Descent for Safe Imitation Learning**|Francesco Borrelli Team|[2610.07167](http://arxiv.org/abs/2610.07167)|null|
 |**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Liang-Yan Gui Team|[2610.06850](http://arxiv.org/abs/2610.06850)|**[link](https://sirui-xu.github.io/InterMimicGen)**|
 |**2026-10-05**|**Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation**|Xiangyu Zhu Team|[2610.06658](http://arxiv.org/abs/2610.06658)|**[link](https://bq-wang0511.github.io/TalkLikeYou/)**|
